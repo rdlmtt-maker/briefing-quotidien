@@ -1,7 +1,6 @@
 # Six Heures — procédure de l'édition quotidienne
 
-Site statique servi par Cloudflare (Workers static assets, `wrangler.jsonc` → `public/`).
-Chaque push sur `main` redéploie automatiquement.
+Site statique servi par Cloudflare (`wrangler.toml` → `public/`). Version autonome hors ligne via `scripts/build_standalone.py`.
 
 ## Chaque matin (date = aujourd'hui, Europe/Paris)
 1. Lire `data/history.md` (sujets déjà traités) et la dernière édition dans `public/editions/`.
@@ -20,3 +19,6 @@ Chaque push sur `main` redéploie automatiquement.
 5. Ajouter l'édition en tête de `public/editions/index.json` ({date, headline}).
 6. Ajouter les sujets à `data/history.md`.
 7. Valider le JSON (`python3 -m json.tool`), commit `Édition du AAAA-MM-JJ`, push sur `main`.
+8. Construire la version autonome : `python3 scripts/build_standalone.py /mnt/project-files/six-heures/six-heures-AAAA-MM-JJ.html` et la joindre au message de fin (lisible hors ligne, contient toutes les éditions).
+
+Note : le déploiement Cloudflare (`.github/workflows/deploy.yml`) est en déclenchement manuel tant que les identifiants Cloudflare ne sont pas valides.
