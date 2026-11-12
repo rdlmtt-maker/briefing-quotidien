@@ -333,7 +333,7 @@ function wantedDate(){
   const q = new URLSearchParams(location.search).get('d');
   return q || (location.hash.match(/\d{4}-\d{2}-\d{2}/)||[])[0] || null;
 }
-async function getJSON(u){ const r = await fetch(u, {cache:'no-cache'}); if(!r.ok) throw new Error(u); return r.json(); }
+async function getJSON(u){ if (window.__SH_DATA){ if (u in window.__SH_DATA) return window.__SH_DATA[u]; throw new Error(u); } const r = await fetch(u, {cache:'no-cache'}); if(!r.ok) throw new Error(u); return r.json(); }
 
 async function boot(){
   try { INDEX = await getJSON('editions/index.json'); } catch(e){ INDEX = []; }
