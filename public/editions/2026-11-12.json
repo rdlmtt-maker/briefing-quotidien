@@ -1,0 +1,356 @@
+{
+  "date": "2026-11-12",
+  "weekday": "jeudi",
+  "saint": "Saint Christian",
+  "headline": "Ormuz reste fermé, Washington change de majorité, Paris n'a toujours pas de budget.",
+  "chapters": [
+    {
+      "id": "monde",
+      "name": "Monde",
+      "minutes": 10,
+      "lede": [
+        "Neuvième mois de guerre avec l'Iran : Téhéran nie toute négociation et garde le détroit d'Ormuz fermé.",
+        "Ukraine : premier face-à-face à trois depuis février, à Abu Dhabi, sans percée politique.",
+        "Les démocrates reprennent le Congrès américain. À Wall Street, l'IA repart, mais l'inflation remet une hausse de taux de la Fed sur la table."
+      ],
+      "articles": [
+        {
+          "kicker": "Iran · Golfe",
+          "title": "Ormuz, le verrou que Téhéran refuse de lâcher",
+          "minutes": 3,
+          "chapo": "Donald Trump parle de « dynamique positive ». Téhéran répond que les pourparlers sont « un pur mensonge » et pose sept conditions.",
+          "body": [
+            "La guerre que mènent les États-Unis et Israël contre l'Iran entre dans son neuvième mois, et son centre de gravité n'est plus vraiment militaire : il est maritime. L'Iran a fermé le détroit d'Ormuz et répète qu'il restera fermé tant que ses conditions ne seront pas remplies. Le ministre des Affaires étrangères, Abbas Araghchi, affirme que le passage pourrait rouvrir « sous deux jours » si Washington cède.",
+            "Ces conditions sont au nombre de sept. Elles n'ont pas été publiées intégralement, mais trois sont connues : la levée des sanctions, la fin du blocus naval américain et l'arrêt des combats sur tous les fronts, en particulier des frappes israéliennes au Liban. Mohsen Rezaei, figure de l'appareil sécuritaire, juge la première réponse américaine « insuffisante et trompeuse ».",
+            "Côté américain, le ton s'est adouci. Trump a reçu le Premier ministre qatari lundi à la Maison-Blanche, le Qatar servant de médiateur, et estime que de nouvelles frappes ne sont pas nécessaires. À Paris, en marge du G7 des ministres des Affaires étrangères, Marco Rubio a déclaré que la « campagne économique » suffisait. Traduction : Washington mise sur l'étranglement financier plutôt que sur l'escalade.",
+            "Sur l'eau, la réalité est moins diplomatique. Les Gardiens de la révolution affirment que trois pétroliers ont pris feu mercredi après avoir heurté des mines sur une « route non autorisée ». L'agence britannique UKMTO a reçu des signalements pour deux navires. En octobre, au moins 37 navires ont été touchés dans le détroit et ses abords, record mensuel depuis le début du conflit.",
+            "Le marché, lui, parie sur la désescalade : le baril de WTI est retombé vers 86-87 dollars, contre plus de 100 avant les élections américaines du 3 novembre."
+          ],
+          "critique": "Les deux camps ont intérêt à mentir sur l'état des négociations. Washington exagère les progrès pour faire baisser le pétrole avant l'hiver. Téhéran nie pour ne pas paraître céder et garder Ormuz comme seul vrai levier. La seule donnée vérifiable, c'est le trafic maritime réel et le nombre de navires touchés, pas les déclarations.",
+          "sources": [
+            {"label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"},
+            {"label": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"}
+          ]
+        },
+        {
+          "kicker": "Ukraine · Russie",
+          "title": "Abu Dhabi : on échange des prisonniers, pas des territoires",
+          "minutes": 2,
+          "chapo": "Premières discussions à trois depuis février. Résultat concret : 157 détenus libérés de chaque côté.",
+          "body": [
+            "Américains, Ukrainiens et Russes se sont retrouvés à Abu Dhabi les 10 et 11 novembre. C'était leur premier format trilatéral depuis neuf mois, relancé après une rencontre entre l'émissaire Steve Witkoff et Vladimir Poutine à Saint-Pétersbourg en octobre. Côté russe, le Kremlin avait envoyé Kirill Dmitriev, l'homme des dossiers économiques.",
+            "Le bilan tangible : un échange de 157 prisonniers contre 157, militaires et civils, le premier de cette ampleur depuis près de cinq mois. Witkoff parle de discussions « précises et constructives ». Mais sur les trois sujets qui comptent, aucun rapprochement : le tracé territorial, le cessez-le-feu et les garanties de sécurité pour Kiev.",
+            "Un détail montre que la diplomatie américaine passe par des canaux inhabituels : une trêve locale à Oleshky, sur le front sud, a permis d'évacuer des habitants privés de nourriture et de médicaments. Elle a été annoncée par Melania Trump, que Zelensky a décorée. Les émissaires américains sont ensuite partis voir Poutine. Le prochain round pourrait se tenir aux États-Unis."
+          ],
+          "critique": "Un échange de prisonniers est la monnaie habituelle quand les négociations n'avancent pas : il coûte peu et permet de dire que « le dialogue continue ». La vraie variable est ailleurs. Avec un Congrès désormais démocrate, Washington pourrait réimposer des sanctions contre Moscou, ce qui change le rapport de force à la table.",
+          "sources": [
+            {"label": "The Statesman", "url": "https://www.thestatesman.com/world/russia-ukraine-talks-in-uae-ends-with-prisoner-exchange-wider-peace-remains-out-of-reach-1503552611.html"},
+            {"label": "Hürriyet Daily News", "url": "https://www.hurriyetdailynews.com/zelensky-says-spoke-to-us-envoys-ahead-of-russia-talks-229049"}
+          ]
+        },
+        {
+          "kicker": "États-Unis",
+          "title": "Midterms : le Congrès bascule, la présidence Trump se rétrécit",
+          "minutes": 2,
+          "chapo": "Les démocrates prennent la Chambre et le Sénat. Sept sièges de sénateurs changent de camp, dont le Texas.",
+          "body": [
+            "Le 3 novembre, les démocrates ont remporté la Chambre des représentants et, selon les décomptes, le Sénat, où les républicains détenaient une majorité de 53 sièges contre 47. Sept sièges ont basculé : Kansas, Iowa, Texas, Ohio, Maine, Caroline du Nord et Caroline du Sud. Au Texas, James Talarico bat Ken Paxton. Dans le Maine, Susan Collins, figure républicaine modérée, est battue.",
+            "Les politologues parlent de « désaveu » de la politique de Trump. Les causes citées sont la guerre avec l'Iran, le prix de l'essence, le coût de la vie et les méthodes de la police de l'immigration. Trump répond que son camp aurait gagné « dans un raz-de-marée » s'il avait été lui-même candidat.",
+            "Concrètement, un Congrès hostile peut bloquer les lois, ouvrir des commissions d'enquête, contraindre le budget, rétablir les sanctions contre la Russie suspendues par l'administration et durcir la ligne sur l'OTAN ou le Groenland. Il ne peut pas diriger la politique étrangère : c'est la prérogative du président."
+          ],
+          "critique": "Un vote contre Trump n'est pas un vote pour un programme démocrate, que même ses électeurs ont du mal à définir. L'histoire montre que le parti au pouvoir perd en moyenne une vingtaine de sièges aux midterms. L'ampleur est notable, pas le principe.",
+          "sources": [
+            {"label": "Northeastern Global News", "url": "https://news.northeastern.edu/2026/11/03/midterm-election-results-analysis-2026/"}
+          ]
+        },
+        {
+          "kicker": "Marchés · Tech",
+          "title": "L'IA repart, Nvidia vacille, la Fed menace",
+          "minutes": 3,
+          "chapo": "Mercredi, Wall Street a rebondi grâce aux résultats de CoreWeave. Mais une inflation plus forte que prévu installe l'hypothèse d'une hausse des taux le 9 décembre.",
+          "body": [
+            "Après une semaine de doutes sur la rentabilité de l'IA, la tech a rebondi. Le Nasdaq a pris 1,6 % et le S&P 500 1,3 %, à 2,6 % de son record d'octobre. Le déclencheur : CoreWeave, loueur de puissance de calcul GPU, a vu son chiffre d'affaires trimestriel bondir de 168 % à 3,7 milliards de dollars et a relevé ses prévisions annuelles à 13-13,3 milliards. L'action a pris plus de 20 % en séance. Détail qui compte : l'entreprise a perdu 709 millions de dollars sur le trimestre.",
+            "Apple a touché un record, avec une valorisation d'environ 5 160 milliards de dollars et une hausse de 31 % depuis janvier. Nvidia, en revanche, sort de deux séances qui ont effacé plus de 430 milliards de capitalisation. Le conseil d'administration a ouvert une enquête indépendante après des révélations du New York Times : selon le renseignement américain, une dirigeante liée à Megaspeed, société singapourienne soupçonnée de faire passer des puces vers la Chine, aurait transmis des informations à Pékin et entretenu une relation avec Jensen Huang. Pékin dément. Huang a reconnu une liaison. Il est convoqué le 18 novembre par la commission de la Chambre sur la Chine. Baird a dégradé le titre à « neutre ».",
+            "Le vrai sujet macro est ailleurs. L'inflation américaine d'octobre ressort à +0,4 % sur un mois, contre 0,3 % attendu. Le taux à 10 ans flirte avec 5 % et une hausse des taux de la Fed en décembre est désormais largement anticipée. L'or recule à environ 3 990 dollars l'once. Le bitcoin tient autour de 74 000 dollars, loin de ses sommets.",
+            "En Europe, le CAC 40 a fini mardi à 8 279 points (+0,55 %), aidé par la baisse du pétrole. Côté crypto, Binance fermera les comptes de ses clients français au 31 décembre, faute d'agrément européen MiCA. Des frais s'appliqueront dès le 29 novembre aux comptes encore approvisionnés."
+          ],
+          "critique": "CoreWeave illustre l'ambiguïté du cycle de l'IA : une croissance spectaculaire financée par la dette, avec des pertes qui se creusent. Ses clients sont aussi ses fournisseurs et ses actionnaires, Nvidia en tête. Quand un marché célèbre +168 % de chiffre d'affaires sans regarder la ligne du résultat, il faut se demander qui porte le risque.",
+          "sources": [
+            {"label": "AP / Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-211834867.html"},
+            {"label": "Khaleej Times", "url": "https://www.khaleejtimes.com/business/nvidia-shares-slide-as-board-probes-ceo-over-china-spy-reports-2"},
+            {"label": "Rekto News", "url": "https://rekto.substack.com/p/mercredi-11-novembre-2026"}
+          ]
+        },
+        {
+          "kicker": "En bref",
+          "title": "Ailleurs dans le monde",
+          "minutes": 1,
+          "chapo": "Trois signaux faibles à garder en tête.",
+          "body": [
+            "Chine : l'excédent commercial a franchi les 1 000 milliards de dollars dès octobre, un mois plus tôt qu'en 2025. Avec l'Union européenne, il atteint 311 milliards sur dix mois, en hausse de 29 %.",
+            "Dette des pays en développement : 9 400 milliards de dollars fin 2025 selon la Banque mondiale. Les pays les plus pauvres empruntent en moyenne à 8,2 %, un niveau inédit depuis la fin des années 1980.",
+            "COP31 : la conférence climat s'est ouverte lundi à Antalya, en Turquie, jusqu'au 20 novembre. La Turquie accueille et l'Australie mène les négociations. Les États-Unis, sortis de l'accord de Paris, n'ont pas envoyé de délégation officielle. La Turquie propose de porter la part de l'électricité dans la demande mondiale d'énergie d'environ 20 % à 35 % d'ici 2035.",
+            "Colombie : le président Abelardo De la Espriella promet « la tombe ou la prison » aux trafiquants. Le prix Nobel de la paix Juan Manuel Santos l'accuse d'exhiber des cadavres « avec fierté »."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Rekto News", "url": "https://rekto.substack.com/p/mercredi-11-novembre-2026"},
+            {"label": "EWN", "url": "https://www.ewn.co.za/2026/11/09/cop31-opens-as-climate-and-geopolitical-pressures-mount"}
+          ]
+        }
+      ],
+      "board": [
+        {"label": "S&P 500", "value": "7 619", "change": 1.31},
+        {"label": "Nasdaq", "value": "25 466", "change": 1.60},
+        {"label": "Dow Jones", "value": "52 486", "change": 0.49},
+        {"label": "CAC 40 (mar.)", "value": "8 279", "change": 0.55},
+        {"label": "Bitcoin", "value": "74 041 $", "change": 0.63},
+        {"label": "Or (once)", "value": "3 994 $", "change": -0.89},
+        {"label": "WTI (baril)", "value": "86,4 $", "change": 0.44},
+        {"label": "VIX", "value": "17,5", "change": -10.12}
+      ],
+      "boardNote": "Clôtures du mercredi 11 novembre (CAC : mardi 10). Taux US à 10 ans ≈ 5,0 %. EUR/USD ≈ 1,116.",
+      "estimate": {
+        "question": "Avant la guerre, quelle part de la consommation mondiale de pétrole traversait chaque jour le détroit d'Ormuz ?",
+        "min": 0, "max": 50, "step": 1, "unit": "%",
+        "answer": 20,
+        "explain": "Environ 20 %, soit autour de 20 millions de barils par jour selon l'agence américaine EIA. S'y ajoute près d'un cinquième du commerce mondial de GNL, surtout qatari. Aucun oléoduc de contournement ne peut absorber plus d'une fraction de ce flux."
+      },
+      "flashcards": [
+        {"front": "Détroit d'Ormuz", "back": "Il relie le golfe Persique au golfe d'Oman, entre l'Iran et l'Oman (péninsule de Musandam). Environ 33 km au plus étroit, avec deux chenaux de navigation de 2 milles nautiques chacun."},
+        {"front": "Midterms", "back": "Élections de mi-mandat aux États-Unis : toute la Chambre (435 sièges, mandat de 2 ans) et un tiers du Sénat (mandat de 6 ans) sont renouvelés."},
+        {"front": "MiCA", "back": "Markets in Crypto-Assets : règlement européen qui impose un agrément aux prestataires crypto. Sans agrément, pas de service aux clients de l'UE."},
+        {"front": "Neocloud", "back": "Fournisseur spécialisé dans la location de GPU pour l'IA (CoreWeave, Nebius…), par opposition aux hyperscalers généralistes (AWS, Azure, Google Cloud)."},
+        {"front": "VIX", "back": "« Indice de la peur » : volatilité implicite à 30 jours du S&P 500, tirée du prix des options. Au-dessus de 30, panique. Sous 15, calme."},
+        {"front": "Inflation « core »", "back": "Inflation hors énergie et alimentation, plus volatiles. C'est l'indicateur que la Fed surveille pour juger de la tendance de fond."}
+      ],
+      "quiz": [
+        {"q": "Quel pays sert de principal médiateur entre Washington et Téhéran ?", "choices": ["Oman", "Qatar", "Turquie", "Suisse"], "answer": 1, "explain": "Le Premier ministre qatari a été reçu lundi à la Maison-Blanche. Oman a joué ce rôle par le passé, mais c'est Doha qui est en première ligne aujourd'hui."},
+        {"q": "Combien de prisonniers chaque camp a-t-il libérés après Abu Dhabi ?", "choices": ["57", "157", "390", "1 000"], "answer": 1, "explain": "157 contre 157, militaires et civils : le premier échange d'ampleur depuis près de cinq mois."},
+        {"q": "Pourquoi CoreWeave a-t-il fait bondir le Nasdaq ?", "choices": ["Rachat par Nvidia", "Chiffre d'affaires +168 % et prévisions relevées", "Premier bénéfice", "Entrée dans le Dow Jones"], "answer": 1, "explain": "Chiffre d'affaires de 3,7 Md$ (+168 %), mais avec une perte nette de 709 M$. Pas de bénéfice."},
+        {"q": "Quelle sénatrice républicaine historique a été battue dans le Maine ?", "choices": ["Lisa Murkowski", "Susan Collins", "Joni Ernst", "Shelley Moore Capito"], "answer": 1, "explain": "Susan Collins, battue par le démocrate Troy Jackson."},
+        {"q": "Une inflation plus forte que prévu rend une hausse des taux de la Fed…", "choices": ["Moins probable", "Plus probable", "Sans effet", "Illégale avant janvier"], "answer": 1, "explain": "La Fed relève ses taux pour freiner la demande. +0,4 % sur un mois contre 0,3 % attendu : le marché anticipe une hausse le 9 décembre."}
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "minutes": 10,
+      "lede": [
+        "Budget 2027 : rejeté à l'unanimité à l'Assemblée. Le gouvernement Lecornu pourrait l'adopter par ordonnance, une première.",
+        "Dernier 11-Novembre de Macron. Les candidats de 2027 en ont fait une tribune.",
+        "Le mouvement lycéen entre dans son troisième mois et a gagné les universités."
+      ],
+      "articles": [
+        {
+          "kicker": "Parlement · Finances",
+          "title": "Le budget 2027, ou l'art de gouverner sans majorité",
+          "minutes": 4,
+          "chapo": "458 voix contre, zéro pour. Le volet recettes du budget de l'État a été rejeté le 4 novembre. Le gouvernement a quatre portes de sortie, toutes risquées.",
+          "body": [
+            "Le 4 novembre, les députés ont rejeté la première partie du projet de loi de finances (PLF) 2027, celle des recettes, par 458 voix contre et aucune pour. Le 23 octobre, ils avaient déjà rejeté le volet recettes du budget de la Sécurité sociale (PLFSS) par 115 voix contre 1. Ce paradoxe s'explique : chaque groupe avait tellement amendé le texte qu'à la fin, personne ne voulait de la version obtenue, y compris le camp gouvernemental.",
+            "Conséquence mécanique : quand la première partie d'un budget est rejetée, le texte est transmis au Sénat dans sa version initiale, sans les amendements votés par les députés. Le Sénat examine le PLFSS jusqu'au 18 novembre, puis le PLF du 20 novembre au 9 décembre. Une commission mixte paritaire (7 députés, 7 sénateurs) tentera ensuite un compromis. Personne n'y croit vraiment.",
+            "Le gouvernement de Sébastien Lecornu a quatre options. Première option : négocier un pacte de non-censure avec un groupe, comme avec les socialistes pour le budget 2026, puis passer en force avec l'article 49.3. Deuxième option, inédite : laisser filer le temps. L'article 47 de la Constitution prévoit que si le Parlement ne s'est pas prononcé dans les délais (50 jours pour le PLFSS, 70 jours pour le PLF), le gouvernement peut mettre le budget en vigueur par ordonnance. Les dates butoirs sont le 26 novembre pour le PLFSS et le 17 décembre pour le PLF. Troisième option : une loi spéciale qui reconduit le budget 2026 jusqu'après la présidentielle. Quatrième option, par défaut : une censure qui fait tomber le gouvernement.",
+            "L'option des ordonnances a un avantage pour l'exécutif : même si le gouvernement est ensuite censuré, le budget reste en vigueur. C'est aussi pour cela qu'elle est politiquement explosive. Elle reviendrait à faire adopter le budget de la nation sans aucun vote, à cinq mois d'une présidentielle."
+          ],
+          "critique": "L'unanimité contre le texte ne traduit pas un consensus, mais l'inverse : chaque camp a voté contre une version différente. Le vrai problème est structurel. Sans majorité depuis 2022, chaque budget devient un exercice de survie. Et plus l'échéance de 2027 approche, moins aucun parti n'a intérêt à endosser des économies impopulaires.",
+          "sources": [
+            {"label": "LCP", "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753"},
+            {"label": "franceinfo", "url": "https://www.franceinfo.fr/economie/budget/l-assemblee-nationale-rejette-a-l-unanimite-le-budget-de-l-etat-2027-en-premiere-lecture_8268527.html"}
+          ]
+        },
+        {
+          "kicker": "Mémoire · Campagne",
+          "title": "Un 11-Novembre en campagne présidentielle",
+          "minutes": 3,
+          "chapo": "Emmanuel Macron a présidé sa dixième et dernière cérémonie de l'Armistice. Ses successeurs potentiels étaient ailleurs, et c'était voulu.",
+          "body": [
+            "Pour le 108e anniversaire de l'Armistice, Emmanuel Macron a déposé une gerbe au pied de la statue de Clemenceau, passé les troupes en revue et ravivé la flamme du Soldat inconnu. Sébastien Lecornu était à ses côtés, puis à Vernon (Eure). Le président a parlé de son « immense fierté » après dix ans de mandat. La nouveauté de l'année, une cérémonie annuelle dans les écoles, a été dénoncée par des syndicats enseignants qui craignent une « militarisation », en plein mouvement lycéen.",
+            "À cinq mois du premier tour (18 avril 2027, second tour le 2 mai), chaque candidat a choisi son décor. Marine Le Pen, favorite des sondages, était à Hénin-Beaumont et a appelé à « l'unité ». Sa candidature reste suspendue à la Cour de cassation : en juillet, la cour d'appel a confirmé sa condamnation dans l'affaire des assistants parlementaires, mais a ramené l'inéligibilité à 45 mois, dont 30 avec sursis, ce qui lui ouvre la voie. Décision attendue au plus tard début janvier.",
+            "Édouard Philippe a salué une France « éternelle, diverse, puissante, fière ». Jean-Luc Mélenchon a choisi le monument aux morts pacifiste de Gentioux, dans la Creuse. Il y a défendu un pacifisme « pas naïf » et proposé, en cas de concessions territoriales en Ukraine, un référendum de la population du Donbass. Les projections évoquent au moins 17 candidats, ce qui serait un record sous la Ve République."
+          ],
+          "critique": "La proposition de référendum dans le Donbass mérite d'être examinée froidement. Un scrutin organisé dans un territoire occupé, après des déplacements massifs de population, reproduit le schéma des « référendums » russes de 2014 et 2022. Le pacifisme est une position légitime. La méthode proposée pose, elle, une vraie question de faisabilité démocratique.",
+          "sources": [
+            {"label": "Boursorama / AFP", "url": "https://www.boursorama.com/actualite-economique/actualites/dernier-11-novembre-pour-macron-le-pen-appelle-a-l-unite-melenchon-a-se-souvenir-de-l-histoire-65e74764c94d0623dd3931bc3b45a8f5"},
+            {"label": "Wikipédia", "url": "https://en.wikipedia.org/wiki/2027_French_presidential_election"}
+          ]
+        },
+        {
+          "kicker": "Société · Éducation",
+          "title": "Lycées bloqués : la colère qui ne retombe pas",
+          "minutes": 2,
+          "chapo": "Né fin septembre, le mouvement lycéen a rassemblé plus de 250 000 manifestants et gagne désormais les universités.",
+          "body": [
+            "Le mouvement est parti de revendications concrètes : professeurs non remplacés, bâtiments vétustes, classes surchargées, emplois du temps intenables. Il n'y a pas eu de déclencheur unique, plutôt une accumulation, selon le syndicat des chefs d'établissement. Le 6 octobre, plus de 250 000 personnes ont manifesté. Fin septembre, on comptait déjà 625 interpellations et 119 blessés.",
+            "Le ministre de l'Éducation nationale, Édouard Geffray, a répondu par une plateforme de concertation et la réunion des instances lycéennes. Les syndicats sont partagés : « première réponse » pour le SE-Unsa, mesures « hors-sol » pour le SNETAA-FO. Le ministre de l'Intérieur, Laurent Nuñez, dénonce des « violences urbaines » en marge des blocus, sur fond de bras de fer avec LFI. Début novembre, des universités ont rejoint le mouvement avant un appel à la grève le 10 novembre."
+          ],
+          "critique": "Deux récits s'affrontent : un ras-le-bol légitime sur les conditions d'étude, et des débordements violents. Les deux sont vrais en même temps. Réduire le mouvement à l'un ou à l'autre est un choix politique, pas un constat.",
+          "sources": [
+            {"label": "L'Étudiant", "url": "https://www.letudiant.fr/lycee/mobilisation-lyceenne-les-syndicats-partages-face-aux-reponses-du-ministere.html"},
+            {"label": "Euronews", "url": "https://fr.euronews.com/2026/09/30/blocage-des-lycees-625-interpellations-et-119-blesses-depuis-le-debut-de-la-contestation"}
+          ]
+        },
+        {
+          "kicker": "Économie · Entreprises",
+          "title": "Ce qui bouge dans l'économie française",
+          "minutes": 1,
+          "chapo": "Banques, voitures, IA, autoroutes : le tour rapide.",
+          "body": [
+            "Société Générale va fermer 148 sites, dont 40 agences, à partir de 2027, soit environ 8 % de son réseau, sans licenciement annoncé. Le guichet physique continue de reculer.",
+            "Renault confirme une marge opérationnelle d'au moins 5,5 % en 2026. Jefferies passe à l'achat et mise sur ses modèles électriques et sa faible exposition à la Chine.",
+            "Mistral AI, valorisée 25 milliards de dollars, rachète SkipLabs, sa cinquième acquisition en moins d'un an, pour concurrencer les assistants de code américains.",
+            "L'A69 Toulouse-Castres est ouverte, avec un aller-retour à 20,40 €, l'un des péages les plus chers de France au kilomètre.",
+            "La taxe européenne de 3 € sur les petits colis fait effet : l'audience de Shein recule de 34,6 % et celle de Temu de 28,3 % au troisième trimestre."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Rekto News", "url": "https://rekto.substack.com/p/mercredi-11-novembre-2026"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Combien de jours la Constitution donne-t-elle au Parlement pour voter le budget de l'État avant que le gouvernement puisse passer par ordonnance ?",
+        "min": 10, "max": 120, "step": 5, "unit": " jours",
+        "answer": 70,
+        "explain": "70 jours (article 47). Pour la Sécurité sociale, c'est 50 jours (article 47-1). Ce mécanisme n'a jamais été utilisé depuis 1958."
+      },
+      "flashcards": [
+        {"front": "Article 49.3", "back": "Le gouvernement engage sa responsabilité sur un texte, qui est adopté sans vote sauf si une motion de censure est votée dans les 24 h (majorité absolue : 289 députés)."},
+        {"front": "Article 47", "back": "Délai de 70 jours pour le budget de l'État. Faute de vote dans ce délai, le budget peut être mis en vigueur par ordonnance."},
+        {"front": "PLF / PLFSS", "back": "Projet de loi de finances (budget de l'État) / Projet de loi de financement de la Sécurité sociale. Deux textes distincts, votés chaque automne."},
+        {"front": "CMP", "back": "Commission mixte paritaire : 7 députés et 7 sénateurs cherchent un texte commun quand les deux chambres divergent."},
+        {"front": "Inéligibilité avec exécution provisoire", "back": "La peine s'applique dès le jugement, même en cas d'appel. C'est ce qui menaçait la candidature de Marine Le Pen en 2025."},
+        {"front": "Présidentielle 2027", "back": "Premier tour le 18 avril, second tour le 2 mai 2027. Macron ne peut pas se représenter : deux mandats consécutifs maximum depuis 2008."}
+      ],
+      "quiz": [
+        {"q": "Par combien de voix le volet recettes du PLF 2027 a-t-il été rejeté ?", "choices": ["289 contre 288", "458 contre 0", "115 contre 1", "320 contre 150"], "answer": 1, "explain": "458 contre, 0 pour. Le 115 contre 1 concernait le budget de la Sécurité sociale, le 23 octobre."},
+        {"q": "Que se passe-t-il quand la première partie du PLF est rejetée à l'Assemblée ?", "choices": ["Le gouvernement tombe", "Le texte part au Sénat dans sa version initiale", "Le budget 2026 est reconduit", "Le Conseil constitutionnel tranche"], "answer": 1, "explain": "Les amendements des députés disparaissent. Le Sénat repart du texte du gouvernement."},
+        {"q": "Où Jean-Luc Mélenchon a-t-il commémoré l'Armistice ?", "choices": ["Verdun", "Gentioux (Creuse)", "Hénin-Beaumont", "Rethondes"], "answer": 1, "explain": "Son monument aux morts pacifiste, avec un enfant qui montre le poing et l'inscription « Maudite soit la guerre », est un lieu symbolique pour la gauche."},
+        {"q": "Qui est ministre de l'Éducation nationale face au mouvement lycéen ?", "choices": ["Élisabeth Borne", "Édouard Geffray", "Laurent Nuñez", "Gabriel Attal"], "answer": 1, "explain": "Édouard Geffray, ancien directeur général de l'enseignement scolaire. Laurent Nuñez est à l'Intérieur."},
+        {"q": "Quelle mesure explique le recul de Shein et Temu en Europe ?", "choices": ["Interdiction de vente", "Taxe de 3 € par petit colis", "Droits de douane de 25 %", "Boycott des transporteurs"], "answer": 1, "explain": "La taxe européenne de 3 € sur les colis de faible valeur rogne l'avantage prix de l'ultra-fast-fashion."}
+      ]
+    },
+    {
+      "id": "savoirs",
+      "name": "Savoirs",
+      "minutes": 10,
+      "lede": [
+        "Ingénierie : pourquoi un détroit de 33 km peut faire trembler l'économie mondiale.",
+        "Énergie et IA : ce que coûte vraiment un data center, et pourquoi on veut électrifier le monde.",
+        "Maths de la santé publique, mécanique de la dette, et l'origine du mot « chapelle »."
+      ],
+      "articles": [
+        {
+          "kicker": "Géographie · Ingénierie",
+          "title": "Anatomie d'un goulot : comment on bloque Ormuz",
+          "minutes": 2,
+          "chapo": "On ne ferme pas un détroit avec un mur. On le ferme avec de l'incertitude.",
+          "body": [
+            "Au plus étroit, le détroit d'Ormuz mesure environ 33 km. Mais les grands pétroliers ne peuvent pas passer n'importe où : ils empruntent un dispositif de séparation du trafic, avec deux chenaux de 2 milles nautiques (3,7 km), un pour l'entrée et un pour la sortie, séparés par une zone tampon. C'est donc une bande d'eau de quelques kilomètres, en partie dans les eaux territoriales omanaises et iraniennes, qui fait transiter environ un cinquième du pétrole consommé dans le monde.",
+            "Pour la bloquer, pas besoin de couler tous les navires. Les mines marines suffisent, car leur menace se mesure en probabilité. Un armateur raisonne en espérance de perte : si le risque de toucher une mine dépasse quelques pourcents, l'assurance « risque de guerre » explose et le navire reste à quai. Le déminage est lent : un chasseur de mines inspecte le fond mètre par mètre au sonar, puis neutralise chaque engin avec un robot sous-marin. Couvrir un chenal entier prend des semaines.",
+            "Les alternatives terrestres existent mais restent limitées : l'oléoduc saoudien Est-Ouest vers la mer Rouge et l'oléoduc émirien vers Fujaïrah. Ensemble, ils ne peuvent dériver qu'une fraction du flux normal. Le Qatar, lui, n'a aucune alternative pour son GNL."
+          ],
+          "critique": "Leçon d'ingénieur : la robustesse d'un système se mesure à son point de défaillance unique. L'économie mondiale de l'énergie en a un, et il fait 33 km de large.",
+          "sources": [
+            {"label": "EIA – World Oil Transit Chokepoints", "url": "https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints"}
+          ]
+        },
+        {
+          "kicker": "Énergie",
+          "title": "Électrifier le monde : pourquoi 35 % change tout",
+          "minutes": 2,
+          "chapo": "À la COP31, la Turquie propose de faire passer l'électricité de 20 % à 35 % de l'énergie finale d'ici 2035. Derrière ce chiffre, il y a de la thermodynamique.",
+          "body": [
+            "L'électricité ne représente qu'environ 20 % de l'énergie finale consommée dans le monde. Le reste, ce sont des combustibles brûlés directement : essence, gaz pour se chauffer, charbon dans l'industrie. Électrifier ne sert pas seulement à décarboner : c'est surtout un gain de rendement.",
+            "Un moteur thermique convertit environ 25 à 35 % de l'énergie du carburant en mouvement, le reste part en chaleur. Une chaîne électrique, de la batterie aux roues, dépasse 85 %. Une pompe à chaleur avec un coefficient de performance de 3 fournit 3 kWh de chaleur pour 1 kWh d'électricité, parce qu'elle déplace de la chaleur au lieu de la produire. Résultat : électrifier fait baisser la demande totale d'énergie primaire, à service égal.",
+            "Le piège est dans la source. Si l'électricité vient du charbon (rendement de centrale d'environ 35 à 40 %), le gain s'érode. C'est pour cela que l'UE veut que l'électrification soit « propre ». Le débat sur les énergies fossiles se loge dans ce seul adjectif."
+          ],
+          "critique": "« Énergie primaire » et « énergie finale » sont deux comptabilités différentes. Une statistique qui les mélange peut faire dire n'importe quoi à la part des renouvelables. Toujours demander : en quelle énergie ?",
+          "sources": [
+            {"label": "EWN – COP31", "url": "https://www.ewn.co.za/2026/11/09/cop31-opens-as-climate-and-geopolitical-pressures-mount"}
+          ]
+        },
+        {
+          "kicker": "IA · Infrastructures",
+          "title": "Le vrai prix d'un token",
+          "minutes": 2,
+          "chapo": "Derrière l'envolée de CoreWeave, une industrie lourde : béton, cuivre, refroidissement et mégawatts.",
+          "body": [
+            "Un modèle d'IA consomme de l'énergie à deux moments. L'entraînement mobilise des dizaines de milliers de GPU pendant des semaines, une fois. L'inférence, c'est chaque réponse générée : elle coûte peu par requête, mais se répète des milliards de fois. C'est elle qui pèse désormais le plus et qui justifie la course aux data centers.",
+            "Selon l'Agence internationale de l'énergie, les data centers ont consommé environ 415 TWh en 2024, soit à peu près 1,5 % de l'électricité mondiale, ou presque la consommation de la France. L'AIE projette un doublement d'ici 2030. Un rack de GPU récents dépasse 100 kW, contre 10 à 15 kW pour un rack de serveurs classique. À cette densité, l'air ne suffit plus : il faut refroidir les puces par liquide, directement au contact.",
+            "Le modèle économique des neoclouds comme CoreWeave consiste à emprunter pour acheter des GPU, puis à les louer avec des contrats pluriannuels. Le pari repose sur la durée de vie économique des puces : si une nouvelle génération rend les anciennes obsolètes en trois ans au lieu de six, l'amortissement ne tient plus."
+          ],
+          "critique": "Quand on lit « l'IA consomme autant qu'un pays », il faut vérifier si l'on parle d'électricité ou d'énergie, du monde ou des États-Unis, de 2024 ou d'une projection. Les ordres de grandeur sont réels, mais rarement comparés à ce que l'IA remplace.",
+          "sources": [
+            {"label": "AIE – Energy and AI", "url": "https://www.iea.org/reports/energy-and-ai"}
+          ]
+        },
+        {
+          "kicker": "Mathématiques · Santé",
+          "title": "Rougeole : le calcul qui explique 5 000 cas",
+          "minutes": 1,
+          "chapo": "Les États-Unis dépassent 5 000 cas de rougeole en 2026, un record depuis 35 ans. Une formule d'une ligne l'explique.",
+          "body": [
+            "Le nombre de reproduction de base, R₀, est le nombre moyen de personnes qu'un malade contamine dans une population sans aucune immunité. Pour la rougeole, il est de 12 à 18, ce qui en fait l'un des virus les plus contagieux connus. Pour que l'épidémie s'éteigne, il faut que chaque malade contamine en moyenne moins d'une personne. Il faut donc qu'une fraction p de la population soit immunisée, avec p > 1 − 1/R₀.",
+            "Avec R₀ = 15, on obtient p > 93 %. C'est pour cela que quelques points de couverture vaccinale perdus suffisent à rouvrir la porte : la marge de sécurité est minuscule. Pour la grippe (R₀ ≈ 1,5), le seuil n'est que de 33 %."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Rekto News", "url": "https://rekto.substack.com/p/mercredi-11-novembre-2026"}
+          ]
+        },
+        {
+          "kicker": "Économie",
+          "title": "La dette, une affaire de r et de g",
+          "minutes": 1,
+          "chapo": "Pourquoi un taux qui monte inquiète autant Paris que Washington.",
+          "body": [
+            "La dynamique d'une dette publique, en pourcentage du PIB, tient en une relation : la dette grossit d'elle-même si le taux d'intérêt moyen payé (r) dépasse la croissance nominale de l'économie (g), sauf si l'État dégage un excédent primaire, c'est-à-dire un budget en excédent avant paiement des intérêts. Tant que r < g, on peut stabiliser la dette même avec un léger déficit. Quand r > g, il faut un excédent primaire juste pour faire du surplace.",
+            "Avec un taux américain à 10 ans proche de 5 % et des pays pauvres qui empruntent à 8,2 %, beaucoup d'États basculent du côté r > g. C'est l'argument de la tribune de Grandjean et Jérémie dans Le Monde : une hausse des taux renchérit aussi le financement de la transition énergétique, très intensive en capital."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Presse Évasion (revue)", "url": "https://www.presse-evasion.fr/article/revue-presse-11-11-2026"}
+          ]
+        },
+        {
+          "kicker": "Histoire · Langue · Sport",
+          "title": "Trois curiosités pour la route",
+          "minutes": 2,
+          "chapo": "Un manteau coupé en deux, une signature à 5 h 15, et une course au large.",
+          "body": [
+            "Le 11 novembre est aussi la Saint-Martin. Martin de Tours, soldat romain, aurait coupé son manteau en deux pour un mendiant. La moitié conservée, la cappa, devient une relique gardée par des « chapelains » dans une « chapelle ». C'est l'origine des deux mots.",
+            "L'Armistice a été signé vers 5 h 15 du matin dans un wagon, à Rethondes, en forêt de Compiègne, et il est entré en vigueur à 11 h. Des soldats sont morts dans ces six heures. La France compte environ 1,4 million de militaires tués. Le Soldat inconnu a été inhumé sous l'Arc de Triomphe en janvier 1921, et la flamme brûle depuis le 11 novembre 1923.",
+            "Route du Rhum : la transatlantique en solitaire relie Saint-Malo à Pointe-à-Pitre, soit environ 3 540 milles nautiques. Le record date de 2022 : Charles Caudrelier, en trimaran Ultim, l'a bouclée en un peu moins de 7 jours. Cette édition embarque aussi une expérience : quatre IA testées en navigation autonome, sans intervention humaine."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Presse Évasion (BFM Business)", "url": "https://www.presse-evasion.fr/article/revue-presse-11-11-2026"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Avec un R₀ de 15 pour la rougeole, quelle part minimale de la population doit être immunisée pour bloquer l'épidémie ?",
+        "min": 50, "max": 100, "step": 1, "unit": "%",
+        "answer": 93,
+        "explain": "1 − 1/15 ≈ 0,933, soit environ 93 %. En pratique, on vise 95 % avec deux doses, parce que le vaccin n'est pas efficace à 100 %."
+      },
+      "flashcards": [
+        {"front": "COP d'une pompe à chaleur", "back": "Coefficient de performance : chaleur fournie ÷ électricité consommée. Un COP de 3 signifie 3 kWh de chaleur pour 1 kWh d'électricité. Il baisse quand il fait plus froid dehors."},
+        {"front": "Énergie primaire vs finale", "back": "Primaire : la ressource brute (pétrole, uranium, vent). Finale : ce qui arrive chez l'utilisateur (électricité, carburant). La différence, ce sont les pertes de conversion et de transport."},
+        {"front": "R₀", "back": "Nombre de reproduction de base. Seuil d'immunité collective : 1 − 1/R₀."},
+        {"front": "Inférence (IA)", "back": "Utilisation d'un modèle déjà entraîné pour produire une réponse. Coût unitaire faible, mais volume colossal."},
+        {"front": "Excédent primaire", "back": "Solde budgétaire positif hors charge d'intérêts de la dette. Nécessaire pour stabiliser la dette quand r > g."},
+        {"front": "Chapelle", "back": "Du latin cappa (manteau) : le lieu où l'on gardait la moitié du manteau de saint Martin."},
+        {"front": "Rethondes", "back": "Clairière de la forêt de Compiègne où sont signés l'armistice de 1918 et, par revanche voulue par Hitler, celui de juin 1940, dans le même wagon."}
+      ],
+      "quiz": [
+        {"q": "Quel rendement typique a une chaîne de traction électrique, de la batterie aux roues ?", "choices": ["≈ 30 %", "≈ 50 %", "≈ 85-90 %", "≈ 99 %"], "answer": 2, "explain": "Plus de 85 %, contre 25 à 35 % pour un moteur thermique."},
+        {"q": "Pour un virus avec R₀ = 4, quel est le seuil d'immunité collective ?", "choices": ["25 %", "50 %", "75 %", "96 %"], "answer": 2, "explain": "1 − 1/4 = 0,75."},
+        {"q": "Data centers en 2024 : quelle part de l'électricité mondiale selon l'AIE ?", "choices": ["≈ 0,1 %", "≈ 1,5 %", "≈ 8 %", "≈ 15 %"], "answer": 1, "explain": "Environ 415 TWh, soit 1,5 %, avec un doublement projeté d'ici 2030."},
+        {"q": "Si r > g et que l'État est à l'équilibre primaire, la dette en % du PIB…", "choices": ["Baisse", "Reste stable", "Augmente", "Dépend de l'inflation seulement"], "answer": 2, "explain": "Les intérêts font grossir la dette plus vite que le PIB."},
+        {"q": "À quelle heure l'armistice de 1918 est-il entré en vigueur ?", "choices": ["5 h 15", "11 h", "Midi", "Minuit"], "answer": 1, "explain": "Signé vers 5 h 15, appliqué à 11 h : « la onzième heure du onzième jour du onzième mois »."}
+      ]
+    }
+  ]
+}
