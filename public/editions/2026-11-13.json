@@ -1,0 +1,388 @@
+{
+  "date": "2026-11-13",
+  "weekday": "vendredi",
+  "saint": "Saint Brice",
+  "headline": "Nvidia perd son fondateur, Trump dit ne plus avoir besoin d'un accord avec l'Iran, et le Smic reçoit son premier coup de pouce depuis 2012.",
+  "chapters": [
+    {
+      "id": "monde",
+      "name": "Monde",
+      "minutes": 10,
+      "lede": [
+        "Jensen Huang quitte Nvidia avec effet immédiat après 33 ans à sa tête. L'action a perdu jusqu'à 14 % en séance avant de limiter la casse.",
+        "Trump affirme que Washington n'a plus besoin d'accord avec l'Iran. À Téhéran, l'Assemblée des experts juge « inévitable » d'étudier une sortie du traité de non-prolifération.",
+        "Les émissaires américains sont à Moscou après Abu Dhabi, pendant que des drones ukrainiens frappent la plus grande raffinerie russe, à 2 500 km du front."
+      ],
+      "articles": [
+        {
+          "kicker": "Iran · Golfe",
+          "title": "Trump ferme la porte, Téhéran agite le TNP",
+          "minutes": 3,
+          "chapo": "Le président américain dit ne plus avoir besoin d'un accord. L'Assemblée des experts iranienne réclame d'examiner une sortie du traité de non-prolifération. Le Brent bondit de 3,3 %.",
+          "body": [
+            "Il y a une semaine, Washington parlait de « dynamique positive » et le Qatar faisait passer les messages. Jeudi 12 novembre, Donald Trump a changé de ton : les États-Unis n'ont, selon lui, plus besoin d'un accord avec l'Iran. Il a demandé au vice-président J. D. Vance de se concentrer sur les priorités intérieures et revendique le contrôle d'une part importante des avoirs financiers iraniens ainsi qu'un avantage décisif dans le détroit d'Ormuz. La Maison-Blanche assure être « en position de force » et annonce que le blocus naval et les opérations « Economic Outcast » et « Iron Gate » continuent « à plein effet ».",
+            "La réponse iranienne est venue le même jour, et sur un terrain plus inquiétant. L'Assemblée des experts, l'organe de 88 religieux chargé de désigner et de superviser le Guide suprême, a publié une déclaration jugeant « nécessité inévitable » d'examiner un retrait du traité de non-prolifération nucléaire (TNP) et de revoir la doctrine de défense du pays, « sous la direction du Guide ». Elle met aussi en garde contre toute concession aux États-Unis.",
+            "Il faut lire ce texte pour ce qu'il est : un signal politique, pas une décision. L'Assemblée n'a aucun pouvoir pour faire sortir l'Iran du traité, et le ministère des Affaires étrangères continue d'affirmer l'adhésion du pays. Mais c'est la première fois qu'une institution de ce rang place la sortie du TNP au rang de nécessité. Le contexte rend le signal crédible : l'AIEA n'a mené quasiment aucune vérification en Iran depuis le début de la guerre, fin février.",
+            "Sur le terrain diplomatique, Téhéran durcit aussi. Le président du Parlement, Mohammad Bagher Ghalibaf, présenté comme le négociateur en chef, répète que le détroit « ne reviendra jamais à son statut d'avant-guerre » et refuse une situation indéfinie de « ni guerre ni paix ». Mohsen Rezaei, secrétaire du Conseil suprême de sécurité nationale, exclut tout transfert d'uranium enrichi à l'étranger, y compris vers la Russie, et menace de frapper des bases américaines, jusqu'en Europe, en cas de nouvelles attaques. Jeudi, l'Iran a ajouté à ses conditions une compensation pour les dommages environnementaux causés par les frappes.",
+            "Sur l'eau, la fermeture reste quasi totale. Le FMI (PortWatch) a compté trois passages le 8 novembre, contre 85 par jour avant la crise. Les Gardiens de la révolution affirment que deux superpétroliers transportant plus de 4 millions de barils ont été mis hors service après avoir emprunté une « route non autorisée », ce qu'aucune source indépendante ne confirme. MarineLink rapporte en revanche un pétrolier touché par un projectile à 14 milles au nord-ouest de Ras al-Khaïmah, avec un incendie en salle des machines et ses 22 marins sains et saufs.",
+            "Côté américain, deux groupes aéronavals (USS George Washington et USS George H. W. Bush) étaient en mer d'Arabie au 9 novembre, et l'USS Theodore Roosevelt fait route vers l'océan Indien. Le marché a réagi immédiatement : le Brent a clôturé à 95,82 dollars (+3,3 %), le WTI à 88,74 dollars (+2,6 %)."
+          ],
+          "critique": "La phrase de Trump sert d'abord un objectif de négociation : montrer que le temps joue pour Washington, qui tient le blocus et les avoirs gelés. Celle de l'Assemblée des experts sert le même but en sens inverse : rappeler que la seule carte qui reste à Téhéran, à part Ormuz, est la menace nucléaire. Le risque est que chacun finisse par croire l'autre. Notez aussi que les bilans de navires touchés reposent largement sur des affirmations des Gardiens de la révolution, non vérifiées.",
+          "sources": [
+            {"label": "NIAC Insights", "url": "https://insights.niacouncil.org/p/iran-weighs-its-options-as-trump"},
+            {"label": "Kashmir Observer", "url": "https://kashmirobserver.net/2026/11/12/iran-mulls-npt-exit-nuclear-doctrine-overhaul/"},
+            {"label": "Fox News (direct 12/11)", "url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-hormuz-november-12"},
+            {"label": "Straits Daily Brief", "url": "https://straits.live/briefs/2026-11-12"},
+            {"label": "GlobalSecurity (AIEA)", "url": "https://www.globalsecurity.org/military/ops/iran-war-oprep.htm"},
+            {"label": "Eurasia Business News", "url": "https://eurasiabusinessnews.com/2026/11/13/stock-market-today-november-12-2026-dow-sp-500-and-nasdaq-fall-after-jensen-huang-resigns/"}
+          ]
+        },
+        {
+          "kicker": "Tech · Gouvernance",
+          "title": "Nvidia sans Jensen Huang",
+          "minutes": 3,
+          "chapo": "Le fondateur de l'entreprise la plus stratégique de l'IA démissionne avec effet immédiat, sur fond d'enquête interne. Colette Kress assure l'intérim.",
+          "body": [
+            "Nvidia a annoncé jeudi 12 novembre au matin que Jensen Huang quittait ses fonctions de président-directeur général et son siège au conseil d'administration, « avec effet immédiat ». Il dirigeait l'entreprise depuis 33 ans, c'est-à-dire depuis sa fondation. La directrice financière Colette Kress devient PDG par intérim, et Harvey C. Jones, administrateur de longue date, devient le tout premier président du conseil d'administration de l'histoire de Nvidia. Le conseil dit examiner des candidats internes et externes.",
+            "Nvidia ne donne aucune raison. Le contexte est connu. Dimanche, Huang a reconnu publiquement une infidélité et présenté ses excuses à sa famille et aux salariés. Le conseil avait d'abord affiché sa confiance et lancé une enquête indépendante sur des informations selon lesquelles le renseignement chinois l'aurait ciblé, par l'intermédiaire d'Alice Huang, ancienne cadre de la société singapourienne Megaspeed. Mercredi, Reuters rapportait que le conseil envisageait son éviction, après des révélations du New York Times sur une relation avec Kimberly Powell, vice-présidente chargée de la santé et sa subordonnée directe. Le conseil affirme n'avoir « aucune raison de croire » que la sécurité nationale a été compromise.",
+            "L'action a perdu jusqu'à 14 % en séance avant de clôturer en baisse de 4,34 %, à 166,19 dollars. Le titre a déjà reculé d'environ 40 % depuis ses records de l'an dernier. Citigroup a abaissé son objectif de cours de 285 à 225 dollars. Les concurrents ont profité du choc : AMD et Broadcom ont gagné près de 6 %, en tête du S&P 500. Les « neoclouds », très dépendants de Nvidia, ont chuté : Nebius −17 %, CoreWeave −7 %. Donald Trump a suggéré Tim Cook, le patron d'Apple, comme successeur : « Une légende remplace une légende. »",
+            "Colette Kress n'est pas une inconnue pour les investisseurs. Directrice financière depuis septembre 2013, passée par Texas Instruments, Microsoft et Cisco, elle a accompagné la multiplication du chiffre d'affaires de 4,13 milliards de dollars (exercice 2014) à 215,9 milliards (exercice 2026). Nvidia contrôle environ 90 % du marché des puces avancées pour l'IA.",
+            "L'affaire a une dimension géopolitique. En décembre 2025, Trump avait autorisé l'export vers la Chine des puces H200, environ six fois plus puissantes que les H20, sous conditions : inspections, plafonds, interdiction d'usage militaire et taxe de 25 %. Les entreprises chinoises en auraient commandé plus de deux millions, pour un montant potentiel de 54 milliards de dollars. Toute suspicion d'espionnage visant le dirigeant qui négociait ces dossiers pèse donc bien au-delà de la Bourse."
+          ],
+          "critique": "« Risque d'homme-clé » : c'est la formule des analystes pour une entreprise dont la valeur repose sur une personne. Nvidia en est le cas d'école, et son conseil d'administration n'avait même jamais eu de président. La baisse limitée à 4 % montre que le marché juge l'avance technologique plus solide que l'homme. Reste une zone d'ombre : ni Nvidia ni les autorités n'ont publié les conclusions de l'enquête sur le volet chinois.",
+          "sources": [
+            {"label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress"},
+            {"label": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-131805045.html"},
+            {"label": "Eurasia Business News", "url": "https://eurasiabusinessnews.com/2026/11/13/stock-market-today-november-12-2026-dow-sp-500-and-nasdaq-fall-after-jensen-huang-resigns/"}
+          ]
+        },
+        {
+          "kicker": "Ukraine · Russie",
+          "title": "Après Abu Dhabi, Moscou ; après Moscou, Dublin",
+          "minutes": 2,
+          "chapo": "Witkoff et Kushner sont arrivés chez Poutine. Pendant ce temps, Kyiv est visée par des missiles balistiques et la raffinerie d'Omsk par des drones.",
+          "body": [
+            "Les émissaires américains Steve Witkoff et Jared Kushner sont arrivés à Moscou tôt jeudi 12 novembre, selon les médias d'État russes, au lendemain des deux jours de négociations à trois d'Abu Dhabi. Ils avaient annoncé une rencontre avec Vladimir Poutine. Ils doivent ensuite rejoindre Dublin pour débriefer Volodymyr Zelensky, présent pour la réunion informelle des dirigeants européens du 13 novembre. Kushner résume Abu Dhabi ainsi : « Nous voyons des ouvertures et des opportunités. » Le négociateur ukrainien Roustem Oumerov parle d'un « premier pas ».",
+            "Le terrain, lui, n'a pas marqué de pause. Quelques heures après la fin des pourparlers, Moscou a lancé des missiles balistiques sur Kyiv. La veille, une frappe sur un marché bondé de la région d'Odessa a tué au moins quatre personnes et en a blessé huit. Six grandes sous-stations électriques ont été touchées le 11 novembre, avec des coupures dans tout le pays, puis des installations dans la région de Khmelnytskyï jeudi.",
+            "L'Ukraine a répondu en profondeur. Ses forces spéciales revendiquent une frappe de drones sur la raffinerie d'Omsk, en Sibérie, propriété de Gazprom et la plus grande de Russie, avec plus de 21 millions de tonnes de brut traitées par an. Le site est à environ 2 500 km de la frontière ukrainienne ; les drones auraient parcouru 3 000 km. L'attaque a duré plus de huit heures. C'est la troisième frappe sur ce site depuis juillet. La raffinerie fournirait environ un litre sur six de l'essence et du gazole russes. Les dégâts n'ont pas pu être vérifiés indépendamment. Le port d'Oust-Louga, sur la Baltique, a aussi été visé.",
+            "Côté européen, l'Irlande, qui préside l'UE, veut ouvrir avant la fin de sa présidence les deux derniers des cinq « clusters » de négociation d'adhésion de l'Ukraine. Mais l'ONG Urgewald rappelle que les achats européens de GNL russe de Yamal dépassent déjà 9 milliards de dollars en 2026, plus d'un cinquième au-dessus du total de 2025."
+          ],
+          "critique": "Chaque camp frappe pendant qu'il négocie, pour arriver à la table en position de force : c'est une constante des fins de guerre, pas un signe d'échec. Le chiffre le plus parlant de la semaine est européen : l'UE finance encore la Russie via le GNL pendant qu'elle promet l'adhésion à l'Ukraine.",
+          "sources": [
+            {"label": "Kyiv Independent (Moscou)", "url": "https://kyivindependent.com/witkoff-kushner-arrive-in-moscow-following-ukraine-peace-talks/"},
+            {"label": "Kyiv Independent (Omsk)", "url": "https://kyivindependent.com/russias-largest-oil-refinery-slammed-by-drones-in-8-hr-attack-2-500-km-from-ukraine/"},
+            {"label": "Kyiv Independent (une)", "url": "https://kyivindependent.com/"}
+          ]
+        },
+        {
+          "kicker": "Marchés",
+          "title": "Le 10 ans américain à 5,13 %, l'or recule",
+          "minutes": 1,
+          "chapo": "Les taux montent, le dollar se renforce, l'or chute de près de 3 %. Paris fait exception.",
+          "body": [
+            "Wall Street a fini en baisse modérée jeudi : S&P 500 −0,35 %, Nasdaq −0,39 %, Dow Jones −0,36 %. Les petites capitalisations ont davantage souffert (Russell 2000 −1,66 %). Le vrai mouvement est obligataire : le rendement du Trésor américain à 10 ans est monté à 5,13 %, contre 4,99 % la veille. Le marché anticipe une hausse des taux de la Fed lors de sa réunion du 9 décembre, et attend ce vendredi les prix à la production d'octobre (+0,4 % sur un mois attendu).",
+            "Conséquence directe : le dollar index a atteint 103,23, son plus haut depuis début avril 2025, et l'or a perdu 2,8 %, à environ 3 876 dollars l'once, son plus bas depuis début octobre 2025. L'argent a reculé de 3,1 %. Le bitcoin est retombé vers 71 500 dollars. Apple a touché un record juste sous 360 dollars avant de finir stable (+31 % depuis janvier). Super Micro a chuté d'environ 11 % après une information de Bloomberg sur une enquête du ministère de la Justice.",
+            "Paris a fait mieux : le CAC 40 a gagné 0,34 %, à 8 361 points, et 2,7 % sur la semaine, porté par de bonnes publications européennes et une rotation hors des géants technologiques américains."
+          ],
+          "critique": "Un 10 ans au-dessus de 5 % renchérit tout : prêts immobiliers américains, dette des entreprises, valorisation des actions de croissance. C'est un frein plus durable que le départ d'un PDG.",
+          "sources": [
+            {"label": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-131805045.html"},
+            {"label": "Portfolio Terminal", "url": "https://portfolio-terminal.com/markets/stock-market-close"},
+            {"label": "MoneyVox", "url": "https://www.moneyvox.fr/bourse/actualites/111221/cac-40-a-8-361-points-nvidia-rotation-sectorielle-le-journal-de-la-bourse-du-jeudi-12-novembre-2026"}
+          ]
+        },
+        {
+          "kicker": "En bref",
+          "title": "Ailleurs dans le monde",
+          "minutes": 1,
+          "chapo": "Tension Trump-Netanyahou, missiles houthis vers La Mecque, COP31 à mi-parcours.",
+          "body": [
+            "Israël · États-Unis. Selon le site israélien Ynet, Donald Trump et Benyamin Netanyahou ont eu le week-end dernier un échange téléphonique très tendu sur la reprise des frappes contre l'Iran, que Netanyahou réclame. Son bureau dément tout affrontement. Le Financial Times rapporte que le Premier ministre israélien appelle Trump quotidiennement à ce sujet.",
+            "Arabie saoudite. La défense aérienne saoudienne affirme avoir détruit deux missiles balistiques houthis visant La Mecque ; des débris sont tombés sur un village de la province.",
+            "Climat. La COP31 se tient à Antalya jusqu'au 20 novembre, sous présidence turque (Murat Kurum), l'Australien Chris Bowen pilotant les négociations. Près de 200 pays et plus de 90 000 participants. L'enjeu est la mise en œuvre et le financement de l'adaptation, pas un nouvel accord. Le chef de l'ONU Climat, Simon Stiell, juge les progrès « loin d'être suffisants ou équitables ».",
+            "Défense. La start-up allemande Helsing lance une alternative européenne au logiciel d'IA militaire de Palantir. Côté front, Kyiv annonce avoir capturé son premier prisonnier indonésien, signe du recrutement étranger croissant de l'armée russe."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Fox News", "url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-hormuz-november-12"},
+            {"label": "fundsforNGOs", "url": "https://news.fundsforngos.org/2026/11/12/cop31-antalya-climate-finance-health-agriculture-90k-attendance/"},
+            {"label": "Kyiv Independent", "url": "https://kyivindependent.com/"}
+          ]
+        }
+      ],
+      "board": [
+        {"label": "S&P 500", "value": "7 592", "change": -0.35},
+        {"label": "Nasdaq", "value": "25 366", "change": -0.39},
+        {"label": "Dow Jones", "value": "52 297", "change": -0.36},
+        {"label": "CAC 40", "value": "8 361", "change": 0.34},
+        {"label": "Bitcoin", "value": "≈71 500 $", "change": -3.4},
+        {"label": "Or (once)", "value": "3 876 $", "change": -2.77},
+        {"label": "Brent (baril)", "value": "95,8 $", "change": 3.3},
+        {"label": "WTI (baril)", "value": "88,7 $", "change": 2.6}
+      ],
+      "boardNote": "Clôtures du jeudi 12 novembre. Taux US à 10 ans 5,13 % (4,99 % la veille). Dollar index 103,2. Russell 2000 −1,66 %. Bitcoin : cours de fin de séance approximatif. Nvidia −4,34 % à 166,19 $.",
+      "estimate": {
+        "question": "Par combien le chiffre d'affaires annuel de Nvidia a-t-il été multiplié entre l'exercice 2014 et l'exercice 2026 ?",
+        "min": 1,
+        "max": 100,
+        "step": 1,
+        "unit": "×",
+        "answer": 52,
+        "explain": "Environ ×52 : de 4,13 milliards de dollars à 215,9 milliards. Soit une croissance moyenne d'environ 39 % par an pendant douze ans, quasiment toute la période où Colette Kress était directrice financière."
+      },
+      "flashcards": [
+        {"front": "TNP", "back": "Traité de non-prolifération nucléaire, en vigueur depuis 1970, prorogé indéfiniment en 1995. 191 États parties. Seuls cinq États y sont reconnus « dotés » : États-Unis, Russie, Chine, France, Royaume-Uni."},
+        {"front": "Article X du TNP", "back": "Clause de retrait : un État peut quitter le traité si des « événements extraordinaires » menacent ses intérêts suprêmes, avec un préavis de trois mois aux autres parties et au Conseil de sécurité."},
+        {"front": "Assemblée des experts (Iran)", "back": "Organe de 88 religieux élus qui désigne le Guide suprême et le supervise en théorie. Elle n'a aucune compétence en politique étrangère."},
+        {"front": "Risque d'homme-clé", "back": "Dépendance d'une entreprise à une seule personne (fondateur, PDG). Les investisseurs l'intègrent dans la valorisation ; certaines sociétés s'en couvrent par une assurance « key person »."},
+        {"front": "Brent / WTI", "back": "Deux pétroles de référence. Le Brent (mer du Nord) sert de prix mondial du brut transporté par mer ; le WTI (Texas, livré à Cushing) est la référence américaine. Le Brent réagit davantage aux crises maritimes comme Ormuz."},
+        {"front": "Dollar index (DXY)", "back": "Valeur du dollar face à un panier de six devises, dont l'euro pèse environ 58 %. Il monte quand les taux américains attirent les capitaux."},
+        {"front": "Omsk", "back": "Ville de Sibérie occidentale, siège de la plus grande raffinerie de Russie (Gazprom), plus de 21 millions de tonnes de brut par an."}
+      ],
+      "quiz": [
+        {"q": "Qui assure l'intérim à la tête de Nvidia ?", "choices": ["Jay Puri", "Colette Kress", "Kimberly Powell", "Harvey C. Jones"], "answer": 1, "explain": "Colette Kress, directrice financière depuis 2013. Harvey C. Jones devient le premier président du conseil d'administration de l'histoire du groupe."},
+        {"q": "Quel préavis l'article X du TNP impose-t-il pour se retirer ?", "choices": ["Aucun", "1 mois", "3 mois", "1 an"], "answer": 2, "explain": "Trois mois, notifiés à toutes les parties et au Conseil de sécurité. La Corée du Nord a annoncé son retrait le 10 janvier 2003."},
+        {"q": "Combien de passages ont été comptés à Ormuz le 8 novembre ?", "choices": ["3", "13", "45", "85"], "answer": 0, "explain": "Trois, selon PortWatch du FMI, contre environ 85 par jour avant la crise."},
+        {"q": "À quelle distance de la frontière ukrainienne se trouve la raffinerie d'Omsk ?", "choices": ["≈ 500 km", "≈ 1 200 km", "≈ 2 500 km", "≈ 5 000 km"], "answer": 2, "explain": "Environ 2 500 km. Les forces spéciales ukrainiennes disent que les drones ont volé 3 000 km, un record pour une frappe sur une raffinerie."},
+        {"q": "Où est monté le rendement du Trésor américain à 10 ans jeudi ?", "choices": ["4,51 %", "4,99 %", "5,13 %", "5,50 %"], "answer": 2, "explain": "5,13 %, contre 4,99 % la veille, sur fond d'anticipation d'une hausse des taux de la Fed le 9 décembre."}
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "minutes": 10,
+      "lede": [
+        "Premier coup de pouce au Smic depuis 2012 : +0,6 % au-delà de la hausse automatique, soit environ 1 502 € net au 1er décembre. Les syndicats parlent de « miettes ».",
+        "Au Sénat, la réduction des allègements de cotisations patronales, clé de voûte du budget de la Sécu, est adoptée mais repoussée au 1er avril : 900 millions de moins.",
+        "Huit candidats à la présidentielle ont passé un grand oral sur les services publics : de 500 000 recrutements à 800 000 suppressions de postes."
+      ],
+      "articles": [
+        {
+          "kicker": "Social · Salaires",
+          "title": "Le Smic sort du gel, la colère pas encore",
+          "minutes": 3,
+          "chapo": "Après la manifestation du 5 novembre, Matignon a lâché un coup de pouce inédit depuis quatorze ans. Trop peu pour les syndicats, déjà mobilisés pour le 17 novembre.",
+          "body": [
+            "La conférence sociale convoquée par Sébastien Lecornu lundi 9 novembre à Matignon a produit une annonce symbolique : un coup de pouce de 0,6 % au Smic, en plus de la revalorisation automatique de 1 %. C'est le premier depuis 2012. Le salaire minimum atteindra environ 1 502 euros net par mois au 1er décembre, soit une hausse d'environ 24 euros. Le ministre du Travail, Jean-Pierre Farandou, avait fixé l'objectif de 1 500 euros net, contre 1 477,93 euros aujourd'hui.",
+            "Le reste du paquet est plus technique. La prime carburant est prolongée en 2027, défiscalisée jusqu'à 1 000 euros. Le gouvernement propose de porter à 10 000 euros le plafond de défiscalisation des heures supplémentaires. Et surtout, un décret doit durcir le calcul des allègements de cotisations patronales dans les branches dont les minima conventionnels restent inférieurs au Smic. L'idée : obliger ces branches à renégocier leurs grilles. Un « comité de suivi » des salaires sera installé, avec des résultats attendus début décembre.",
+            "Les syndicats demandaient beaucoup plus : 100 euros net pour la CFDT, environ 150 euros pour la CGT, 200 euros pour le PS et LFI. Sophie Binet (CGT) dénonce des « miettes ». Marylise Léon (CFDT) juge la hausse « insuffisante » mais salue la conditionnalité des aides aux négociations de branche, et réclame un point d'étape sous deux semaines. FO se félicite que « le refus systématique » du coup de pouce soit tombé. Côté patronal, Patrick Martin (Medef) estime que les branches vont devoir négocier « à l'aveugle ».",
+            "Cette conférence répond à une mobilisation qui ne faiblit pas vraiment. Le 5 novembre, entre 575 000 (chiffre des autorités) et 1,6 million de personnes ont défilé, avec environ 16 % d'enseignants grévistes. Le 10 novembre, une nouvelle journée appelée par une intersyndicale large (CGT, FSU, FO, Solidaires, organisations lycéennes et étudiantes) a été plus faible : 49 lycées bloqués à 9 h 30 sur 3 700, selon le ministère. Le volet jeunesse a d'ailleurs échoué : la réunion sur Parcoursup a tourné court, de nombreuses organisations ayant quitté la table. Le gouvernement maintient que Parcoursup sera progressivement transformé à partir de 2027 et remplacé en 2028.",
+            "Prochaine échéance : une grève de la fonction publique le 17 novembre contre le gel du point d'indice. Les syndicats d'agents publics devaient être reçus séparément ce vendredi par David Amiel, ministre de l'Action et des Comptes publics."
+          ],
+          "critique": "Un coup de pouce au Smic coûte peu à l'État mais beaucoup aux entreprises de main-d'œuvre, et il « tasse » l'échelle des salaires : plus de salariés se retrouvent au niveau du minimum, là où les allègements de charges sont maximaux. C'est la « trappe à bas salaires ». Le vrai levier annoncé est donc moins le 0,6 % que la pression sur les branches dont les minima sont sous le Smic. Il faudra juger sur les grilles renégociées en décembre, pas sur l'annonce.",
+          "sources": [
+            {"label": "La DH (AFP)", "url": "https://www.dhnet.be/dernieres-depeches/2026/11/09/sans-latitude-lecornu-tente-de-repondre-a-la-colere-sociale-KWCY3XBQXBFR3JX7E55UFVXLVQ/"},
+            {"label": "Sud Radio", "url": "https://www.sudradio.fr/societe/conference-sociale-a-matignon-quest-ce-qui-sy-joue-et-avec-qui"},
+            {"label": "Public Sénat", "url": "https://publicsenat.fr/actualites/politique/manifestations-etudiants-lyceens-profsa-quoi-faut-il-sattendre-ce-mardi-10-novembre"}
+          ]
+        },
+        {
+          "kicker": "Parlement · Finances",
+          "title": "Budget de la Sécu : le Sénat vote la mesure clé, mais la retarde",
+          "minutes": 3,
+          "chapo": "La réduction des allègements de cotisations patronales devait rapporter 3,7 milliards en 2027. Version Sénat : 2,8 milliards. À l'Assemblée, le collectif budgétaire 2026 est rejeté.",
+          "body": [
+            "Jeudi 12 novembre, le Sénat a adopté l'article 7 du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027, par 184 voix contre 16 et 142 abstentions. L'article touche le cœur du système d'aides aux entreprises : les allègements généraux de cotisations patronales, qui représentent environ 75 milliards d'euros par an. Il intègre certains compléments de rémunération, comme l'épargne salariale, dans le calcul du coefficient qui détermine ces allègements. Mécaniquement, ils diminuent.",
+            "Le gouvernement en attendait 3,7 milliards d'euros de recettes supplémentaires en 2027, l'une des rares mesures de rendement significatif du budget. Le rapporteur général Olivier Henno (Union centriste) a fait repousser l'entrée en vigueur du 1er janvier au 1er avril 2027, en invoquant la conférence sociale de Matignon. Coût : environ 300 millions d'euros par mois, soit un rendement ramené à 2,8 milliards. Le ministre Jean-Pierre Farandou refuse : « 900 millions d'euros, on tutoie le milliard. »",
+            "Le débat a reproduit les lignes de fracture habituelles. Le président du Medef, Patrick Martin, parle d'« erreur stratégique » et agite le retour du chômage de masse. Le sénateur LR Clément Pernot a tenté de supprimer l'article. À l'inverse, la communiste Cathy Apourceau-Poly juge que « les effets sur l'emploi sont nuls et les caisses de la Sécu se vident ». La gauche s'est abstenue, en protestant contre la prolongation de la monétisation des jours de repos et la suppression de la pénalité pour les entreprises de plus de 300 salariés qui n'ont pas négocié sur l'emploi des seniors.",
+            "Le vote solennel sur l'ensemble du texte est prévu mercredi prochain. Le PLFSS retournera ensuite à l'Assemblée, qui l'avait rejeté en première lecture.",
+            "Le même jour, l'Assemblée a rejeté le projet de loi de finances de fin de gestion pour 2026, le « collectif » qui ajuste le budget de l'année en cours (redéploiements vers la défense et l'énergie, annulations de crédits). Le vote : 49 pour, 63 contre, 76 abstentions, notamment au RN et au PS. Ce rejet ne prive pas l'État de budget pour 2026 : la loi de finances initiale reste en vigueur. Il ne doit pas être confondu avec le budget de l'État pour 2027, rejeté la semaine dernière."
+          ],
+          "critique": "Les allègements de charges sur les bas salaires sont la première dépense fiscale et sociale du pays, et leur effet sur l'emploi fait l'objet d'évaluations contradictoires : forts pour les premiers allègements des années 1990, beaucoup plus discutés au-delà. Les deux camps citent donc les études qui les arrangent. Le report au 1er avril est un compromis politique, mais il creuse le déficit de la Sécu sans trancher la question.",
+          "sources": [
+            {"label": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/economie/budget-de-la-secu-le-senat-reporte-au-1er-avril-la-baisse-des-allegements-de-cotisations-patronales"},
+            {"label": "Politique Matin", "url": "https://www.politiquematin.fr/budget-2026-assemblee-rejette-collectif-fin-gestion-63-voix-novembre"}
+          ]
+        },
+        {
+          "kicker": "Présidentielle 2027",
+          "title": "Services publics : le grand écart des candidats",
+          "minutes": 3,
+          "chapo": "Huit candidats ont détaillé jeudi sur Radio France leur vision de l'État. Entre Fabien Roussel et Éric Zemmour, l'écart atteint 1,3 million de postes.",
+          "body": [
+            "Radio France consacrait jeudi 12 novembre une journée spéciale aux services publics, avec huit candidats déclarés à la présidentielle d'avril 2027. Marine Le Pen et David Lisnard étaient absents. L'exercice a le mérite de chiffrer les promesses, et donc de les comparer.",
+            "À gauche, Fabien Roussel (PCF) promet le recrutement d'environ 500 000 fonctionnaires en cinq ans, une hausse immédiate de 10 % du point d'indice puis de 20 à 30 % sur le quinquennat, et 60 000 recrutements dans la police, la gendarmerie et les douanes. Jean-Luc Mélenchon (LFI) annonce 22 milliards d'euros pour les services publics dès les premiers mois, le retour du bac professionnel en quatre ans et un revenu étudiant supérieur au seuil de pauvreté, environ 1 300 euros. Marine Tondelier (Les Écologistes) vise 250 000 à 350 000 créations de postes, dont 9 000 magistrats et 10 000 greffiers, et un guichet public à moins de quinze minutes de chaque Français. Raphaël Glucksmann (PS-Place publique) mise sur l'école : +10 % pour les enseignants, jusqu'à 25 % en milieu de carrière, et le remplacement de Parcoursup.",
+            "Au centre, Gabriel Attal (Ensemble) propose 100 000 départs volontaires dans les administrations, mais une revalorisation des enseignants de 200 à 500 euros par mois dès 2028. Édouard Philippe (Horizons) préfère la réorganisation et la technologie aux recrutements, la fusion d'agences, des peines planchers et l'interdiction du syndicalisme dans la magistrature.",
+            "À droite, Bruno Retailleau (LR) veut ne pas remplacer 400 000 fonctionnaires, dont 300 000 postes économisés grâce à l'IA et à la réorganisation, ainsi qu'un examen d'entrée en sixième. Éric Zemmour (Reconquête) va le plus loin : 800 000 suppressions de postes en cinq ans, en épargnant enseignants, policiers, militaires et soignants, et la fin du collège unique.",
+            "Pour mesurer ces chiffres : la fonction publique compte environ 5,7 millions d'agents. Les extrêmes du débat vont donc de +9 % à −14 % des effectifs en un quinquennat."
+          ],
+          "critique": "Supprimer 800 000 postes en épargnant enseignants, policiers, militaires et soignants, c'est concentrer les coupes sur un périmètre bien plus petit que 5,7 millions, ce qui rend l'objectif difficile à atteindre sans fermer des services entiers. À l'inverse, 500 000 recrutements et 20 à 30 % de point d'indice supposent des dizaines de milliards par an sans financement détaillé. Les « 300 000 postes économisés par l'IA » n'ont, à ce stade, aucune étude publique derrière eux.",
+          "sources": [
+            {"label": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics"}
+          ]
+        },
+        {
+          "kicker": "Économie · Bourse",
+          "title": "Paris profite de la défiance envers la tech américaine",
+          "minutes": 1,
+          "chapo": "Le CAC 40 progresse de 2,7 % sur la semaine pendant que Wall Street digère le départ de Jensen Huang.",
+          "body": [
+            "Le CAC 40 a clôturé jeudi à 8 361 points (+0,34 %), son troisième gain d'affilée. Les investisseurs réduisent leur exposition aux géants technologiques américains au profit de valeurs européennes plus « classiques », soutenues par de bonnes publications.",
+            "Parmi les mouvements notables : Vente-unique.com a bondi de 8,3 %, à 17 euros, après un chiffre d'affaires annuel en hausse de 21 %, à 243,1 millions d'euros. Viridien (ex-CGG, géosciences) a gagné 2,2 %. À Londres, Burberry a pris 7,8 % grâce à un résultat d'exploitation semestriel de 62 millions de livres, contre 44 millions attendus. Vendredi, le marché attend les prix à la production américains et les résultats de Richemont (Cartier, Van Cleef & Arpels)."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "MoneyVox", "url": "https://www.moneyvox.fr/bourse/actualites/111221/cac-40-a-8-361-points-nvidia-rotation-sectorielle-le-journal-de-la-bourse-du-jeudi-12-novembre-2026"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Combien coûtent chaque année les allègements généraux de cotisations patronales ?",
+        "min": 0,
+        "max": 150,
+        "step": 5,
+        "unit": "Md€",
+        "answer": 75,
+        "explain": "Environ 75 milliards d'euros par an, soit près de 2,5 % du PIB. La mesure votée au Sénat n'en rabote que 2,8 à 3,7 milliards."
+      },
+      "flashcards": [
+        {"front": "Smic", "back": "Salaire minimum interprofessionnel de croissance, créé en 1970 (il remplace le SMIG de 1950). Revalorisé chaque 1er janvier selon l'inflation et la moitié du gain de pouvoir d'achat du salaire horaire ouvrier ; le gouvernement peut ajouter un « coup de pouce »."},
+        {"front": "Coup de pouce", "back": "Hausse du Smic décidée par le gouvernement au-delà de la revalorisation automatique. Le dernier datait de juillet 2012. Celui de novembre 2026 est de 0,6 %."},
+        {"front": "Allègements généraux", "back": "Réductions de cotisations patronales sur les salaires proches du Smic, dégressives jusqu'à un certain niveau de salaire. Environ 75 Md€ par an, compensés à la Sécu par l'État."},
+        {"front": "PLFSS", "back": "Projet de loi de financement de la Sécurité sociale. Voté chaque automne, en parallèle de la loi de finances (budget de l'État). Le Parlement dispose de 50 jours pour se prononcer."},
+        {"front": "Collectif budgétaire", "back": "Loi de finances rectificative ou « de fin de gestion » : elle ajuste en cours d'année les crédits votés dans le budget initial."},
+        {"front": "Point d'indice", "back": "Valeur de référence qui sert à calculer le traitement de base des fonctionnaires. Son gel fait baisser le salaire réel des agents quand les prix montent."},
+        {"front": "Trappe à bas salaires", "back": "Effet pervers d'allègements de charges concentrés au niveau du Smic : augmenter un salarié coûte proportionnellement très cher à l'employeur, qui a donc intérêt à rester au minimum."}
+      ],
+      "quiz": [
+        {"q": "À combien s'élève le coup de pouce au Smic annoncé le 9 novembre ?", "choices": ["0,3 %", "0,6 %", "1 %", "2 %"], "answer": 1, "explain": "0,6 %, en plus de la revalorisation automatique de 1 %. Le Smic net atteint environ 1 502 € au 1er décembre."},
+        {"q": "De quand datait le dernier coup de pouce au Smic ?", "choices": ["2006", "2012", "2017", "2022"], "answer": 1, "explain": "2012, au début du quinquennat de François Hollande."},
+        {"q": "À quelle date le Sénat a-t-il repoussé la baisse des allègements patronaux ?", "choices": ["1er janvier 2027", "1er avril 2027", "1er juillet 2027", "1er janvier 2028"], "answer": 1, "explain": "Au 1er avril 2027, ce qui ramène le rendement de 3,7 à 2,8 milliards d'euros."},
+        {"q": "Quel candidat propose 800 000 suppressions de postes de fonctionnaires ?", "choices": ["Bruno Retailleau", "Édouard Philippe", "Éric Zemmour", "Gabriel Attal"], "answer": 2, "explain": "Éric Zemmour. Bruno Retailleau propose de ne pas remplacer 400 000 fonctionnaires, Gabriel Attal 100 000 départs volontaires."},
+        {"q": "Quand la fonction publique est-elle appelée à la grève ?", "choices": ["13 novembre", "17 novembre", "26 novembre", "9 décembre"], "answer": 1, "explain": "Le 17 novembre, contre le gel du point d'indice."}
+      ]
+    },
+    {
+      "id": "savoirs",
+      "name": "Savoirs",
+      "minutes": 10,
+      "lede": [
+        "Nous sommes le vendredi 13 novembre 2026 : la date de la fin du monde calculée en 1960 dans la revue Science. Ce qu'elle nous apprend sur la croissance hyperbolique.",
+        "Sur Mars, du carbone organique complexe à quelques microns sous la surface. Sur Terre, une nouvelle hypothèse pour l'origine de l'eau.",
+        "Traité de non-prolifération, raffinage, obligations : les mécanismes derrière l'actualité de la semaine."
+      ],
+      "articles": [
+        {
+          "kicker": "Mathématiques · Démographie",
+          "title": "Aujourd'hui, la fin du monde (selon Science, 1960)",
+          "minutes": 3,
+          "chapo": "En 1960, Heinz von Foerster calculait que la population humaine deviendrait infinie le vendredi 13 novembre 2026. L'erreur est instructive.",
+          "body": [
+            "En 1960, le physicien austro-américain Heinz von Foerster et ses collègues publient dans Science un article au titre volontairement provocateur : « Doomsday: Friday, 13 November, A.D. 2026 ». Ils ont ajusté une courbe sur les estimations de la population mondiale des deux derniers millénaires, puis l'ont prolongée sans changer le rythme. Résultat : la population atteint l'infini aujourd'hui. Le choix d'un vendredi 13 relevait de la provocation, pour attirer l'attention sur la surpopulation.",
+            "La courbe n'était pas exponentielle mais hyperbolique, et la nuance est essentielle. Dans une croissance exponentielle, N(t) = N₀·e^(rt), le taux de croissance r est constant : la population double à intervalles réguliers (environ 70/r ans si r est en %). Elle grandit indéfiniment mais n'atteint jamais l'infini en un temps fini. Dans une croissance hyperbolique, N(t) = C / (t₀ − t), le taux de croissance augmente lui-même avec la population : plus on est nombreux, plus on croît vite, par exemple parce que plus d'humains produisent plus d'innovations. Quand t approche t₀, le dénominateur tend vers zéro et N explose : c'est une « singularité » en temps fini. Von Foerster trouvait t₀ ≈ 2026,9, soit mi-novembre 2026.",
+            "Le plus étonnant est que l'ajustement a très bien fonctionné pendant trente ans. Jusqu'au début des années 1990, la population réelle suivait la courbe. Puis elle a décroché. La croissance démographique mondiale a culminé en 1963, à plus de 2 % par an, et elle est passée sous 1 % vers 2020.",
+            "La raison s'appelle la transition démographique. D'abord la mortalité baisse (hygiène, vaccins, alimentation), alors que la natalité reste élevée : la population s'envole. C'est cette phase qui donnait l'illusion d'une hyperbole. Ensuite, avec un décalage d'une à deux générations, la fécondité baisse à son tour (urbanisation, scolarisation des filles, contraception) et la croissance ralentit. Selon les projections de l'ONU, la population mondiale devrait plafonner vers le milieu des années 2080, autour de 10,3 milliards, puis décliner lentement.",
+            "La leçon dépasse la démographie. Toute extrapolation suppose que le mécanisme qui a produit les données passées restera le même. Ceux qui prolongent aujourd'hui les courbes de puissance de calcul de l'IA, ou de consommation électrique des data centers, devraient garder von Foerster en tête."
+          ],
+          "critique": "Von Foerster ne prédisait pas vraiment l'apocalypse : il montrait où menait la tendance si rien ne changeait. Son article a d'ailleurs alimenté le débat sur la surpopulation qui a contribué aux politiques de planification familiale. On ne saura jamais quelle part de son « échec » revient à ces politiques et quelle part à l'évolution spontanée des sociétés.",
+          "sources": [
+            {"label": "Euronews", "url": "https://euronews.com/2026/11/12/doomsday-study-calculated-humanitys-end-on-friday-13-november-2026"}
+          ]
+        },
+        {
+          "kicker": "Planétologie",
+          "title": "Mars garde son carbone, la Terre aurait fabriqué son eau",
+          "minutes": 2,
+          "chapo": "Deux études de la semaine sur les ingrédients de la vie : des molécules organiques complexes dans le cratère Jezero, et un mécanisme sans comète pour expliquer nos océans.",
+          "body": [
+            "Le rover Perseverance de la NASA a confirmé la présence de carbone organique complexe dans deux roches anciennes de la formation Bright Angel, dans le cratère Jezero, dont « Cheyava Falls », la roche qui avait fait parler de « biosignature potentielle » en septembre 2025. L'étude, publiée dans Science Advances, repose sur l'instrument SHERLOC, un spectromètre Raman : un laser excite la roche et la lumière diffusée révèle les liaisons chimiques présentes.",
+            "Il s'agit de carbone macromoléculaire, de grands réseaux d'atomes de carbone liés entre eux, comme on en trouve dans les roches terrestres et les météorites. Il a été détecté à quelques microns seulement sous la surface, moins que l'épaisseur d'une feuille de papier, la détection la plus superficielle jamais rapportée sur Mars. C'est inattendu, car le rayonnement et les oxydants de surface détruisent normalement ces molécules. Le site est à plus de 3 200 km du cratère Gale, où Curiosity avait déjà trouvé des composés organiques : ils étaient peut-être répandus dans les anciens lacs et rivières martiens. Mais ce carbone peut se former sans vie. Seule l'analyse en laboratoire terrestre d'échantillons rapportés permettrait de trancher, et aucun n'est encore revenu.",
+            "Sur Terre, une équipe de l'université du Nouveau-Mexique propose dans Nature Geoscience une autre origine pour l'eau. Elle a chauffé des roches silicatées entre 1 200 et 1 400 °C sous un flux d'hydrogène : près de 80 % de l'oxyde de fer s'est transformé en fer métallique, en libérant de la vapeur d'eau (FeO + H₂ → Fe + H₂O). Avec de l'hélium, rien ne se passe. Transposé à la jeune Terre, entourée d'une atmosphère riche en hydrogène et bombardée de « galets » rocheux, ce mécanisme aurait pu produire, selon les auteurs, l'équivalent de « centaines d'océans ».",
+            "L'hypothèse dominante attribuait plutôt notre eau aux comètes et aux météorites riches en glace. Les auteurs reconnaissent que leur chiffre est une extrapolation et ne dit pas quelle part de l'eau actuelle vient réellement de ce processus."
+          ],
+          "critique": "Les communiqués de presse sur Mars utilisent volontiers le mot « vie » dans leurs titres. Le carbone macromoléculaire est un ingrédient, pas une preuve. Quant au retour d'échantillons, le programme a été plusieurs fois retardé pour des raisons budgétaires : c'est lui, et non un nouveau rover, qui conditionne la réponse.",
+          "sources": [
+            {"label": "ScienceDaily (Mars)", "url": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm"},
+            {"label": "ScienceDaily (eau)", "url": "https://sciencedaily.com/releases/2026/11/261110042549.htm"}
+          ]
+        },
+        {
+          "kicker": "Droit international · Nucléaire",
+          "title": "Peut-on quitter le TNP ?",
+          "minutes": 2,
+          "chapo": "L'Iran évoque une sortie du traité de non-prolifération. La procédure existe, elle n'a été utilisée qu'une fois.",
+          "body": [
+            "Le traité de non-prolifération nucléaire est entré en vigueur en mars 1970. Il repose sur un marché à trois volets : les États non dotés renoncent à l'arme (articles I à III), tous ont droit à l'usage pacifique du nucléaire (article IV), et les États dotés s'engagent à négocier le désarmement (article VI). Seuls cinq pays y sont reconnus « États dotés » : ceux qui avaient fait exploser un engin nucléaire avant le 1er janvier 1967, soit les États-Unis, la Russie, la Chine, la France et le Royaume-Uni.",
+            "Il compte 191 États parties si l'on inclut la Corée du Nord. Quatre pays n'en sont pas membres : l'Inde, le Pakistan, Israël et le Soudan du Sud. Pour y entrer, les trois premiers devraient renoncer à leurs armes. Le traité a été prorogé indéfiniment en 1995.",
+            "L'article X prévoit la sortie : un État peut se retirer s'il estime que des « événements extraordinaires » liés au traité ont compromis ses intérêts suprêmes. Il doit notifier les autres parties et le Conseil de sécurité trois mois à l'avance, en expliquant ces événements. Un seul pays l'a fait : la Corée du Nord, qui a annoncé son retrait le 10 janvier 2003, avec effet dès le lendemain, en arguant d'un préavis donné dès 1993 puis suspendu. Trois ans plus tard, en 2006, elle procédait à son premier essai nucléaire.",
+            "Pour l'Iran, l'enjeu concret est l'inspection. Sortir du TNP mettrait fin aux garanties de l'AIEA, déjà quasiment suspendues dans les faits depuis le début de la guerre."
+          ],
+          "critique": "Le TNP est souvent critiqué pour son asymétrie : il fige le club de 1967 et l'obligation de désarmement de l'article VI reste sans calendrier. C'est l'argument central des pays qui menacent d'en sortir. Le précédent nord-coréen montre aussi que le Conseil de sécurité n'a jamais su sanctionner un retrait.",
+          "sources": [
+            {"label": "Arms Control Association", "url": "https://www.armscontrol.org/factsheets/nptfact"},
+            {"label": "Kashmir Observer", "url": "https://kashmirobserver.net/2026/11/12/iran-mulls-npt-exit-nuclear-doctrine-overhaul/"}
+          ]
+        },
+        {
+          "kicker": "Énergie · Ingénierie",
+          "title": "Omsk, ou pourquoi une raffinerie vaut plus qu'un puits",
+          "minutes": 2,
+          "chapo": "21 millions de tonnes par an, une « profondeur de raffinage » de 99 % : ce que ces chiffres veulent dire.",
+          "body": [
+            "Une raffinerie ne « brûle » pas le pétrole, elle le sépare puis le transforme. Première étape, la distillation atmosphérique : le brut est chauffé vers 350-400 °C et envoyé dans une colonne où ses composants se condensent à différentes hauteurs selon leur température d'ébullition. En haut, les gaz et l'essence légère ; au milieu, le kérosène et le gazole ; en bas, un résidu lourd.",
+            "Ce résidu est le problème. Sans traitement, il ne vaut que comme fioul lourd, peu cher. Les unités de conversion (craquage catalytique, hydrocraquage, cokéfaction) cassent ces grosses molécules en carburants légers à forte valeur. La « profondeur de raffinage » mesure la part du brut transformée en produits autres que le fioul lourd. L'état-major ukrainien attribue à Omsk environ 99 %, l'une des plus élevées de Russie, où la moyenne est historiquement bien plus basse.",
+            "Ordre de grandeur : 21 millions de tonnes par an, avec environ 7,3 barils par tonne, font près de 420 000 barils par jour. Selon les sources ukrainiennes, le site produirait un litre sur six de l'essence et du gazole russes.",
+            "C'est ce qui en fait une cible : on peut remplacer un puits, mais les unités de conversion sont des équipements sur mesure, souvent conçus avec des technologies occidentales aujourd'hui sous sanctions. Les frapper prive l'armée de carburant et oblige la Russie à exporter plus de brut et moins de produits raffinés, moins rentables pour elle."
+          ],
+          "critique": "Les dégâts réels des frappes sont presque toujours invérifiables à court terme : Kyiv a intérêt à les grossir, Moscou à les minimiser. Le bon indicateur arrive des semaines plus tard, dans les statistiques d'exportation de carburants et les prix à la pompe russes.",
+          "sources": [
+            {"label": "Kyiv Independent", "url": "https://kyivindependent.com/russias-largest-oil-refinery-slammed-by-drones-in-8-hr-attack-2-500-km-from-ukraine/"}
+          ]
+        },
+        {
+          "kicker": "Finance",
+          "title": "Pourquoi un taux qui monte fait baisser une obligation",
+          "minutes": 1,
+          "chapo": "Le 10 ans américain a pris 14 points de base en une séance. Pour un détenteur d'obligations, c'est une perte immédiate.",
+          "body": [
+            "Une obligation verse des coupons fixes. Si les nouveaux emprunts rapportent plus, les anciens deviennent moins attractifs : leur prix baisse jusqu'à ce que leur rendement rejoigne celui du marché. Le prix et le taux évoluent donc en sens inverse.",
+            "L'ampleur se mesure par la duration, durée de vie moyenne pondérée des flux. Règle d'ingénieur : variation de prix ≈ −duration × variation de taux. Une obligation à 10 ans a une duration d'environ 8 ans. Passer de 4,99 % à 5,13 % (+0,14 point) fait perdre environ 8 × 0,14 ≈ 1,1 % de valeur, en une journée, sur un actif réputé sans risque."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-131805045.html"}
+          ]
+        },
+        {
+          "kicker": "Langue · Histoire",
+          "title": "Vendredi 13 et saint Brice",
+          "minutes": 1,
+          "chapo": "Une peur au nom imprononçable et un saint tourangeau.",
+          "body": [
+            "La peur du vendredi 13 porte un nom savant : la paraskevidékatriaphobie, du grec paraskeuê (vendredi, littéralement « préparation » du sabbat), dekatreis (treize) et phobos (peur). Elle combine deux superstitions plus anciennes, le treize, nombre des convives de la Cène, et le vendredi, jour de la crucifixion. Une année compte au moins un et au plus trois vendredis 13 ; 2026 en compte trois (février, mars, novembre).",
+            "Le 13 novembre est aussi la Saint-Brice. Brice fut le successeur de saint Martin, fêté avant-hier, sur le siège épiscopal de Tours, au début du Ve siècle. La date reste associée en Angleterre au massacre de la Saint-Brice, en 1002, quand le roi Æthelred ordonna de tuer les Danois installés dans le royaume. En France, le 13 novembre est d'abord, depuis 2015, la date des attentats de Paris et Saint-Denis, qui ont fait 130 morts."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Euronews", "url": "https://euronews.com/2026/11/12/doomsday-study-calculated-humanitys-end-on-friday-13-november-2026"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "En quelle année la croissance de la population mondiale a-t-elle atteint son maximum ?",
+        "min": 1900,
+        "max": 2020,
+        "step": 1,
+        "unit": "",
+        "answer": 1963,
+        "explain": "En 1963, avec plus de 2 % par an. Trois ans plus tôt, von Foerster prolongeait la tendance jusqu'à une population infinie en 2026. La croissance est passée sous 1 % vers 2020."
+      },
+      "flashcards": [
+        {"front": "Croissance hyperbolique", "back": "N(t) = C / (t₀ − t). Le taux de croissance augmente avec la population, d'où une explosion en temps fini à t = t₀. À distinguer de l'exponentielle, à taux constant."},
+        {"front": "Règle de 70", "back": "Une grandeur qui croît de r % par an double en environ 70/r ans. À 2 %, doublement en 35 ans ; à 7 %, en 10 ans."},
+        {"front": "Transition démographique", "back": "Passage d'une forte mortalité et forte natalité à une faible mortalité et faible natalité. Entre les deux, la mortalité baisse avant la natalité : la population explose."},
+        {"front": "Spectroscopie Raman", "back": "Un laser éclaire l'échantillon ; une infime partie de la lumière est diffusée avec une énergie modifiée par les vibrations des liaisons chimiques. Le spectre identifie minéraux et molécules sans contact."},
+        {"front": "Profondeur de raffinage", "back": "Part du brut convertie en produits autres que le fioul lourd. Elle mesure la sophistication d'une raffinerie et la valeur qu'elle tire de chaque baril."},
+        {"front": "Duration", "back": "Durée de vie moyenne pondérée des flux d'une obligation. Elle donne la sensibilité du prix au taux : ΔP/P ≈ −D × Δr."},
+        {"front": "Paraskevidékatriaphobie", "back": "Peur du vendredi 13, du grec paraskeuê (vendredi), dekatreis (treize) et phobos (peur)."}
+      ],
+      "quiz": [
+        {"q": "Dans quelle revue von Foerster a-t-il publié sa « date de fin du monde » ?", "choices": ["Nature", "Science", "The Lancet", "Scientific American"], "answer": 1, "explain": "Dans Science, en 1960, sous le titre « Doomsday: Friday, 13 November, A.D. 2026 »."},
+        {"q": "Quel instrument de Perseverance a détecté le carbone macromoléculaire ?", "choices": ["SuperCam", "PIXL", "SHERLOC", "MOXIE"], "answer": 2, "explain": "SHERLOC, un spectromètre Raman placé sur le bras robotique du rover."},
+        {"q": "Quelle réaction produit l'eau dans l'expérience de Nature Geoscience ?", "choices": ["Combustion du méthane", "Réduction de l'oxyde de fer par l'hydrogène", "Fusion de glace cométaire", "Photolyse de l'ammoniac"], "answer": 1, "explain": "FeO + H₂ → Fe + H₂O : près de 80 % de l'oxyde de fer est réduit en fer métallique entre 1 200 et 1 400 °C."},
+        {"q": "Quel est le seul pays à s'être retiré du TNP ?", "choices": ["Inde", "Israël", "Corée du Nord", "Pakistan"], "answer": 2, "explain": "La Corée du Nord, en janvier 2003. L'Inde, Israël et le Pakistan n'y ont jamais adhéré."},
+        {"q": "Une obligation de duration 8 subit une hausse de taux de 0,5 point. Quelle perte de valeur, environ ?", "choices": ["0,5 %", "1,6 %", "4 %", "8 %"], "answer": 2, "explain": "Environ −8 × 0,5 = −4 %."}
+      ]
+    }
+  ]
+}
