@@ -1,0 +1,785 @@
+{
+ "date": "2026-11-14",
+ "weekday": "samedi",
+ "saint": "Saint Sidoine",
+ "headline": "L'Iran vise Bahreïn, Anthropic fixe son prix d'entrée en Bourse, et le Sénat vote un budget de la Sécu allégé de 3,2 milliards.",
+ "chapters": [
+  {
+   "id": "monde",
+   "name": "Monde",
+   "minutes": 10,
+   "lede": [
+    "Les Gardiens de la révolution disent avoir frappé un radar américain à Bahreïn, une première depuis septembre. L'AIEA avoue ne pas savoir où se trouve une usine d'enrichissement iranienne.",
+    "Anthropic fixe sa fourchette : 70 à 78 dollars par action, jusqu'à 1 404 milliards de valorisation, cotation au Nasdaq prévue le 19 novembre.",
+    "L'AIE annonce le retour d'un marché pétrolier excédentaire, une première depuis le début de la guerre. Bitcoin passe sous 70 000 dollars."
+   ],
+   "articles": [
+    {
+     "kicker": "Iran · Golfe",
+     "minutes": 3,
+     "title": "Bahreïn visé, l'AIEA dans le brouillard",
+     "chapo": "Téhéran revendique la destruction d'un radar d'alerte avancée américain à Bahreïn et dit avoir abattu un drone Predator. Un méthanier de GPL saute sur une mine dans Ormuz. Un rapport confidentiel de l'AIEA s'inquiète d'une usine d'enrichissement que personne n'a vue.",
+     "body": [
+      "La « pause fragile » de la guerre commencée le 28 février a pris un coup vendredi 13 novembre. Les Gardiens de la révolution (CGRI) affirment avoir détruit un radar d'alerte avancée américain à Bahreïn, l'île qui abrite le quartier général de la Ve flotte. C'est leur première attaque revendiquée contre ce pays depuis début septembre. Téhéran la présente comme une riposte à une frappe aérienne qui aurait touché, la veille, une tour de télécommunications dans le district de Sirik, sur la côte du Hormozgan. L'armée américaine a démenti la destruction du radar ; Washington a en revanche indiqué avoir abattu dans la journée deux drones d'attaque iraniens lancés vers Bahreïn.",
+      "La marine iranienne dit de son côté avoir abattu un drone américain MQ-1 Predator au-dessus du détroit, au large de Sirik. Le même jour, le CGRI a annoncé qu'un navire transportant du gaz de pétrole liquéfié avait heurté une mine navale et explosé dans Ormuz. Ces affirmations n'ont pas été confirmées de source indépendante au moment de la rédaction.",
+      "Donald Trump, interrogé par l'animateur Hugh Hewitt, a répété qu'il frapperait de nouveau l'Iran s'il voyait les choses « aller dans l'autre sens », et qu'il considérerait comme une défaite le maintien du régime à l'issue de son mandat. Il affirme que les États-Unis contrôlent « totalement » le détroit, alors même que des navires y sont attaqués presque chaque jour. Le blocus des ports iraniens est maintenu.",
+      "Le volet nucléaire s'assombrit. Un rapport confidentiel de l'Agence internationale de l'énergie atomique (AIEA), diffusé vendredi aux États membres, se dit « de plus en plus préoccupé » par l'usine d'enrichissement d'Ispahan (IFEP). L'Iran l'a déclarée en juin 2025, mais n'y a jamais laissé entrer les inspecteurs : l'agence ignore son emplacement exact, son état et son contenu. Elle n'a pas non plus eu accès aux sites frappés pendant la guerre de juin 2025. Téhéran répond que les discussions sur les inspections ne peuvent pas avancer « sous la menace militaire », et proteste contre l'offre américaine d'une récompense pouvant atteindre 20 millions de dollars pour toute information sur son programme.",
+      "Ce rapport arrive au lendemain de la déclaration de l'Assemblée des experts sur une possible sortie du TNP. L'enchaînement est logique : moins d'inspections, c'est moins de visibilité, donc plus de place pour les pires hypothèses de part et d'autre."
+     ],
+     "critique": "Toutes les informations militaires de la journée viennent de communiqués de belligérants : le CGRI revendique, Washington dément ou ne commente pas. Aucune image vérifiée du radar ni de l'épave du drone n'avait été publiée. À l'inverse, le rapport de l'AIEA est un document technique, mais il mesure une absence (ce que l'agence ne voit pas), pas une preuve de militarisation.",
+     "sources": [
+      {
+       "label": "Times of Israel (live 13/11)",
+       "url": "https://www.timesofisrael.com/liveblog-november-13-2026/"
+      },
+      {
+       "label": "Drop Site News",
+       "url": "https://www.dropsitenews.com/p/iran-hits-us-radar-in-bahrain-van"
+      },
+      {
+       "label": "Khaleej Times (live 13/11)",
+       "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-13-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "Tech · Bourse",
+     "minutes": 3,
+     "title": "Anthropic veut lever jusqu'à 64 milliards en Bourse",
+     "chapo": "La société qui développe Claude fixe sa fourchette d'introduction entre 70 et 78 dollars par action. Au sommet, elle vaudrait 1 404 milliards de dollars. Les acheteurs auront peu de pouvoir sur une entreprise qui perd beaucoup d'argent.",
+     "body": [
+      "Le dossier mis à jour auprès du régulateur américain prévoit l'émission de 825 millions d'actions de classe A entre 70 et 78 dollars, soit 57,75 à 64,35 milliards de dollars levés. La cotation est attendue au Nasdaq vers le 19 novembre, sous le symbole « ANT ». Jusqu'à 20 % de l'offre seraient réservés aux particuliers. Goldman Sachs et Morgan Stanley figurent parmi les banques chargées de l'opération.",
+      "En parallèle, Anthropic vendra 26 milliards de dollars d'actions sans droit de vote (classe N), au prix de l'introduction, à AMD, Broadcom, Google, Micron, Microsoft, Nvidia et TSMC. Google et Nvidia y mettent chacun 10 milliards. Le produit net total est estimé entre 84,6 et 93,7 milliards de dollars, le haut de la fourchette supposant que les banques exercent leur option sur 123,75 millions d'actions supplémentaires.",
+      "La valorisation maximale de 1 404 milliards dépasse celle de la levée de mai (965 milliards), mais reste sous les quelque 2 000 milliards visés il y a deux mois. OpenAI aurait été valorisé 1 250 milliards la semaine dernière, après n'avoir levé que 11 des 20 milliards espérés.",
+      "Les comptes montrent une croissance et des pertes hors normes. Le chiffre d'affaires annualisé atteignait 81 milliards de dollars fin octobre, environ 10 milliards de plus qu'un mois plus tôt. Le troisième trimestre a rapporté 17 milliards ; les neuf premiers mois, 33,2 milliards. Sur la même période, la perte nette atteint 104 milliards. Les engagements en calcul et en infrastructures se montent à 900,9 milliards de dollars, contre près de 132 milliards de trésorerie et placements à court terme.",
+      "La gouvernance verrouille le contrôle. Anthropic est une « public benefit corporation ». Les fondateurs détiennent une action de classe F qui porte 50,1 % des droits de vote, et le Long-Term Benefit Trust élit la majorité du conseil. Les sept cofondateurs prévoient de vendre chacun près de 3,4 millions d'actions, environ 250 millions de dollars par personne au milieu de la fourchette. Détail révélateur de l'époque : le prospectus emploie « super intelligence » (SI) comme synonyme d'IA, conformément à un décret de Donald Trump de septembre."
+     ],
+     "critique": "Note de transparence : ce briefing est rédigé avec Claude, le modèle d'Anthropic. Sur le fond, trois chiffres méritent d'être mis côte à côte : 104 milliards de pertes en neuf mois, 901 milliards d'engagements de calcul, et des fournisseurs (Nvidia, Google, Microsoft) qui achètent aussi des actions. Une partie de l'argent circule en boucle entre clients et fournisseurs. Le flottant (4 à 5 % du capital) est trop petit pour que le prix reflète un vrai consensus.",
+     "sources": [
+      {
+       "label": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+      },
+      {
+       "label": "Eurasia Business News",
+       "url": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/"
+      }
+     ]
+    },
+    {
+     "kicker": "Énergie · Marchés",
+     "minutes": 2,
+     "title": "L'AIE voit revenir l'excédent de pétrole",
+     "chapo": "Pour la première fois depuis le début de la guerre, l'offre mondiale de pétrole dépasse la demande. Les exportations du Golfe remontent, mais restent 26 % sous leur niveau d'avant-guerre.",
+     "body": [
+      "Dans son rapport mensuel publié le 13 novembre, l'Agence internationale de l'énergie prévoit un retour à l'excédent au quatrième trimestre 2026, et un excédent plus large en 2027. Elle relève de 3,3 millions de barils par jour (Mb/j) son estimation de l'offre pour ce trimestre.",
+      "La production mondiale a progressé de 5,3 Mb/j depuis août, une hausse qualifiée d'« extraordinaire ». Sur un an, la baisse n'est plus que de 2,9 Mb/j, contre une perte moyenne de 8 Mb/j entre mars et septembre. Les exportations des pays du Golfe (hors Oman) ont atteint 18,4 Mb/j en octobre, soit 26 % de moins qu'avant la guerre. Les produits raffinés et le GPL ne sont qu'à la moitié de leur niveau d'avant-guerre. Les stocks de brut ont augmenté de 1,7 Mb/j en octobre.",
+      "La demande mondiale reculerait de 2,7 Mb/j en 2026, à 102,3 Mb/j, avant de reprendre 2 Mb/j en 2027. Environ 80 % de cette reprise viendrait du GPL, de l'éthane et du naphta, c'est-à-dire de la pétrochimie. Les carburants de transport progresseraient peu, car les prix élevés ont accéléré l'électrification et les gains d'efficacité. Le diesel reste « très tendu », à des prix records, en particulier aux États-Unis, d'autant que les frappes ukrainiennes sur les raffineries russes réduisent l'offre.",
+      "Le marché avait anticipé : le Brent a clôturé vendredi à 95,84 dollars, quasi stable, et le WTI à 88,56 dollars (−0,2 %), en route vers une deuxième baisse hebdomadaire. Adnoc, la compagnie d'Abu Dhabi, devrait achever vers janvier un second oléoduc de contournement d'Ormuz, selon un dirigeant d'Inpex cité par Reuters."
+     ],
+     "critique": "Un excédent sur le papier n'est pas un marché détendu : le même rapport cite les attaques de pétroliers dans Ormuz comme principal risque. Un baril encore à 96 dollars avec un « excédent » dit surtout que les acheteurs paient une prime de risque. Et l'AIE, qui a sous-estimé la reprise de l'offre de 3,3 Mb/j, peut aussi se tromper dans l'autre sens.",
+     "sources": [
+      {
+       "label": "The National (AIE)",
+       "url": "https://www.thenationalnews.com/business/energy/2026/11/13/oil-market-to-return-to-surplus-for-first-time-since-start-of-iran-war-iea-says/"
+      },
+      {
+       "label": "Khaleej Times (live 13/11)",
+       "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-13-2026"
+      },
+      {
+       "label": "Eurasia Business News",
+       "url": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/"
+      }
+     ]
+    },
+    {
+     "kicker": "Ukraine · Europe",
+     "minutes": 2,
+     "title": "L'Europe obtient sa chaise à la table",
+     "chapo": "Réunis à Dublin, les dirigeants européens enverront une équipe aux prochains pourparlers d'Abu Dhabi. Ursula von der Leyen annonce un 22e paquet de sanctions et un plan de financement de l'Ukraine pour 2027.",
+     "body": [
+      "Après le sommet de la Communauté politique européenne, qui a réuni 50 dirigeants à Dublin le 12 novembre, les Vingt-Sept ont tenu le 13 une réunion informelle autour du Taoiseach Micheál Martin. Ils ont entendu le compte rendu des envoyés américains Jared Kushner et Steve Witkoff, qui avaient rencontré Volodymyr Zelensky sur la base aérienne de Baldonnel en revenant de Moscou.",
+      "Le changement est de méthode. Kushner a déclaré qu'on « ne peut pas conclure cet accord sans les Européens à la table », et indiqué que les deux camps ont accepté d'élargir le prochain tour, prévu à Abu Dhabi la semaine prochaine, à des partenaires européens, pour traiter à la fois du territoire et de l'architecture de sécurité européenne d'après-guerre. Zelensky veut une équipe européenne « dedans, pas à côté », avec « une voix ». Pour Ursula von der Leyen, c'est « une évidence ».",
+      "Reste à savoir qui parlera pour l'Europe. Giorgia Meloni a souligné que le chevauchement de l'OTAN, de l'UE et de la « coalition des volontaires » empêche l'Union de parler d'une seule voix. Les besoins de financement de l'Ukraine pour 2027 sont estimés à environ 70 milliards d'euros. La Commission présentera avant le Conseil européen des 26 et 27 novembre une proposition de financement et un 22e paquet de sanctions. Kaja Kallas a déjà annoncé près de 1 600 inscriptions visant le complexe militaro-industriel russe et des personnes liées aux scrutins organisés dans les territoires occupés.",
+      "Zelensky annonce aussi un échange de prisonniers qui serait « le plus important à ce jour ». Vladimir Poutine a de nouveau rejeté toute présence de troupes étrangères en Ukraine après un accord. Les désaccords sur le territoire et les garanties de sécurité restent entiers."
+     ],
+     "critique": "Être à la table ne garantit pas de peser : l'Europe paie l'essentiel (70 milliards d'euros pour 2027) sans maîtriser le calendrier, fixé entre Washington, Moscou et Kyiv. Et le refus russe de troupes étrangères vide d'avance une partie des « garanties de sécurité » que les Européens viendraient négocier.",
+     "sources": [
+      {
+       "label": "RTÉ",
+       "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/"
+      },
+      {
+       "label": "ANI",
+       "url": "https://www.aninews.in/news/world/europe/ursula-von-der-leyen-says-europes-inclusion-in-ukraine-peace-talks-is-self-explanatory-announces-22nd-russia-sanctions-package20261113180600/"
+      },
+      {
+       "label": "Times of Israel (live 13/11)",
+       "url": "https://www.timesofisrael.com/liveblog-november-13-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Marchés",
+     "minutes": 1,
+     "title": "Une bonne semaine, un vendredi nerveux",
+     "chapo": "Les trois indices américains finissent la semaine en hausse de plus de 2 %, mais la tech recule vendredi. Bitcoin tombe sous 70 000 dollars pour la première fois depuis août.",
+     "body": [
+      "Vendredi, le S&P 500 a cédé 0,40 % à 7 561,67 points et le Nasdaq 0,91 % à 25 136,27, tandis que le Dow Jones gagnait 0,10 % à 52 347,55. Sur la semaine, le S&P prend environ 2,5 %, le Nasdaq 2,3 % et le Dow 2,1 %. À Paris, le CAC 40 termine quasi stable (+0,09 %, 8 369 points) et gagne 2,8 % en cinq séances.",
+      "Nvidia a encore reculé d'environ 2 %, soit −12,75 % sur la semaine de la démission de Jensen Huang ; ses résultats sont attendus mardi. Nebius a chuté de 12 % après avoir abaissé sa prévision de chiffre d'affaires et relevé fortement ses investissements. Microsoft a reculé après une panne mondiale de Microsoft 365, sans lien avec une cyberattaque selon le groupe. À l'inverse, AMD (+18,9 %) et Broadcom (+18,2 %) signent les plus fortes hausses hebdomadaires.",
+      "Bitcoin est passé sous 70 000 dollars, au plus bas depuis le 19 août, et l'ether sous 2 000 dollars. Plus de 1,3 milliard de dollars de positions à effet de levier ont été liquidées en 24 heures. En cause : un dollar au plus haut depuis avril 2025 et la crainte d'une hausse de taux d'un demi-point en décembre. Les prix à la production américains ont pourtant progressé moins que prévu en octobre (+0,3 % sur un mois), et le taux à 10 ans s'approche de 5,15 %."
+     ],
+     "critique": "Les variations hebdomadaires masquent la concentration : quelques valeurs de semi-conducteurs font l'essentiel de la hausse, et la chute de Nvidia montre à quel point les indices dépendent d'une poignée de titres.",
+     "sources": [
+      {
+       "label": "Eurasia Business News",
+       "url": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/"
+      },
+      {
+       "label": "TheStreet (live 13/11)",
+       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026"
+      },
+      {
+       "label": "CoinDesk",
+       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace"
+      },
+      {
+       "label": "MoneyVox",
+       "url": "https://www.moneyvox.fr/bourse/actualites/111240/le-cac-40-totalenergies-en-forme-le-journal-de-la-bourse-du-vendredi-13-novembre-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "En bref",
+     "minutes": 1,
+     "title": "Washington, Cuba, Starship",
+     "chapo": "Les démocrates se disputent le Sénat, Trump parle d'une opération contre Cuba, et SpaceX renonce à rattraper son booster.",
+     "body": [
+      "Sénat. Le démocrate Chris Van Hollen défie Chuck Schumer pour la direction de la future majorité. Il promet d'utiliser l'échéance budgétaire de décembre pour tenter de mettre fin à la guerre contre l'Iran. Vote à huis clos en décembre ; il faut 28 voix sur 55.",
+      "Cuba. Donald Trump dit qu'il aimerait « pouvoir » mener une opération militaire contre l'île et vouloir « régler Cuba » avant la fin de son mandat. Le dossier est piloté par Marco Rubio.",
+      "Expulsions. Selon CBS, l'ICE a expulsé un record de 483 200 personnes sur l'exercice 2026, contre 442 640 l'année précédente.",
+      "Starship. Le 15e vol a décollé proprement de Starbase. Un des 33 moteurs du booster s'est arrêté ; SpaceX a renoncé à le rattraper à la tour, et il a fini dans le golfe du Mexique. Le vaisseau a atteint l'orbite et largué ses 26 satellites Starlink V3. La tentative de capture du vaisseau par la tour était prévue environ 22 h 30 après le décollage.",
+      "Microsoft 365. La panne d'Exchange Online, de Teams et de SharePoint, commencée le 12 novembre, s'est prolongée le 13. Microsoft dit n'avoir « aucune preuve d'activité malveillante »."
+     ],
+     "critique": "",
+     "sources": [
+      {
+       "label": "Drop Site News",
+       "url": "https://www.dropsitenews.com/p/iran-hits-us-radar-in-bahrain-van"
+      },
+      {
+       "label": "Hot Air (Starship)",
+       "url": "https://hotair.com/john-s-2/2026/11/13/starship-test-flight-15-has-a-clean-launch-but-no-tower-catch-n3820990"
+      },
+      {
+       "label": "Wikipedia : Starship flight 15",
+       "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
+      },
+      {
+       "label": "SecurityWeek",
+       "url": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/"
+      }
+     ]
+    }
+   ],
+   "board": [
+    {
+     "label": "S&P 500",
+     "value": "7 562",
+     "change": -0.4
+    },
+    {
+     "label": "Nasdaq",
+     "value": "25 136",
+     "change": -0.91
+    },
+    {
+     "label": "Dow Jones",
+     "value": "52 348",
+     "change": 0.1
+    },
+    {
+     "label": "CAC 40",
+     "value": "8 369",
+     "change": 0.09
+    },
+    {
+     "label": "Bitcoin",
+     "value": "≈67 000 $",
+     "change": -2.7
+    },
+    {
+     "label": "Or (once)",
+     "value": "3 883 $",
+     "change": 0.18
+    },
+    {
+     "label": "Brent (baril)",
+     "value": "95,8 $",
+     "change": 0.02
+    },
+    {
+     "label": "WTI (baril)",
+     "value": "88,6 $",
+     "change": -0.2
+    }
+   ],
+   "boardNote": "Clôtures du vendredi 13 novembre. Semaine : S&P +2,5 %, Nasdaq +2,3 %, Dow +2,1 %, CAC +2,8 %. Taux US à 10 ans vers 5,15 %. Nvidia −12,75 % sur la semaine. Bitcoin et or : cours de fin de séance approximatifs.",
+   "estimate": {
+    "question": "À combien de milliards de dollars s'élève la perte nette d'Anthropic sur les neuf premiers mois de 2026 ?",
+    "min": 0,
+    "max": 200,
+    "step": 1,
+    "unit": "Md$",
+    "answer": 104,
+    "explain": "104 milliards de dollars, pour 33,2 milliards de chiffre d'affaires sur la même période : environ 3 dollars perdus pour 1 dollar facturé. L'essentiel vient du coût du calcul, avec 900,9 milliards d'engagements d'infrastructure."
+   },
+   "flashcards": [
+    {
+     "front": "IFEP",
+     "back": "Usine d'enrichissement de combustible d'Ispahan, déclarée par l'Iran en juin 2025. L'AIEA n'y a jamais eu accès et ignore son emplacement exact."
+    },
+    {
+     "front": "Classe F (Anthropic)",
+     "back": "Action détenue par les fondateurs, qui porte 50,1 % des droits de vote. Les actions A vendues en Bourse donnent peu de pouvoir ; les actions N, vendues à des industriels, n'en donnent aucun."
+    },
+    {
+     "front": "Option de surallocation (greenshoe)",
+     "back": "Droit des banques d'émettre jusqu'à 15 % d'actions en plus si la demande est forte. Chez Anthropic : 123,75 millions d'actions pour 825 millions offertes."
+    },
+    {
+     "front": "Excédent pétrolier",
+     "back": "Situation où l'offre mondiale dépasse la demande : les stocks montent. L'AIE le prévoit au 4e trimestre 2026, une première depuis le début de la guerre."
+    },
+    {
+     "front": "Exportations du Golfe (oct. 2026)",
+     "back": "18,4 millions de barils par jour hors Oman, soit 26 % sous le niveau d'avant-guerre."
+    },
+    {
+     "front": "Liquidation (crypto)",
+     "back": "Fermeture forcée d'une position à effet de levier quand les pertes dépassent la marge déposée. Plus de 1,3 milliard de dollars liquidés en 24 h le 13 novembre."
+    },
+    {
+     "front": "Ve flotte",
+     "back": "Flotte américaine du Moyen-Orient, dont le quartier général est à Bahreïn."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Sous quel symbole Anthropic doit-il être coté au Nasdaq ?",
+     "choices": [
+      "ANTH",
+      "CLDE",
+      "ANT",
+      "AI"
+     ],
+     "answer": 2,
+     "explain": "« ANT », avec une première cotation attendue vers le 19 novembre."
+    },
+    {
+     "q": "Que reproche l'AIEA à l'Iran au sujet de l'usine d'Ispahan ?",
+     "choices": [
+      "Elle enrichit à 90 %",
+      "L'agence ignore son emplacement et son état",
+      "Elle a été détruite",
+      "Elle produit du plutonium"
+     ],
+     "answer": 1,
+     "explain": "Déclarée en juin 2025, elle n'a jamais été inspectée : l'AIEA ne sait ni où elle se trouve exactement ni ce qu'elle contient."
+    },
+    {
+     "q": "Selon l'AIE, d'où viendra l'essentiel de la hausse de la demande de pétrole en 2027 ?",
+     "choices": [
+      "Aviation",
+      "Diesel routier",
+      "Pétrochimie (GPL, éthane, naphta)",
+      "Centrales électriques"
+     ],
+     "answer": 2,
+     "explain": "Environ 80 % de la hausse : ce sont des matières premières de la chimie, pas des carburants."
+    },
+    {
+     "q": "À combien sont estimés les besoins de financement de l'Ukraine pour 2027 ?",
+     "choices": [
+      "20 Md€",
+      "45 Md€",
+      "70 Md€",
+      "150 Md€"
+     ],
+     "answer": 2,
+     "explain": "Environ 70 milliards d'euros, discutés par les dirigeants européens à Dublin."
+    },
+    {
+     "q": "Qu'est-il arrivé au booster du 15e vol de Starship ?",
+     "choices": [
+      "Rattrapé par la tour",
+      "Amerri dans le golfe du Mexique",
+      "Explosé au décollage",
+      "Resté en orbite"
+     ],
+     "answer": 1,
+     "explain": "Un moteur s'étant arrêté, SpaceX a renoncé à la capture ; le booster a fini dans le golfe du Mexique."
+    }
+   ]
+  },
+  {
+   "id": "france",
+   "name": "France",
+   "minutes": 10,
+   "lede": [
+    "Le Sénat adopte le volet recettes du budget de la Sécu (200 voix contre 110), allégé de 3,2 milliards par rapport au texte du gouvernement. Le vote solennel est prévu mardi 18 novembre.",
+    "Sébastien Lecornu ouvre un mois de discussions avec les syndicats de fonctionnaires sur les bas salaires. Le point d'indice reste gelé, la CFDT rejoint la grève du 17 novembre.",
+    "L'État va apporter environ 322 millions d'euros pour sauver le bilan d'Eramet. Le chômage se stabilise à 8,2 %, mais le chômage de longue durée atteint un sommet depuis 2022."
+   ],
+   "articles": [
+    {
+     "kicker": "Parlement · Sécurité sociale",
+     "minutes": 3,
+     "title": "Le Sénat vote des recettes, mais moins",
+     "chapo": "La majorité de droite et du centre adopte la partie recettes du PLFSS 2027 en supprimant ou en adoucissant plusieurs prélèvements. Le déficit visé reste fixé à 12,7 milliards d'euros, à charge de trouver des économies dans la partie dépenses.",
+     "body": [
+      "Vendredi 13 novembre, le Sénat a adopté par 200 voix contre 110 la première partie du projet de loi de financement de la Sécurité sociale pour 2027. La gauche et le groupe RN-UDR ont voté contre. Pour mémoire, l'Assemblée avait rejeté cette même partie en octobre, ce qui avait entraîné le rejet du texte entier avant même l'examen des dépenses : le Sénat travaille donc sur la version du gouvernement.",
+      "Trois retouches pèsent lourd. La contribution exceptionnelle demandée aux complémentaires santé, 1,1 milliard d'euros, est supprimée. La réforme du calcul des allègements généraux de cotisations patronales est repoussée de trois mois, au 1er avril, ce qui coûte 500 millions. Et la hausse des cotisations retraite des employeurs territoriaux et hospitaliers (CNRACL) est limitée à 1,4 milliard au lieu de 1,8. En revanche, le financement de la CNSA, la caisse de l'autonomie, est maintenu malgré le transfert d'une part de CSG aux départements.",
+      "Selon le ministre David Amiel, ces votes dégradent le solde d'environ 3,2 milliards par rapport au texte initial, une estimation « technique » à ce stade. La majorité sénatoriale garde pourtant l'objectif d'un déficit de 12,7 milliards en 2027, contre 21,8 milliards attendus en 2026. Il faudra donc compenser dans la partie dépenses, examinée vendredi soir puis lundi et mardi.",
+      "Plusieurs batailles y attendent les sénateurs. L'article 35 déroge à l'indexation des pensions sur l'inflation : le gouvernement ne revaloriserait que les pensions jusqu'à 1 260 euros, la commission propose 1 500 euros. La commission et le groupe Les Indépendants veulent aussi rétablir la réforme des retraites de 2023, suspendue l'an dernier (un enjeu d'environ 600 millions selon le rapporteur Olivier Henno). L'article 37 conditionne les prestations familiales et les APL des étrangers hors UE à un an de résidence, pour 62 millions d'économies par an ; le RN-UDR propose trois ans, une sénatrice cinq, un seuil déjà censuré par le Conseil constitutionnel en 2024. Enfin, le gouvernement veut ramener la prise en charge des cures thermales de 65 % à 15 %, soit 200 millions d'économies.",
+      "Le vote solennel sur l'ensemble est prévu le 18 novembre. La question de l'indexation des retraites rebondira dans le projet de loi de finances, discuté au Sénat à partir du 20 novembre."
+     ],
+     "critique": "Le Sénat retire 3,2 milliards de recettes tout en gardant l'objectif de déficit : l'équation repose sur des économies qui ne sont pas encore votées, souvent prises sur les retraités ou les assurés. Et ce texte, voté par une chambre dominée par la droite et le centre, n'a aucune garantie de survivre à la commission mixte paritaire puis à une Assemblée qui l'a déjà rejeté.",
+     "sources": [
+      {
+       "label": "Public Sénat (recettes)",
+       "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-le-senat-adopte-un-volet-recettes-affaibli"
+      },
+      {
+       "label": "Public Sénat (points chauds)",
+       "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre"
+      }
+     ]
+    },
+    {
+     "kicker": "Social · Fonction publique",
+     "minutes": 2,
+     "title": "Cinq chantiers, zéro point d'indice",
+     "chapo": "Le Premier ministre a reçu les syndicats de fonctionnaires à Matignon et ouvre un mois de négociations. Les syndicats jugent les annonces insuffisantes et maintiennent la grève du mardi 17 novembre.",
+     "body": [
+      "Sébastien Lecornu a annoncé vendredi « une discussion rapide d'un mois sur cinq chantiers ». Au menu : des mesures d'urgence pour les plus bas salaires et une refonte structurelle des grilles, l'égalité salariale entre femmes et hommes, la prise en charge d'une partie des frais de transport, une meilleure protection des agents blessés ou menacés, et la transparence, la neutralité et l'indépendance des fonctionnaires. Il reverra les syndicats le 11 décembre, après les élections professionnelles, et vise des accords à la mi-décembre.",
+      "Le point d'indice, qui sert de base au calcul du traitement de tous les fonctionnaires, reste gelé. C'est le cœur du conflit. La CGT, par la voix de Sophie Binet, parle d'annonces « en décalage avec l'urgence sociale » et d'une réunion inutile. La CFDT Fonctions publiques, plus modérée d'habitude, rejoint l'appel à la grève et à la mobilisation du 17 novembre, et rappelle que le traitement de base de centaines de milliers d'agents reste inférieur au Smic.",
+      "Ce constat découle d'une mécanique simple : le Smic est indexé automatiquement sur l'inflation, les grilles de la fonction publique ne le sont pas. Quand le Smic monte et que le point d'indice ne bouge pas, les premiers échelons passent sous le salaire minimum, et l'État doit verser une indemnité différentielle pour atteindre le Smic. Le coup de pouce de 0,6 % accordé au Smic pour le 1er décembre aggrave mécaniquement ce tassement."
+     ],
+     "critique": "Le gouvernement négocie sans budget voté : tout engagement chiffré dépend d'un projet de loi de finances que l'Assemblée a rejeté. Ouvrir des discussions juste avant les élections professionnelles et une grève permet aussi de montrer de la bonne volonté à moindre coût.",
+     "sources": [
+      {
+       "label": "Echos Plus",
+       "url": "https://echosplus.com/2026/11/13/fonction-publique-lecornu-ouvre-des-negociations-sur-les-bas-salaires-avant-la-greve-du-17-novembre/"
+      }
+     ]
+    },
+    {
+     "kicker": "Industrie · État actionnaire",
+     "minutes": 2,
+     "title": "Eramet appelle l'État à la rescousse",
+     "chapo": "Le groupe minier lance une augmentation de capital d'environ 500 millions d'euros avec une décote de 62 %. L'État en apporte les deux tiers. L'action perd 10,6 %.",
+     "body": [
+      "Eramet, producteur de manganèse, de nickel, de sables minéralisés et de lithium, émet 34,5 millions d'actions nouvelles à 14,49 euros, à raison de 6 actions nouvelles pour 5 anciennes. Le prix est inférieur de 62,3 % au cours de clôture du 11 novembre (38,48 euros), et de 42,9 % à la valeur théorique de l'action après détachement du droit (25,39 euros). Le produit servira à réduire la dette, renforcer le bilan et respecter les engagements pris envers les banques.",
+      "L'Agence des participations de l'État, via FSI Equation, s'engage à souscrire environ 64 % de l'opération, soit près de 322 millions d'euros. Elle souscrit sa part (27,1 % du capital) et rachète à prix réduit les droits de Sorame-CEIR, l'autre actionnaire de référence, qui ne suivra pas. Les droits de vote effectifs de l'État en assemblée générale seront plafonnés à 49 %.",
+      "Vendredi, l'action a chuté de 10,64 % à 32,92 euros ; elle a perdu 41 % depuis janvier. Calendrier : détachement des droits le 16 novembre, souscription du 18 au 27 novembre, résultats le 2 décembre, nouvelles actions livrées le 4 décembre."
+     ],
+     "critique": "Le communiqué ne chiffre pas la dette et ne dit rien des actifs en difficulté. Le choix de l'État se défend au nom des métaux critiques, mais il revient à faire porter au contribuable le risque que l'actionnaire familial refuse de prendre. Le plafond à 49 % des votes évite surtout une nationalisation de fait, avec ses obligations.",
+     "sources": [
+      {
+       "label": "Eramet (communiqué)",
+       "url": "https://www.globenewswire.com/news-release/2026/11/13/3402390/0/en/eramet-launches-a-c-500-million-share-capital-increase-with-preferential-subscription-rights.html"
+      },
+      {
+       "label": "MoneyVox",
+       "url": "https://www.moneyvox.fr/bourse/actualites/111240/le-cac-40-totalenergies-en-forme-le-journal-de-la-bourse-du-vendredi-13-novembre-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "Emploi",
+     "minutes": 1,
+     "title": "Chômage : la pause, pas le reflux",
+     "chapo": "Le taux de chômage recule de 0,1 point au troisième trimestre, à 8,2 %. Sur un an, il a pris 0,4 point.",
+     "body": [
+      "Selon l'Insee, la France comptait 2,6 millions de chômeurs au sens du BIT au troisième trimestre, 47 000 de moins qu'au trimestre précédent mais 150 000 de plus qu'un an plus tôt. Chez les 15-24 ans, le taux atteint 21 %, en hausse de 1,6 point sur un an.",
+      "Le signal le plus inquiétant est le chômage de longue durée : 2,1 % de la population active, soit 680 000 personnes, son plus haut niveau depuis le deuxième trimestre 2022. Le taux d'emploi des 15-64 ans est de 69,1 %. Celui des 50-64 ans atteint 69,3 %, du jamais-vu depuis le début de la mesure en 1975, effet direct des reculs successifs de l'âge de départ."
+     ],
+     "critique": "Une baisse de 0,1 point est inférieure à la marge d'erreur habituelle de l'enquête Emploi (environ ± 0,3 point) : statistiquement, c'est une stabilité, pas une amélioration.",
+     "sources": [
+      {
+       "label": "La Gazette du Midi (Insee)",
+       "url": "https://gazette-du-midi.fr/au-sommaire/hommes-et-chiffres/barometre/t3-2026-le-chomage-se-stabilise-a-8-2-en-france"
+      },
+      {
+       "label": "Insee",
+       "url": "https://www.insee.fr/fr/statistiques/9118603"
+      }
+     ]
+    },
+    {
+     "kicker": "Présidentielle 2027",
+     "minutes": 1,
+     "title": "Le Pen très haut, la deuxième place disputée",
+     "chapo": "La moyenne des cinq derniers sondages place le RN à 34 % au premier tour, loin devant La France insoumise.",
+     "body": [
+      "D'après la moyenne calculée par le site Elections2027 sur des enquêtes de Cluster17, OpinionWay, Toluna Harris et l'Ifop (la plus récente datée du 10 novembre), Marine Le Pen obtient 34 % (+0,9 point), Jean-Luc Mélenchon 18,1 % (+1,4), Raphaël Glucksmann 11,3 % (−2), Édouard Philippe 11,1 %, David Lisnard 8,4 % (+2,1) et Gabriel Attal 6 %.",
+      "Le maire de Cannes est la dynamique du moment : un autre sondage le donne à au moins 10 %, juste derrière Philippe et Glucksmann. Pour le bloc central et la gauche modérée, l'enjeu est désormais d'éviter un second tour Le Pen–Mélenchon."
+     ],
+     "critique": "Une moyenne de sondages n'est pas un sondage, et la marge d'erreur d'une enquête (environ ± 2,7 points) suffit à intervertir les candidats placés entre 8 et 12 %. À cinq mois du scrutin, les intentions de vote mesurent surtout la notoriété.",
+     "sources": [
+      {
+       "label": "Elections2027.com",
+       "url": "https://elections2027.com/article/2026-11-13-sondages-presidentielle-2027-moyenne-des-derniers-sondages"
+      }
+     ]
+    },
+    {
+     "kicker": "En bref",
+     "minutes": 1,
+     "title": "Mémoire, Bourse, autoroutes",
+     "chapo": "Onze ans après le 13-Novembre, un hommage citoyen ; TotalEnergies soutient le CAC 40.",
+     "body": [
+      "13-Novembre. Onze ans après les attentats (132 morts au Stade de France, sur les terrasses et au Bataclan), l'association Life for Paris a organisé vendredi soir au Jardin du 13-Novembre-2015 un « hommage citoyen » à « toutes les victimes du terrorisme », y compris celles de l'attaque raciste du 23 octobre à La Verrière et Trappes. Son président, Arthur Dénouveaux, rescapé du Bataclan, déplore l'absence d'unité nationale. Emmanuel Macron a appelé à « se battre contre ceux qui veulent nous abattre ».",
+      "Bourse. TotalEnergies a gagné 1,9 % avec le pétrole. Eiffage a perdu 10 % depuis janvier : le budget 2027 pourrait alourdir la fiscalité des concessions autoroutières, pour un impact estimé à 110 millions d'euros sur son bénéfice net."
+     ],
+     "critique": "",
+     "sources": [
+      {
+       "label": "Sud Radio (AFP)",
+       "url": "https://sudradio.fr/societe/onze-ans-apres-le-13-novembre-un-hommage-citoyen-a-toutes-les-victimes-du-terrorisme"
+      },
+      {
+       "label": "MoneyVox",
+       "url": "https://www.moneyvox.fr/bourse/actualites/111240/le-cac-40-totalenergies-en-forme-le-journal-de-la-bourse-du-vendredi-13-novembre-2026"
+      }
+     ]
+    }
+   ],
+   "estimate": {
+    "question": "Combien de personnes sont au chômage depuis plus d'un an en France (3e trimestre 2026) ?",
+    "min": 100000,
+    "max": 1500000,
+    "step": 10000,
+    "unit": "personnes",
+    "answer": 680000,
+    "explain": "Environ 680 000, soit 2,1 % de la population active et 82 000 de plus en un an. C'est le plus haut niveau depuis le printemps 2022 : un peu plus d'un chômeur sur quatre l'est depuis plus d'un an."
+   },
+   "flashcards": [
+    {
+     "front": "PLFSS",
+     "back": "Projet de loi de financement de la Sécurité sociale. Voté chaque automne, en deux parties : recettes puis dépenses. Le rejet de la première partie entraîne le rejet de tout le texte."
+    },
+    {
+     "front": "Allègements généraux",
+     "back": "Réductions de cotisations patronales sur les salaires proches du Smic. Le gouvernement veut y intégrer participation et intéressement ; le Sénat repousse la mesure au 1er avril."
+    },
+    {
+     "front": "CNRACL",
+     "back": "Caisse de retraite des fonctionnaires territoriaux et hospitaliers. La hausse des cotisations employeurs est limitée à 1,4 Md€ par le Sénat."
+    },
+    {
+     "front": "Point d'indice",
+     "back": "Valeur qui, multipliée par l'indice de l'agent, donne son traitement de base. Gelé, il fait passer les premiers échelons sous le Smic, qui est, lui, indexé."
+    },
+    {
+     "front": "Augmentation de capital avec DPS",
+     "back": "Émission d'actions nouvelles réservée en priorité aux actionnaires existants, qui reçoivent des droits négociables. Eramet : 6 nouvelles pour 5 anciennes à 14,49 €."
+    },
+    {
+     "front": "APE",
+     "back": "Agence des participations de l'État : gère les participations publiques (EDF, Renault, Eramet…). Elle apporte environ 322 M€ à Eramet."
+    },
+    {
+     "front": "Chômage au sens du BIT",
+     "back": "Sans emploi la semaine de référence, disponible sous 15 jours et ayant cherché activement un emploi dans le dernier mois. Mesuré par l'enquête Emploi de l'Insee."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Par quel score le Sénat a-t-il adopté le volet recettes du PLFSS 2027 ?",
+     "choices": [
+      "458-0",
+      "200-110",
+      "175-130",
+      "49-63"
+     ],
+     "answer": 1,
+     "explain": "200 voix contre 110 ; la gauche et le RN-UDR ont voté contre."
+    },
+    {
+     "q": "Quelle contribution le Sénat a-t-il supprimée ?",
+     "choices": [
+      "La taxe sucre",
+      "La contribution des complémentaires santé (1,1 Md€)",
+      "La CSG sur les retraites",
+      "La taxe Shein"
+     ],
+     "answer": 1,
+     "explain": "La contribution exceptionnelle des complémentaires santé, 1,1 milliard d'euros."
+    },
+    {
+     "q": "Quelle part de l'augmentation de capital d'Eramet l'État souscrit-il ?",
+     "choices": [
+      "27 %",
+      "49 %",
+      "64 %",
+      "100 %"
+     ],
+     "answer": 2,
+     "explain": "Environ 64 %, soit 322 millions d'euros : sa part de 27,1 % plus les droits rachetés à Sorame-CEIR."
+    },
+    {
+     "q": "Quel est le taux de chômage des 15-24 ans au 3e trimestre 2026 ?",
+     "choices": [
+      "8,2 %",
+      "14 %",
+      "21 %",
+      "28 %"
+     ],
+     "answer": 2,
+     "explain": "21 %, en hausse de 1,6 point sur un an."
+    },
+    {
+     "q": "Quand les syndicats de fonctionnaires sont-ils appelés à la grève ?",
+     "choices": [
+      "11 décembre",
+      "17 novembre",
+      "20 novembre",
+      "1er décembre"
+     ],
+     "answer": 1,
+     "explain": "Mardi 17 novembre ; la CFDT Fonctions publiques s'est jointe à l'appel."
+    }
+   ]
+  },
+  {
+   "id": "savoirs",
+   "name": "Savoirs",
+   "minutes": 10,
+   "lede": [
+    "Fourchette, livre d'ordres, option de surallocation : comment se fixe le prix d'une introduction en Bourse, et pourquoi un droit de souscription Eramet vaut 13,09 euros.",
+    "Rattraper un booster avec une tour : la physique et l'économie de la réutilisation, au lendemain du 15e vol de Starship.",
+    "Quand des serveurs tombent, les autres tombent aussi : anatomie d'une panne en cascade. Et pourquoi la demande de pétrole de demain sera surtout chimique."
+   ],
+   "articles": [
+    {
+     "kicker": "Finance · Mécanismes",
+     "minutes": 2,
+     "title": "Comment on fixe le prix d'une entrée en Bourse",
+     "chapo": "Anthropic annonce une fourchette de 70 à 78 dollars. Le prix final sortira d'un « livre d'ordres » que tiennent les banques. Petit guide de la mécanique.",
+     "body": [
+      "Une introduction en Bourse commence par une fourchette indicative, publiée dans le prospectus. Pendant une à deux semaines, les banques chefs de file font le tour des grands investisseurs (le « roadshow ») et recueillent leurs intentions : combien d'actions, à quel prix maximum. C'est la construction du livre d'ordres, ou book-building. Si la demande dépasse largement l'offre, le prix final est fixé en haut de la fourchette, voire au-dessus ; sinon, en bas.",
+      "Les banques disposent souvent d'une option de surallocation, dite « greenshoe » : le droit d'émettre jusqu'à 15 % d'actions en plus. Chez Anthropic, 123,75 millions d'actions s'ajoutent aux 825 millions de l'offre de base, soit exactement 15 %. Elle sert aussi à stabiliser le cours dans les premières semaines : si le titre baisse, les banques rachètent sur le marché plutôt que d'exercer l'option.",
+      "Un ordre de grandeur aide à lire l'opération. Au milieu de la fourchette (74 dollars), 825 millions d'actions représentent environ 61 milliards de dollars, pour une valorisation de l'ordre de 1 330 milliards : le flottant, c'est-à-dire la part du capital réellement échangée en Bourse, est d'environ 4,6 %. Avec un flottant si étroit, quelques ordres suffisent à faire bouger fortement le prix, dans un sens comme dans l'autre.",
+      "Dernier point : la valorisation « entièrement diluée » compte toutes les actions qui existeront si les options et actions gratuites des salariés sont exercées. C'est la mesure la plus prudente, et c'est celle qui donne les 1 404 milliards au sommet de la fourchette."
+     ],
+     "critique": "Le prix d'introduction est le résultat d'une négociation, pas d'un calcul : les banques sont payées en pourcentage des fonds levés, mais elles ont aussi intérêt à ce que leurs clients investisseurs réalisent un gain le premier jour. D'où la sous-évaluation fréquente des introductions.",
+     "sources": [
+      {
+       "label": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+      }
+     ]
+    },
+    {
+     "kicker": "Finance · Calcul",
+     "minutes": 2,
+     "title": "Que vaut un droit préférentiel de souscription ?",
+     "chapo": "Eramet émet ses actions nouvelles à 14,49 euros, quand le titre valait 38,48 euros. Pour que les anciens actionnaires ne soient pas lésés, ils reçoivent un droit négociable. Sa valeur se calcule en une ligne.",
+     "body": [
+      "Quand une entreprise vend des actions bien en dessous du cours, elle dilue ses actionnaires : la même entreprise est partagée entre plus de titres, dont certains ont été payés moins cher. Le droit préférentiel de souscription (DPS) compense cette perte. Chaque action ancienne reçoit un droit, qui permet de souscrire en priorité ou de revendre ce droit en Bourse.",
+      "Le calcul passe par le cours théorique après détachement, ou « TERP ». Chez Eramet, 5 actions anciennes donnent droit à 6 nouvelles. Un portefeuille de 5 actions anciennes à 38,48 euros vaut 192,40 euros ; en souscrivant 6 actions à 14,49 euros, on ajoute 86,94 euros. On détient alors 11 actions pour 279,34 euros, soit 25,39 euros par action : c'est le TERP.",
+      "La valeur théorique d'un droit est l'écart entre le cours d'avant et le TERP : 38,48 − 25,39 = 13,09 euros, exactement le chiffre du communiqué. Un actionnaire qui ne souscrit pas et vend ses droits récupère donc, en théorie, la valeur perdue. La décote « réelle », mesurée par rapport au TERP, est de 42,9 %, nettement moins spectaculaire que les 62,3 % affichés par rapport au dernier cours.",
+      "Le calcul reste théorique : il suppose que le marché valorise l'entreprise au même prix total, augmenté de l'argent frais. Dans les faits, l'action a perdu 10,6 % le jour de l'annonce, avant même le détachement des droits."
+     ],
+     "critique": "",
+     "sources": [
+      {
+       "label": "Eramet (communiqué)",
+       "url": "https://www.globenewswire.com/news-release/2026/11/13/3402390/0/en/eramet-launches-a-c-500-million-share-capital-increase-with-preferential-subscription-rights.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Espace · Ingénierie",
+     "minutes": 2,
+     "title": "Pourquoi SpaceX veut attraper ses fusées",
+     "chapo": "Au 15e vol, SpaceX visait une première : rattraper à la tour le booster et le vaisseau Starship. Le booster a raté son rendez-vous. Ce qui se joue, c'est le coût du kilo en orbite.",
+     "body": [
+      "Une fusée classique est un objet jetable : on construit un engin de plusieurs dizaines de millions de dollars pour quelques minutes de vol. La réutilisation change l'équation, à condition que la récupération et la remise en état coûtent beaucoup moins que la construction. SpaceX l'a démontré avec le premier étage du Falcon 9, qui se pose sur des barges ou à terre.",
+      "Starship pousse la logique plus loin. Le booster Super Heavy, propulsé par 33 moteurs Raptor, ne se pose pas sur des jambes : il revient vers son pas de tir et se fait saisir par les bras de la tour de lancement. On économise ainsi la masse des jambes d'atterrissage, qui devrait sinon être emportée à chaque vol, et on remet le booster directement en position de tir. Au vol 15, l'arrêt d'un des 33 moteurs a conduit SpaceX à renoncer prudemment à la capture : le booster a fini dans le golfe du Mexique.",
+      "Le vaisseau, lui, a atteint l'orbite et largué 26 satellites Starlink V3. Il devait rester environ 21 heures en orbite, soit une quatorzaine de tours : une orbite basse se boucle en un peu plus d'une heure et demie, à près de 28 000 km/h. Avant de tenter d'être rattrapé à son tour, il doit freiner, traverser l'atmosphère protégé par son bouclier thermique, puis manœuvrer vers Starbase. Elon Musk estimait à 50-60 % les chances de réussir la capture du vaisseau du premier coup.",
+      "L'enjeu dépasse les satellites : la NASA compte sur une version de Starship pour poser des astronautes sur la Lune, ce qui exige de le ravitailler en orbite par d'autres Starship. Cela n'a de sens économique que si ces vols de ravitaillement sont nombreux, rapides et peu coûteux, donc réutilisables."
+     ],
+     "critique": "La réutilisation n'est rentable qu'au-delà d'une certaine cadence de vols, et l'entretien entre deux vols reste mal documenté publiquement. Les chiffres de coût au kilo avancés par SpaceX sont des objectifs, pas des constats.",
+     "sources": [
+      {
+       "label": "Wikipedia : Starship flight 15",
+       "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
+      },
+      {
+       "label": "Hot Air (Starship)",
+       "url": "https://hotair.com/john-s-2/2026/11/13/starship-test-flight-15-has-a-clean-launch-but-no-tower-catch-n3820990"
+      }
+     ]
+    },
+    {
+     "kicker": "Informatique · Réseaux",
+     "minutes": 2,
+     "title": "Anatomie d'une panne en cascade",
+     "chapo": "La panne de Microsoft 365 n'a pas été causée par un afflux de trafic, mais par la disparition d'une partie des serveurs. Un scénario classique en informatique distribuée.",
+     "body": [
+      "Microsoft décrit la séquence : un grand nombre de serveurs est devenu indisponible, laissant les machines restantes absorber le trafic, alors même que celui-ci n'avait pas augmenté. Le processus qui établit les connexions sécurisées a été submergé, et les serveurs touchés ont cessé de répondre. Le groupe a commencé à annuler un changement récent de configuration réseau, intervenu au moment où la panne a démarré.",
+      "Le mécanisme porte un nom : la défaillance en cascade. Imaginons 100 serveurs chargés à 70 %. Si 30 tombent, les 70 restants doivent porter 100 % de la charge de départ : chacun passe à 100 % de sa capacité. Au moindre pic, certains saturent et tombent à leur tour, ce qui alourdit encore la charge des survivants.",
+      "Deux phénomènes aggravent la boucle. D'abord, la poignée de main TLS, qui chiffre chaque nouvelle connexion, est coûteuse en calcul : quand des millions de clients se reconnectent en même temps, les processeurs saturent. Ensuite, les contrôles de santé automatiques retirent du circuit les serveurs jugés lents, ce qui reporte encore la charge sur les autres. Microsoft a d'ailleurs testé un contournement de ce composant.",
+      "Les parades sont connues : garder de la marge de capacité, faire attendre les clients avec un délai aléatoire croissant avant de se reconnecter (le « backoff exponentiel »), et déployer les changements de configuration progressivement, région par région. La panne a touché Exchange Online, Teams, SharePoint et Copilot : quand la messagerie tombe, tout ce qui en dépend tombe avec elle."
+     ],
+     "critique": "Microsoft n'avait pas publié de cause définitive au moment de la rédaction ; le rapport post-incident est promis. L'épisode illustre surtout la concentration : une seule entreprise héberge la messagerie d'une grande partie des administrations et des entreprises européennes.",
+     "sources": [
+      {
+       "label": "SecurityWeek",
+       "url": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/"
+      }
+     ]
+    },
+    {
+     "kicker": "Énergie · Chimie",
+     "minutes": 1,
+     "title": "Le pétrole de demain sera surtout du plastique",
+     "chapo": "Selon l'AIE, 80 % de la hausse de la demande pétrolière en 2027 viendra du GPL, de l'éthane et du naphta. Ce ne sont pas des carburants, mais les matières premières de la chimie.",
+     "body": [
+      "L'éthane, le propane (une composante du GPL) et le naphta, une coupe légère de pétrole, alimentent des vapocraqueurs. Ces unités chauffent les hydrocarbures vers 800 °C pendant une fraction de seconde, en présence de vapeur d'eau, pour casser les molécules en petites briques : éthylène, propylène, butadiène. Polymérisées, ces briques deviennent du polyéthylène (sacs, films, bouteilles), du polypropylène (pièces auto, emballages) ou des caoutchoucs synthétiques.",
+      "C'est pourquoi l'électrification des transports ne fait pas disparaître le pétrole : elle déplace sa demande. Les carburants routiers progressent peu, freinés par les prix élevés, les véhicules électriques et les gains d'efficacité, tandis que la chimie continue de croître avec la consommation de plastiques, surtout en Asie."
+     ],
+     "critique": "",
+     "sources": [
+      {
+       "label": "The National (AIE)",
+       "url": "https://www.thenationalnews.com/business/energy/2026/11/13/oil-market-to-return-to-surplus-for-first-time-since-start-of-iran-war-iea-says/"
+      }
+     ]
+    },
+    {
+     "kicker": "Sport · Art · Calendrier",
+     "minutes": 1,
+     "title": "Turin, Monet et saint Sidoine",
+     "chapo": "Un Français au Masters de tennis pour la première fois depuis 2016, et l'anniversaire du peintre qui a donné son nom à l'impressionnisme.",
+     "body": [
+      "Tennis. Les ATP Finals se jouent à Turin du 15 au 22 novembre entre les huit meilleurs joueurs de la saison. Arthur Fils, 22 ans, vainqueur à Cincinnati, est le premier Français qualifié depuis Gaël Monfils en 2016. L'Espagnol Rafael Jodar, 20 ans, encore étudiant à l'université de Virginie et 166e mondial il y a un an, devient le premier joueur qualifié dès sa première saison sur le circuit. Format : deux poules de quatre, puis demi-finales et finale le dimanche 22.",
+      "Art. Claude Monet est né le 14 novembre 1840 à Paris. Son tableau « Impression, soleil levant », exposé en 1874 chez le photographe Nadar, boulevard des Capucines, a inspiré au critique Louis Leroy le terme moqueur d'« impressionnistes », dans Le Charivari du 25 avril 1874. Les grands panneaux des Nymphéas ont été installés à l'Orangerie en 1927, quelques mois après sa mort.",
+      "Calendrier. Le 14 novembre, on fête saint Sidoine."
+     ],
+     "critique": "",
+     "sources": [
+      {
+       "label": "Univers Tennis",
+       "url": "https://www.universtennis.com/2026/11/13/atp-finals-2026-les-huit-joueurs-qualifies-pour-le-masters-de-turin-sont-officiellement-connus/"
+      },
+      {
+       "label": "Wikipédia : Claude Monet",
+       "url": "https://fr.wikipedia.org/wiki/Claude_Monet"
+      }
+     ]
+    }
+   ],
+   "estimate": {
+    "question": "Quelle part du capital d'Anthropic sera réellement échangée en Bourse après l'introduction (milieu de fourchette) ?",
+    "min": 0,
+    "max": 50,
+    "step": 0.1,
+    "unit": "%",
+    "answer": 4.6,
+    "explain": "Environ 4,6 % : 825 millions d'actions à 74 dollars, soit 61 milliards, pour une valorisation de l'ordre de 1 330 milliards. Un flottant aussi étroit rend le cours très sensible aux ordres d'achat et de vente."
+   },
+   "flashcards": [
+    {
+     "front": "Book-building",
+     "back": "Construction du livre d'ordres : les banques recueillent les intentions d'achat des investisseurs (quantité, prix maximum) pour fixer le prix final d'une introduction."
+    },
+    {
+     "front": "Flottant",
+     "back": "Part du capital d'une société cotée réellement disponible à l'échange. Plus il est faible, plus le cours est volatil."
+    },
+    {
+     "front": "TERP",
+     "back": "Theoretical ex-rights price : cours théorique après une augmentation de capital. (N anciennes × cours + M nouvelles × prix d'émission) / (N + M)."
+    },
+    {
+     "front": "Valeur d'un DPS",
+     "back": "Cours avant détachement − TERP. Eramet : 38,48 − 25,39 = 13,09 €."
+    },
+    {
+     "front": "Défaillance en cascade",
+     "back": "La panne d'une partie des serveurs reporte la charge sur les autres, qui saturent et tombent à leur tour."
+    },
+    {
+     "front": "Backoff exponentiel",
+     "back": "Les clients attendent un délai qui double à chaque échec (plus un aléa) avant de se reconnecter, pour ne pas submerger un service qui redémarre."
+    },
+    {
+     "front": "Vapocraquage",
+     "back": "Procédé qui casse éthane, propane ou naphta vers 800 °C en présence de vapeur, pour produire éthylène et propylène, bases des plastiques."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Quel pourcentage de l'offre représente une option de surallocation classique ?",
+     "choices": [
+      "5 %",
+      "10 %",
+      "15 %",
+      "25 %"
+     ],
+     "answer": 2,
+     "explain": "15 % : chez Anthropic, 123,75 millions d'actions pour 825 millions."
+    },
+    {
+     "q": "Eramet : 5 actions à 38,48 € donnent droit à 6 nouvelles à 14,49 €. Quel est le TERP ?",
+     "choices": [
+      "14,49 €",
+      "25,39 €",
+      "26,49 €",
+      "32,92 €"
+     ],
+     "answer": 1,
+     "explain": "(5 × 38,48 + 6 × 14,49) / 11 = 279,34 / 11 = 25,39 €."
+    },
+    {
+     "q": "Pourquoi SpaceX préfère-t-il rattraper ses boosters avec la tour ?",
+     "choices": [
+      "Pour économiser la masse des jambes et réutiliser plus vite",
+      "Parce que la mer est interdite",
+      "Pour refroidir les moteurs",
+      "Pour éviter les bangs supersoniques"
+     ],
+     "answer": 0,
+     "explain": "Pas de jambes d'atterrissage à emporter, et le booster est remis directement en position."
+    },
+    {
+     "q": "Que fait un vapocraqueur ?",
+     "choices": [
+      "Il raffine le diesel",
+      "Il casse des hydrocarbures légers en éthylène et propylène",
+      "Il liquéfie le gaz naturel",
+      "Il désulfure le pétrole"
+     ],
+     "answer": 1,
+     "explain": "Il casse éthane, propane ou naphta à haute température pour produire les briques des plastiques."
+    },
+    {
+     "q": "Qui a inventé le mot « impressionnistes », d'après une toile de Monet ?",
+     "choices": [
+      "Émile Zola",
+      "Charles Baudelaire",
+      "Louis Leroy",
+      "Nadar"
+     ],
+     "answer": 2,
+     "explain": "Le critique Louis Leroy, ironiquement, dans Le Charivari du 25 avril 1874."
+    }
+   ]
+  }
+ ]
+}
