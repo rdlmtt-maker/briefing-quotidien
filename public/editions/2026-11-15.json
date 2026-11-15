@@ -1,0 +1,764 @@
+{
+ "date": "2026-11-15",
+ "weekday": "dimanche",
+ "saint": "Saint Albert",
+ "headline": "Un routeur cloue l'Amérique au sol, Trump, Xi et Poutine se donnent rendez-vous à Shenzhen, et Larcher veut un seul candidat pour la droite.",
+ "chapters": [
+  {
+   "id": "monde",
+   "name": "Monde",
+   "minutes": 10,
+   "lede": [
+    "Un routeur défaillant sur le réseau de télécommunications de l'aviation civile a cloué au sol tous les départs aux États-Unis pendant plus de quatre heures : plus de 9 100 vols annulés vendredi, 3 700 de plus samedi.",
+    "Le Kremlin confirme une rencontre à trois entre Donald Trump, Xi Jinping et Vladimir Poutine le 19 novembre à Shenzhen, en marge de l'APEC. Au menu : le nucléaire et l'Iran, pas l'Ukraine.",
+    "Volodymyr Zelensky affirme que Washington a évoqué l'OTAN en échange d'un retrait du Donbass. Le bitcoin tombe à 63 500 dollars, deux fois moins que son record."
+   ],
+   "articles": [
+    {
+     "kicker": "États-Unis · Transport aérien",
+     "minutes": 3,
+     "title": "Un routeur, et toute l'Amérique reste au sol",
+     "chapo": "Vendredi 13 novembre, l'Administration fédérale de l'aviation (FAA) a interdit tout décollage dans le pays après une panne de son réseau de télécommunications. Le gouvernement désigne un sous-traitant, L3Harris, qui remplaçait du cuivre par de la fibre, et réclame 50 milliards de dollars au Congrès.",
+     "body": [
+      "Vendredi à 15 h 36, heure de New York, les centres de contrôle aérien américains constatent une instabilité des données radar et des communications. Une vingtaine de minutes plus tard, la FAA ordonne un « ground stop » national : plus aucun avion ne décolle vers ou depuis un aéroport américain. L'interdiction est levée à 20 h 15. Environ 3 100 appareils étaient alors en vol vers les États-Unis selon Flightradar24 ; ils ont pu se poser normalement. À la demande de la FAA, Eurocontrol a aussi suspendu les vols vers les États-Unis depuis ses 42 États membres.",
+      "Le bilan est lourd. FlightAware compte 9 159 annulations et 7 190 retards vendredi, la deuxième pire journée de l'année après la tempête de neige du 25 janvier (11 607 annulations). Samedi, plus de 3 700 vols supplémentaires ont été annulés, dont 640 chez Delta, 530 chez United et 488 chez American. L'administrateur de la FAA, Bryan Bedford, prévoyait 4 000 à 5 000 annulations sur environ 41 000 vols programmés. Robert Sumwalt, ancien président du NTSB, parle d'un événement « absolument sans précédent » : c'est le plus long arrêt national depuis le 11 septembre 2001.",
+      "La cause se précise. Le réseau en cause, le FTI (FAA Telecommunications Infrastructure), relie plus de 4 400 sites : centres de contrôle, radars, liaisons radio. Il appartient à L3Harris, qui l'exploite depuis un contrat signé en 2002. Selon le secrétaire aux Transports, Sean Duffy, une équipe de L3Harris basculait vendredi après-midi des lignes « du vieux cuivre vers la fibre » sur au moins un site isolé. Un routeur a alors « inondé » les autres de « plus de 1 000 tentatives de connexion toutes les quatre à cinq secondes ». Les premières constatations de la FAA visent des routeurs Cisco fabriqués entre 2001 et 2006.",
+      "Le secrétaire à la Sécurité intérieure, Markwayne Mullin, assure qu'il n'y a « aucune indication » d'un acte malveillant et aucun lien avec la panne de Microsoft de la veille. Sean Duffy veut savoir s'il y a eu « incompétence ». L'action L3Harris a reculé de 4,2 % après la clôture, à 261 dollars. Un précédent existe : en novembre 2009, un technicien de Harris avait mal configuré un routeur pendant une migration vers la fibre, perturbant 129 installations.",
+      "Le gouvernement réclame désormais 50 milliards de dollars au Congrès pour remplacer l'ensemble du système, contre 30 milliards demandés auparavant ; AT&T a été choisi en août pour construire le futur réseau. « Vous en aurez d'autres » sans modernisation, prévient Sean Duffy. Dès novembre 2023, une revue de sécurité commandée par la FAA jugeait le FTI obsolète."
+     ],
+     "critique": "Les explications ont changé en vingt-quatre heures : routeurs saturés par des correctifs de sécurité selon Markwayne Mullin vendredi, intervention d'un sous-traitant selon Sean Duffy samedi. Désigner L3Harris sert aussi le récit politique d'un gouvernement qui réclame 50 milliards. Le problème de fond n'est pas un routeur : c'est un réseau unique, sans voie de secours séparée, dont la migration traîne depuis des années (2 560 lignes de cuivre sur 5 170 remplacées en mai 2026 selon le GAO).",
+     "sources": [
+      {
+       "label": "CBS News",
+       "url": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/"
+      },
+      {
+       "label": "24/7 Wall St.",
+       "url": "https://247wallst.com/investing/2026/11/14/duffy-says-an-l3harris-crew-was-working-on-the-faa-network-when-flights-stopped-its-stock-fell-4-after-hours/"
+      },
+      {
+       "label": "Analyse technique (Substack)",
+       "url": "https://nemock.substack.com/p/what-happened-at-the-faa-old-routers"
+      },
+      {
+       "label": "Times of Israel (live 14/11)",
+       "url": "https://www.timesofisrael.com/liveblog-november-14-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Diplomatie · Nucléaire",
+     "minutes": 2,
+     "title": "Trump, Xi, Poutine : une photo à trois à Shenzhen",
+     "chapo": "Le Kremlin et la Maison-Blanche confirment une rencontre trilatérale inédite le 19 novembre, en marge du sommet de l'APEC. Washington veut parler désarmement nucléaire. Personne n'attend d'accord.",
+     "body": [
+      "« Un accord a été trouvé pour tenir une réunion trilatérale le 19 », a déclaré samedi Dmitri Peskov, porte-parole du Kremlin, à l'agence Tass. La rencontre aura lieu à Shenzhen, dans le sud de la Chine, pendant le sommet de la Coopération économique Asie-Pacifique (18 et 19 novembre). Ce sera la première réunion de ce format entre les dirigeants des trois premières puissances nucléaires. Aucun tête-à-tête Poutine-Trump n'est prévu pour l'instant, selon le conseiller du Kremlin Iouri Ouchakov.",
+      "La Maison-Blanche affiche une priorité : la limitation des armes nucléaires. Le traité New START, qui plafonnait les arsenaux stratégiques américain et russe, a expiré le 5 février 2026. Donald Trump a refusé de le prolonger et veut un accord « nouveau, amélioré et modernisé » incluant la Chine, dont l'arsenal progresse le plus vite. Pékin juge ce format « ni juste, ni raisonnable, ni réaliste ». Un haut responsable américain prévient : « Nous ne nous attendons à aucun type d'accord. »",
+      "L'Iran sera aussi sur la table. Avant la guerre, un tiers du pétrole brut importé par la Chine passait par Ormuz, fermé depuis plus de cent jours. L'Ukraine, en revanche, n'est pas au programme : Washington la traite dans un canal séparé, sans Pékin. Côté russe, le président de la commission des Affaires étrangères de la Douma, Piotr Tolstoï, parle d'un possible « nouveau Yalta » ; Dmitri Peskov précise que des accords conclus à trois ne pourraient pas être imposés aux autres pays."
+     ],
+     "critique": "La référence à Yalta dit l'essentiel du calcul russe : se présenter comme l'égal des deux autres et discuter de la sécurité européenne sans les Européens. Pour Donald Trump, affaibli par la défaite des midterms, la photo compte autant que le fond. Et la Chine n'a aucun intérêt à figer par traité un arsenal qu'elle est en train d'agrandir.",
+     "sources": [
+      {
+       "label": "Anadolu (Kremlin)",
+       "url": "https://aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
+      },
+      {
+       "label": "Al Jazeera",
+       "url": "https://www.aljazeera.com/amp/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
+      },
+      {
+       "label": "Wikipedia : New START",
+       "url": "https://en.wikipedia.org/wiki/New_START"
+      }
+     ]
+    },
+    {
+     "kicker": "Ukraine · Négociations",
+     "minutes": 2,
+     "title": "L'OTAN contre le Donbass, une question lancée par Washington",
+     "chapo": "Selon Volodymyr Zelensky, les négociateurs américains ont demandé à Abu Dhabi si Kiev retirerait ses troupes du Donbass en échange d'une adhésion à l'Alliance. Il refuse, mais n'exclut pas un référendum sous conditions.",
+     "body": [
+      "Devant la presse vendredi (propos publiés samedi), le président ukrainien a raconté que les émissaires américains avaient posé, pour la première fois, cette question pendant les pourparlers d'Abu Dhabi : l'Ukraine retirerait-elle ses troupes des parties du Donbass qu'elle contrôle encore si elle entrait dans l'OTAN ? Il précise qu'il n'existe aucune offre concrète. « L'OTAN est de retour à l'ordre du jour », résume-t-il.",
+      "Sa réponse tient en deux temps. Pas de retrait. Mais il pourrait soumettre la question à référendum si Kiev obtenait des garanties de sécurité solides, un financement de son armée et des fonds pour la reconstruction. La veille, il avait écarté toute révision de la Constitution pour inscrire la neutralité du pays. Moscou exige à l'inverse le retrait ukrainien de tout le Donbass et refuse l'entrée de l'Ukraine dans l'OTAN.",
+      "À Bruxelles, la cheffe de la diplomatie européenne, Kaja Kallas, avertit sur Public Sénat : « L'Amérique ne peut pas négocier à notre place. » La Russie réclame la levée des sanctions et le déblocage de ses avoirs gelés, deux décisions qui relèvent de l'Union européenne. Les Européens doivent rejoindre la prochaine session de pourparlers.",
+      "Sur le terrain, la guerre continue. L'armée de l'air ukrainienne signale 96 drones russes lancés dans la nuit de vendredi à samedi, dont 81 abattus ou brouillés, avec des coupures de courant dans la région de Soumy. En Russie, les autorités de Belgorod rapportent qu'un drone ukrainien a tué un couple et sa fille de deux ans à Proletarski, à 20 km de la frontière."
+     ],
+     "critique": "Une adhésion à l'OTAN exige l'unanimité des 32 membres, et Washington ne peut pas la promettre seul. Lancer l'idée sans offre ferme permet de tester l'opinion ukrainienne sur une concession territoriale. Le référendum évoqué par Zelensky est aussi un moyen de partager le coût politique d'un éventuel renoncement.",
+     "sources": [
+      {
+       "label": "Al Jazeera / Reuters",
+       "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option"
+      },
+      {
+       "label": "Public Sénat (Kaja Kallas)",
+       "url": "https://www.publicsenat.fr/actualites/politique/ukraine-lamerique-ne-peut-pas-negocier-a-notre-place-alerte-la-cheffe-de-la-diplomatie-europeenne"
+      }
+     ]
+    },
+    {
+     "kicker": "Iran · Washington",
+     "minutes": 1,
+     "title": "Rubio : la pression économique suffit",
+     "chapo": "Le secrétaire d'État juge inutile toute nouvelle action militaire contre l'Iran. La victoire, dit-il, c'est que Téhéran n'ait jamais l'arme nucléaire.",
+     "body": [
+      "Devant la Federalist Society, Marco Rubio a estimé que « la souffrance économique » infligée au régime iranien est « si grande » qu'une nouvelle action militaire n'est pas nécessaire. « Mais je pense que la victoire, c'est de garantir qu'ils n'aient jamais d'arme nucléaire », a-t-il ajouté, en reconnaissant que la guerre a fait monter le prix du carburant aux États-Unis et touché presque tous les secteurs de l'économie mondiale. Donald Trump avait dit plus tôt dans la semaine que la guerre était « militairement terminée de fait ».",
+      "Le ton tranche avec la journée de vendredi : drones iraniens interceptés vers Bahreïn, radar américain revendiqué par les Gardiens de la révolution, pétrolier sur une mine dans Ormuz. Le détroit reste fermé, et le contre-blocus américain des ports iraniens est maintenu."
+     ],
+     "critique": "Dire que la guerre est « militairement terminée » alors que des navires sautent sur des mines revient à redéfinir la victoire après coup. Le critère de Rubio, pas d'arme nucléaire, est invérifiable tant que l'AIEA n'a accès ni aux sites bombardés ni à l'usine d'Ispahan.",
+     "sources": [
+      {
+       "label": "AP via Times Free Press",
+       "url": "https://www.timesfreepress.com/news/2026/nov/14/rubio-says-further-us-military-action-is-not-needed-against-economically-weakened-iran/"
+      },
+      {
+       "label": "Times of Israel (live 14/11)",
+       "url": "https://www.timesofisrael.com/liveblog-november-14-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Marchés · Crypto",
+     "minutes": 1,
+     "title": "Le bitcoin à mi-chemin de son record",
+     "chapo": "Les Bourses étaient fermées samedi, pas les cryptomonnaies. Le bitcoin a perdu 21 % en neuf jours.",
+     "body": [
+      "Samedi soir, le bitcoin s'échangeait autour de 63 500 dollars, en baisse de 6,6 % sur vingt-quatre heures et d'environ 16 % sur la semaine, selon CoinGecko. Il est à 49,6 % sous son record de 126 080 dollars (6 octobre 2025). L'ether tombe à 1 745 dollars (−9,1 %), et la capitalisation totale du secteur recule de 9,2 %, à environ 2 160 milliards de dollars. L'indice « peur et avidité » est à 13, en « peur extrême ».",
+      "Trois explications reviennent. Les marchés misent à 88,5 % sur une hausse d'un quart de point des taux de la Fed en décembre (CME FedWatch), après une inflation d'octobre à +0,4 % sur un mois. Les ETF bitcoin au comptant américains ont subi 1,07 milliard de dollars de sorties nettes du 9 au 13 novembre. Enfin, environ un milliard de dollars de positions à effet de levier ont été liquidées en vingt-quatre heures, presque toutes à l'achat.",
+      "À Wall Street, la séance de lundi s'ouvrira sur deux dossiers : la chute de L3Harris après la panne de la FAA (−4,2 % après la clôture vendredi) et celle des compagnies aériennes (Delta −2,4 %, United −1,9 %). Nvidia publie ses résultats trimestriels mardi 17 novembre, son premier rendez-vous depuis le départ de Jensen Huang."
+     ],
+     "critique": "Les chiffres de liquidation viennent d'agrégateurs privés qui ne voient pas toutes les plateformes ; ils donnent un ordre de grandeur, pas un compte exact. Le lien avec la Fed est réel mais commode : une partie de la baisse tient simplement au désendettement d'un marché très spéculatif.",
+     "sources": [
+      {
+       "label": "CryptoTicker (CoinGecko, FedWatch, Farside)",
+       "url": "https://cryptoticker.io/en/crypto-news-bitcoin-falls-to-63500-fed-hike-bets-november-14-2026/"
+      },
+      {
+       "label": "24/7 Wall St.",
+       "url": "https://247wallst.com/investing/2026/11/14/duffy-says-an-l3harris-crew-was-working-on-the-faa-network-when-flights-stopped-its-stock-fell-4-after-hours/"
+      },
+      {
+       "label": "Market News (Substack)",
+       "url": "https://hervecuviliez.substack.com/p/market-news-saturday-14-november"
+      }
+     ]
+    },
+    {
+     "kicker": "En bref",
+     "minutes": 1,
+     "title": "Antalya à mi-parcours",
+     "chapo": "La COP31 entre dans sa semaine décisive sans texte commun.",
+     "body": [
+      "COP31. À mi-parcours de la conférence climat d'Antalya (Turquie), coprésidée par la Turquie et l'Australie, de grands pays émergents contestent toujours l'idée même d'une « décision de couverture », le texte politique final, et l'inclusion d'objectifs sectoriels comme porter l'électrification à 35 % d'ici 2035. L'Afrique demande de tripler le financement de l'adaptation, à « au moins 120 milliards de dollars par an d'ici 2035 ». Un projet de texte est attendu en début de semaine ; la conférence doit se terminer le 20 novembre. Le Brésil veut accueillir en 2028 la troisième conférence sur la sortie des énergies fossiles.",
+      "Gouvernance climatique. Les pays arabes, le Mexique, la Corée du Sud et la Suisse proposent de ne plus réunir les COP que tous les deux ans."
+     ],
+     "critique": "",
+     "sources": [
+      {
+       "label": "Climate Home News",
+       "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+      }
+     ]
+    }
+   ],
+   "board": [
+    {
+     "label": "S&P 500",
+     "value": "7 562",
+     "change": -0.4
+    },
+    {
+     "label": "Nasdaq",
+     "value": "25 136",
+     "change": -0.91
+    },
+    {
+     "label": "Dow Jones",
+     "value": "52 348",
+     "change": 0.1
+    },
+    {
+     "label": "CAC 40",
+     "value": "8 369",
+     "change": 0.09
+    },
+    {
+     "label": "Bitcoin",
+     "value": "≈63 500 $",
+     "change": -6.6
+    },
+    {
+     "label": "Or (once)",
+     "value": "3 883 $",
+     "change": 0.18
+    },
+    {
+     "label": "Brent (baril)",
+     "value": "95,8 $",
+     "change": 0.02
+    },
+    {
+     "label": "WTI (baril)",
+     "value": "88,6 $",
+     "change": -0.2
+    }
+   ],
+   "boardNote": "Bourses fermées le week-end : clôtures du vendredi 13 novembre. Bitcoin : cours de samedi soir (23 h UTC, CoinGecko), variation sur 24 h. Taux US à 10 ans vers 5,15 %. À suivre lundi : L3Harris (−4,2 % après la clôture) et les compagnies aériennes.",
+   "estimate": {
+    "question": "Combien de vols ont été annulés aux États-Unis le vendredi 13 novembre, jour de la panne de la FAA ?",
+    "min": 0,
+    "max": 20000,
+    "step": 100,
+    "unit": "vols",
+    "answer": 9159,
+    "explain": "9 159 annulations et 7 190 retards selon FlightAware : la deuxième pire journée de l'année, derrière la tempête de neige du 25 janvier (11 607 annulations)."
+   },
+   "flashcards": [
+    {
+     "front": "FTI",
+     "back": "FAA Telecommunications Infrastructure : réseau privé qui relie plus de 4 400 sites du contrôle aérien américain. Exploité par L3Harris depuis 2002, en cours de migration du cuivre vers la fibre."
+    },
+    {
+     "front": "Ground stop",
+     "back": "Interdiction de décoller ordonnée par la FAA. Celle du 13 novembre a duré plus de quatre heures, la plus longue à l'échelle nationale depuis le 11 septembre 2001."
+    },
+    {
+     "front": "New START",
+     "back": "Traité américano-russe signé à Prague en 2010 : 1 550 ogives stratégiques déployées et 700 lanceurs déployés au maximum. Expiré le 5 février 2026."
+    },
+    {
+     "front": "APEC",
+     "back": "Coopération économique Asie-Pacifique, 21 économies. Sommet les 18 et 19 novembre 2026 à Shenzhen, avec une rencontre Trump-Xi-Poutine le 19."
+    },
+    {
+     "front": "« Nouveau Yalta »",
+     "back": "Expression du député russe Piotr Tolstoï pour la réunion de Shenzhen. Allusion à la conférence de février 1945 où Staline, Roosevelt et Churchill ont dessiné l'Europe d'après-guerre."
+    },
+    {
+     "front": "Donbass",
+     "back": "Régions de Donetsk et de Louhansk, dans l'est de l'Ukraine, en partie occupées par la Russie. Moscou exige le retrait ukrainien de la partie encore tenue par Kiev."
+    },
+    {
+     "front": "Indice « peur et avidité »",
+     "back": "Indicateur de sentiment du marché crypto, de 0 à 100. À 13 le 14 novembre : « peur extrême »."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Quel sous-traitant le gouvernement américain met-il en cause dans la panne de la FAA ?",
+     "choices": [
+      "Boeing",
+      "L3Harris",
+      "Raytheon",
+      "Starlink"
+     ],
+     "answer": 1,
+     "explain": "L3Harris possède et exploite le réseau FTI. Une de ses équipes basculait des lignes du cuivre vers la fibre."
+    },
+    {
+     "q": "Où aura lieu la rencontre Trump-Xi-Poutine ?",
+     "choices": [
+      "Pékin",
+      "Shanghai",
+      "Shenzhen",
+      "Hong Kong"
+     ],
+     "answer": 2,
+     "explain": "À Shenzhen, le 19 novembre, en marge du sommet de l'APEC."
+    },
+    {
+     "q": "Que demanderait Washington à Kiev selon Zelensky ?",
+     "choices": [
+      "Un cessez-le-feu immédiat",
+      "Un retrait du Donbass contre l'OTAN",
+      "La neutralité constitutionnelle",
+      "La cession de la Crimée"
+     ],
+     "answer": 1,
+     "explain": "Les émissaires américains ont demandé si l'Ukraine se retirerait du Donbass en échange d'une adhésion à l'OTAN. Aucune offre concrète, précise Zelensky."
+    },
+    {
+     "q": "Quand le traité New START a-t-il expiré ?",
+     "choices": [
+      "Février 2021",
+      "Février 2023",
+      "Février 2026",
+      "Il est toujours en vigueur"
+     ],
+     "answer": 2,
+     "explain": "Le 5 février 2026, après une prolongation de cinq ans décidée en 2021."
+    },
+    {
+     "q": "De combien le bitcoin est-il sous son record d'octobre 2025 ?",
+     "choices": [
+      "Environ 15 %",
+      "Environ 30 %",
+      "Environ 50 %",
+      "Environ 75 %"
+     ],
+     "answer": 2,
+     "explain": "Autour de 63 500 dollars contre 126 080 au record : −49,6 %."
+    }
+   ]
+  },
+  {
+   "id": "france",
+   "name": "France",
+   "minutes": 10,
+   "lede": [
+    "L'« acte V » de la colère sociale a réuni 106 000 manifestants selon le ministère de l'Intérieur, 200 000 selon les organisateurs. La mobilisation recule, les tensions restent, avec 219 interpellations.",
+    "Gérard Larcher veut réunir les candidats de la droite et du centre pour fixer une « méthode de départage ». Édouard Philippe refuse toujours toute primaire ; Teddy Riner jure qu'il n'est « pas macroniste ».",
+    "Au Sénat, la droite prépare le dégel de la réforme des retraites. Emmanuel Macron est au Cambodge pour un sommet de la Francophonie sous tension."
+   ],
+   "articles": [
+    {
+     "kicker": "Social · Mobilisation",
+     "minutes": 3,
+     "title": "Acte V : moins de monde, autant de colère",
+     "chapo": "Gilets jaunes, organisations de jeunesse, collectifs pour les droits de l'enfant et opposants à la loi sur l'usage des armes par la police ont défilé ensemble samedi. Le nombre de manifestants baisse d'une semaine à l'autre, mais la journée de mardi s'annonce plus large.",
+     "body": [
+      "Le ministère de l'Intérieur a compté 106 000 manifestants en France samedi 14 novembre, dont 24 000 à Paris. Les organisateurs revendiquent 200 000 personnes. Une semaine plus tôt, pour l'« acte IV », les autorités en avaient dénombré 146 000, dont 46 000 à Paris. À Toulouse, l'écart entre les comptages est classique : 1 800 selon la préfecture, 6 000 selon les organisateurs. Environ 70 000 policiers et gendarmes étaient mobilisés, autant que les trois samedis précédents.",
+      "À Paris, le cortège unique est parti de la place de la République peu après 14 heures, vers la Nation par la Bastille, sur un tracé validé la veille par la préfecture de police. Vingt et une stations de métro avaient été fermées. La dispersion, place de la Nation, a donné lieu à des tirs de gaz lacrymogène. À Lyon, une équipe de BFMTV a été agressée ; le préfet du Rhône, Étienne Guyot, a condamné une atteinte à la liberté de la presse, et la préfecture parle de « tentative de lynchage ». À Bordeaux, des projectiles ont visé les forces de l'ordre en fin de cortège. Le ministère de l'Intérieur juge la journée « globalement maîtrisée », avec 219 interpellations et dix policiers légèrement blessés.",
+      "Le mouvement agrège des revendications diverses : la vie chère, les salaires des fonctionnaires, les moyens de l'école, la protection de l'enfance (« Pas de présidence sans droits pour l'enfance », dit le collectif Enfantiste) et le rejet de la proposition de loi sur la présomption d'usage légitime des armes par les forces de l'ordre, que ses opposants surnomment « permis de tuer ». Le matin, une marche pour un traité international sur l'intelligence artificielle avait relié la Concorde au Trocadéro.",
+      "La suite est fixée. Mardi 17 novembre, grève et manifestations dans la fonction publique à l'appel de la CGT, de l'Unsa, de la FSU et de Solidaires, rejointes par la CFDT de la fonction publique ; la CGT veut l'élargir au privé. Le gouvernement a refusé vendredi de revaloriser le point d'indice. Les gilets jaunes annoncent un « acte VI » samedi prochain, autour du huitième anniversaire de leur mouvement, né le 17 novembre 2018."
+     ],
+     "critique": "Le chiffre de l'Intérieur et celui des organisateurs varient presque du simple au double, comme à chaque fois ; seule la tendance, mesurée par la même source d'une semaine à l'autre, est fiable : −27 % selon l'Intérieur. Un mouvement sans organisation centrale et aux revendications si diverses est difficile à satisfaire, donc difficile à éteindre. La vraie mesure de la semaine sera le taux de grévistes mardi.",
+     "sources": [
+      {
+       "label": "Info du jour",
+       "url": "https://infodujour.fr/politique/etat/88024-manif-du-14-novembre-entre-100-et-200-000-personnes"
+      },
+      {
+       "label": "La Libre Belgique (AFP)",
+       "url": "https://www.lalibre.be/international/europe/2026/11/14/acte-v-de-la-colere-sociale-en-france-des-milliers-de-manifestants-dans-les-rues-pour-defendre-des-revendications-variees-VYPJI7LOZNCEFEOTA3ZAWHLYJA/"
+      },
+      {
+       "label": "Sortir à Paris (parcours)",
+       "url": "https://www.sortiraparis.com/actualites/a-paris/articles/358215-manifestation-du-14-novembre-a-paris-le-parcours-valide-ce-samedi"
+      },
+      {
+       "label": "franceinfo (bilan Intérieur)",
+       "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Présidentielle 2027",
+     "minutes": 3,
+     "title": "Larcher veut un seul candidat, Philippe ne veut pas de primaire",
+     "chapo": "Le président du Sénat propose de réunir « dans les meilleurs délais » Retailleau, Lisnard, Attal et Philippe pour décider comment désigner un candidat commun. Le maire du Havre résiste. Teddy Riner, lui, fait campagne hors des partis.",
+     "body": [
+      "Gérard Larcher est sorti du bois samedi. Le président du Sénat, qui n'est pas candidat, veut réunir les prétendants de la droite et du centre pour arrêter « une méthode de départage » et désigner un candidat unique « au début de l'année prochaine ». Il cite Bruno Retailleau, David Lisnard, Gabriel Attal et Édouard Philippe, qui partagent selon lui « une certaine vision de la France et de l'intérêt des Français ». Il n'a pas prononcé le mot « primaire ». Son entourage résume la situation sans détour : « Ils sont tous sous les 10 %. »",
+      "Renaissance, le parti de Gabriel Attal, a répondu favorablement : « Le rassemblement n'est plus une option. » Bruno Retailleau a déjà proposé deux dates de primaire, le 31 janvier et le 7 février, quitte à la faire sans Édouard Philippe. Les directeurs de campagne d'Attal, Retailleau et Lisnard doivent se retrouver le 17 novembre. Le président d'Horizons, en meeting samedi à Toulouse, refuse de se soumettre à une primaire : « Je ne changerai pas d'avis, je suis constant et cohérent. » Ses proches y voient une « course vers le bas ».",
+      "L'enjeu est arithmétique. Les sondages dessinent un second tour possible entre Marine Le Pen et Jean-Luc Mélenchon ; quatre candidats qui se disputent le même électorat peuvent n'en qualifier aucun. Gérard Larcher a déjà joué ce rôle d'arbitre lors des processus de désignation de la droite en 2015 et 2021, et pour les alliances des municipales l'hiver dernier.",
+      "Hors des partis, Teddy Riner poursuit sa campagne. Le judoka, quintuple champion olympique, a annoncé sa candidature le 9 novembre ; sa vidéo a dépassé 25 millions de vues. Au Salon du Made in France samedi, il a qualifié de « baiser empoisonné » les félicitations d'Emmanuel Macron : « Je ne suis pas l'envoyé du président, je ne suis pas un macroniste. » Il n'a pas encore présenté de programme. Selon un sondage Ifop pour LCI et Sud Radio réalisé les 9 et 10 novembre, 22 % des Français se disent prêts à voter pour lui et 70 % ont une bonne opinion de lui."
+     ],
+     "critique": "« Prêts à voter pour » n'est pas une intention de vote : la question Ifop mesure une sympathie, pas un choix entre candidats réels. Pour la droite, le départage pose une question que personne ne tranche : qui organise, qui vote, et que fait le perdant ? Sans l'accord d'Édouard Philippe, une primaire désignerait un candidat de plus, pas un candidat unique.",
+     "sources": [
+      {
+       "label": "AFP via Boursorama",
+       "url": "https://www.boursorama.com/actualite-economique/actualites/presidentielle-larcher-veut-reunir-les-candidats-de-la-droite-et-du-centre-la-pression-monte-sur-philippe-c0a73dc48120a2eb7fcbc3a048411956"
+      },
+      {
+       "label": "L'Express via Orange Actu",
+       "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-de-ce-samedi-14-novembre-l-express-via-6medias-CNT000002tJ186.html"
+      },
+      {
+       "label": "Yahoo Actualités (Ifop)",
+       "url": "https://fr.news.yahoo.com/sport/presidentielle-2027-22-francais-prets-210940649.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Parlement · Retraites",
+     "minutes": 2,
+     "title": "Le Sénat prépare le dégel de la réforme des retraites",
+     "chapo": "Le budget de la Sécurité sociale gèle l'âge légal à 62 ans et 9 mois jusqu'en janvier 2028. La rapporteure générale du budget au Sénat, Christine Lavarde, annonce que la majorité sénatoriale veut revenir dessus.",
+     "body": [
+      "La réforme de 2023 relève progressivement l'âge légal de départ à 64 ans. Le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 bloque ce relèvement à 62 ans et 9 mois jusqu'en janvier 2028. Le Sénat doit bientôt débattre du dégel, et Christine Lavarde (LR) ne « doute pas des votes de la majorité sénatoriale ». Elle parle d'un « cadeau qui coûte très cher » et avance que, si la réforme avait continué à s'appliquer, l'État disposerait cette année de 1,7 milliard d'euros de recettes supplémentaires.",
+      "À l'Assemblée, le socialiste Arthur Delaporte veut au contraire revenir à 62 ans et prendre en compte la pénibilité pour permettre des départs plus précoces. La commission des affaires sociales du Sénat a aussi voté l'indexation complète des pensions sur l'inflation, une disposition que Christine Lavarde s'attend à retrouver dans le texte soumis à la commission mixte paritaire.",
+      "Le Sénat a adopté jeudi le volet recettes du texte. Le vote solennel sur l'ensemble est prévu mardi 18 novembre. Ensuite, sénateurs et députés devront trouver un compromis en commission mixte paritaire."
+     ],
+     "critique": "Le chiffre de 1,7 milliard est celui de la rapporteure, non vérifié de façon indépendante. Le gel figure dans le texte du gouvernement : un dégel voté au Sénat devra encore survivre à la commission mixte paritaire, où les députés pèsent autant que les sénateurs. Le vote sénatorial est d'abord une position de négociation.",
+     "sources": [
+      {
+       "label": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/gel-de-la-reforme-des-retraites-un-cadeau-qui-coute-tres-cher-selon-la-rapporteure-generale-du-budget"
+      },
+      {
+       "label": "Public Sénat (volet recettes)",
+       "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-le-senat-adopte-un-volet-recettes-affaibli"
+      }
+     ]
+    },
+    {
+     "kicker": "Diplomatie · Francophonie",
+     "minutes": 1,
+     "title": "Macron à Phnom Penh, la Francophonie divisée",
+     "chapo": "Le président ouvre ce dimanche le XXe sommet de l'Organisation internationale de la Francophonie, qui doit élire sa secrétaire générale sur fond de conflit entre la RDC et le Rwanda.",
+     "body": [
+      "Emmanuel Macron est arrivé samedi au Cambodge pour trois jours en Asie du Sud-Est. Il est le premier président français en visite officielle dans le pays depuis François Mitterrand en 1993. Le sommet de l'OIF, les 15 et 16 novembre, réunit une vingtaine de chefs d'État et de gouvernement, dont Mark Carney, Paul Kagame et Félix Tshisekedi. Le Cambodge succède à la France à la présidence du sommet.",
+      "La Rwandaise Louise Mushikiwabo brigue un troisième mandat face à la Congolaise Juliana Lumumba, fille de Patrice Lumumba. Kinshasa, qui accuse Kigali de soutenir la rébellion du M23, menace de quitter l'organisation si la sortante est réélue. Le président doit ensuite visiter Angkor, où la France a soutenu la restauration du temple du Mebon occidental, puis se rendre lundi en Malaisie, où des accords de défense et sur les terres rares sont prévus."
+     ],
+     "critique": "",
+     "sources": [
+      {
+       "label": "Euronews",
+       "url": "https://fr.euronews.com/2026/11/14/emmanuel-macron-en-visite-au-cambodge-pour-le-xxe-sommet-de-la-francophonie"
+      }
+     ]
+    },
+    {
+     "kicker": "En bref",
+     "minutes": 1,
+     "title": "Versailles, Méditerranée",
+     "chapo": "Un vice-président d'université attaqué au cutter ; trois départements du Sud-Est en vigilance orange.",
+     "body": [
+      "Université. Un vice-président de l'université de Versailles-Saint-Quentin-en-Yvelines (UVSQ) a été blessé à la tête et à la main vendredi vers 19 h 45 dans son bureau, par un individu masqué armé d'une lame, probablement un cutter. Ses jours ne sont pas en danger. Le ministre de l'Enseignement supérieur, Philippe Baptiste, a condamné l'agression. Aucun lien n'est établi avec les mobilisations étudiantes.",
+      "Intempéries. Météo-France a placé le Gard, l'Hérault et les Bouches-du-Rhône en vigilance orange pluie-inondation de samedi 20 heures à dimanche 6 heures, avec 100 à 150 mm possibles sous les orages les plus actifs, localement plus dans le Gard et les Bouches-du-Rhône. Les sols étaient déjà saturés après les crues du Lez et du Vidourle des 5 et 6 novembre. Le Var et la Corse étaient en vigilance orange orages. Dimanche, toute l'Île-de-France passe en vigilance jaune vent."
+     ],
+     "critique": "",
+     "sources": [
+      {
+       "label": "L'Express via Orange Actu",
+       "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-de-ce-samedi-14-novembre-l-express-via-6medias-CNT000002tJ186.html"
+      },
+      {
+       "label": "Tout Montpellier",
+       "url": "https://toutmontpellier.fr/news/herault-le-departement-rejoint-le-gard-et-les-bouches-du-rhone-en-vigi"
+      }
+     ]
+    }
+   ],
+   "estimate": {
+    "question": "Combien de manifestants le ministère de l'Intérieur a-t-il comptés en France pour l'« acte V » du 14 novembre ?",
+    "min": 0,
+    "max": 300000,
+    "step": 1000,
+    "unit": "personnes",
+    "answer": 106000,
+    "explain": "106 000, dont 24 000 à Paris, contre 146 000 une semaine plus tôt. Les organisateurs annoncent 200 000."
+   },
+   "flashcards": [
+    {
+     "front": "Acte V",
+     "back": "Cinquième samedi de mobilisation contre la vie chère, le 14 novembre 2026 : 106 000 manifestants selon l'Intérieur, 200 000 selon les organisateurs, 219 interpellations."
+    },
+    {
+     "front": "« Permis de tuer »",
+     "back": "Surnom donné par ses opposants à la proposition de loi sur la présomption d'usage légitime des armes par les forces de l'ordre."
+    },
+    {
+     "front": "Méthode de départage",
+     "back": "Formule de Gérard Larcher pour désigner un candidat unique de la droite et du centre début 2027, sans dire « primaire »."
+    },
+    {
+     "front": "62 ans et 9 mois",
+     "back": "Âge légal de départ à la retraite gelé par le budget de la Sécu 2027 jusqu'en janvier 2028. La réforme de 2023 le porte à 64 ans."
+    },
+    {
+     "front": "OIF",
+     "back": "Organisation internationale de la Francophonie : 90 États et gouvernements (53 membres, 5 associés, 32 observateurs). Sommet à Phnom Penh les 15 et 16 novembre 2026."
+    },
+    {
+     "front": "Vigilance orange pluie-inondation",
+     "back": "Niveau 3 sur 4 de Météo-France : phénomènes dangereux. Gard, Hérault et Bouches-du-Rhône dans la nuit du 14 au 15 novembre."
+    },
+    {
+     "front": "Commission mixte paritaire",
+     "back": "Sept députés et sept sénateurs chargés de trouver un texte commun quand les deux chambres divergent."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Combien de manifestants à Paris le 14 novembre selon l'Intérieur ?",
+     "choices": [
+      "12 000",
+      "24 000",
+      "46 000",
+      "60 000"
+     ],
+     "answer": 1,
+     "explain": "24 000, contre 46 000 le 7 novembre."
+    },
+    {
+     "q": "Quel candidat refuse de se soumettre à une primaire de la droite et du centre ?",
+     "choices": [
+      "Bruno Retailleau",
+      "Gabriel Attal",
+      "Édouard Philippe",
+      "David Lisnard"
+     ],
+     "answer": 2,
+     "explain": "Le président d'Horizons : « Je ne changerai pas d'avis, je suis constant et cohérent. »"
+    },
+    {
+     "q": "Quelles dates Bruno Retailleau propose-t-il pour une primaire ?",
+     "choices": [
+      "13 et 20 décembre",
+      "31 janvier et 7 février",
+      "1er et 8 mars",
+      "Aucune"
+     ],
+     "answer": 1,
+     "explain": "Le 31 janvier et le 7 février, éventuellement sans Édouard Philippe."
+    },
+    {
+     "q": "Quelle part des Français se disent prêts à voter pour Teddy Riner (Ifop) ?",
+     "choices": [
+      "8 %",
+      "15 %",
+      "22 %",
+      "35 %"
+     ],
+     "answer": 2,
+     "explain": "22 %, avec 70 % de bonnes opinions. Une mesure de sympathie, pas une intention de vote."
+    },
+    {
+     "q": "Qui affronte Louise Mushikiwabo pour la direction de l'OIF ?",
+     "choices": [
+      "Juliana Lumumba",
+      "Michaëlle Jean",
+      "Abdou Diouf",
+      "Aminata Touré"
+     ],
+     "answer": 0,
+     "explain": "La Congolaise Juliana Lumumba, fille de Patrice Lumumba. Kinshasa menace de quitter l'OIF si la Rwandaise est réélue."
+    }
+   ]
+  },
+  {
+   "id": "savoirs",
+   "name": "Savoirs",
+   "minutes": 10,
+   "lede": [
+    "Une ligne téléphonique découpée en 24 tranches de temps, 8 000 fois par seconde : comment le contrôle aérien américain passe de ce monde-là à Internet, et pourquoi la transition est dangereuse.",
+    "1 550 ogives, 18 inspections par an : ce que garantissait New START, et ce que Washington voudra négocier à trois à Shenzhen.",
+    "Effet de levier et liquidations en chaîne : la mécanique d'une chute de bitcoin. Et pourquoi 1 °C de plus en Méditerranée fait déborder les rivières cévenoles."
+   ],
+   "articles": [
+    {
+     "kicker": "Informatique · Télécoms",
+     "minutes": 3,
+     "title": "Du cuivre à la fibre, la transition qui a cloué les avions",
+     "chapo": "Le réseau du contrôle aérien américain vit à cheval entre deux mondes : le multiplexage temporel des années 1960 et les paquets IP d'Internet. La panne du 13 novembre est née à la frontière.",
+     "body": [
+      "Le vieux monde s'appelle TDM, pour multiplexage temporel (time-division multiplexing). Une ligne est découpée en tranches de temps fixes, attribuées une fois pour toutes à chaque communication. Une ligne T1, standard nord-américain, porte 24 canaux. Chaque canal est échantillonné 8 000 fois par seconde, sur 8 bits : 64 kilobits par seconde, exactement ce qu'il faut pour une voix téléphonique. Vingt-quatre canaux plus un bit de synchronisation par trame donnent 1,544 mégabit par seconde. Une ligne T3 regroupe 28 T1, soit 672 voix.",
+      "Le TDM a une qualité précieuse pour le contrôle aérien : il est déterministe. Chaque canal a sa place réservée, qu'il ait quelque chose à dire ou non. Le délai est constant, rien ne se perd par encombrement. Son défaut est le revers de cette qualité : la capacité réservée est gaspillée quand le canal se tait, et le matériel, souvent sur paires de cuivre, vieillit et coûte cher à entretenir.",
+      "Le monde nouveau, c'est IP. Les données sont découpées en paquets qui partagent les mêmes liens et attendent dans les files des routeurs. C'est beaucoup plus efficace en moyenne, mais une file peut se remplir : les paquets en trop sont alors jetés. Pour transporter des circuits anciens sur un réseau IP, on utilise l'« émulation de circuit » : le flux TDM est mis en paquets à un bout et reconstitué à l'autre, avec une mémoire tampon pour absorber les paquets en avance ou en retard. Un document de la FAA de 2015 prévenait que la perte d'un seul paquet portant 20 millisecondes de voix pouvait couper la radio d'un contrôleur pendant deux à quatre secondes. Sa conclusion : le réseau doit rester stable et non congestionné.",
+      "Le 13 novembre, selon le secrétaire aux Transports, un routeur a envoyé plus de 1 000 tentatives de connexion toutes les quatre à cinq secondes, soit environ 200 par seconde. Sur la plupart des routeurs, le trafic adressé au routeur lui-même (et non simplement relayé) est traité par un processeur généraliste plus lent que les circuits de commutation. Un afflux peut le saturer ; ses voisins le croient alors en panne et recalculent leurs routes, ce qui propage l'instabilité. Des limites de débit sur ce trafic de contrôle existent pour l'empêcher. On ignore si les routeurs du FTI en disposaient.",
+      "La migration avance lentement : selon le GAO, 2 560 des 5 170 anciennes liaisons en cuivre avaient été remplacées par de la fibre en mai 2026, et L3Harris prévoit d'achever le passage à IP en 2027. Le précédent de 2009 montre le risque : un routeur temporaire mal configuré pendant une migration avait bloqué environ 75 % des routes du nouveau réseau et touché 129 installations."
+     ],
+     "critique": "Le mécanisme de saturation décrit ici est celui des routeurs en général, pas un fait établi pour le FTI : l'enquête n'est pas terminée. La leçon d'ingénierie est classique : une période de migration, où l'ancien et le nouveau cohabitent, est souvent plus fragile que chacun des deux systèmes pris seul.",
+     "sources": [
+      {
+       "label": "Analyse technique (Substack)",
+       "url": "https://nemock.substack.com/p/what-happened-at-the-faa-old-routers"
+      },
+      {
+       "label": "CBS News",
+       "url": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/"
+      },
+      {
+       "label": "24/7 Wall St.",
+       "url": "https://247wallst.com/investing/2026/11/14/duffy-says-an-l3harris-crew-was-working-on-the-faa-network-when-flights-stopped-its-stock-fell-4-after-hours/"
+      }
+     ]
+    },
+    {
+     "kicker": "Géopolitique · Désarmement",
+     "minutes": 2,
+     "title": "Ce que New START comptait, et ce qu'il ne compte plus",
+     "chapo": "Depuis février, aucun traité ne limite les arsenaux nucléaires stratégiques américain et russe, pour la première fois depuis des décennies. Le détail du dernier accord montre ce qu'une négociation à trois devrait reconstruire.",
+     "body": [
+      "Signé à Prague le 8 avril 2010, entré en vigueur le 5 février 2011, New START fixait trois plafonds par pays : 1 550 ogives stratégiques déployées, 700 missiles intercontinentaux, missiles lancés par sous-marins et bombardiers lourds déployés, et 800 lanceurs au total, déployés ou non. Une subtilité de comptage : chaque bombardier comptait pour une seule ogive, quelle que soit sa charge réelle. Le nombre réel d'ogives pouvait donc dépasser de quelques centaines le plafond affiché.",
+      "Le cœur du traité était la vérification. Chaque partie pouvait mener 18 inspections sur place par an, avec un préavis de seulement 32 heures, en plus des satellites et des échanges de données. Les derniers chiffres publiés, au 1er septembre 2022, donnaient 1 549 ogives comptabilisées côté russe et 1 420 côté américain.",
+      "Le traité s'est défait par étapes. Prolongé de cinq ans en 2021, il a été « suspendu » par Moscou en février 2023 : plus d'inspections ni de notifications, mais la Russie disait respecter les plafonds. Il a expiré le 5 février 2026 ; la veille, Moscou a déclaré ne plus se considérer lié. Vladimir Poutine avait proposé en 2025 de respecter les limites un an de plus si Washington faisait de même ; les États-Unis n'ont pas répondu formellement.",
+      "La difficulté d'un accord à trois est structurelle. Les arsenaux américain et russe sont d'un ordre de grandeur comparable ; celui de la Chine est plus petit mais croît vite. Un plafond commun obligerait Pékin à geler sa croissance, ou les deux autres à accepter une parité future avec la Chine. Quant à Yalta, invoqué par un député russe : en février 1945, Staline, Roosevelt et Churchill y avaient esquissé le partage de l'Europe d'après-guerre, sans les pays concernés."
+     ],
+     "critique": "Un plafond sans inspection vaut ce que vaut la parole des parties. Depuis 2023, plus personne ne vérifie rien sur place. Reconstruire la confiance technique (échanges de données, inspections) serait plus utile à court terme qu'un nouveau chiffre plafond.",
+     "sources": [
+      {
+       "label": "Wikipedia : New START",
+       "url": "https://en.wikipedia.org/wiki/New_START"
+      },
+      {
+       "label": "Al Jazeera",
+       "url": "https://www.aljazeera.com/amp/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
+      }
+     ]
+    },
+    {
+     "kicker": "Finance · Crypto",
+     "minutes": 2,
+     "title": "Levier et liquidations : comment une baisse s'accélère",
+     "chapo": "Environ un milliard de dollars de positions liquidées en une journée, 97 % d'acheteurs dans l'heure la plus violente. La mécanique est simple et implacable.",
+     "body": [
+      "Sur les plateformes de dérivés crypto, on peut acheter du bitcoin avec un effet de levier : déposer 1 000 dollars de garantie (la « marge ») pour prendre une position de 10 000 dollars. Avec un levier de 10, une hausse de 10 % double la mise. Mais une baisse de 10 % l'efface entièrement. En pratique, la plateforme n'attend pas zéro : elle ferme d'office la position un peu avant, quand la garantie restante tombe sous un seuil de maintien. C'est la liquidation.",
+      "Le problème est collectif. Une liquidation d'acheteur est une vente forcée, exécutée au prix du marché. Si beaucoup de positions ont leur seuil autour du même niveau, chaque vente fait baisser le prix, qui déclenche d'autres liquidations : une cascade. Samedi, dans l'heure où le bitcoin est passé sous 64 000 dollars, 691 millions de dollars de positions ont été liquidées, dont 671 millions d'achats, environ 97 %, selon des données agrégées par TokenPost.",
+      "Un ordre de grandeur aide : avec un levier de 20, il suffit d'une baisse d'environ 5 % pour être liquidé ; avec un levier de 50, de 2 %. Le bitcoin a perdu 6,6 % en vingt-quatre heures samedi et 21 % en neuf jours (de 80 443 dollars le 5 novembre à 63 528 samedi soir). Toute position d'achat à fort levier ouverte avant le 5 novembre a été balayée.",
+      "Les seuils de prix que suivent les opérateurs (62 000, 60 000 dollars, puis le plus bas annuel de 58 566 dollars du 1er juillet) ne sont pas magiques : ce sont des niveaux où se concentrent ordres et seuils de liquidation, ce qui peut les rendre autoréalisateurs."
+     ],
+     "critique": "Les montants de liquidation sont estimés par des agrégateurs privés à partir des plateformes qui publient leurs données ; les plateformes opaques échappent au compte. La cascade amplifie une baisse, elle ne la cause pas : il faut un premier choc, ici la perspective d'une hausse des taux de la Fed et des sorties des ETF.",
+     "sources": [
+      {
+       "label": "CryptoTicker",
+       "url": "https://cryptoticker.io/en/crypto-news-bitcoin-falls-to-63500-fed-hike-bets-november-14-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Climat · Physique",
+     "minutes": 2,
+     "title": "Épisode méditerranéen : la mer comme carburant",
+     "chapo": "Le Gard, l'Hérault et les Bouches-du-Rhône attendaient jusqu'à 150 mm de pluie dans la nuit. Derrière ce chiffre, une loi de la thermodynamique.",
+     "body": [
+      "Le mécanisme d'un épisode méditerranéen est connu. Une masse d'air froid en altitude s'installe à l'ouest ; elle aspire vers la côte un flux d'air chaud et humide venu de la mer. En butant sur les reliefs (Cévennes, Montagne Noire) ou en convergeant avec d'autres flux, cet air s'élève, se refroidit et condense son humidité en orages. Quand ces orages se régénèrent au même endroit pendant des heures, les cumuls deviennent extrêmes. Selon le chercheur Florian Petillon, cité par Reporterre d'après Météo-France, la mer est « le carburant » et la configuration météo « le moteur ».",
+      "Le carburant obéit à la relation de Clausius-Clapeyron : à chaque degré supplémentaire, l'air peut contenir environ 7 % de vapeur d'eau de plus. Une Méditerranée plus chaude en fin d'été et en automne fournit donc plus d'eau aux orages. Les données de Météo-France montrent que la fréquence des orages n'a pas augmenté, mais que leur intensité, si : environ +22 % de pluie pour environ +1,7 °C de réchauffement, soit plus que ce que prévoit la seule physique de Clausius-Clapeyron.",
+      "Un ordre de grandeur pour lire les alertes : 1 mm de pluie, c'est 1 litre par mètre carré. 150 mm sur un kilomètre carré représentent 150 000 mètres cubes d'eau, soit 60 piscines olympiques. Sur des sols déjà saturés, comme après les crues du Lez et du Vidourle des 5 et 6 novembre, presque tout ruisselle au lieu de s'infiltrer."
+     ],
+     "critique": "Attribuer un épisode précis au réchauffement exige une étude dédiée ; la physique dit seulement que le potentiel de pluie augmente. Le risque dépend aussi de l'urbanisation : l'imperméabilisation des sols transforme plus vite la pluie en crue.",
+     "sources": [
+      {
+       "label": "Reporterre",
+       "url": "https://reporterre.net/Avec-la-crise-climatique-des-orages-de-plus-en-plus-devastateurs"
+      },
+      {
+       "label": "Tout Montpellier",
+       "url": "https://toutmontpellier.fr/news/herault-le-departement-rejoint-le-gard-et-les-bouches-du-rhone-en-vigi"
+      }
+     ]
+    },
+    {
+     "kicker": "Langue · Histoire",
+     "minutes": 1,
+     "title": "La Francophonie, née aussi à Phnom Penh",
+     "chapo": "Le sommet de l'OIF se tient dans un pays dont le roi a cofondé l'organisation.",
+     "body": [
+      "L'ancêtre de l'OIF, l'Agence de coopération culturelle et technique, est née en 1970 ; le roi cambodgien Norodom Sihanouk compte parmi ses quatre fondateurs. Le Cambodge est devenu observateur en 1991, puis membre de plein droit en 1993. L'organisation regroupe aujourd'hui 90 États et gouvernements : 53 membres, 5 membres associés et 32 observateurs, pour un budget 2026 de 71,7 millions d'euros dont la France est le premier contributeur.",
+      "Le centre de gravité démographique du français est en Afrique : la République démocratique du Congo compte plus de 110 millions d'habitants, plus de 40 millions de plus que la France. Le Mali, le Niger et le Burkina Faso ont annoncé leur retrait de l'organisation en mars 2025."
+     ],
+     "critique": "",
+     "sources": [
+      {
+       "label": "Euronews",
+       "url": "https://fr.euronews.com/2026/11/14/emmanuel-macron-en-visite-au-cambodge-pour-le-xxe-sommet-de-la-francophonie"
+      }
+     ]
+    },
+    {
+     "kicker": "Calendrier · Sciences",
+     "minutes": 1,
+     "title": "Saint Albert, patron des savants",
+     "chapo": "Le 15 novembre, on fête Albert le Grand, frère dominicain et naturaliste du XIIIe siècle.",
+     "body": [
+      "Né vers 1193 en Souabe, mort à Cologne en 1280, Albert le Grand a diffusé en Occident les textes d'Aristote et les commentaires des penseurs arabes. Il a écrit des encyclopédies sur les animaux, les plantes et les minéraux, fondées en partie sur l'observation directe, une démarche rare à son époque. On lui attribue l'une des premières descriptions de la préparation de l'arsenic. Son élève le plus célèbre est Thomas d'Aquin.",
+      "Canonisé en 1931 et proclamé docteur de l'Église par Pie XI, il a été désigné par Pie XII en 1941 patron des savants chrétiens. Un saint de circonstance pour une édition qui parle de routeurs, de thermodynamique et de traités."
+     ],
+     "critique": "",
+     "sources": [
+      {
+       "label": "Wikipédia : Albert le Grand",
+       "url": "https://fr.wikipedia.org/wiki/Albert_le_Grand"
+      }
+     ]
+    }
+   ],
+   "estimate": {
+    "question": "Combien de mètres cubes d'eau représentent 150 mm de pluie tombés sur un kilomètre carré ?",
+    "min": 0,
+    "max": 1000000,
+    "step": 10000,
+    "unit": "m³",
+    "answer": 150000,
+    "explain": "1 mm = 1 litre par m². 150 mm sur 1 000 000 m² = 150 000 000 litres, soit 150 000 m³, environ 60 piscines olympiques de 2 500 m³."
+   },
+   "flashcards": [
+    {
+     "front": "TDM",
+     "back": "Multiplexage temporel : chaque communication reçoit une tranche de temps fixe. Délai constant, aucune perte par encombrement, mais capacité gaspillée quand le canal se tait."
+    },
+    {
+     "front": "Ligne T1",
+     "back": "24 canaux de 64 kbit/s (8 000 échantillons de 8 bits par seconde), plus la synchronisation : 1,544 Mbit/s."
+    },
+    {
+     "front": "Émulation de circuit",
+     "back": "Transport d'un flux TDM dans des paquets IP, reconstitué à l'arrivée grâce à une mémoire tampon de gigue."
+    },
+    {
+     "front": "Plafonds New START",
+     "back": "1 550 ogives stratégiques déployées, 700 lanceurs déployés, 800 lanceurs au total ; 18 inspections sur place par an."
+    },
+    {
+     "front": "Liquidation",
+     "back": "Fermeture forcée d'une position à effet de levier quand la garantie tombe sous le seuil de maintien. Avec un levier de 10, une baisse d'environ 10 % suffit."
+    },
+    {
+     "front": "Clausius-Clapeyron",
+     "back": "Relation thermodynamique : l'air peut contenir environ 7 % de vapeur d'eau en plus par degré de réchauffement."
+    },
+    {
+     "front": "Albert le Grand",
+     "back": "Dominicain et naturaliste (vers 1193-1280), maître de Thomas d'Aquin, patron des savants chrétiens depuis 1941. Fêté le 15 novembre."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Combien de canaux de voix porte une ligne T1 ?",
+     "choices": [
+      "8",
+      "24",
+      "64",
+      "672"
+     ],
+     "answer": 1,
+     "explain": "24 canaux de 64 kbit/s. Une T3 en regroupe 672."
+    },
+    {
+     "q": "Combien d'inspections sur place par an New START autorisait-il à chaque partie ?",
+     "choices": [
+      "4",
+      "10",
+      "18",
+      "32"
+     ],
+     "answer": 2,
+     "explain": "18 inspections (10 de type 1, 8 de type 2), avec un préavis de 32 heures."
+    },
+    {
+     "q": "Avec un levier de 20, quelle baisse suffit à peu près à liquider une position d'achat ?",
+     "choices": [
+      "2 %",
+      "5 %",
+      "10 %",
+      "20 %"
+     ],
+     "answer": 1,
+     "explain": "La garantie représente 1/20 de la position, soit 5 % : une baisse de cet ordre l'efface."
+    },
+    {
+     "q": "De combien augmente la capacité de l'air à contenir de la vapeur d'eau par degré ?",
+     "choices": [
+      "≈1 %",
+      "≈7 %",
+      "≈15 %",
+      "≈30 %"
+     ],
+     "answer": 1,
+     "explain": "Environ 7 % par °C : c'est la relation de Clausius-Clapeyron."
+    },
+    {
+     "q": "Quel élève célèbre a eu Albert le Grand ?",
+     "choices": [
+      "Roger Bacon",
+      "Thomas d'Aquin",
+      "Guillaume d'Ockham",
+      "Abélard"
+     ],
+     "answer": 1,
+     "explain": "Thomas d'Aquin, qu'il a formé à Paris puis à Cologne."
+    }
+   ]
+  }
+ ]
+}

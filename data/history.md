@@ -49,3 +49,19 @@ Format : date | chapitre | sujet | angle déjà traité
 2026-11-14 | savoirs | Panne en cascade, TLS, backoff | 
 2026-11-14 | savoirs | Vapocraquage / pétrochimie | 
 2026-11-14 | savoirs | ATP Finals (Fils, Jodar), Monet 14/11/1840, saint Sidoine | 
+2026-11-15 | monde | Panne FAA 13/11 (ground stop national) | FTI/L3Harris, cuivre→fibre, 9 159 annulations, 50 Md$, précédent 2009
+2026-11-15 | monde | Trilatérale Trump-Xi-Poutine Shenzhen 19/11 (APEC) | nucléaire/New START, Iran, pas Ukraine, « nouveau Yalta »
+2026-11-15 | monde | Ukraine | question US OTAN contre Donbass, référendum sous conditions, Kallas « l'Amérique ne peut pas négocier à notre place »
+2026-11-15 | monde | Iran | Rubio : pression économique suffit, « victoire = pas d'arme nucléaire »
+2026-11-15 | monde | Crypto | BTC 63 500 (−49,6 % du record), liquidations 1 Md$, ETF −1,07 Md$, FedWatch 88,5 %
+2026-11-15 | monde | Brefs | COP31 mi-parcours (couverture, adaptation 120 Md$, COP biennales)
+2026-11-15 | france | Acte V colère sociale 14/11 | 106 000 / 200 000, Paris 24 000, 219 interpellations, grève FP 17/11, acte VI
+2026-11-15 | france | Larcher « méthode de départage » droite-centre | Philippe refuse primaire, Retailleau 31/01-7/02, Riner (Ifop 22 %)
+2026-11-15 | france | Retraites | dégel au Sénat (Lavarde, 1,7 Md€), gel 62 ans 9 mois jusqu'à 01/2028
+2026-11-15 | france | Macron sommet OIF Phnom Penh | Mushikiwabo vs J. Lumumba, RDC menace
+2026-11-15 | france | Brefs | UVSQ vice-président agressé, vigilance orange Gard/Hérault/BdR
+2026-11-15 | savoirs | TDM vs IP, ligne T1, émulation de circuit, saturation plan de contrôle | 
+2026-11-15 | savoirs | New START (plafonds, inspections), Yalta | 
+2026-11-15 | savoirs | Effet de levier / liquidations crypto | 
+2026-11-15 | savoirs | Épisode méditerranéen, Clausius-Clapeyron | 
+2026-11-15 | savoirs | Histoire OIF / Sihanouk, saint Albert le Grand | 
