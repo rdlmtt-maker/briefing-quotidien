@@ -65,3 +65,18 @@ Format : date | chapitre | sujet | angle déjà traité
 2026-11-15 | savoirs | Effet de levier / liquidations crypto | 
 2026-11-15 | savoirs | Épisode méditerranéen, Clausius-Clapeyron | 
 2026-11-15 | savoirs | Histoire OIF / Sihanouk, saint Albert le Grand | 
+2026-11-16 | monde | Yémen : Houthis à 60 km d'Aden | repli de Bab el-Mandeb/Dhubab, base de Kharaz, missiles Riyad, oléoduc Est-Ouest, 600 détenus libérés
+2026-11-16 | monde | Iran : fin de la limite des 2 000 km | Mohebbi, Khorramshahr-4 3 000-4 000 km, RAF Fairford, 2e attaque radar Bahreïn, Araghchi à Mascate mardi, stock 1 500-2 500 missiles
+2026-11-16 | monde | Semaine IA : Nvidia 17/11 (109 Md$, BPA 2,47), Anthropic 19/11 (64,4 Md$), minutes Fed, Warsh | BTC plus bas 61 946, liquidations 2 Md$
+2026-11-16 | monde | Ukraine : bridage Starshield (SpaceX dément), Nijnekamsk, coalition des volontaires, 5 pays européens | 
+2026-11-16 | monde | Brefs | Ebola RDC 11 042 cas / 5 387 morts (Bundibugyo), Abu Younis (Rafah) tué, coalition Eisenkot
+2026-11-16 | france | Grève FP 17/11 | 8 syndicats, privé, cheminots (prime 400 €), Invalides→Italie, RDV 11/12
+2026-11-16 | france | Déclin économique (Le Monde) | T1-T3 −0,2/0/−0,1, PIB/hab SPA 98,2 (Eurostat), 16e/37, 1 492 h, 55 % 20-64 ans
+2026-11-16 | france | Cyberattaque Maileva | 22 M personnes, 70 000 entreprises, CNIL ; rappel Free 42 M€
+2026-11-16 | france | Montpellier 190 mm + assurance émeutes | Candillargues, Pérols, DBRS 1,2 Md€, garantie CCR 4 Md€
+2026-11-16 | france | Écologistes | Rousseau refuse parrainage Tondelier, vote 13/12
+2026-11-16 | savoirs | Portée missile / Tsiolkovski / vitesse-portée | 
+2026-11-16 | savoirs | Bab el-Mandeb (EIA 6,2 Mb/j 2018) et Yanbu | 
+2026-11-16 | savoirs | Ebola Bundibugyo, vaccination en anneau, létalité vs mortalité | 
+2026-11-16 | savoirs | Lire des résultats (consensus, guidance, GAAP) ; SPA | 
+2026-11-16 | savoirs | Unesco 16/11/1945, sainte Marguerite d'Écosse, Shelton-Fils | 

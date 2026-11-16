@@ -1,0 +1,405 @@
+{
+  "date": "2026-11-16",
+  "weekday": "lundi",
+  "saint": "Sainte Marguerite",
+  "headline": "Les Houthis marchent sur Aden, l'Iran lève la limite de portée de ses missiles, et la France découvre qu'elle est passée sous la moyenne européenne.",
+  "chapters": [
+    {
+      "id": "monde",
+      "name": "Monde",
+      "minutes": 10,
+      "lede": [
+        "Au Yémen, les forces gouvernementales abandonnent les hauteurs de Bab el-Mandeb pour défendre Aden. Les Houthis seraient à 60 kilomètres de la ville et contrôlent désormais la rive asiatique du détroit.",
+        "Les Gardiens de la révolution annoncent la fin de la limite de 2 000 kilomètres imposée aux missiles iraniens. Bahreïn intercepte une deuxième salve de drones visant des radars américains en trois jours.",
+        "Semaine décisive pour la bulle de l'IA : Nvidia publie mardi, Anthropic entre en Bourse jeudi. Le bitcoin a touché 61 946 dollars dans la nuit de samedi à dimanche."
+      ],
+      "articles": [
+        {
+          "kicker": "Yémen · Guerre",
+          "minutes": 3,
+          "title": "Les Houthis aux portes d'Aden, Bab el-Mandeb change de mains",
+          "chapo": "Dimanche 15 novembre, les forces alignées sur le gouvernement yéménite ont quitté l'aéroport de Dhubab et les positions qui dominent le détroit de Bab el-Mandeb pour se replier sur Aden. Les Houthis, soutenus par l'Iran, avancent dans la province de Lahij et ont tiré des missiles sur Riyad.",
+          "body": [
+            "Le repli a été annoncé par les Forces armées du Sud, alliées du gouvernement reconnu par la communauté internationale. Elles ont quitté l'aéroport de Dhubab et la zone de Bab el-Mandeb pour renforcer Aden, siège provisoire de ce gouvernement depuis que les Houthis ont pris Sanaa en 2014. Les Brigades des Géants du Sud ont, elles aussi, quitté le détroit pour s'établir autour d'al-Suqqayah et de Khour, dans la province de Lahij. Selon un journaliste yéménite indépendant cité par l'Institute for the Study of War (ISW), les Houthis ont aussitôt occupé l'aéroport de Dhubab, le Jabal Kahbub et al-Shatt.",
+            "Le même jour, selon deux sources militaires citées par l'agence Xinhua, les Houthis ont pris la base militaire de Kharaz et les hauteurs voisines, dans le district d'al-Madaribah wa al-Arah, après de violents combats. Les sources militaires citées par l'AFP et France 24 placent leurs lignes à environ 60 kilomètres d'Aden. Le 2 novembre, la même estimation était de 80 kilomètres. Les forces gouvernementales, appuyées par la coalition menée par l'Arabie saoudite, construisent de nouvelles fortifications sur les accès ouest de la ville.",
+            "Pour l'ISW, ce retrait répond à l'offensive houthie lancée le 12 novembre dans le sud-est de Lahij, qui menaçait de couper la route Mokha-Aden près du Jabal Kharaz. Le commandement aurait préféré sauver les Brigades des Géants et les Forces du Bouclier de la patrie, ses unités les plus solides, plutôt que de les laisser encercler. Les Houthis pourraient désormais attaquer Aden par deux axes, la route côtière depuis Mokha et la route de Taëz, ville qu'ils encerclent déjà. Une source citée par Xinhua note que le Conseil de transition du Sud, mouvement séparatiste doté d'une force armée importante, reste largement à l'écart des combats, en raison de ses tensions avec Riyad.",
+            "La guerre a basculé en juillet. Le 13 juillet, un avion de Mahan Air transportant des cadres des Gardiens de la révolution a tenté de se poser à Sanaa. La piste a été frappée, et les Houthis ont déclaré la fin de la trêve de 2022. Ils ont ensuite proclamé un blocus naval de l'Arabie saoudite, pris Mokha et toute la côte de la mer Rouge en septembre, puis encerclé Taëz début octobre. L'Organisation internationale pour les migrations comptait 184 000 déplacés au 5 octobre, et le Programme alimentaire mondial 18,3 millions de Yéménites en insécurité alimentaire aiguë.",
+            "Le front s'étend à l'Arabie saoudite. Le 14 novembre, Riyad dit avoir intercepté deux missiles balistiques au-dessus de la capitale et trois drones dans la province orientale ; le 15, deux drones près de La Mecque et deux près de Médine. Les Houthis revendiquent des tirs sur l'aéroport King Khalid et sur deux stations de pompage de l'oléoduc Est-Ouest, que l'ISW n'a pas pu vérifier. Dans un geste inverse, ils ont libéré unilatéralement 600 détenus à Sanaa, avec le soutien du Comité international de la Croix-Rouge."
+          ],
+          "critique": "Toutes les positions citées viennent de sources militaires anonymes ou de journalistes locaux ; aucune n'est vérifiée de façon indépendante, et chaque camp a intérêt à gonfler ou minimiser ses pertes. L'enjeu mondial est sous-estimé : l'oléoduc Est-Ouest, que les Houthis disent viser, est la principale route saoudienne pour contourner Ormuz. Son terminal, Yanbu, débouche sur la mer Rouge, dont la sortie sud est Bab el-Mandeb. Si les Houthis tiennent les deux, l'échappatoire au blocage d'Ormuz se referme.",
+          "sources": [
+            {"label": "ISW / Critical Threats (15/11)", "url": "https://www.criticalthreats.org/analysis/iran-update-november-15-2026-6afa2b8bbe2ed"},
+            {"label": "Morung Express / IANS", "url": "https://www.morungexpress.com/houthis-advance-toward-yemens-aden-as-govt-forces-suffer-fresh-setbacks"},
+            {"label": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden"},
+            {"label": "Wikipedia, offensives 2026", "url": "https://en.wikipedia.org/wiki/2026_Yemen_offensives"},
+            {"label": "Times of Israel (live 15/11)", "url": "https://www.timesofisrael.com/liveblog-november-15-2026/"}
+          ]
+        },
+        {
+          "kicker": "Iran · Missiles",
+          "minutes": 3,
+          "title": "Téhéran efface la limite des 2 000 kilomètres",
+          "chapo": "Le porte-parole des Gardiens de la révolution a annoncé samedi la fin du plafond de portée que l'ancien Guide suprême imposait aux missiles iraniens. La télévision d'État cite une base américaine au Royaume-Uni comme cible possible. Au même moment, Bahreïn intercepte une deuxième attaque de drones contre des radars américains.",
+          "body": [
+            "L'annonce a été faite par Hossein Mohebbi, porte-parole des Gardiens de la révolution, lors de la « Semaine de l'air et de l'espace » à Téhéran. Le développement de la portée continue, a-t-il dit, et l'Iran serait prêt « si la direction revoyait la doctrine nucléaire ». Il a ajouté que des « villes de missiles » souterraines permettent de produire en temps de guerre. Elle suit un appel du Guide suprême Mojtaba Khamenei à répondre aux menaces « sans limites géographiques ».",
+            "Ce plafond de 2 000 kilomètres datait d'Ali Khamenei. En 2017, le commandant des Gardiens Mohammad Ali Jafari l'avait rendu public ; en 2021, le Guide avait lui-même raconté avoir bloqué des projets à 5 000 kilomètres. La logique était simple : Israël est à moins de 2 000 kilomètres de presque tout le territoire iranien, et l'Europe ne devait pas se sentir visée. Selon l'expert Mohammad Sadegh Alizadeh, cité par The New Arab, Téhéran estime désormais que des pays d'Europe de l'Est et du Sud-Est et des bases de l'océan Indien ont servi aux frappes américaines. D'autres analystes iraniens notent que les sites de tir de l'ouest du pays, trop exposés, obligent à tirer de plus loin à l'est.",
+            "L'agence Tasnim, proche des Gardiens, affirme qu'un Khorramshahr-4 à ogive allégée pourrait porter à 3 000 ou 4 000 kilomètres. La télévision d'État a cité la base britannique de RAF Fairford, qui accueille des bombardiers américains. Elle est à environ 4 000 kilomètres de Tabriz, dans le nord-ouest de l'Iran. Les évaluations américaines jugent toutefois l'Iran à des années d'un missile intercontinental. Un rapport du Wall Street Journal estime son stock entre 1 500 et 2 500 missiles, avec une « faible confiance » ; un responsable occidental parle d'environ 1 700 missiles et d'une production de 50 par mois.",
+            "Sur le terrain, les Gardiens disent avoir lancé six drones contre un radar de défense aérienne américain sur la base d'hélicoptères d'al-Riffa, à Bahreïn. Le royaume, qui accueille la Ve flotte américaine, dit avoir intercepté plusieurs « attaques aériennes » et a émis deux alertes, ses premières depuis septembre. C'est la deuxième attaque en trois jours ; Manama demande une réaction du Conseil de sécurité de l'ONU. Dans la nuit de dimanche, la marine iranienne a annoncé qu'un pétrolier non identifié brûlait après avoir heurté une mine à l'est d'Ormuz, ce que Reuters n'a pu vérifier. Le Commandement central américain affirme que 1,7 milliard de barils ont franchi le détroit sous protection militaire.",
+            "Côté diplomatie, le ministre des Affaires étrangères Abbas Araghchi doit rencontrer mardi à Mascate son homologue omanais Badr Al Busaidi. Oman est au centre des discussions sur le contrôle futur du détroit. Donald Trump a laissé entendre qu'il pourrait suspendre de nouvelles frappes si l'Iran et les Houthis évitent les provocations, tandis que le gouvernement Netanyahou pousse à reprendre les bombardements."
+          ],
+          "critique": "La portée d'un missile n'est pas un chiffre fixe : elle dépend de la masse de l'ogive. Annoncer 4 000 kilomètres avec une ogive « allégée » ne dit rien de la précision ni de la charge utile. C'est d'abord un message adressé aux Européens qui prêtent leurs bases. La vraie question est l'autre phrase de Mohebbi : lier la portée à une éventuelle révision de la « doctrine nucléaire ». Un missile de 4 000 kilomètres n'a guère d'intérêt militaire avec une charge conventionnelle d'une tonne.",
+          "sources": [
+            {"label": "The New Arab", "url": "https://www.newarab.com/news/why-has-iran-scrapped-its-missile-range-limit"},
+            {"label": "Iran International", "url": "https://iranintl.com/en/202611141458"},
+            {"label": "Fox News (live 15/11)", "url": "https://foxnews.com/live-news/iran-war-strikes-donald-trump-strait-hormuz-irgc-november-15"},
+            {"label": "Arab News / Reuters", "url": "https://www.arabnews.com/middle-east/irans-navy-says-oil-tanker-on-fire-after-hitting-mine-east-of-hormuz-3012121"},
+            {"label": "Times of Israel (live 15/11)", "url": "https://www.timesofisrael.com/liveblog-november-15-2026/"}
+          ]
+        },
+        {
+          "kicker": "Marchés · Intelligence artificielle",
+          "minutes": 2,
+          "title": "Nvidia mardi, Anthropic jeudi : la semaine de vérité",
+          "chapo": "Deux événements vont tester la confiance des marchés dans l'IA : les résultats trimestriels de Nvidia, une semaine après la démission de Jensen Huang, et les premiers échanges d'Anthropic sur le Nasdaq. Entre les deux, le compte rendu de la Fed pourrait confirmer une hausse des taux en décembre.",
+          "body": [
+            "Le calendrier est serré. Lundi, le président de la Réserve fédérale, Kevin Warsh, prend la parole. Mardi, Nvidia publie les résultats de son troisième trimestre fiscal et le département du Commerce les ventes au détail d'octobre. Mercredi, la Fed publie le compte rendu de sa réunion d'octobre, et l'offre d'actions d'Anthropic se clôt. Jeudi, la société doit commencer à coter sous le symbole ANT. Walmart, Home Depot, Target, Disney, Palo Alto Networks, Alibaba et Baidu publient aussi leurs comptes.",
+            "Pour Nvidia, le consensus attend un chiffre d'affaires de 109 milliards de dollars (+91,3 % sur un an) et un bénéfice par action de 2,47 dollars. Les analystes espèrent des prévisions de 125 milliards pour le trimestre suivant. Mais le contexte a changé : la capitalisation du groupe est passée d'environ 5 800 milliards de dollars début octobre à 3 900 milliards vendredi. L'action recule d'environ 14 % depuis janvier, et elle a perdu 12,75 % sur la seule semaine de la démission de Huang. Nvidia détient environ 90 % du marché des puces d'IA les plus avancées.",
+            "Anthropic vise 825 millions d'actions entre 70 et 78 dollars, soit jusqu'à 64,4 milliards de dollars levés : la plus grande introduction en Bourse de l'histoire si la fourchette tient. La valorisation entièrement diluée serait d'environ 1 400 milliards. Sur neuf mois à fin septembre, la société affiche 33,24 milliards de dollars de chiffre d'affaires, en hausse d'environ 1 200 %, et une perte nette de plus de 104 milliards, surtout due à des écritures comptables sans sortie de trésorerie.",
+            "La crypto a encaissé le choc du week-end. Le bitcoin est tombé à 61 946 dollars sur Coinbase entre 2 et 3 heures dimanche, avant de remonter vers 64 800 dollars. Plus de 2 milliards de dollars de positions à effet de levier ont été liquidés en 24 heures, et l'indice « peur et cupidité » est tombé à 10 sur 100. Le marché anticipe une hausse des taux de la Fed en décembre, et les ETF bitcoin ont perdu 1,91 milliard de dollars en sept séances."
+          ],
+          "critique": "Le récit « l'IA tire la Bourse » repose sur un circuit fermé. Les clients de Nvidia sont des hyperscalers dont le flux de trésorerie devient négatif : −42,4 milliards pour Amazon au dernier trimestre, −9,1 milliards pour Alphabet. Et les acheteurs du placement privé d'Anthropic (Google, Nvidia, AMD, Broadcom, Micron, Microsoft, TSMC) sont aussi ses fournisseurs. Un bon trimestre de Nvidia mesure la dépense en IA, pas sa rentabilité.",
+          "sources": [
+            {"label": "The National", "url": "https://www.thenationalnews.com/business/markets/2026/11/16/nvidia-earnings-anthropic-ipo/"},
+            {"label": "TradingView / Mint", "url": "https://www.tradingview.com/news/moodys:45cad514d6c8f:0-wall-street-week-ahead-nvidia-earnings-anthropic-ipo-federal-reserve-minutes-retail-sales-top-things-to-watch/"},
+            {"label": "CryptoTicker (15/11)", "url": "https://cryptoticker.io/en/bitcoin-price-overnight-low-weekly-close-november-15-2026/"}
+          ]
+        },
+        {
+          "kicker": "Ukraine · Guerre et négociations",
+          "minutes": 2,
+          "title": "Zelensky accuse le bridage de Starlink, l'Europe prépare sa place à la table",
+          "chapo": "Le président ukrainien affirme que des restrictions sur les terminaux satellitaires du front ont facilité une vague de frappes russes contre l'énergie et le rail. SpaceX dément. Kyiv prépare une réunion de ses alliés pour fixer une position européenne commune.",
+          "body": [
+            "Selon Volodymyr Zelensky, Starshield, la version militaire de Starlink fournie à l'Ukraine via un accord avec le gouvernement américain, a été bridé le long de toute la ligne de front pour la deuxième fois en deux mois. Les limites de vitesse imposées aux terminaux empêcheraient les drones intercepteurs ukrainiens d'arrêter les Shahed russes, dont les nouvelles versions à réaction sont plus rapides. Le week-end, des frappes russes ont touché l'énergie et le rail dans huit régions : quatre morts et 69 blessés. SpaceX a répondu à Axios que l'affirmation était « fausse » et qu'« il n'y a eu aucun changement ». En octobre, Elon Musk disait que ces systèmes appartiennent au gouvernement américain, seul à décider des limites.",
+            "En retour, des drones ukrainiens ont frappé dimanche matin une zone industrielle de Nijnekamsk, pôle pétrochimique du Tatarstan situé à environ 1 000 kilomètres à l'est de Moscou, selon son maire Radmir Beliaïev.",
+            "Sur le plan diplomatique, Zelensky a annoncé dans son allocution de dimanche soir une réunion de la « coalition des volontaires » pour définir la position européenne. Il la juge « potentiellement historique ». L'Europe a désigné cinq pays pour la représenter aux futures négociations : la France, le Royaume-Uni, la Pologne, l'Allemagne et l'Italie. Kyiv veut passer du format à trois (Ukraine, États-Unis, Russie) à un format à quatre, ce que Moscou refuse. Une réunion du groupe de Ramstein, qui coordonne l'aide militaire, est prévue la semaine prochaine."
+          ],
+          "critique": "Ni le bridage ni son absence ne sont vérifiables de l'extérieur. Mais l'épisode montre une dépendance : une armée en guerre repose sur un réseau privé, sous contrôle d'un gouvernement étranger qui négocie en même temps avec l'adversaire. L'opérateur britannique BT a d'ailleurs reporté son offre Starlink, en invoquant l'image du service après l'affaire ukrainienne.",
+          "sources": [
+            {"label": "Yahoo News / The Telegraph", "url": "https://www.yahoo.com/news/world/articles/zelensky-starlink-slowdown-allowed-wave-155958719.html"},
+            {"label": "The New Arab / AFP", "url": "https://www.newarab.com/news/ukraines-allies-set-europes-position-talks-zelensky"}
+          ]
+        },
+        {
+          "kicker": "En bref",
+          "minutes": 1,
+          "title": "Ebola, Gaza, Israël",
+          "chapo": "L'épidémie d'Ebola en RD Congo dépasse les 11 000 cas, Israël tue le chef de la brigade de Rafah du Hamas, et l'opposition israélienne tente de former un gouvernement.",
+          "body": [
+            "RD Congo. Six mois après sa déclaration, le 15 mai, l'épidémie d'Ebola compte 11 042 cas confirmés et 5 387 morts au 9 novembre, dans 8 des 26 provinces. La létalité est proche de 49 %. L'Ituri concentre 7 684 cas. La souche Bundibugyo n'a aucun vaccin homologué, et des cas sont signalés au Kenya et au Nigeria. Pour le directeur général de l'OMS, Tedros Adhanom Ghebreyesus, il ne faut pas « confondre les progrès réalisés dans certains endroits avec la maîtrise de l'épidémie ». Une attaque à Cantine-Aloya a tué 66 civils, dont trois soignants, et plus de 1 000 personnes contacts restent introuvables.",
+            "Gaza. L'armée israélienne et le Shin Bet confirment la mort de Samir Abu Younis, commandant de la brigade de Rafah du Hamas, tué par une frappe à Mawasi (Khan Younès). Il avait remplacé il y a deux mois Nael Abu Obeid, tué le 15 septembre.",
+            "Israël. Benyamin Netanyahou a perdu sa majorité aux élections du 27 octobre. Le bloc mené par Gadi Eisenkot (Yashar) veut remplacer le président de la Knesset Amir Ohana et abroger les lois de la réforme judiciaire. Les Démocrates de Yaïr Golan ont conclu un accord avec Yashar ; les discussions avec le Likoud n'avancent pas."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Bénin Web TV (bilan 9/11)", "url": "https://beninwebtv.bj/rdc-ebola-11000-cas-5387-morts-novembre-2026/"},
+            {"label": "Actualite.cd (OMS, 15/11)", "url": "https://actualite.cd/2026/11/15/ebola-en-rdc-nous-ne-devons-pas-confondre-les-progres-realises-dans-certains-endroits"},
+            {"label": "Times of Israel (live 15/11)", "url": "https://www.timesofisrael.com/liveblog-november-15-2026/"}
+          ]
+        }
+      ],
+      "board": [
+        {"label": "S&P 500", "value": "7 562", "change": -0.4},
+        {"label": "Nasdaq", "value": "25 136", "change": -0.91},
+        {"label": "Dow Jones", "value": "52 348", "change": 0.1},
+        {"label": "CAC 40", "value": "8 369", "change": 0.09},
+        {"label": "Bitcoin", "value": "≈64 800 $", "change": 2.0},
+        {"label": "Or (once)", "value": "3 883 $", "change": 0.18},
+        {"label": "Brent (baril)", "value": "95,8 $", "change": 0.02},
+        {"label": "WTI (baril)", "value": "88,6 $", "change": -0.2}
+      ],
+      "boardNote": "Bourses fermées le week-end : clôtures du vendredi 13 novembre. Bitcoin : cours de dimanche matin (CoinGecko), variation depuis samedi soir ; plus bas du week-end à 61 946 $. À suivre : discours de Kevin Warsh lundi, Nvidia et ventes au détail mardi, compte rendu de la Fed mercredi, Anthropic jeudi.",
+      "estimate": {
+        "question": "Quel chiffre d'affaires trimestriel (en milliards de dollars) les analystes attendent-ils de Nvidia mardi ?",
+        "min": 0,
+        "max": 200,
+        "step": 1,
+        "unit": "Md$",
+        "answer": 109,
+        "explain": "109 milliards de dollars, +91,3 % sur un an, selon le consensus LSEG."
+      },
+      "flashcards": [
+        {"front": "Bab el-Mandeb", "back": "« Porte des lamentations » en arabe : détroit entre le Yémen et Djibouti, large d'environ 29 km (18 miles) au plus étroit. Il relie la mer Rouge au golfe d'Aden."},
+        {"front": "Aden", "back": "Port du sud du Yémen, siège provisoire du gouvernement reconnu depuis la prise de Sanaa par les Houthis en 2014. Les Houthis seraient à environ 60 km le 15 novembre 2026."},
+        {"front": "Limite des 2 000 km", "back": "Plafond de portée des missiles iraniens fixé par Ali Khamenei, rendu public en 2017. Les Gardiens de la révolution l'ont levé le 14 novembre 2026."},
+        {"front": "Khorramshahr-4", "back": "Missile balistique iranien à ergols liquides stockables : 2 000 km avec une ogive de 1 500 kg. Tasnim affirme qu'une ogive allégée le porterait à 3 000-4 000 km."},
+        {"front": "Starshield", "back": "Version militaire de Starlink, fournie à l'Ukraine via un accord avec le gouvernement américain. Kyiv accuse un bridage de vitesse sur le front, SpaceX dément."},
+        {"front": "Bundibugyo", "back": "Espèce du virus Ebola à l'origine de l'épidémie de 2026 en RD Congo. Aucun vaccin homologué ; l'Ervebo vise l'espèce Zaïre."},
+        {"front": "ANT", "back": "Symbole boursier d'Anthropic sur le Nasdaq, premiers échanges prévus jeudi 19 novembre 2026, fourchette de 70 à 78 dollars."}
+      ],
+      "quiz": [
+        {"q": "Dans quel pays se trouve Aden ?", "choices": ["Oman", "Yémen", "Érythrée", "Djibouti"], "answer": 1, "explain": "Aden est au sud du Yémen. C'est la capitale provisoire du gouvernement reconnu depuis 2014."},
+        {"q": "Quelle base britannique la télévision d'État iranienne a-t-elle citée comme cible possible ?", "choices": ["RAF Lakenheath", "RAF Fairford", "RAF Brize Norton", "RAF Mildenhall"], "answer": 1, "explain": "RAF Fairford, qui accueille des bombardiers américains, à environ 4 000 km de Tabriz."},
+        {"q": "Quel pays européen ne fait pas partie des cinq désignés pour représenter l'Europe dans les négociations sur l'Ukraine ?", "choices": ["Pologne", "Italie", "Espagne", "Allemagne"], "answer": 2, "explain": "Les cinq sont la France, le Royaume-Uni, la Pologne, l'Allemagne et l'Italie."},
+        {"q": "Combien de dollars Anthropic peut-il lever au maximum avec son introduction en Bourse ?", "choices": ["26 milliards", "38 milliards", "64,4 milliards", "104 milliards"], "answer": 2, "explain": "825 millions d'actions à 78 dollars, soit 64,4 milliards : un record s'il est atteint."},
+        {"q": "Quelle est la létalité observée de l'épidémie d'Ebola en RD Congo ?", "choices": ["Environ 10 %", "Environ 25 %", "Environ 49 %", "Environ 90 %"], "answer": 2, "explain": "5 387 morts pour 11 042 cas confirmés au 9 novembre : près d'un malade sur deux."}
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "minutes": 10,
+      "lede": [
+        "Mardi, les huit syndicats de la fonction publique appellent à la grève. Écoles, cantines, crèches et hôpitaux seront touchés, et une partie des cheminots s'y joint.",
+        "La France est passée sous la moyenne européenne de PIB par habitant. Sa croissance de 2026 est l'une des plus faibles d'Europe : trois trimestres sans progression.",
+        "Une filiale de La Poste annonce le vol des données de 22 millions de personnes. Près de Montpellier, 190 millimètres de pluie sont tombés en une nuit."
+      ],
+      "articles": [
+        {
+          "kicker": "Social · Fonction publique",
+          "minutes": 2,
+          "title": "Mardi 17 novembre, les fonctionnaires en grève, le privé invité",
+          "chapo": "La réunion de Matignon du 13 novembre n'a pas dégelé le point d'indice. Les huit syndicats de la fonction publique appellent donc à la grève mardi. La CGT, l'Unsa, la FSU et Solidaires l'étendent au privé.",
+          "body": [
+            "L'appel est unitaire : CGT, CFDT, FO, Unsa, FSU, Solidaires, CFE-CGC et FA-FP. Les syndicats demandent le dégel du point d'indice, qui sert de base au calcul de tous les traitements publics, des hausses de salaires et la suppression du jour de carence, ce premier jour d'arrêt maladie non payé. Le Premier ministre les a reçus vendredi et a ouvert un mois de discussions sur les bas salaires, sans toucher au point d'indice. Le prochain rendez-vous à Matignon est fixé au 11 décembre.",
+            "Les perturbations attendues concernent d'abord les services publics : écoles, cantines et accueil périscolaire, crèches municipales, mairies, collecte des déchets, hôpitaux. Côté rail, la CGT-Cheminots, SUD-Rail et la CFDT-Cheminots appellent aussi à la grève. Une prime de 400 euros annoncée par la direction de la SNCF n'a pas suffi, les cheminots réclamant des hausses de salaire durables. Le 5 novembre, un TER sur deux circulait dans plusieurs régions. Les prévisions de la SNCF et de la RATP sont attendues lundi soir. Aucun préavis n'a été déposé dans l'aérien.",
+            "Plus de 100 rassemblements sont annoncés, pour la plupart entre 10 heures et 14 heures. À Paris, le cortège doit relier les Invalides à la place d'Italie à partir de 14 heures, un trajet que la préfecture n'avait pas encore validé dimanche. Cette journée tombe trois jours après l'acte V du mouvement contre la vie chère et deux jours avant le vote solennel du Sénat sur le budget de la Sécurité sociale, prévu le 18 novembre."
+          ],
+          "critique": "L'unité syndicale masque des objectifs différents. La CFDT veut une négociation salariale ; la CGT et Solidaires cherchent à faire converger fonctionnaires, cheminots et mouvement social. Le gouvernement, lui, n'a pas de marge : sans budget voté pour 2027, dégeler le point d'indice coûterait des milliards d'euros par an, et tout geste serait aussitôt réclamé par les autres secteurs.",
+          "sources": [
+            {"label": "MétéoManif", "url": "https://meteomanif.fr/dossier/greve-fonction-publique-17-novembre-2026"},
+            {"label": "SNES-FSU", "url": "https://www.snes.edu/agissons/campagnes/en-greve-le-17-novembre-pour-nos-salaires-on-continue/"}
+          ]
+        },
+        {
+          "kicker": "Économie · Europe",
+          "minutes": 3,
+          "title": "Le lent décrochage français",
+          "chapo": "Croissance nulle trois trimestres de suite, PIB par habitant passé sous la moyenne de l'Union, taux d'emprunt proches de 5 % : un article du Monde dresse le constat d'une sous-performance que les économistes jugent « très inhabituelle ».",
+          "body": [
+            "Les chiffres trimestriels sont nets. Selon les données rassemblées par Le Monde, le PIB français a reculé de 0,2 % au premier trimestre 2026, stagné au deuxième et reculé de 0,1 % au troisième. L'Union européenne a fait +0,1 %, +0,7 % puis +0,5 %. Sur l'année, la France devrait afficher environ 0,4 % de croissance, presque entièrement héritée de la fin 2025. Le FMI prévoit 0,7 % en 2027, l'avant-dernier chiffre d'Europe, juste devant l'Italie (0,6 %). « La croissance française a sous-performé en 2026 », résume Mateusz Szczurek, du FMI.",
+            "Le décrochage est plus ancien. En parité de pouvoir d'achat, le PIB par habitant français était 16 % au-dessus de la moyenne de l'Union en 1995 ; il est aujourd'hui environ 2 % en dessous. Parmi 37 pays européens, de la Norvège à la Turquie, la France est passée du 13e rang en 1995 au 16e en 2025. Eurostat donne un indice de 98,2 pour 2024 (moyenne de l'Union = 100), troisième année consécutive sous la barre, juste derrière Chypre (98,9) et loin de l'Allemagne (116,1) ou de la Belgique (116,8). « Il y a un problème de croissance, à la traîne depuis 2014, mais aussi un problème de niveau de l'économie », dit Éric Dor, de l'Iéseg.",
+            "Les causes avancées touchent d'abord au travail. Seuls 55 % des habitants ont entre 20 et 64 ans, la part la plus faible de l'Union. Le taux d'emploi des 25-65 ans est de 77 %, mais il tombe à 44 % chez les 60-64 ans. Un actif français travaille 1 492 heures par an, dans le bas de la moyenne européenne ; l'Allemand, 1 332 heures, le minimum de l'Union. Fitch estime la croissance potentielle à 1,1 % par an. Pour Marianne Picard, du Crédit agricole, « la France n'a pas eu les facteurs de soutien dont ont bénéficié d'autres pays ».",
+            "L'effet se voit sur les ménages et l'État. Le pouvoir d'achat devrait reculer d'environ 0,7 % en 2026, et peut-être encore de 0,1 % en 2027, selon l'Institut français de l'économie. Les taux d'emprunt de l'État ont gagné environ 1,5 point, à près de 5 %, contre environ 1 point pour l'Allemagne. « Ça affaiblit la croissance mais c'est réparable », tempère Mateusz Szczurek."
+          ],
+          "critique": "Le classement en PIB par habitant reflète aussi le rattrapage des pays d'Europe centrale : la Pologne était 60 points derrière la France en 2000, elle n'est plus qu'à 20 points. Reculer dans un classement n'est pas s'appauvrir, et le PIB par habitant français a continué d'augmenter. Les deux sources ne mesurent pas non plus la même chose : 37 pays chez Le Monde, 27 chez Eurostat. Ce qui est inédit, c'est la combinaison : croissance faible, démographie active défavorable et coût de la dette en hausse, en pleine crise budgétaire.",
+          "sources": [
+            {"label": "Le Monde (15/11)", "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html"},
+            {"label": "Reprise de l'article du Monde", "url": "https://environnementsantepolitique.fr/2026/11/15/la-france-affiche-lune-des-plus-faibles-croissances-europeennes-cette-annee/"},
+            {"label": "Médi@terranée (Eurostat)", "url": "https://www.mediaterranee.com/0652026-pib-par-habitant-la-france-passe-sous-la-moyenne-europeenne-derriere-chypre.html"}
+          ]
+        },
+        {
+          "kicker": "Cybersécurité",
+          "minutes": 2,
+          "title": "Maileva, filiale de La Poste : 22 millions de destinataires exposés",
+          "chapo": "Le service d'envoi de courrier professionnel du groupe La Poste a été piraté mi-septembre. Les noms, prénoms et adresses postales de 22 millions de personnes ont été volés, et des courriers ont pu être lus.",
+          "body": [
+            "Maileva envoie le courrier de plus de 70 000 entreprises : bulletins de paie, factures, lettres recommandées, convocations aux assemblées générales. En 2024, 180 millions de documents sont passés par le service. L'intrusion date de la mi-septembre ; le groupe ne l'a rendue publique que samedi 14 novembre. La Poste dit avoir prévenu la CNIL, déposé plainte et alerté toutes les entreprises clientes ; une enquête judiciaire est ouverte. Selon les informations disponibles, ni mots de passe ni coordonnées bancaires n'ont été exposés.",
+            "Les destinataires ne peuvent pas vérifier eux-mêmes s'ils sont touchés : aucun outil public n'existe. Ce sont les entreprises clientes (employeurs, bailleurs, banques) qui doivent prévenir les personnes concernées. Des bailleurs sociaux des Hauts-de-France ont déjà commencé à le faire. Le principal risque est l'hameçonnage : un escroc qui connaît votre nom, votre adresse et l'entreprise qui vous écrit peut envoyer une fausse facture très crédible.",
+            "La série continue. Maileva avait déjà subi une attaque revendiquée par des pirates prorusses en décembre 2024. France Travail avait exposé les données de 43 millions de personnes en 2024. En janvier 2026, la CNIL a infligé 42 millions d'euros d'amende à Free et Free Mobile après le piratage de 24 millions de contrats, IBAN compris."
+          ],
+          "critique": "Deux mois entre l'intrusion et l'annonce publique, c'est long pour des personnes qui auraient pu se méfier plus tôt. Le RGPD impose de notifier la CNIL sous 72 heures, mais de prévenir les personnes seulement « dans les meilleurs délais » en cas de risque élevé. Le vrai problème est la concentration : un seul sous-traitant porte les courriers de 70 000 entreprises, et une seule faille suffit à exposer un tiers de la population.",
+          "sources": [
+            {"label": "Orange Actu / L'Express", "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-de-ce-dimanche-15-novembre-l-express-via-6medias-CNT000002tJGB4.html"},
+            {"label": "MCE TV / Ouest-France", "url": "https://mcetv.ouest-france.fr/2026/cyberattaque-maileva-la-poste-donnees-volees-comment-verifier/"},
+            {"label": "Franceinfo", "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html"},
+            {"label": "CNIL, sanction Free", "url": "https://cnil.fr/fr/sanction-free-2026"}
+          ]
+        },
+        {
+          "kicker": "Intempéries · Assurance",
+          "minutes": 2,
+          "title": "190 millimètres sur Montpellier, et une facture qui s'alourdit",
+          "chapo": "La nuit de samedi à dimanche, deux mois de pluie sont tombés en quelques heures autour de Montpellier. Près de 80 personnes ont été mises à l'abri. Les assureurs, déjà frappés par les émeutes d'octobre, préparent un durcissement.",
+          "body": [
+            "Météo-France a mesuré 190 millimètres à l'aéroport de Montpellier-Fréjorgues, dont 153 en trois heures et 89 en une heure. Les pluies les plus fortes sont tombées à l'est de l'agglomération et sur le littoral, entre Le Grau-du-Roi et La Grande-Motte. À Candillargues, une femme de 73 ans portée disparue a été retrouvée sur le toit de sa voiture, emportée jusqu'au bord d'un étang près de l'aéroport, puis hélitreuillée. À Pérols, des automobilistes ont été surpris par la montée des eaux à la sortie d'un concert : environ 80 personnes ont été mises en sécurité par une centaine de pompiers. La vigilance orange a été levée dimanche matin.",
+            "C'est le troisième épisode de l'automne dans la région : le 22 octobre, des crues avaient tué trois personnes dans les Bouches-du-Rhône, et le 5 novembre le Lez était sorti de son lit à Montpellier.",
+            "Pour les assureurs, l'automne est déjà record. L'agence Morningstar DBRS estime à 1,2 milliard d'euros les pertes assurées des émeutes du week-end des 17 et 18 octobre. C'est environ 50 % de plus que les émeutes de juillet 2023 (798 millions en huit jours) et près de cinq fois la facture des Gilets jaunes (256 millions sur plusieurs mois). Selon BFM Business, le coût total des dégâts de l'automne devrait dépasser le milliard, et les assureurs envisagent de durcir leurs conditions. Le gouvernement prépare une garantie émeutes obligatoire dans tous les contrats, adossée à la Caisse centrale de réassurance avec une garantie de l'État plafonnée à 4 milliards d'euros. Elle ne s'appliquerait pas aux dégâts d'octobre."
+          ],
+          "critique": "Assimiler les émeutes à une catastrophe naturelle, comme le propose le gouvernement, mutualise un risque qui relève d'abord de l'ordre public. Le coût passe des pouvoirs publics aux primes payées par tous les assurés. Et le parallèle a ses limites : on ne peut pas prévenir une pluie de 153 mm en trois heures, mais on peut prévenir une partie des pillages.",
+          "sources": [
+            {"label": "Actu Quotidienne (Météo-France)", "url": "https://actuquotidienne.com/2026/11/pluies-intenses-a-montpellier-jusqua-190-mm-en-une-nuit-la-vigilance-orange-levee/"},
+            {"label": "Orange Actu / L'Express", "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-de-ce-dimanche-15-novembre-l-express-via-6medias-CNT000002tJGB4.html"},
+            {"label": "Économie Hebdo", "url": "https://www.economie-hebdo.fr/Emeutes-2026-12-milliard-d-euros-de-pertes-pour-les-assureurs_a1814.html"},
+            {"label": "Presse Évasion (BFM Business)", "url": "https://www.presse-evasion.fr/article/revue-presse-15-11-2026"}
+          ]
+        },
+        {
+          "kicker": "Présidentielle 2027 · Gauche",
+          "minutes": 1,
+          "title": "Sandrine Rousseau lâche Marine Tondelier",
+          "chapo": "La députée écologiste refuse son parrainage à la candidate de son parti et appelle à rejoindre Jean-Luc Mélenchon. Les adhérents trancheront le 13 décembre.",
+          "body": [
+            "Sur BFMTV, Sandrine Rousseau a jugé la candidature de Marine Tondelier, créditée d'environ 3 %, « dangereuse si elle se maintient », car elle disperserait les voix de gauche. Elle ne lui donnera pas son parrainage et appelle les Écologistes à rejoindre rapidement la dynamique de Jean-Luc Mélenchon. Elle n'est pas isolée : le 16 octobre, huit députés écologistes et la présidente du groupe, Cyrielle Chatelain, avaient écrit pour mettre en cause une candidature autonome condamnée, selon eux, à « 3 % ». Le député Benoît Biteau a assisté à un meeting de Mélenchon à Rochefort le 22 octobre.",
+            "Le 13 décembre, les adhérents choisiront entre une candidature de Marine Tondelier et le soutien à un candidat extérieur au parti. Mélenchon leur propose un accord « global » couvrant la présidentielle, les législatives de 2027 et les régionales de 2028. Yannick Jadot, suspendu du parti, penche pour Raphaël Glucksmann, vainqueur de sa primaire."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Orange Actu / L'Express", "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-de-ce-dimanche-15-novembre-l-express-via-6medias-CNT000002tJGB4.html"},
+            {"label": "LCP", "url": "https://lcp.fr/actualites/presidentielle-une-dynamique-melenchon-chez-les-ecologistes-au-risque-de-fracturer-le"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Combien de millimètres de pluie sont tombés à l'aéroport de Montpellier dans la nuit du 14 au 15 novembre ?",
+        "min": 0,
+        "max": 400,
+        "step": 5,
+        "unit": "mm",
+        "answer": 190,
+        "explain": "190 mm, dont 153 en trois heures. Un millimètre équivaut à un litre par mètre carré : 190 litres d'eau sur chaque mètre carré, soit environ deux mois de pluie normale."
+      },
+      "flashcards": [
+        {"front": "Point d'indice", "back": "Valeur de base qui, multipliée par l'indice de chaque agent, donne le traitement des 5,7 millions de fonctionnaires. Il est gelé, et son dégel est la première revendication de la grève du 17 novembre."},
+        {"front": "Jour de carence", "back": "Premier jour d'arrêt maladie non rémunéré dans la fonction publique. Les syndicats en demandent la suppression."},
+        {"front": "SPA (standard de pouvoir d'achat)", "back": "Unité d'Eurostat qui corrige les écarts de prix entre pays. France 2024 : 98,2, pour une moyenne de l'Union fixée à 100."},
+        {"front": "Maileva", "back": "Filiale de La Poste qui envoie le courrier de plus de 70 000 entreprises. Piratée mi-septembre 2026 : 22 millions de personnes exposées."},
+        {"front": "Article 33 du RGPD", "back": "Impose de notifier une violation de données à l'autorité (la CNIL en France) dans les 72 heures après en avoir pris connaissance."},
+        {"front": "Caisse centrale de réassurance (CCR)", "back": "Réassureur public, garant du régime des catastrophes naturelles. Il devrait porter la future garantie émeutes, plafonnée à 4 milliards d'euros."},
+        {"front": "13 décembre 2026", "back": "Vote des adhérents écologistes : candidature de Marine Tondelier ou soutien à un candidat extérieur."}
+      ],
+      "quiz": [
+        {"q": "Combien de syndicats de la fonction publique appellent à la grève du 17 novembre ?", "choices": ["Trois", "Cinq", "Huit", "Dix"], "answer": 2, "explain": "Les huit : CGT, CFDT, FO, Unsa, FSU, Solidaires, CFE-CGC et FA-FP."},
+        {"q": "Où se situe le PIB par habitant français (SPA, Eurostat 2024), pour une moyenne de l'Union de 100 ?", "choices": ["92,4", "98,2", "104,0", "116,1"], "answer": 1, "explain": "98,2, troisième année sous la moyenne, juste derrière Chypre (98,9). 116,1, c'est l'Allemagne."},
+        {"q": "Combien de personnes sont touchées par le vol de données chez Maileva ?", "choices": ["2,2 millions", "8 millions", "22 millions", "43 millions"], "answer": 2, "explain": "22 millions. 43 millions, c'est France Travail en 2024."},
+        {"q": "Combien ont coûté aux assureurs les émeutes des 17 et 18 octobre, selon Morningstar DBRS ?", "choices": ["256 millions d'euros", "798 millions d'euros", "1,2 milliard d'euros", "4 milliards d'euros"], "answer": 2, "explain": "1,2 milliard. 798 millions, c'est juillet 2023 ; 256 millions, les Gilets jaunes."},
+        {"q": "Combien d'heures travaille en moyenne un actif français par an ?", "choices": ["1 332", "1 492", "1 607", "1 790"], "answer": 1, "explain": "1 492 heures, dans le bas de la moyenne européenne. 1 332, c'est l'Allemagne, minimum de l'Union."}
+      ]
+    },
+    {
+      "id": "savoirs",
+      "name": "Savoirs",
+      "minutes": 10,
+      "lede": [
+        "Pourquoi une ogive plus légère va plus loin : la portée d'un missile balistique expliquée par l'équation de Tsiolkovski.",
+        "Bab el-Mandeb, deuxième verrou du pétrole du Golfe. La vaccination en anneau contre Ebola. Et ce que les marchés lisent vraiment dans les résultats de Nvidia.",
+        "Le 16 novembre 1945, quarante et un pays fondaient à Londres l'Unesco, aujourd'hui installée à Paris."
+      ],
+      "articles": [
+        {
+          "kicker": "Physique · Balistique",
+          "minutes": 3,
+          "title": "Portée d'un missile : tout est une question de masse",
+          "chapo": "Le Khorramshahr porte une ogive de 1 500 kg à 2 000 km. Téhéran dit qu'allégé, il irait à 4 000 km. Ce n'est pas de la propagande pure : c'est l'équation de la fusée.",
+          "body": [
+            "Un missile balistique ne vole propulsé que pendant quelques minutes. Ensuite, sa trajectoire est celle d'un projectile lancé très haut et très vite, presque une ellipse dans le champ de gravité terrestre. La portée dépend donc surtout d'un chiffre : la vitesse atteinte à l'extinction du moteur. Pour 1 000 km, il faut environ 3 km/s. Pour 2 000 km, environ 4,3 km/s. Pour 4 000 km, environ 5,5 km/s. Pour 10 000 km, missile intercontinental, il faut 7 km/s. La portée croît beaucoup plus vite que la vitesse, et chaque kilomètre par seconde supplémentaire coûte de plus en plus cher.",
+            "Ce gain de vitesse est donné par l'équation de Tsiolkovski, établie en 1903 : Δv = ve × ln(m0/mf). ve est la vitesse d'éjection des gaz, autour de 2,5 à 3 km/s pour des ergols liquides stockables. m0 est la masse au départ et mf la masse à l'extinction, ogive comprise. Le logarithme est cruel : pour doubler le gain de vitesse, il faut élever le rapport de masse au carré. Un missile qui brûle 80 % de sa masse (rapport 5) gagne 1,6 × ve ; pour gagner 2,3 × ve, il en faudrait 90 % (rapport 10).",
+            "D'où l'importance de l'ogive. Le Khorramshahr pèse environ 19,5 tonnes, dont 1,5 tonne d'ogive. Diviser l'ogive par deux réduit mf de 750 kg. Sur un étage unique dont la masse à vide ne pèse que quelques tonnes, cela augmente sensiblement le rapport de masse et donc la vitesse finale, de plusieurs centaines de mètres par seconde. Ces quelques centaines de mètres par seconde peuvent se traduire par un millier de kilomètres de portée en plus. C'est ce qu'expliquait déjà l'expert de l'IISS Michael Elleman : l'Iran limitait sa portée affichée en testant avec une ogive lourde. Le Hwasong-10 nord-coréen, dont le Khorramshahr dérive, a été vendu sous le nom de BM-25, pour 2 500 km de portée.",
+            "Il y a deux limites. La première est la rentrée atmosphérique : plus on va loin, plus l'ogive revient vite, et plus la protection thermique doit être lourde et précise. La seconde est l'utilité : une tonne d'explosif classique livrée à 4 000 km avec une précision de quelques centaines de mètres a peu de valeur militaire. Cela explique la phrase des Gardiens sur la « doctrine nucléaire ». Pour mémoire, Paris est à environ 4 200 km de Téhéran à vol d'oiseau et à 3 700 km de Tabriz, Berlin à 3 000 km de Tabriz, et Tel-Aviv à 1 600 km de Téhéran.",
+            "Les ordres de grandeur pour finir : un missile de 2 000 km vole environ 10 à 12 minutes, un missile de 4 000 km environ 15 à 18 minutes, et un intercontinental une trentaine de minutes. L'apogée d'un tir à portée maximale atteint environ le quart de la portée, donc 500 km pour un missile de 2 000 km, plus haut que la Station spatiale internationale."
+          ],
+          "critique": "Les vitesses et durées données ici sont des ordres de grandeur pour des trajectoires optimales, sans traînée ni rotation terrestre. Les vraies performances dépendent de données que l'Iran ne publie pas : masse à vide, impulsion spécifique, rendement de la tuyère. Les annonces de portée sont des messages politiques autant que techniques.",
+          "sources": [
+            {"label": "Wikipedia, Khorramshahr", "url": "https://en.wikipedia.org/wiki/Khorramshahr_(missile)"},
+            {"label": "The New Arab", "url": "https://www.newarab.com/news/why-has-iran-scrapped-its-missile-range-limit"}
+          ]
+        },
+        {
+          "kicker": "Géographie · Énergie",
+          "minutes": 2,
+          "title": "Bab el-Mandeb, l'autre porte du Golfe",
+          "chapo": "Ormuz est bloqué. La route de secours saoudienne mène à la mer Rouge, dont la sortie sud passe par un détroit que les Houthis contrôlent désormais en partie.",
+          "body": [
+            "Bab el-Mandeb, « la porte des lamentations », sépare la péninsule Arabique de la corne de l'Afrique, entre le Yémen d'un côté, Djibouti et l'Érythrée de l'autre. Il mesure environ 29 km (18 miles) au plus étroit, et l'île de Perim le divise en deux. Selon l'Agence américaine d'information sur l'énergie (EIA), les pétroliers n'y disposent que de deux chenaux d'environ 3 km de large, un par sens. Le détroit relie la mer Rouge, le canal de Suez et l'oléoduc égyptien SUMED au golfe d'Aden et à l'océan Indien.",
+            "En 2018, selon l'EIA, 6,2 millions de barils par jour de brut et de produits pétroliers y passaient, soit environ 9 % du commerce maritime de pétrole : 3,6 millions vers le nord et l'Europe, 2,6 millions vers le sud et l'Asie. Les attaques houthies de 2023-2024 avaient déjà divisé par deux le trafic de pétroliers en mer Rouge ; beaucoup de navires contournaient l'Afrique par le cap de Bonne-Espérance, ce qui ajoute une à deux semaines de trajet entre l'Asie et l'Europe.",
+            "Le lien avec Ormuz est géographique. Pour contourner le blocage du Golfe, l'Arabie saoudite pompe son brut vers l'ouest par l'oléoduc Est-Ouest jusqu'au terminal de Yanbu, sur la mer Rouge. De là, les pétroliers doivent remonter vers Suez ou descendre vers Bab el-Mandeb. Les Houthis revendiquent déjà des frappes sur des stations de pompage de cet oléoduc. S'ils tiennent la rive yéménite du détroit, missiles antinavires et drones à portée, la route de secours devient elle-même une zone de guerre."
+          ],
+          "critique": "Les chiffres de l'EIA datent de 2018 : le trafic de 2026 est très différent, entre la guerre du Golfe, les attaques houthies et les détours par le Cap. Contrôler une rive ne suffit pas à fermer un détroit, mais il suffit souvent de menacer quelques navires pour que les assureurs fassent le reste.",
+          "sources": [
+            {"label": "EIA (2019)", "url": "https://www.eia.gov/todayinenergy/detail.php?id=41073"},
+            {"label": "Offshore Technology (EIA, 2024)", "url": "https://offshore-technology.com/newsletters/red-sea-oil-tanker-traffic-has-dropped-by-50-this-year-says-eia"},
+            {"label": "ISW / Critical Threats", "url": "https://www.criticalthreats.org/analysis/iran-update-november-15-2026-6afa2b8bbe2ed"}
+          ]
+        },
+        {
+          "kicker": "Biologie · Épidémiologie",
+          "minutes": 2,
+          "title": "Ebola Bundibugyo et la vaccination en anneau",
+          "chapo": "Il existe un vaccin efficace contre Ebola, mais pas contre la souche qui sévit en RD Congo. L'OMS teste trois candidats avec une méthode née en Guinée en 2015.",
+          "body": [
+            "« Ebola » désigne plusieurs espèces de virus. L'espèce Zaïre a causé l'épidémie d'Afrique de l'Ouest (2014-2016) ; c'est contre elle qu'a été conçu le vaccin Ervebo. L'épidémie de 2026 est due à l'espèce Bundibugyo, identifiée en Ouganda en 2007, assez différente pour qu'on ne puisse pas présumer que l'Ervebo protège. Aucun vaccin ni traitement n'est homologué contre elle.",
+            "L'essai Tumaini (« espoir » en swahili) a démarré le 23 octobre à Bunia, capitale de l'Ituri. Il teste d'abord l'Ervebo, puis devrait ajouter deux candidats recommandés par un groupe d'experts de l'OMS : ChAdOx1, d'Oxford et du Serum Institute of India, et l'ARNm-1469 de Moderna. La méthode est la vaccination en anneau : au lieu de vacciner toute une population, on vaccine les contacts d'un malade confirmé, puis les contacts de ces contacts. C'est un pare-feu autour de chaque foyer. En Guinée en 2015, elle a démontré l'efficacité de l'Ervebo avec quelques milliers de personnes vaccinées.",
+            "Les chiffres donnent l'échelle. Avec 5 387 morts pour 11 042 cas confirmés, la létalité observée est de 49 %. Ce taux de létalité (morts parmi les cas connus) n'est pas un taux de mortalité par infection : il ne compte que les cas détectés. Mais avec Ebola, les formes sans symptômes sont rares, et l'écart entre les deux est faible. Une vaccination en anneau suppose en revanche de retrouver les contacts, et plus de 1 000 d'entre eux sont introuvables dans les zones de combat."
+          ],
+          "critique": "Les bilans viennent de bulletins nationaux et de l'OMS qui ne coïncident pas toujours (5 323, 5 354 ou 5 387 morts selon la date et la source). Dans une zone de guerre, le sous-comptage est probable.",
+          "sources": [
+            {"label": "ONU Info (5/11)", "url": "https://news.un.org/fr/story/2026/11/1159792"},
+            {"label": "Bénin Web TV (bilan 9/11)", "url": "https://beninwebtv.bj/rdc-ebola-11000-cas-5387-morts-novembre-2026/"},
+            {"label": "Actualite.cd (15/11)", "url": "https://actualite.cd/2026/11/15/ebola-en-rdc-nous-ne-devons-pas-confondre-les-progres-realises-dans-certains-endroits"}
+          ]
+        },
+        {
+          "kicker": "Finance · Méthode",
+          "minutes": 2,
+          "title": "Lire une publication de résultats comme un marché",
+          "chapo": "Une action peut chuter après des résultats record. C'est que la Bourse compare trois chiffres à un quatrième, qui n'est publié nulle part officiellement.",
+          "body": [
+            "Les trois chiffres publiés sont le chiffre d'affaires, le bénéfice par action (BPA, ou EPS en anglais) et les prévisions pour le trimestre suivant (la « guidance »). Le quatrième est le consensus, la moyenne des estimations des analystes compilée par LSEG, FactSet ou Bloomberg. Pour Nvidia mardi : 109 milliards de dollars de chiffre d'affaires, 2,47 dollars de BPA, et environ 125 milliards attendus en prévision pour le trimestre suivant.",
+            "Le cours d'une action est déjà la somme des attentes. Battre le consensus de 1 % est souvent jugé décevant pour une valeur de croissance, parce que les investisseurs ont en tête un chiffre officieux plus élevé (le « whisper number »). C'est pourquoi la prévision compte souvent plus que le trimestre écoulé : elle modifie toute la série des bénéfices futurs, que le marché actualise.",
+            "Le BPA mérite aussi qu'on le lise de près. Il existe en version comptable normalisée (GAAP aux États-Unis) et en version ajustée, qui exclut par exemple les rémunérations en actions. La perte de 104 milliards d'Anthropic, surtout faite d'écritures sans sortie de trésorerie, montre qu'un même chiffre peut tout dire ou presque rien. Le flux de trésorerie disponible (free cash flow) est plus difficile à maquiller."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "The National", "url": "https://www.thenationalnews.com/business/markets/2026/11/16/nvidia-earnings-anthropic-ipo/"}
+          ]
+        },
+        {
+          "kicker": "Culture G · Économie",
+          "minutes": 1,
+          "title": "Pourquoi comparer les PIB « en pouvoir d'achat »",
+          "chapo": "Un euro n'achète pas la même chose à Varsovie et à Paris. Les comparaisons d'Eurostat corrigent cet écart.",
+          "body": [
+            "Le standard de pouvoir d'achat (SPA) est une monnaie fictive : un SPA achète le même panier de biens et services dans chaque pays de l'Union. Pour l'obtenir, Eurostat relève les prix de milliers de produits et calcule des parités de pouvoir d'achat. Exprimer un PIB en SPA mesure donc des volumes réels, pas des euros nominaux. C'est pourquoi la Pologne, moins chère, se rapproche plus vite de la France en SPA qu'en euros.",
+            "L'indice 100 est la moyenne de l'Union. La France est à 98,2 en 2024. L'indice ne mesure pas le niveau de vie des ménages : le Luxembourg et l'Irlande y sont gonflés par les travailleurs frontaliers et les profits des multinationales. Eurostat recommande d'ailleurs, pour le niveau de vie, la consommation individuelle effective par habitant."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Médi@terranée (Eurostat)", "url": "https://www.mediaterranee.com/0652026-pib-par-habitant-la-france-passe-sous-la-moyenne-europeenne-derriere-chypre.html"}
+          ]
+        },
+        {
+          "kicker": "Éphéméride · Sport",
+          "minutes": 1,
+          "title": "Unesco, sainte Marguerite et Turin",
+          "chapo": "Une organisation née à Londres mais installée à Paris, une reine d'Écosse, et le premier match d'Arthur Fils aux Masters.",
+          "body": [
+            "Le 16 novembre 1945, à l'issue de la conférence de Londres, 41 pays signent l'acte constitutif de l'Organisation des Nations unies pour l'éducation, la science et la culture. Le texte entre en vigueur le 4 novembre 1946, au vingtième dépôt de ratification. Le premier directeur général est le biologiste britannique Julian Huxley. Le siège est à Paris, place de Fontenoy ; l'Unesco compte 194 États membres et est dirigée depuis 2025 par l'Égyptien Khaled El-Enany.",
+            "Le 16 novembre, on fête sainte Marguerite d'Écosse (vers 1045-1093), princesse anglo-saxonne née en exil en Hongrie, devenue reine d'Écosse en épousant Malcolm III. Elle a fondé l'abbaye de Dunfermline.",
+            "Tennis. Pour son entrée aux ATP Finals de Turin dimanche, Arthur Fils, 22 ans, premier Français qualifié depuis dix ans, a perdu contre l'Américain Ben Shelton, 6-2, 3-6, 6-3 en 1 h 58. Shelton remporte son premier match dans le tournoi et sa 45e victoire de la saison, son record personnel."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Wikipedia, UNESCO", "url": "https://en.wikipedia.org/wiki/UNESCO"},
+            {"label": "ATP Tour", "url": "https://www.atptour.com/en/news/shelton-fils-nitto-atp-finals-2026-sunday"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Quelle distance à vol d'oiseau sépare Téhéran de Paris ?",
+        "min": 1000,
+        "max": 8000,
+        "step": 100,
+        "unit": "km",
+        "answer": 4200,
+        "explain": "Environ 4 200 km sur l'arc de grand cercle : plus du double de l'ancienne limite iranienne de 2 000 km, mais dans la fourchette de 3 000 à 4 000 km revendiquée par Tasnim, si l'on tire depuis le nord-ouest du pays (Tabriz-Paris : 3 700 km)."
+      },
+      "flashcards": [
+        {"front": "Équation de Tsiolkovski", "back": "Δv = ve × ln(m0/mf). Le gain de vitesse d'une fusée dépend de la vitesse d'éjection et du logarithme du rapport entre masse initiale et masse finale."},
+        {"front": "Vitesse et portée", "back": "Ordres de grandeur pour un missile balistique : environ 3 km/s pour 1 000 km, 4,3 km/s pour 2 000 km, 7 km/s pour 10 000 km."},
+        {"front": "Vaccination en anneau", "back": "On vaccine les contacts d'un cas confirmé, puis les contacts de ces contacts. C'est ainsi que l'efficacité de l'Ervebo a été démontrée en Guinée en 2015."},
+        {"front": "Létalité vs mortalité", "back": "Létalité : morts parmi les cas connus. Mortalité par infection : morts parmi toutes les personnes infectées, détectées ou non."},
+        {"front": "Consensus", "back": "Moyenne des prévisions des analystes pour un résultat d'entreprise. La Bourse réagit à l'écart entre le résultat publié et ce chiffre, pas au résultat lui-même."},
+        {"front": "Guidance", "back": "Prévision qu'une entreprise donne pour le trimestre ou l'année suivante. Elle pèse souvent plus sur le cours que les résultats passés."},
+        {"front": "Unesco", "back": "Fondée à Londres le 16 novembre 1945 par 41 pays. Siège à Paris, 194 membres. Premier directeur général : Julian Huxley."}
+      ],
+      "quiz": [
+        {"q": "Dans l'équation de Tsiolkovski, comment le gain de vitesse dépend-il du rapport de masse ?", "choices": ["Linéairement", "Comme son carré", "Comme son logarithme", "Comme sa racine carrée"], "answer": 2, "explain": "Δv = ve × ln(m0/mf). Pour doubler le gain de vitesse, il faut élever le rapport de masse au carré."},
+        {"q": "Quelle largeur fait Bab el-Mandeb au plus étroit, selon l'EIA ?", "choices": ["3 km", "Environ 29 km", "Environ 60 km", "Environ 150 km"], "answer": 1, "explain": "18 miles, soit environ 29 km, avec deux chenaux de 2 miles (environ 3 km) pour les pétroliers."},
+        {"q": "Contre quelle espèce d'Ebola le vaccin Ervebo a-t-il été conçu ?", "choices": ["Bundibugyo", "Soudan", "Zaïre", "Taï Forest"], "answer": 2, "explain": "L'espèce Zaïre. L'épidémie actuelle est due à Bundibugyo, contre laquelle aucun vaccin n'est homologué."},
+        {"q": "Dans une publication de résultats, qu'est-ce que la « guidance » ?", "choices": ["Le dividende versé", "La prévision de l'entreprise pour la période suivante", "La moyenne des analystes", "Le bénéfice ajusté"], "answer": 1, "explain": "C'est la prévision de l'entreprise. La moyenne des analystes, c'est le consensus."},
+        {"q": "Où l'Unesco a-t-elle été fondée le 16 novembre 1945 ?", "choices": ["Paris", "New York", "Londres", "Genève"], "answer": 2, "explain": "À Londres. Son siège a ensuite été installé à Paris."}
+      ]
+    }
+  ]
+}
