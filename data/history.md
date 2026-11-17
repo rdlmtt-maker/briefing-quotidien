@@ -80,3 +80,18 @@ Format : date | chapitre | sujet | angle déjà traité
 2026-11-16 | savoirs | Ebola Bundibugyo, vaccination en anneau, létalité vs mortalité | 
 2026-11-16 | savoirs | Lire des résultats (consensus, guidance, GAAP) ; SPA | 
 2026-11-16 | savoirs | Unesco 16/11/1945, sainte Marguerite d'Écosse, Shelton-Fils | 
+2026-11-17 | monde | Marchés 16/11 : S&P −1,92 %, Nasdaq −2,49 %, Taiex −6 % | règle BIS location de calcul (12 M TPP ≈ 750 H100, 90 jours), Bessent 10 jours / PDG extérieur, conseil exclut retour Huang, pétition 180 000, Trump actionnaire, SemiAnalysis −28 % 2028, Empire State 7,8
+2026-11-17 | monde | Iran / Ormuz | CGRI : 6 pétroliers minés (route sud), UKMTO 1 navire, Gharibabadi refuse AIEA, Araghchi Islamabad→Mascate, « bloc de 10 pays », Brent −3,55 % (excédent), plainte Ramsbottom Port Shuaiba, condamnations Bahreïn
+2026-11-17 | monde | Ukraine | record 1 336 drones (Russie), arche pont de Kertch, Ilsky, 55 % raffinage, 6 500 Shahed à réaction en nov., Finlande/Bild, Estonie ferme frontière 1/12
+2026-11-17 | monde | Japon PIB T3 −0,1 % annualisé | yen 160, interventions 27 130 Md¥, BoJ 17-18/12
+2026-11-17 | monde | Brefs | rougeole : États-Unis perdent l'élimination (5 412 cas), Meta Italie 887 M$, Prague/Babiš, Cap-Vert Neves, Alaska, ASEAN/Birmanie
+2026-11-17 | france | Grève FP 17/11 (jour J) | Amiel 350 € bruts/an, 1,35 M agents, 8 points, point 4,92278 €, 1 % = 2,4 Md€, Binet « miettes », retraités 19/11, Gilets jaunes 21/11
+2026-11-17 | france | RN retraites (présentation 17/11) | 60/62 ans, capitalisation pour tous, trimestres assimilés 26 Md€, Bardella « Gouverner » ; Faure censure si ordonnances, Smic 1 700 / Tondelier 2 000 brut
+2026-11-17 | france | Mission Volia (RFI) | militaires français en Ukraine depuis l'été, couverture EUMAM Pologne, article 35, Perrin
+2026-11-17 | france | Parlement | taxe lapin 5 € (Sénat, 27 M RDV), épargne salariale déblocage 10 000 € (AN 95-34, CMP)
+2026-11-17 | france | Marchés | CAC 8 352, spread OAT-Bund 155 pb (OAT 4,93 %)
+2026-11-17 | savoirs | TPP / densité de performance / location de calcul | 
+2026-11-17 | savoirs | Pont de Kertch (pieux, arche 227 m, flambement, tirant d'air) | 
+2026-11-17 | savoirs | VIX (√12, √252) | 
+2026-11-17 | savoirs | Croissance annualisée vs trimestrielle ; spread et renouvellement de la dette | 
+2026-11-17 | savoirs | Éphéméride : Suez 1869, brevet souris 1970, Gary/Ajar 1975, Velours 1989, Gilets jaunes 2018, sainte Élisabeth de Hongrie | 

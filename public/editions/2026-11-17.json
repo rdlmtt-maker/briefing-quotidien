@@ -1,0 +1,814 @@
+{
+ "date": "2026-11-17",
+ "weekday": "mardi",
+ "saint": "Sainte Élisabeth",
+ "headline": "Wall Street chute avant Nvidia, Téhéran revendique six pétroliers minés à Ormuz, et la fonction publique fait grève pour plus que 29 euros par mois.",
+ "chapters": [
+  {
+   "id": "monde",
+   "name": "Monde",
+   "minutes": 12,
+   "lede": [
+    "Wall Street a perdu près de 2 % lundi, le Nasdaq 2,5 %. Washington interdit aux groupes chinois de louer des puces d'IA à l'étranger, et le Trésor exige un patron extérieur pour Nvidia, qui publie ce soir.",
+    "Les Gardiens de la révolution affirment que six pétroliers ont heurté des mines à Ormuz. Téhéran refuse les inspecteurs de l'AIEA, et Abbas Araghchi est à Mascate. Le pétrole, lui, a baissé de 3,6 %.",
+    "L'Ukraine lance un record de drones contre la Russie et touche le pont de Crimée. Le Japon voit son PIB reculer, et les États-Unis perdent leur statut de pays débarrassé de la rougeole."
+   ],
+   "articles": [
+    {
+     "kicker": "Marchés · Intelligence artificielle",
+     "minutes": 3,
+     "title": "Wall Street décroche la veille du verdict de Nvidia",
+     "chapo": "Le S&P 500 a perdu 1,92 % lundi et le Nasdaq 2,49 %. Les semi-conducteurs ont plongé : Washington ferme la porte à la location de puces d'IA par des groupes chinois, le Trésor exige une reprise en main de Nvidia, et le conseil d'administration exclut le retour de Jensen Huang.",
+     "body": [
+      "La séance de lundi a été la plus mauvaise depuis des semaines. Le S&P 500 a clôturé à 7 416,6 points (−1,92 %), troisième baisse d'affilée. Le Nasdaq Composite a reculé de 2,49 %, à 24 509,8 points, et le Dow Jones de 1,41 %, à 51 608 points. L'indice de volatilité VIX a bondi d'environ 19 %, à près de 23. Seul le secteur de la consommation de base a fini dans le vert. Les fabricants de puces ont porté l'essentiel de la baisse : Micron −7,62 %, Intel −7,02 %, Dell −6,96 %, AMD −5,58 %, Oracle −4,99 %, Broadcom −3,92 %. Les deux principaux fonds indiciels des semi-conducteurs (SOXX et SMH) ont perdu plus de 5 %.",
+      "Nvidia a cédé 4,12 %, à 156,14 dollars. L'action a reculé six semaines de suite, sa plus longue série de baisses depuis 2012. Selon Reuters, le groupe a perdu environ 800 milliards de dollars de capitalisation depuis l'éclatement de l'affaire qui a conduit Jensen Huang à démissionner. Son ratio cours sur bénéfices est tombé à 11,5, contre 20,8 en moyenne pour le Nasdaq. Mizuho a abaissé son objectif de cours à 220 dollars, UBS à 240 dollars.",
+      "Le premier choc est réglementaire. Lundi, le Bureau de l'industrie et de la sécurité (BIS) du département du Commerce a publié une règle intérimaire qui ferme une faille connue : des entreprises chinoises louaient de la puissance de calcul américaine dans des centres de données à l'étranger. Désormais, une licence est exigée pour livrer des puces d'IA à tout centre de données, n'importe où dans le monde, capable de fournir plus de 12 millions d'unités de « performance de traitement totale » (TPP), soit environ 750 puces Nvidia H100 ou H200, dès lors qu'il sert une entreprise basée ou contrôlée en Chine, à Macao, en Russie, en Iran, en Corée du Nord ou dans dix-huit autres destinations. L'Indonésie, la Malaisie, Singapour, la Thaïlande et le Brésil, jugés à « risque de détournement plus élevé que la normale », sont soumis à licence. Les centres existants ont 90 jours pour se mettre en règle. Le texte précise qu'il a été rédigé « par et sur instruction » du Trésor et du Conseil de sécurité nationale.",
+      "Le deuxième choc est politique. Le secrétaire au Trésor, Scott Bessent, a donné dix jours à Nvidia pour répondre aux questions issues de son enquête interne, a dénoncé une « culture de non-conformité » et a demandé que le prochain directeur général vienne de l'extérieur. « Rien au-dessus des H200 ne peut être vendu aux Chinois », a-t-il ajouté. Au moins huit commissions du Congrès préparent des enquêtes. Le conseil d'administration, lui, n'envisage pas de rappeler Jensen Huang, selon trois sources de Reuters et une source de CNBC, malgré une pétition « Stand With Jensen » qui revendique plus de 180 000 signatures, dont celles d'Elon Musk et de Tim Sweeney. Donald Trump a dit lundi : « Je pense qu'il a retenu une grande leçon. » Selon le Washington Post, ses déclarations de transactions indiquent qu'il détenait entre 13 et 62 millions de dollars d'actions Nvidia fin août.",
+      "L'Asie a amplifié le mouvement. Lundi, l'indice de Taïwan a chuté de 6,03 %, entraîné par TSMC (−5,74 %), et le Kospi coréen de 3,59 %. Mardi matin, le Kospi perdait encore environ 2 %, Taïwan 1,4 % et le Nikkei 1 %. Le dollar a atteint son plus haut niveau depuis avril 2025 face à un panier de devises, et l'euro est tombé à 1,0985 dollar. Les contrats à terme sur le Nasdaq remontaient toutefois de 0,35 %.",
+      "Ce soir, après la clôture américaine (vers 22 h 20 à Paris), Nvidia publie ses comptes du troisième trimestre fiscal. Le consensus LSEG attend 109,1 milliards de dollars de chiffre d'affaires (+91 % sur un an) et un bénéfice par action de 2,47 dollars ; la prévision de l'entreprise était de 108 milliards, à 2 % près, hors centres de données en Chine. Les ventes au détail d'octobre sont publiées à 14 h 30 (consensus +0,2 %). L'indice manufacturier Empire State de New York, publié lundi, est tombé à 7,8 en novembre, contre 16,7 attendu."
+     ],
+     "critique": "Deux chiffres pèsent plus que le trimestre de Nvidia. D'abord, le cabinet SemiAnalysis a réduit de 28 % sa prévision de dépenses mondiales en accélérateurs d'IA pour 2028 (758 milliards de dollars) et de 40 % celle de 2030. Ensuite, l'État américain intervient désormais directement dans la gouvernance d'une entreprise privée, le Trésor réclamant un dirigeant extérieur, pendant que le président, actionnaire, plaide pour le retour du fondateur. Un bon résultat ce soir ne dira rien de ces deux risques.",
+     "sources": [
+      {
+       "label": "The Weekend Spread, clôture du 16/11",
+       "url": "https://theweekendspread.substack.com/p/the-close-monday-november-16-2026"
+      },
+      {
+       "label": "Capp Notes, clôture du 16/11",
+       "url": "https://cappnotes.substack.com/p/closing-look-monday-november-16-2026"
+      },
+      {
+       "label": "Stock Titan",
+       "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"
+      },
+      {
+       "label": "BigGo Finance, règle BIS",
+       "url": "https://finance.biggo.com/news/265e6792-955b-4c96-8b40-2f078278f414"
+      },
+      {
+       "label": "BNN Bloomberg / Reuters",
+       "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/17/nvidia-rules-out-jensen-huang-comeback-as-campaign-for-his-return-grows/"
+      },
+      {
+       "label": "The Star / Reuters, Asie mardi",
+       "url": "https://www.thestar.com.my/business/business-news/2026/11/17/asia-shares-slide-on-tech-weakness-ahead-of-nvidia-earnings"
+      },
+      {
+       "label": "Just Security, Early Edition",
+       "url": "https://www.justsecurity.org/164727/early-edition-november-16-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Iran · Ormuz",
+     "minutes": 3,
+     "title": "Six pétroliers touchés selon Téhéran, le pétrole baisse quand même",
+     "chapo": "Les Gardiens de la révolution affirment que six pétroliers ont heurté des mines dans le détroit d'Ormuz depuis dimanche. Téhéran refuse toute inspection de ses sites nucléaires bombardés. Abbas Araghchi est arrivé à Mascate. Et le Brent a perdu 3,6 %.",
+     "body": [
+      "Selon un communiqué des Gardiens de la révolution (CGRI) relayé par les médias d'État et par Reuters, six pétroliers ont pris feu après avoir heurté des mines dimanche et lundi dans le détroit d'Ormuz. Les deux derniers transitaient par la partie sud du détroit « avec un soutien militaire américain ». Le CGRI dit considérer cette route sud comme un passage non autorisé, affirme avoir prévenu les compagnies pétrolières que des mines y avaient été posées, et présente ces actions comme une riposte au blocus naval américain. Il menace de « mesures strictes » les pétroliers qui ne respectent pas ses règles.",
+      "Aucune source indépendante ne confirme ce bilan. Le centre britannique UKMTO a seulement signalé un navire « frappé par un projectile inconnu » en sortie du détroit, avec un incendie dans la salle des machines et sans victime. La télévision d'État iranienne a parlé d'un pétrolier en feu à l'est du détroit après avoir heurté une mine dans une « zone restreinte ». On ne sait pas si les deux incidents sont liés. Ni les noms des navires, ni leurs pavillons, ni leurs armateurs n'ont été publiés.",
+      "Sur le nucléaire, le vice-ministre des Affaires étrangères Kazem Gharibabadi a fermé la porte dimanche soir : « Nous n'accorderons pas à l'AIEA l'accès aux installations tant que les conditions de l'Iran ne sont pas remplies et que la guerre n'est pas définitivement terminée. » Il soupçonne l'agence de vouloir « évaluer l'efficacité des armes américaines ». Les inspecteurs ont visité la centrale de Bouchehr en septembre, mais pas Natanz, Fordo ni Ispahan, visés par les frappes américaines.",
+      "La diplomatie continue en parallèle. Après une réunion de l'Organisation de coopération économique à Islamabad, Abbas Araghchi est arrivé à Mascate pour rencontrer son homologue omanais, Badr al-Boussaïdi. Il s'agit de relancer l'entente irano-américaine négociée par le Pakistan : le mémorandum d'Islamabad, en quatorze points, conclu en juin, qui portait sur la sécurité maritime à Ormuz, la levée des sanctions et l'arrêt des hostilités. À Islamabad, Araghchi a affirmé qu'un « bloc régional de dix pays » soutenait sa proposition de rouvrir le détroit en deux jours si Washington accepte les conditions iraniennes, à commencer par la levée du blocus ; l'Arabie saoudite n'a pas confirmé en faire partie. Le ministre saoudien Fayçal ben Farhane a appelé lundi ses homologues qatari et égyptien.",
+      "Côté américain, un officier de l'armée de terre, le commandant Stephen Ramsbottom, a déposé une plainte de lanceur d'alerte devant les commissions des forces armées du Congrès. Il accuse sa hiérarchie d'avoir ignoré des alertes sur la faiblesse des défenses de Port Shuaiba, au Koweït, où un drone iranien a tué six soldats américains le 1er mars, l'attaque la plus meurtrière de la guerre contre des troupes américaines. Le poste n'avait, selon la plainte, « ni médecin, ni poste de secours fixe, et une seule ambulance ». Au Bahreïn, des dizaines de personnes ont été condamnées à la perpétuité pour collusion avec le CGRI ; selon une ONG, 60 des 64 accusés sont des religieux chiites.",
+      "Le marché pétrolier a pourtant reculé. Le Brent a clôturé à 92,44 dollars (−3,55 %) et le WTI à 85,72 dollars (−3,21 %), puis ils ont encore perdu près de 1 % mardi matin en Asie. Les opérateurs retiennent que l'offre mondiale dépasse à nouveau la demande, pour la première fois depuis le début de la guerre, avec des stocks en hausse de 52 millions de barils en octobre, et que la croissance ralentit, au Japon comme dans l'industrie new-yorkaise."
+     ],
+     "critique": "Le bilan de six pétroliers vient d'une seule partie, qui a intérêt à dissuader les convois escortés par les États-Unis : tant qu'aucun armateur ni assureur ne le confirme, c'est une revendication, pas un fait. À l'inverse, la baisse du pétrole ne signifie pas que le risque a disparu. Elle montre que le marché craint aujourd'hui davantage une demande en berne qu'une nouvelle perte d'offre.",
+     "sources": [
+      {
+       "label": "Arab News / Reuters",
+       "url": "https://www.arabnews.pk/middle-east/two-oil-tankers-hit-mines-in-the-strait-of-hormuz-irgc-says-3007149"
+      },
+      {
+       "label": "Azernews",
+       "url": "https://www.azernews.az/region/267490.html"
+      },
+      {
+       "label": "CBS News, direct",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/"
+      },
+      {
+       "label": "Anews",
+       "url": "https://www.anews.com.tr/middle-east/2026/11/17/iranian-foreign-minister-arrives-in-oman-for-talks"
+      },
+      {
+       "label": "House of Saud",
+       "url": "https://houseofsaud.com/saudi-fm-qatar-egypt-calls-nov16/"
+      },
+      {
+       "label": "Just Security",
+       "url": "https://www.justsecurity.org/164727/early-edition-november-16-2026/"
+      },
+      {
+       "label": "The Weekend Spread",
+       "url": "https://theweekendspread.substack.com/p/the-close-monday-november-16-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "Ukraine · Guerre",
+     "minutes": 3,
+     "title": "Record de drones et pont de Crimée touché",
+     "chapo": "Moscou dit avoir abattu 1 336 drones ukrainiens en une nuit, un record. Une arche du pont de Kertch a été frappée, la raffinerie d'Ilsky aussi. En face, la Russie prépare jusqu'à 6 500 drones Shahed à réaction pour novembre.",
+     "body": [
+      "Dans la nuit du 15 au 16 novembre, l'Ukraine a lancé la plus grande attaque de drones de la guerre. Le ministère russe de la Défense affirme en avoir intercepté 1 336 au-dessus de dix-sept régions russes, de la Crimée, de la mer Noire et de la mer d'Azov, au-delà du précédent record de fin octobre. Sur 24 heures, Moscou annonce 2 049 drones abattus, plus quatre missiles de croisière Flamingo et sept bombes guidées. Le maire de Moscou, Sergueï Sobianine, parle d'environ 600 drones dirigés vers la région de la capitale. Ces chiffres ne sont pas vérifiables, et Kiev n'a pas commenté.",
+      "Vers 5 h 38, heure locale, un drone a touché une arche du pont de Crimée, qui relie la Russie à la péninsule annexée par le détroit de Kertch. Des images de la télévision russe, retirées ensuite, montraient une déformation de la superstructure de la travée routière principale, côté Kertch. Un premier signalement évoquait une arche inclinée d'environ 15 degrés, information non vérifiée. Le chef de la Crimée installé par Moscou, Sergueï Axionov, a restreint la circulation ; environ 2 000 véhicules ont été bloqués, et quatre trains de voyageurs ont pris de 2 à 4 h 30 de retard. Le porte-parole du Kremlin, Dmitri Peskov, a parlé de dégâts « mineurs ». Le pont avait déjà été frappé en octobre 2022, en juillet 2023 et en juin 2025.",
+      "L'état-major ukrainien revendique aussi une frappe sur la raffinerie d'Ilsky, dans le kraï de Krasnodar, à environ 500 km du territoire contrôlé par Kiev : trois unités de distillation primaire et le complexe de production d'essence auraient été touchés. Le site, d'une capacité d'environ 6,6 millions de tonnes par an, avait déjà été frappé au moins seize fois. À Azov (région de Rostov), un dépôt pétrolier et une station de gaz ont pris feu. Volodymyr Zelensky affirme que les frappes ont « neutralisé » plus de 55 % de la capacité de raffinage russe.",
+      "La Russie, elle, monte en cadence. Le Premier ministre ukrainien, Serhii Koretskyi, estime qu'elle pourrait lancer jusqu'à 6 500 drones de type Shahed à réaction en novembre, douze fois plus que les quelque 530 d'août. Le 16 novembre, elle a tiré 158 drones à longue portée, dont 77 à réaction, et provoqué des coupures de courant dans six régions. Les autorités de sûreté nucléaire de plusieurs pays alertent sur la hausse du risque d'accident cet hiver, du fait des attaques contre le réseau électrique.",
+      "Sur le plan diplomatique, le fossé reste béant. Selon le New York Times, Moscou a répété à Abu Dhabi son exigence d'un retour de l'OTAN à ses positions de 1997. Le quotidien Bild affirme qu'une proposition russe prévoit la sortie de la Finlande de l'OTAN ; le ministre finlandais de la Défense, Antti Häkkänen, répond que l'adhésion « n'est pas négociable ». L'Estonie fermera tous ses points de passage avec la Russie le 1er décembre, après une tentative d'incendie, imputée au renseignement militaire russe, contre le fabricant de drones Threod Systems. Les ministres européens des Affaires étrangères jugent prématuré de discuter de sécurité européenne avec Moscou avant un cessez-le-feu."
+     ],
+     "critique": "Les bilans d'interception publiés par Moscou servent à montrer l'efficacité de sa défense ; le nombre réel de drones lancés et de cibles atteintes reste inconnu. Le vrai enjeu est économique : un drone à quelques dizaines de milliers de dollars peut immobiliser une raffinerie ou un pont de plusieurs milliards. Les deux camps misent sur cette asymétrie, et c'est elle, plus que les lignes de front, qui pèse sur les négociations.",
+     "sources": [
+      {
+       "label": "Kyiv Independent",
+       "url": "https://kyivindependent.com/ukraine-war-latest-crimean-bridge-hit-in-reported-attack-traffic-restrictions-imposed/"
+      },
+      {
+       "label": "The War Zone",
+       "url": "https://www.twz.com/news-features/russias-prized-kerch-bridge-struck-in-ukrainian-drone-onslaught"
+      },
+      {
+       "label": "Kyiv Post",
+       "url": "https://www.kyivpost.com/post/90199"
+      },
+      {
+       "label": "Just Security",
+       "url": "https://www.justsecurity.org/164727/early-edition-november-16-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Japon · Économie",
+     "minutes": 2,
+     "title": "Le Japon recule, le yen frôle les 160",
+     "chapo": "Le PIB japonais a baissé au troisième trimestre, pour la première fois depuis un an. Le yen reste près de 160 pour un dollar, et la Banque du Japon doit dire en décembre si elle relève quand même ses taux.",
+     "body": [
+      "Publiée lundi, la première estimation du PIB japonais pour juillet-septembre montre un recul de 0,02 % sur le trimestre, soit −0,1 % en rythme annualisé. Les économistes attendaient une croissance d'environ 0,2 %. C'est la première contraction en quatre trimestres. La consommation des ménages, plus de la moitié de l'économie, a reculé de 0,3 %, et l'investissement en logement de 1,1 %. Les importations ont bondi de 2,5 % quand les exportations baissaient de 0,2 % : le commerce extérieur a retranché 0,6 point à la croissance.",
+      "Les explications avancées sont la hausse des prix, qui pèse sur le pouvoir d'achat, un séisme de magnitude 7,1 dans la préfecture de Kumamoto fin juillet, et une météo défavorable. Seul l'investissement des entreprises a progressé (+1,6 %), porté par les équipements d'automatisation, la numérisation et l'IA. Le deuxième trimestre ayant été révisé à +0,4 %, le Japon n'est pas en récession technique, qui suppose deux trimestres de baisse. Une deuxième estimation paraîtra le 8 décembre.",
+      "Le dollar valait 159,5 yens lundi, après un pic à 160,19 le 13 novembre. Le ministère des Finances a dépensé environ 27 130 milliards de yens en six jours d'intervention depuis le début de l'année pour soutenir sa monnaie, dont 7 980 milliards le seul 30 juillet. La ministre des Finances, Satsuki Katayama, met en garde contre des mouvements « unilatéraux et rapides ». L'écart de taux explique beaucoup : 4,83 % pour le deux ans américain, 1,87 % pour le japonais.",
+      "La Banque du Japon a maintenu son taux à 1,25 % le 30 octobre, par huit voix contre une. Une large majorité d'économistes attendait une hausse à 1,50 % lors de la réunion des 17 et 18 décembre. La contraction du troisième trimestre donne un argument à ceux qui veulent attendre ; la faiblesse du yen, qui renchérit les importations d'énergie, en donne un à ceux qui veulent agir."
+     ],
+     "critique": "Un recul de 0,02 % en un trimestre est à peine distinguable de zéro, et les premières estimations du PIB japonais sont souvent révisées. Le signal utile est ailleurs : des ménages qui consomment moins alors que les entreprises investissent dans l'automatisation, ce qui ressemble davantage à un pays qui remplace une main-d'œuvre rare qu'à une économie en crise.",
+     "sources": [
+      {
+       "label": "Xinhua",
+       "url": "https://english.news.cn/20261116/0c28de96af58410caa740fd0f0001fe6/c.html"
+      },
+      {
+       "label": "Admiral Markets",
+       "url": "https://admiralmarkets.com/analytics/traders-blog/japan-gdp-q3-2026-yen-usdjpy-160"
+      }
+     ]
+    },
+    {
+     "kicker": "En bref",
+     "minutes": 2,
+     "title": "Rougeole, Meta, Prague, Cap-Vert, Alaska",
+     "chapo": "Les États-Unis perdent leur statut de pays ayant éliminé la rougeole, l'Italie inflige une amende record à Meta, Prague manifeste pour sa radio-télévision publique.",
+     "body": [
+      "Rougeole. La commission régionale de vérification de l'Organisation panaméricaine de la santé a conclu que la transmission de la rougeole était redevenue endémique aux États-Unis, éliminée depuis 2000 ; l'annonce formelle est prévue ce mardi. Le critère : une même chaîne de transmission (même génotype, même lignée) pendant au moins douze mois. Elle court depuis le 20 janvier 2025, date du premier cas dans l'ouest du Texas. Le CDC recense 5 412 cas confirmés en 2026 au 12 novembre, plus du double de 2025, et 43 foyers. La couverture vaccinale ROR des enfants de maternelle est de 92,4 %, et 39 États sont sous l'objectif de 95 %. Le Canada a perdu ce statut fin 2025.",
+      "Meta. L'Italie va infliger 887 millions de dollars d'amende à Meta pour avoir utilisé, sans consentement spécifique, des photos et vidéos de la galerie des utilisateurs Facebook sur Android.",
+      "République tchèque. Des centaines de milliers de personnes ont manifesté à Prague contre le projet d'Andrej Babiš de financer la radio et la télévision publiques par le budget de l'État plutôt que par une redevance ; elles recevraient environ 15 % de moins.",
+      "Cap-Vert. José Maria Neves est réélu pour cinq ans avec 64 % des voix, contre 31,4 % à Joana Rosa, qui a reconnu sa défaite.",
+      "États-Unis. Jonathan Kreiss-Tomkins devient le premier démocrate élu gouverneur de l'Alaska depuis 1998. L'administration reporte de six mois l'application des obligations de travail pour les bénéficiaires de Medicaid, prévue en janvier 2027.",
+      "Birmanie. Les dirigeants de l'ASEAN constatent que la junte n'a pas appliqué le plan de paix en cinq points de 2021 et prolongent l'exclusion de Min Aung Hlaing de leur sommet annuel."
+     ],
+     "critique": "",
+     "sources": [
+      {
+       "label": "Latin Times, rougeole",
+       "url": "https://www.latintimes.com/paho-revokes-us-measles-elimination-status-601372"
+      },
+      {
+       "label": "Just Security",
+       "url": "https://www.justsecurity.org/164727/early-edition-november-16-2026/"
+      }
+     ]
+    }
+   ],
+   "board": [
+    {
+     "label": "S&P 500",
+     "value": "7 417",
+     "change": -1.92
+    },
+    {
+     "label": "Nasdaq",
+     "value": "24 510",
+     "change": -2.49
+    },
+    {
+     "label": "Dow Jones",
+     "value": "51 608",
+     "change": -1.41
+    },
+    {
+     "label": "CAC 40",
+     "value": "8 352",
+     "change": -0.2
+    },
+    {
+     "label": "Bitcoin",
+     "value": "≈65 200 $",
+     "change": 0.4
+    },
+    {
+     "label": "Or (once)",
+     "value": "3 853 $",
+     "change": -0.86
+    },
+    {
+     "label": "Brent (baril)",
+     "value": "92,4 $",
+     "change": -3.55
+    },
+    {
+     "label": "WTI (baril)",
+     "value": "85,7 $",
+     "change": -3.21
+    }
+   ],
+   "boardNote": "Clôtures du lundi 16 novembre. Taux américain à 10 ans : 5,12 % (−3 points de base) ; VIX à près de 23. Mardi matin en Asie : Kospi −2 %, Taïwan −1,4 %, Nikkei −1 %, Brent 91,6 $. À suivre : ventes au détail (14 h 30), résultats de Nvidia (vers 22 h 20, heure de Paris), compte rendu de la Fed mercredi, cotation d'Anthropic jeudi.",
+   "estimate": {
+    "question": "Combien de drones ukrainiens la Russie dit-elle avoir interceptés dans la nuit du 15 au 16 novembre ?",
+    "min": 0,
+    "max": 3000,
+    "step": 1,
+    "unit": "drones",
+    "answer": 1336,
+    "explain": "1 336 selon le ministère russe de la Défense, un record de la guerre. Sur 24 heures, Moscou annonce 2 049 drones abattus. Ces chiffres ne sont pas vérifiables de façon indépendante."
+   },
+   "flashcards": [
+    {
+     "front": "TPP (Total Processing Performance)",
+     "back": "Mesure américaine de la puissance d'une puce pour le contrôle des exportations : le nombre d'opérations par seconde multiplié par la taille en bits des opérations. Le seuil de la nouvelle règle, 12 millions, correspond à environ 750 H100."
+    },
+    {
+     "front": "BIS",
+     "back": "Bureau of Industry and Security, l'agence du département du Commerce américain qui rédige et applique les contrôles à l'exportation, dont ceux sur les puces d'IA."
+    },
+    {
+     "front": "UKMTO",
+     "back": "United Kingdom Maritime Trade Operations : centre de la Royal Navy qui recense les incidents de sécurité maritime au Moyen-Orient et dans l'océan Indien."
+    },
+    {
+     "front": "Mémorandum d'Islamabad",
+     "back": "Entente en quatorze points entre l'Iran et les États-Unis, négociée par le Pakistan en juin 2026 : sécurité maritime à Ormuz, levée des sanctions, arrêt des hostilités. Sa mise en œuvre a échoué."
+    },
+    {
+     "front": "Pont de Crimée",
+     "back": "Double pont routier et ferroviaire d'environ 19 km sur le détroit de Kertch, ouvert en 2018 (route) et 2019 (rail). Touché en 2022, 2023, 2025 et le 16 novembre 2026."
+    },
+    {
+     "front": "Récession technique",
+     "back": "Convention : deux trimestres consécutifs de baisse du PIB. Le Japon n'y est pas, son deuxième trimestre ayant été révisé à +0,4 %."
+    },
+    {
+     "front": "Élimination de la rougeole",
+     "back": "Absence de transmission continue d'une même lignée du virus pendant au moins douze mois. Les États-Unis l'avaient atteinte en 2000."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "À combien de puces H100 correspond environ le seuil de 12 millions de TPP de la nouvelle règle américaine ?",
+     "choices": [
+      "75",
+      "750",
+      "7 500",
+      "75 000"
+     ],
+     "answer": 1,
+     "explain": "Environ 750 puces H100 ou H200, selon la règle publiée lundi par le BIS."
+    },
+    {
+     "q": "Qui a demandé que le prochain directeur général de Nvidia vienne de l'extérieur ?",
+     "choices": [
+      "Donald Trump",
+      "Howard Lutnick",
+      "Scott Bessent",
+      "Colette Kress"
+     ],
+     "answer": 2,
+     "explain": "Le secrétaire au Trésor, Scott Bessent, qui a aussi donné dix jours à Nvidia pour répondre à ses questions."
+    },
+    {
+     "q": "Quel responsable iranien a déclaré que l'AIEA n'aurait pas accès aux sites bombardés tant que la guerre ne serait pas terminée ?",
+     "choices": [
+      "Abbas Araghchi",
+      "Kazem Gharibabadi",
+      "Mohammad Ghalibaf",
+      "Ali Larijani"
+     ],
+     "answer": 1,
+     "explain": "Le vice-ministre des Affaires étrangères Kazem Gharibabadi, dimanche soir."
+    },
+    {
+     "q": "Quelle raffinerie russe l'Ukraine dit-elle avoir frappée le 16 novembre ?",
+     "choices": [
+      "Omsk",
+      "Ilsky",
+      "Nijnekamsk",
+      "Kiriched"
+     ],
+     "answer": 1,
+     "explain": "Ilsky, dans le kraï de Krasnodar, environ 6,6 millions de tonnes par an."
+    },
+    {
+     "q": "De combien le PIB japonais a-t-il varié au troisième trimestre, en rythme annualisé ?",
+     "choices": [
+      "+0,4 %",
+      "+0,2 %",
+      "−0,1 %",
+      "−1,8 %"
+     ],
+     "answer": 2,
+     "explain": "−0,1 % annualisé (−0,02 % sur le trimestre), première contraction en un an."
+    }
+   ]
+  },
+  {
+   "id": "france",
+   "name": "France",
+   "minutes": 10,
+   "lede": [
+    "Les fonctionnaires sont en grève ce mardi, avec le soutien de huit syndicats. Le gouvernement propose environ 350 euros bruts par an pour 1,35 million d'agents modestes ; la CGT parle de « miettes ».",
+    "Marine Le Pen présente aujourd'hui sa réforme des retraites : départ entre 60 et 62 ans, une part de capitalisation pour tous, et des trimestres non cotisés plus difficiles à obtenir.",
+    "Selon RFI, des militaires français forment des Ukrainiens en Ukraine depuis l'été, sans que le Parlement en ait été informé. Le Sénat rétablit la « taxe lapin »."
+   ],
+   "articles": [
+    {
+     "kicker": "Social · Fonction publique",
+     "minutes": 3,
+     "title": "Grève aujourd'hui : 350 euros par an n'ont pas suffi",
+     "chapo": "Les huit syndicats de la fonction publique appellent à la grève ce mardi. Le gouvernement a mis sur la table une hausse ciblée pour 1,35 million d'agents, environ 29 euros bruts par mois. Les syndicats parlent de « miettes ».",
+     "body": [
+      "La journée de mobilisation de ce mardi 17 novembre est la quatrième de l'automne, après le 29 septembre, le 5 et le 10 novembre. Le 5 novembre, la CGT avait compté 1,6 million de manifestants, le ministère de l'Intérieur 575 000. Les huit syndicats de la fonction publique appellent à la grève, y compris la CFDT, qui a rejoint le mouvement après l'échec de la réunion de Matignon du 13 novembre. Ils réclament le dégel du point d'indice et la fin du jour de carence. La CGT, l'Unsa, la FSU et Solidaires appellent aussi le secteur privé.",
+      "Écoles, cantines, garderies, crèches municipales, mairies, collecte des déchets et hôpitaux peuvent être perturbés. SNES-FSU et SUD Éducation appellent les enseignants à cesser le travail, l'Unef, l'Union étudiante et l'Union syndicale lycéenne à rejoindre les cortèges. Chez les cheminots, la CGT, SUD-Rail et la CFDT ont déposé un préavis, mais Ouest-France annonçait lundi un trafic SNCF « majoritairement normal ». Il n'y a pas d'appel propre à la RATP ; des stations comme Invalides, Varenne ou Place d'Italie peuvent fermer. Aucun préavis dans l'aérien. Plus de cent rassemblements sont prévus, la plupart entre 10 heures et 14 heures ; à Paris, le cortège part des Invalides à 14 heures vers la place d'Italie.",
+      "Le gouvernement a choisi une réponse ciblée. Sur franceinfo dimanche, le ministre de l'Action et des Comptes publics, David Amiel, a détaillé un gain moyen de 350 euros bruts par an, environ 29 euros par mois, pour 1,35 million d'agents modestes : tout le premier grade de la catégorie C et les premiers échelons de la catégorie B, dont 527 000 agents territoriaux. Le mécanisme combine la hausse du Smic de 1,6 % au 1er décembre, qui porte le salaire minimum de 1 477,93 à 1 501,90 euros nets, et un relèvement pouvant atteindre huit points d'indice sur les premiers échelons. Environ 660 000 agents ne touchent aujourd'hui le salaire minimum que grâce à une indemnité différentielle.",
+      "La valeur du point d'indice reste gelée à 4,92278 euros bruts. Une hausse générale de 1 % coûterait 2,4 milliards d'euros ; le paquet annoncé, qui comprend aussi la prolongation de la prime carburant et un projet de défiscalisation des heures supplémentaires, coûterait « un peu plus d'un milliard », selon David Amiel, qui invoque une « urgence sociale ». Sophie Binet, secrétaire générale de la CGT, parle de « miettes ». Le prochain rendez-vous salarial est fixé au 11 décembre, après les élections professionnelles du début décembre.",
+      "La mobilisation ne s'arrête pas là : les retraités défilent à Paris jeudi 19 novembre, et des Gilets jaunes appellent à manifester samedi 21, huit ans après le premier acte du mouvement, le 17 novembre 2018."
+     ],
+     "critique": "Le gouvernement parle de « revalorisation », mais la plus grande partie du gain vient de la hausse automatique du Smic, à laquelle l'État est tenu : sans elle, des agents seraient payés sous le salaire minimum. Une mesure ciblée sur les bas salaires écrase en outre la grille : l'écart entre un agent débutant et un agent expérimenté se réduit, ce qui nourrit la revendication d'un dégel général que l'État dit ne pas pouvoir financer sans budget voté.",
+     "sources": [
+      {
+       "label": "Planet.fr",
+       "url": "https://www.planet.fr/fonctionnaires-135-million-dagents-vont-etre-augmentes-voici-le-montant-de-leur-hausse-de-salaire.3000375.817033.html"
+      },
+      {
+       "label": "L'Express / 6Médias, coût des annonces",
+       "url": "https://actu.orange.fr/france/finances-publiques-voici-combien-vont-couter-a-l-etat-les-annonces-du-gouvernement-l-express-via-6medias-CNT000002tJEX8.html"
+      },
+      {
+       "label": "L'Express / 6Médias, qui fait grève",
+       "url": "https://actu.orange.fr/france/greve-du-17-novembre-fonctionnaires-enseignants-cheminots-qui-sera-mobilise-l-express-via-6medias-CNT000002tJItu.html"
+      },
+      {
+       "label": "MétéoManif",
+       "url": "https://meteomanif.fr/dossier/greve-fonction-publique-17-novembre-2026"
+      },
+      {
+       "label": "Ouest-France, direct",
+       "url": "https://www.ouest-france.fr/societe/manifestation/direct-greve-du-17-novembre-des-stations-de-metro-fermees-demain-a-paris-un-trafic-sncf-majoritairement-normal-487f544d-1657-44ee-9027-17c14b50b108"
+      }
+     ]
+    },
+    {
+     "kicker": "Présidentielle 2027 · Retraites",
+     "minutes": 3,
+     "title": "Le RN présente ses retraites : 60 ou 62 ans, et de la capitalisation pour tous",
+     "chapo": "Marine Le Pen présente ce mardi son projet de réforme des retraites. Jean-Philippe Tanguy en a donné les grandes lignes lundi : départ entre 60 et 62 ans, une part de capitalisation pour chaque salarié, et des trimestres plus difficiles à valider.",
+     "body": [
+      "Invité de « Télématin » sur France 2 lundi, le député de la Somme Jean-Philippe Tanguy, responsable du programme économique de Marine Le Pen, a confirmé l'objectif d'un départ à 60 ans pour les carrières longues et à 62 ans pour les autres. Selon franceinfo, le départ à 60 ans correspondrait à 40 à 42 années de cotisation selon l'âge d'entrée dans la vie active. Le financement doit être détaillé lors de la conférence de presse de ce mardi.",
+      "La nouveauté est une part de retraite par capitalisation « pour tous » les salariés, y compris ceux qui n'ont pas les moyens d'épargner, présentée comme un « nouveau droit social ». Relancé sur son financement, Tanguy a évoqué des économies dans le système social, « à enveloppe constante », sans préciser les postes visés ni les montants. Le RN prévoit par ailleurs un fonds souverain destiné à recueillir une épargne retraite volontaire.",
+      "Le parti veut aussi durcir les règles de validation des trimestres. Tanguy dénonce les trimestres validés sans cotisations correspondantes. Ces trimestres dits « assimilés » couvrent le chômage, la maladie, la maternité ou le service militaire ; les parents peuvent obtenir jusqu'à huit trimestres par enfant. Ils coûtent environ 26 milliards d'euros par an, dont 13 milliards pour le chômage et 8 à 10 milliards pour les enfants. Dans son livre « Gouverner », Jordan Bardella veut « renforcer les conditions de validation d'un trimestre » : aujourd'hui, un mois payé au Smic brut suffit à en valider un. Le RN promet de protéger la maternité, la maladie, l'invalidité et les carrières longues, mais n'a pas donné de nouveaux seuils et ne dit rien du chômage.",
+      "Sur les salaires, Tanguy a dit que le RN voterait la hausse ciblée de 350 euros bruts par an pour les fonctionnaires modestes, a jugé « infinançable » un Smic à 1 700 euros, défendu par une partie de la gauche, et a défendu des allègements de cotisations. Il a aussi confirmé que le parti sollicitait des banques européennes pour financer sa campagne, en critiquant le refus des banques françaises.",
+      "À gauche, les propositions de lundi ont surtout porté sur les salaires. Olivier Faure, premier secrétaire du PS, défend un Smic à 1 700 euros et prévient que les socialistes voteraient une motion de censure si le gouvernement adoptait le budget par ordonnances. Marine Tondelier (Écologistes) propose un Smic à 2 000 euros bruts ; les adhérents de son parti voteront en décembre."
+     ],
+     "critique": "Un départ plus précoce et une capitalisation pour tous coûtent cher, et le seul financement évoqué est de durcir l'accès aux trimestres non cotisés, qui protègent d'abord les chômeurs et les mères. Le RN dit protéger la maternité : l'économie devrait alors venir du chômage, sur lequel il reste muet. Enfin, une capitalisation financée par l'État n'est pas de l'épargne nouvelle, mais de la dépense publique placée sur les marchés.",
+     "sources": [
+      {
+       "label": "Politique Matin, Tanguy sur France 2",
+       "url": "https://www.politiquematin.fr/jean-philippe-tanguy-france2-capitalisation-16-novembre-2026"
+      },
+      {
+       "label": "Quartz, trimestres assimilés",
+       "url": "https://fr.qz.com/rn-durcir-validation-trimestres-retraite-bardella-tanguy-111626"
+      },
+      {
+       "label": "Quartz, 60 et 62 ans",
+       "url": "https://fr.qz.com/jean-philippe-tanguy-retraite-60-ans-62-ans-rn-111626"
+      },
+      {
+       "label": "Politique Matin, invités du 16/11",
+       "url": "https://www.politiquematin.fr/invites-politiques-16-novembre-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "Défense · Ukraine",
+     "minutes": 2,
+     "title": "Des militaires français en Ukraine depuis l'été, selon RFI",
+     "chapo": "Une enquête de RFI révèle une mission confidentielle, « Volia », de formation et de maintenance en Ukraine. Une source de l'AFP confirme. Le Parlement n'aurait pas été informé.",
+     "body": [
+      "Selon RFI, des militaires français sont présents en Ukraine depuis au moins l'été 2026, dans le cadre d'une mission baptisée « Volia », un mot ukrainien qui évoque la liberté et l'esprit de résistance. Dirigée par un général français, sa structure serait « légère et modulable », avec de petits effectifs pour des missions courtes. Les militaires forment des soldats ukrainiens et entretiennent les matériels livrés par la France : canons Caesar, Mirage 2000, missiles de précision. Des techniciens civils ont dû être écartés à cause de la guerre.",
+      "Une source citée par l'AFP a confirmé lundi la présence de ces militaires, sans rôle de combat : « On n'est pas dans une opération militaire. » Toujours selon RFI, la mission de formation installée en Pologne depuis février 2023 dans le cadre de la mission européenne EUMAM-Ukraine servirait de couverture, et les militaires seraient invités à dire qu'ils partent en Pologne. Depuis 2023, 25 000 soldats ukrainiens ont été formés en France et en Pologne. L'état-major n'a pas commenté. Paris n'avait jamais confirmé de présence militaire en Ukraine.",
+      "La question est juridique autant que politique. L'article 35 de la Constitution impose au gouvernement d'informer le Parlement de toute intervention des forces armées à l'étranger, au plus tard trois jours après son début. Selon RFI, ni les députés ni les sénateurs n'ont été prévenus. Le président de la commission des Affaires étrangères et de la Défense du Sénat, Cédric Perrin (LR), estime qu'une mission conventionnelle ne peut pas relever du secret-défense et que le sujet devra être débattu pendant la présidentielle. Depuis le sommet de la Francophonie au Cambodge, l'entourage d'Emmanuel Macron a affirmé : « Nous serons sur le terrain en Ukraine. »",
+      "Le Royaume-Uni (mission Orbital, 2015-2022) et le Canada (opération Unifier, à partir de 2015) avaient formé des soldats ukrainiens sur place avant l'invasion de 2022."
+     ],
+     "critique": "Former et réparer n'est pas combattre, mais pour Moscou la distinction est sans valeur, et la révélation tombe trois jours avant le sommet de Shenzhen. L'enjeu intérieur est le contrôle parlementaire : si l'exécutif peut qualifier une présence militaire de « non-opération » pour ne pas en informer les élus, l'article 35 perd sa portée. Tout repose pour l'instant sur des sources anonymes.",
+     "sources": [
+      {
+       "label": "PressAfrik / RFI",
+       "url": "https://www.pressafrik.com/Mission-Volia-comment-l-armee-francaise-opere-en-Ukraine_a314654.html"
+      },
+      {
+       "label": "Boursorama / AFP",
+       "url": "https://www.boursorama.com/actualite-economique/actualites/guerre-en-ukraine-des-soldats-francais-deployes-depuis-plusieurs-mois-en-ukraine-pour-des-missions-de-soutien-selon-une-enquete-de-rfi-fc878dc2df22bf15aea8df9abc4e8ef8"
+      },
+      {
+       "label": "Kyiv Independent",
+       "url": "https://kyivindependent.com/ukraine-war-latest-crimean-bridge-hit-in-reported-attack-traffic-restrictions-imposed/"
+      }
+     ]
+    },
+    {
+     "kicker": "Parlement",
+     "minutes": 2,
+     "title": "Taxe lapin au Sénat, épargne salariale débloquée à l'Assemblée",
+     "chapo": "Le Sénat rétablit une pénalité de 5 euros pour les rendez-vous médicaux manqués, déjà censurée en 2025. L'Assemblée autorise un retrait exceptionnel de l'épargne salariale jusqu'à 10 000 euros.",
+     "body": [
+      "Lundi, pendant l'examen du budget de la Sécurité sociale pour 2027, les sénateurs ont adopté une « taxe lapin » : une pénalité forfaitaire de 5 euros pour les patients qui ne se présentent pas à un rendez-vous médical sans motif légitime. L'annulation reste gratuite jusqu'à 24 heures avant, et le patient doit être prévenu et pouvoir s'expliquer. Les amendements identiques de Sylviane Noël (LR) et Ludovic Haye (Horizons) ont été soutenus par LR, les centristes, Horizons et le RN. Selon l'Ordre des médecins et l'Académie de médecine, environ 27 millions de rendez-vous seraient perdus chaque année.",
+      "Le Sénat l'avait déjà votée en 2023 et 2024, et le Conseil constitutionnel l'avait censurée au début de 2025, faute d'un encadrement suffisant du montant et des modalités. Le rapporteur Jean-François Rapin (LR) assure que la nouvelle rédaction répond à ces objections. La ministre de la Santé, Stéphanie Rist, s'en est remise à la « sagesse » du Sénat en doutant de sa solidité juridique. La socialiste Annie Le Houérou y voit un obstacle de plus à l'accès aux soins. Le Sénat a par ailleurs adopté la partie recettes du texte ; le vote solennel sur l'ensemble est prévu mercredi.",
+      "À l'Assemblée, les députés ont adopté lundi soir, par 95 voix contre 34, une proposition de loi déjà votée au Sénat sur l'épargne salariale. Pendant un an après sa promulgation, les salariés pourront retirer tout ou partie de leur participation et de leur intéressement placés avant le 1er janvier 2026, dans la limite de 10 000 euros, contre 5 000 dans la version initiale, grâce à un amendement de Valérie Létard (Liot). Deux nouveaux cas de déblocage sont créés : l'arrivée d'un premier enfant et la maladie ou l'accident grave d'un enfant. Le ministre des PME et du Pouvoir d'achat, Serge Papin, a soutenu le texte ; la gauche a voté contre. Une commission mixte paritaire doit maintenant accorder les deux chambres."
+     ],
+     "critique": "La taxe lapin vise un vrai problème, mais 5 euros ne compensent pas une consultation perdue et toucheront d'abord les patients qui ont du mal à se déplacer. Le déblocage de l'épargne salariale soutient la consommation à court terme sans rien coûter à l'État, mais il puise dans une épargne de long terme, souvent investie en actions de l'entreprise ou en fonds, au moment où les marchés baissent.",
+     "sources": [
+      {
+       "label": "Public Sénat, taxe lapin",
+       "url": "https://www.publicsenat.fr/actualites/sante/il-faut-des-messages-clairs-pour-sanctionner-ceux-qui-se-foutent-du-systeme-le-senat-adopte-la-taxe-lapin-contre-les-patients-qui-n"
+      },
+      {
+       "label": "Public Sénat, accueil",
+       "url": "https://www.publicsenat.fr/"
+      },
+      {
+       "label": "LCP, épargne salariale",
+       "url": "https://lcp.fr/actualites/pouvoir-d-achat-l-assemblee-approuve-un-deblocage-exceptionnel-de-l-epargne-salariale"
+      }
+     ]
+    },
+    {
+     "kicker": "Marchés · Dette",
+     "minutes": 1,
+     "title": "La Bourse de Paris résiste, la dette française un peu moins",
+     "chapo": "Le CAC 40 a limité la casse lundi grâce à la défense. L'écart de taux entre la France et l'Allemagne est remonté à 155 points de base.",
+     "body": [
+      "Le CAC 40 a fini à 8 352 points (−0,2 %), après cinq séances de hausse. Thales (+1,06 %) et Safran (+1,08 %) ont progressé, quand les valeurs des semi-conducteurs, ASML (−2,4 %) et Infineon (−1,2 %), suivaient la chute américaine.",
+      "Le rendement de l'OAT à dix ans a clôturé à 4,93 %, contre 3,38 % pour le Bund allemand. L'écart, qui mesure la prime de risque exigée sur la dette française, atteint 155 points de base, en hausse de 3,2 points sur la séance. Il avait culminé à 174,6 points le 22 octobre. Le record historique, 225 points, date du 17 novembre 2011, en pleine crise des dettes de la zone euro."
+     ],
+     "critique": "",
+     "sources": [
+      {
+       "label": "MoneyVox",
+       "url": "https://www.moneyvox.fr/bourse/actualites/111256/cac-40-en-baisse-nvidia-le-journal-de-la-bourse-du-lundi-16-novembre-2026"
+      },
+      {
+       "label": "Idéal Investisseur, spread OAT-Bund",
+       "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html"
+      }
+     ]
+    }
+   ],
+   "estimate": {
+    "question": "Combien de rendez-vous médicaux seraient perdus chaque année en France faute de patients, selon l'Ordre des médecins et l'Académie de médecine ?",
+    "min": 0,
+    "max": 100,
+    "step": 1,
+    "unit": "millions",
+    "answer": 27,
+    "explain": "Environ 27 millions, chiffre cité au Sénat lundi ; d'autres estimations donnent 25 à 30 millions."
+   },
+   "flashcards": [
+    {
+     "front": "Point d'indice",
+     "back": "Valeur de référence qui sert à calculer le traitement des fonctionnaires : traitement brut = indice majoré × valeur du point. Il est gelé à 4,92278 € bruts ; 1 % de hausse coûterait 2,4 milliards d'euros."
+    },
+    {
+     "front": "Indemnité différentielle",
+     "back": "Complément versé aux agents publics dont le traitement est inférieur au Smic. Environ 660 000 agents en dépendent pour atteindre le salaire minimum."
+    },
+    {
+     "front": "Trimestres assimilés",
+     "back": "Trimestres de retraite validés sans cotisation (chômage, maladie, maternité, service militaire). Coût estimé : environ 26 milliards d'euros par an."
+    },
+    {
+     "front": "Retraite par capitalisation",
+     "back": "Chaque actif épargne pour sa propre retraite, placée sur les marchés. S'oppose à la répartition, où les cotisations des actifs paient directement les pensions des retraités."
+    },
+    {
+     "front": "Article 35 de la Constitution",
+     "back": "Le gouvernement informe le Parlement de toute intervention des forces armées à l'étranger au plus tard trois jours après son début ; au-delà de quatre mois, la prolongation est soumise à un vote."
+    },
+    {
+     "front": "Commission mixte paritaire (CMP)",
+     "back": "Sept députés et sept sénateurs chargés de trouver un texte commun quand les deux chambres ne sont pas d'accord sur un projet ou une proposition de loi."
+    },
+    {
+     "front": "Spread OAT-Bund",
+     "back": "Écart entre le taux à dix ans français et le taux allemand. 155 points de base le 16 novembre 2026 ; record de 225 points le 17 novembre 2011."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Combien d'agents publics sont concernés par la hausse ciblée annoncée par David Amiel ?",
+     "choices": [
+      "350 000",
+      "660 000",
+      "1,35 million",
+      "5,6 millions"
+     ],
+     "answer": 2,
+     "explain": "1,35 million d'agents modestes, pour un gain moyen de 350 euros bruts par an."
+    },
+    {
+     "q": "Quel âge de départ le RN veut-il pour les carrières longues ?",
+     "choices": [
+      "58 ans",
+      "60 ans",
+      "62 ans",
+      "64 ans"
+     ],
+     "answer": 1,
+     "explain": "60 ans pour les carrières longues, 62 ans pour les autres."
+    },
+    {
+     "q": "Comment s'appellerait la mission militaire française en Ukraine révélée par RFI ?",
+     "choices": [
+      "Gerfaut",
+      "Volia",
+      "Orbital",
+      "Unifier"
+     ],
+     "answer": 1,
+     "explain": "« Volia ». Orbital et Unifier étaient les missions britannique et canadienne d'avant 2022."
+    },
+    {
+     "q": "Quel est le montant de la « taxe lapin » votée par le Sénat ?",
+     "choices": [
+      "2 euros",
+      "5 euros",
+      "10 euros",
+      "25 euros"
+     ],
+     "answer": 1,
+     "explain": "5 euros, pour un rendez-vous manqué sans motif légitime et sans annulation 24 heures avant."
+    },
+    {
+     "q": "Jusqu'à quel montant l'épargne salariale pourra-t-elle être débloquée ?",
+     "choices": [
+      "2 000 €",
+      "5 000 €",
+      "10 000 €",
+      "20 000 €"
+     ],
+     "answer": 2,
+     "explain": "10 000 euros, après un amendement de Valérie Létard ; le texte initial prévoyait 5 000 euros."
+    }
+   ]
+  },
+  {
+   "id": "savoirs",
+   "name": "Savoirs",
+   "minutes": 8,
+   "lede": [
+    "Qu'est-ce qu'une « TPP », l'unité avec laquelle Washington mesure, puis interdit, la puissance de calcul louée à la Chine ?",
+    "Le pont de Crimée vu par un ingénieur : pourquoi une arche abîmée est plus grave qu'un tablier troué. Et ce que mesure vraiment le VIX, l'« indice de la peur ».",
+    "Le 17 novembre, de l'inauguration du canal de Suez au premier samedi des Gilets jaunes, en passant par le brevet de la souris."
+   ],
+   "articles": [
+    {
+     "kicker": "Informatique · Géopolitique",
+     "minutes": 3,
+     "title": "Comment on mesure la puissance d'une puce pour l'interdire",
+     "chapo": "La nouvelle règle américaine vise les centres de données de plus de 12 millions de « TPP ». Derrière ce sigle, une formule simple, qui dit beaucoup de ce qu'est le calcul pour l'IA.",
+     "body": [
+      "Une puce d'IA passe l'essentiel de son temps à faire des multiplications suivies d'additions, sur d'immenses tableaux de nombres. La performance s'exprime donc en opérations par seconde : téra-opérations (TOPS, mille milliards) ou téraflops pour les nombres à virgule flottante. Mais une puce va beaucoup plus vite sur des nombres courts (8 bits) que sur des nombres longs (32 ou 64 bits). Comparer deux puces impose de tenir compte de cette taille.",
+      "C'est l'idée de la « performance de traitement totale » (TPP), définie par le département du Commerce en 2022. Pour chaque format de nombre, on multiplie le nombre d'opérations par seconde (en TOPS) par la taille du format en bits ; la TPP est le maximum obtenu. Une puce qui fait 1 000 TOPS en 8 bits a donc une TPP de 8 000. Une Nvidia H100 approche les 2 000 TOPS en 8 bits, d'où une TPP d'environ 16 000. Le seuil de contrôle des puces individuelles est de 4 800 : la H100 le dépasse plus de trois fois.",
+      "En 2023, Washington a ajouté un second critère, la « densité de performance » : la TPP divisée par la surface de silicium en millimètres carrés. Il fallait empêcher qu'un fabricant contourne la règle avec des puces un peu moins puissantes mais assemblées en grand nombre. Le seuil de 12 millions de TPP fixé lundi pour les centres de données revient à environ 750 H100 (12 000 000 ÷ 16 000 = 750). C'est modeste : les grands centres d'entraînement en comptent des dizaines voire des centaines de milliers.",
+      "Pourquoi viser la location ? Parce que la puce n'est qu'un moyen. Ce qui compte pour entraîner un modèle, c'est le nombre total d'opérations, que l'on peut acheter à l'heure dans le nuage. Une entreprise chinoise qui ne peut pas importer de puces peut louer un serveur en Malaisie ou à Singapour. La règle de lundi déplace donc le contrôle de l'objet (la puce) vers le service (le calcul), ce qui oblige les opérateurs de centres de données à vérifier qui sont leurs clients."
+     ],
+     "critique": "La TPP mesure une performance de crête, rarement atteinte en pratique : la vitesse réelle d'un entraînement dépend surtout de la mémoire et des liaisons entre puces, que ce critère ignore. Et contrôler le calcul loué suppose de connaître le bénéficiaire final, ce que des sociétés-écrans rendent difficile. Les règles sur les puces ont déjà été contournées plusieurs fois depuis 2022.",
+     "sources": [
+      {
+       "label": "Ameliorology, critères TPP",
+       "url": "https://ameliorology.substack.com/p/how-does-the-us-decide-which-ai-chips"
+      },
+      {
+       "label": "BigGo Finance, règle du 16/11",
+       "url": "https://finance.biggo.com/news/265e6792-955b-4c96-8b40-2f078278f414"
+      }
+     ]
+    },
+    {
+     "kicker": "Ingénierie · Ouvrages d'art",
+     "minutes": 3,
+     "title": "Le pont de Kertch, géant fragile",
+     "chapo": "Dix-neuf kilomètres, plus de 7 000 pieux et une arche de 227 mètres : le pont de Crimée est un exploit technique bâti sur un terrain hostile. Ce qui le rend vulnérable tient à quelques éléments.",
+     "body": [
+      "Le pont de Crimée est en réalité deux ponts parallèles, l'un routier à quatre voies, l'autre ferroviaire à deux voies. L'ensemble mesure environ 19 km avec les remblais ; le pont ferroviaire fait 18,1 km et le routier environ 17 km. Ouvert aux voitures le 16 mai 2018 et aux trains en décembre 2019, il a coûté près de 228 milliards de roubles, environ 3,7 milliards de dollars. Il voit passer en moyenne 15 000 voitures par jour.",
+      "Le terrain est l'ennemi principal. Le détroit de Kertch, profond de 9 mètres au plus, repose sur une couche de vase épaisse d'environ 60 mètres au-dessus du socle rocheux, traversée par une faille tectonique, avec environ 70 volcans de boue à proximité. Il a fallu enfoncer plus de 7 000 pieux jusqu'à 90 mètres de profondeur, certains inclinés pour résister aux séismes. Un pieu travaille par frottement le long de ses parois autant que par appui à sa pointe : dans la vase, il faut aller très profond pour trouver assez de résistance.",
+      "Le point le plus visible est la travée navigable : une arche d'acier de 227 mètres, la plus longue portée de l'ouvrage, qui laisse 35 mètres de tirant d'air aux navires. Une arche fonctionne en compression : elle reporte le poids du tablier, suspendu par des câbles, vers ses deux appuis. Si l'arche se déforme, cette compression ne suit plus la courbe prévue, et l'acier peut flamber, c'est-à-dire se tordre brusquement. C'est pourquoi une déformation de l'arche, même limitée, est plus grave qu'un trou dans le tablier : un tablier se remplace par tronçons, une arche porte toute la travée.",
+      "Les attaques passées l'ont montré. Le camion piégé d'octobre 2022 a fait s'effondrer une partie du tablier routier et incendié des wagons-citernes : la route n'a été totalement rétablie qu'en février 2023, le rail en mai 2023. Les drones navals de juillet 2023 ont fait tomber une travée ; réouverture complète en octobre. En juin 2025, des explosifs ont été placés sous l'eau, près des piles. Depuis 2023, la Russie a ajouté défenses antiaériennes, barrières flottantes et barges pour protéger les piles."
+     ],
+     "critique": "On ignore encore l'état réel de l'arche : la vidéo russe a été retirée, l'inclinaison de 15 degrés n'est pas vérifiée, et le Kremlin parle de dégâts mineurs. Les deux camps ont intérêt à exagérer ou à minimiser. Seule la durée des restrictions de circulation dans les prochaines semaines dira quelque chose de fiable.",
+     "sources": [
+      {
+       "label": "Wikipedia, Crimean Bridge",
+       "url": "https://en.wikipedia.org/wiki/Crimean_Bridge"
+      },
+      {
+       "label": "The War Zone",
+       "url": "https://www.twz.com/news-features/russias-prized-kerch-bridge-struck-in-ukrainian-drone-onslaught"
+      }
+     ]
+    },
+    {
+     "kicker": "Finance · Méthode",
+     "minutes": 2,
+     "title": "Le VIX, ou comment lire la peur dans les prix des options",
+     "chapo": "L'« indice de la peur » a bondi lundi à près de 23. Ce chiffre n'est pas un sondage : c'est une volatilité que les marchés anticipent, déduite du prix des options sur le S&P 500.",
+     "body": [
+      "Une option est un droit d'acheter ou de vendre un indice à un prix fixé, pendant une durée donnée. Plus les investisseurs s'attendent à des mouvements violents, plus ce droit vaut cher, car il a plus de chances de servir. En partant des prix des options, on peut donc remonter à la volatilité que le marché anticipe. C'est ce que fait le VIX, calculé par la bourse Cboe à partir de plus d'une centaine d'options sur le S&P 500 d'échéance proche (entre 23 et 37 jours), pour en tirer une volatilité attendue sur les trente prochains jours.",
+      "Le VIX s'exprime en pourcentage annualisé. Pour obtenir l'amplitude attendue sur un mois, on divise par la racine carrée de 12 (environ 3,46), car la volatilité croît comme la racine du temps. Un VIX de 23 signifie donc qu'environ deux fois sur trois, le S&P 500 devrait évoluer dans une fourchette de ±6,6 % d'ici un mois (23 ÷ 3,46). Pour une journée, on divise par la racine de 252, le nombre de séances par an : ±1,45 %.",
+      "Repères : sous 15, le marché est calme ; entre 20 et 25, il s'inquiète ; au-delà de 30, il panique. Le record a été atteint en mars 2020, à 82,69, au début de la pandémie. Le VIX monte presque toujours quand la Bourse baisse, car les investisseurs achètent alors des options de vente pour se protéger, ce qui en fait monter le prix."
+     ],
+     "critique": "Le VIX mesure une anticipation, pas une prévision fiable : il réagit aux chutes plus qu'il ne les annonce. Et il ne dit rien de la direction : un VIX élevé peut précéder un fort rebond. Avant des résultats comme ceux de Nvidia, il intègre aussi la simple incertitude d'un événement daté, qui retombe mécaniquement une fois le chiffre connu.",
+     "sources": [
+      {
+       "label": "S&P Dow Jones Indices, VIX",
+       "url": "https://spglobal.com/spdji/en/vix-intro"
+      },
+      {
+       "label": "Capp Notes",
+       "url": "https://cappnotes.substack.com/p/closing-look-monday-november-16-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "Économie · Statistique",
+     "minutes": 2,
+     "title": "Croissance « annualisée » ou trimestrielle : ne pas confondre",
+     "chapo": "Le Japon annonce −0,1 %, la France publiait −0,1 % pour le même trimestre : ces deux chiffres ne mesurent pas la même chose. Tout dépend de la convention.",
+     "body": [
+      "L'Insee et Eurostat publient la croissance trimestrielle : la variation du PIB d'un trimestre par rapport au précédent. Les États-Unis et le Japon mettent en avant le rythme annualisé : ce que donnerait cette croissance si elle durait quatre trimestres. Le calcul est composé : (1 + g)^4 − 1. Une croissance de 0,5 % par trimestre donne ainsi 2,0 % annualisés (1,005^4 = 1,0202).",
+      "Le Japon a reculé de 0,02 % au troisième trimestre : (0,9998)^4 − 1 = −0,08 %, arrondi à −0,1 % annualisé. À l'inverse, les −0,1 % trimestriels de la France au troisième trimestre 2026 correspondraient à environ −0,4 % annualisés. Il existe une troisième mesure : le glissement annuel, qui compare un trimestre au même trimestre de l'année précédente.",
+      "Même logique sur les marchés obligataires : l'écart de 155 points de base entre la France et l'Allemagne signifie que l'État français paie 1,55 point de pourcentage de plus par an pour emprunter à dix ans. Ce surcoût ne s'applique pas d'un coup : il se diffuse à mesure que les anciennes obligations arrivent à échéance et sont remplacées par des nouvelles, émises au taux du moment."
+     ],
+     "critique": "Annualiser amplifie le bruit : une petite erreur de mesure sur un trimestre est multipliée par environ quatre. C'est pourquoi un « −0,1 % annualisé » japonais et une « stagnation » française décrivent en fait des situations proches. Avant de comparer deux pays, il faut vérifier la convention.",
+     "sources": [
+      {
+       "label": "Xinhua, PIB japonais",
+       "url": "https://english.news.cn/20261116/0c28de96af58410caa740fd0f0001fe6/c.html"
+      },
+      {
+       "label": "Idéal Investisseur, spread",
+       "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Éphéméride · 17 novembre",
+     "minutes": 2,
+     "title": "Suez, Prague, la souris et les gilets jaunes",
+     "chapo": "Le 17 novembre est une date chargée : un canal qui a raccourci le monde, une révolution sans violence, une invention qui a changé l'informatique, et une colère sociale française.",
+     "body": [
+      "1869. L'impératrice Eugénie inaugure le canal de Suez, creusé en dix ans sous la direction de Ferdinand de Lesseps. Long de 193 km, sans écluse, il relie la Méditerranée à la mer Rouge au niveau de la mer. Il assurait environ 8 % du commerce maritime mondial en 2015. C'est par Bab el-Mandeb, au sud de la mer Rouge, que passent les navires qui l'empruntent : la guerre au Yémen menace donc aussi Suez.",
+      "1970. Douglas Engelbart, du Stanford Research Institute, obtient le brevet de l'« indicateur de position X-Y pour un système d'affichage » : la souris. Le premier prototype, conçu en 1963-1964 avec Bill English, était un boîtier en bois à deux roues perpendiculaires, une pour chaque axe. Il l'avait montré au public le 9 décembre 1968.",
+      "1975. Le prix Goncourt est attribué à « La Vie devant soi », signé Émile Ajar. L'auteur, qui le refuse, était en réalité Romain Gary, déjà lauréat en 1956 : le seul écrivain à avoir reçu deux fois le Goncourt, alors que le règlement l'interdit.",
+      "1989. À Prague, la police disperse violemment une manifestation étudiante. C'est le début de la révolution de Velours : en quelques semaines, le Parti communiste tchécoslovaque renonce au pouvoir, et le dramaturge Václav Havel, sorti de prison quelques mois plus tôt, devient président.",
+      "2018. Premier samedi de mobilisation des Gilets jaunes, contre la hausse des taxes sur les carburants : le ministère de l'Intérieur compte 287 710 manifestants dans toute la France.",
+      "On fête aujourd'hui sainte Élisabeth de Hongrie. Fille du roi André II, mariée à quatorze ans au landgrave de Thuringe, veuve à vingt ans, elle consacre sa fortune aux pauvres, fonde un hôpital à Marbourg et y meurt à vingt-quatre ans, en 1231."
+     ],
+     "critique": "",
+     "sources": [
+      {
+       "label": "Wikipédia, Canal de Suez",
+       "url": "https://fr.wikipedia.org/wiki/Canal_de_Suez"
+      },
+      {
+       "label": "Wikipédia, 17 novembre",
+       "url": "https://fr.wikipedia.org/wiki/17_novembre"
+      },
+      {
+       "label": "Wikipédia, Souris (informatique)",
+       "url": "https://fr.wikipedia.org/wiki/Souris_(informatique)"
+      },
+      {
+       "label": "Wikipédia, Révolution de Velours",
+       "url": "https://fr.wikipedia.org/wiki/R%C3%A9volution_de_Velours"
+      },
+      {
+       "label": "Wikipédia, Élisabeth de Hongrie",
+       "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_de_Hongrie"
+      }
+     ]
+    }
+   ],
+   "estimate": {
+    "question": "Quelle est la longueur de l'arche principale du pont de Crimée, en mètres ?",
+    "min": 50,
+    "max": 600,
+    "step": 1,
+    "unit": "m",
+    "answer": 227,
+    "explain": "227 mètres, la plus longue travée de l'ouvrage, avec 35 mètres de tirant d'air pour les navires."
+   },
+   "flashcards": [
+    {
+     "front": "TOPS",
+     "back": "Téra-opérations par seconde : mille milliards d'opérations par seconde. Unité de base de la performance des puces d'IA."
+    },
+    {
+     "front": "Densité de performance",
+     "back": "TPP divisée par la surface de silicium (mm²). Critère ajouté en 2023 pour empêcher de contourner les seuils avec beaucoup de puces moyennes."
+    },
+    {
+     "front": "Pieu (fondation)",
+     "back": "Élément enfoncé dans le sol qui porte un ouvrage par frottement latéral et appui en pointe. Pont de Crimée : plus de 7 000 pieux, jusqu'à 90 m."
+    },
+    {
+     "front": "Flambement",
+     "back": "Instabilité d'une pièce comprimée qui se tord brusquement au-delà d'une charge critique. C'est le principal risque d'une arche déformée."
+    },
+    {
+     "front": "Tirant d'air",
+     "back": "Hauteur libre sous un pont pour le passage des navires : 35 m sous l'arche du pont de Crimée."
+    },
+    {
+     "front": "VIX ÷ √12",
+     "back": "Convertit la volatilité annualisée du VIX en amplitude attendue sur un mois. VIX 23 → environ ±6,6 % sur 30 jours."
+    },
+    {
+     "front": "Taux annualisé",
+     "back": "(1 + g)^4 − 1 pour une croissance trimestrielle g. Utilisé par les États-Unis et le Japon ; l'Insee publie la variation trimestrielle."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Comment calcule-t-on la TPP d'une puce ?",
+     "choices": [
+      "Fréquence × nombre de cœurs",
+      "Opérations par seconde × taille des nombres en bits",
+      "Mémoire × bande passante",
+      "Consommation × rendement"
+     ],
+     "answer": 1,
+     "explain": "On multiplie les TOPS par la taille du format en bits, et on garde le maximum sur tous les formats."
+    },
+    {
+     "q": "Pourquoi une arche déformée est-elle plus grave qu'un trou dans le tablier ?",
+     "choices": [
+      "Elle est en béton",
+      "Elle porte toute la travée en compression et peut flamber",
+      "Elle sert de voie ferrée",
+      "Elle est sous l'eau"
+     ],
+     "answer": 1,
+     "explain": "L'arche reporte tout le poids vers ses appuis par compression ; déformée, elle risque le flambement."
+    },
+    {
+     "q": "Avec un VIX de 23, quelle amplitude le marché anticipe-t-il environ sur un mois ?",
+     "choices": [
+      "±1,5 %",
+      "±6,6 %",
+      "±23 %",
+      "±80 %"
+     ],
+     "answer": 1,
+     "explain": "23 ÷ √12 ≈ 6,6 %."
+    },
+    {
+     "q": "Une croissance de 0,5 % par trimestre correspond à quel rythme annualisé ?",
+     "choices": [
+      "0,5 %",
+      "1 %",
+      "2 %",
+      "5 %"
+     ],
+     "answer": 2,
+     "explain": "1,005^4 − 1 ≈ 2,0 %."
+    },
+    {
+     "q": "Qui a inauguré le canal de Suez le 17 novembre 1869 ?",
+     "choices": [
+      "Napoléon III",
+      "L'impératrice Eugénie",
+      "La reine Victoria",
+      "Méhémet Ali"
+     ],
+     "answer": 1,
+     "explain": "L'impératrice Eugénie ; le chantier avait été dirigé par Ferdinand de Lesseps."
+    }
+   ]
+  }
+ ]
+}
