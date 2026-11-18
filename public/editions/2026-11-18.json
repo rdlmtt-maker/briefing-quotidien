@@ -1,0 +1,389 @@
+{
+  "date": "2026-11-18",
+  "weekday": "mercredi",
+  "saint": "Sainte Aude",
+  "headline": "Nvidia bat tous les records sans Jensen Huang, le pont de Crimée s'effondre en partie, et Bruxelles place la France dernière de la zone euro.",
+  "chapters": [
+    {
+      "id": "monde",
+      "name": "Monde",
+      "minutes": 11,
+      "lede": [
+        "Nvidia a publié hier soir un chiffre d'affaires de 115,8 milliards de dollars, doublé en un an, et promet 130 milliards au trimestre suivant. Le conseil d'administration exclut le retour de Jensen Huang. L'action gagne 3,6 % après la clôture.",
+        "Wall Street a reculé pour la quatrième séance d'affilée avant ces résultats. Anthropic fixe ce soir le prix de son introduction en Bourse, avec une demande proche de sept fois l'offre.",
+        "À Ormuz, plusieurs pétroliers ont été touchés et un troisième porte-avions américain est arrivé. En Crimée, une arche et une travée du pont de Kertch sont tombées dans le détroit ; Washington reproche la frappe à Kyiv."
+      ],
+      "articles": [
+        {
+          "kicker": "Intelligence artificielle · Résultats",
+          "minutes": 3,
+          "title": "Nvidia sans Huang : le trimestre le plus fort de son histoire",
+          "chapo": "Premier rapport depuis la démission de son fondateur : 115,8 milliards de dollars de ventes, +103 % sur un an, et une prévision de 130 milliards. Le conseil exclut le retour de Jensen Huang et crée un comité chargé de la sécurité nationale.",
+          "body": [
+            "Le trimestre clos le 25 octobre (troisième de l'exercice 2027) a dépassé toutes les attentes. Le chiffre d'affaires atteint 115,8 milliards de dollars, en hausse de 103 % sur un an et de 20 % sur trois mois ; le consensus compilé par Bloomberg attendait 109,15 milliards. Les centres de données pèsent 107,6 milliards (+110 %), contre 101,85 milliards attendus. Le bénéfice par action ajusté ressort à 2,68 dollars, contre 2,47 dollars prévus et 1,30 dollar un an plus tôt. La marge brute reste à 74,8 % et le bénéfice net atteint 65,3 milliards de dollars sur trois mois.",
+            "La prévision compte davantage que le passé. Pour le trimestre en cours, qui comptera une semaine de plus, Nvidia annonce 130 milliards de dollars, à 3 % près, contre 125,25 milliards attendus. Le groupe ne compte sur aucune vente de puces de centre de données en Chine : Colette Kress, directrice financière devenue directrice générale par intérim, a indiqué 2,4 milliards de ventes de puces Hopper en Chine au troisième trimestre, mais plus aucune expédition aujourd'hui. Nvidia relève aussi sa croissance attendue pour l'exercice 2028, à 75 % contre 70 %, et dit que l'armoire Vera Rubin NVL72 connaît « la montée en cadence la plus rapide de l'histoire de l'entreprise », déjà installée chez CoreWeave, Google Cloud, Microsoft Azure, Oracle et Nebius.",
+            "La gouvernance a dominé la conférence. Le président du conseil, Harvey Jones, a déclaré que Jensen Huang avait « démissionné volontairement » de ses fonctions de président, de directeur général et d'administrateur, et que le conseil « n'a pas l'intention » de le rétablir. La recherche d'un successeur porte sur des candidats internes et externes ; le conseil veut aller « aussi vite que possible », mais pas avant d'avoir trouvé « exactement la bonne personne ». Il a créé un comité de surveillance de la sécurité nationale et des contrôles à l'exportation. Aucune question sur les circonstances de la démission n'a été acceptée.",
+            "L'action avait fini la séance en baisse de 0,44 %, à 155,46 dollars. Elle a gagné jusqu'à 3,6 % après la clôture, à 161 dollars ; AMD et Broadcom ont pris plus de 1 %, TSMC 2 %. Il reste 227,3 milliards de dollars d'autorisation de rachat d'actions, et Nvidia a rendu 28,1 milliards aux actionnaires au trimestre. « C'est le cours normal des affaires », résume l'analyste de Morningstar Brian Colello."
+          ],
+          "critique": "Les chiffres de vente ne disent pas tout. Selon les calculs de Yahoo Finance, les factures impayées atteignent 81 milliards de dollars, soit 64 jours de ventes, le délai le plus long depuis le creux de 2022. Les engagements d'achat, d'investissement et de garantie approchent 670 milliards de dollars, contre environ 530 milliards en juillet, dont 118 milliards de garanties apportées aux dettes d'autres entreprises. Une partie de la demande vient donc de clients que Nvidia aide à financer. Colette Kress dit que ces garanties ne s'activent qu'une fois que les « néoclouds » ont levé leurs capitaux, et promet d'être « sélective ». Le marché jugera sur la durée, pas sur un trimestre.",
+          "sources": [
+            {"label": "Nvidia, communiqué des résultats T3 2027", "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"},
+            {"label": "Yahoo Finance, direct résultats Nvidia", "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html"}
+          ]
+        },
+        {
+          "kicker": "Marchés · Bourse",
+          "minutes": 3,
+          "title": "Quatrième baisse à Wall Street, Anthropic fixe son prix ce soir",
+          "chapo": "Le S&P 500 a perdu 1 % mardi, le Dow Jones 1,6 %. Les éditeurs de logiciels ont été vendus, Salesforce en tête (−9,45 %). Le carnet d'ordres d'Anthropic est fermé : la demande atteint près de sept fois l'offre.",
+          "body": [
+            "Le S&P 500 a clôturé à 7 340,53 points (−1,03 %), quatrième baisse d'affilée. Le Nasdaq a reculé de 0,74 %, à 24 328 points, et le Dow Jones de 1,64 % (−849 points), à 50 759 points. L'énergie est le seul secteur en hausse ; la finance et la santé ont le plus souffert. Le taux américain à 10 ans a reculé de 3 points de base, à 5,11 %. Selon l'outil FedWatch, les marchés donnent 95,4 % de probabilité à une hausse de taux d'un quart de point le 9 décembre ; les ventes au détail d'octobre, publiées mardi, ont confirmé la résistance de la consommation.",
+            "Salesforce a perdu 9,45 %, à 194,52 dollars. Le titre cumule deux craintes : que les agents d'IA remplacent une partie des logiciels vendus par abonnement, et que les pannes informatiques à répétition des dernières semaines (aviation, banques) fragilisent la confiance dans les services en ligne. UnitedHealth a cédé 5,42 % après l'annonce de mesures contre la fraude dans Medicare et Medicaid. Coinbase (−4 %) et Robinhood (−4 %) ont suivi le bitcoin, en baisse de plus de 20 % en un mois.",
+            "Intel a reculé d'environ 3 % en séance. Un document déposé auprès du gendarme boursier montre que Nvidia a réduit d'un quart sa participation, de 214,8 à 161,1 millions d'actions, au 30 septembre, avant le scandale. Nvidia a dans le même temps augmenté de 6 % sa participation dans SpaceX. Le cabinet SemiAnalysis prévoit des dépenses en puces d'IA inférieures de 19 % aux estimations précédentes en 2027 et de 41 % en 2029.",
+            "Anthropic, éditeur de l'assistant Claude, a clos son carnet d'ordres mardi à 16 heures, heure de New York. Le prix doit être fixé ce mercredi, pour une première cotation jeudi 19 novembre. La fourchette officielle reste 70 à 78 dollars, mais Bloomberg indique un prix « au sommet ou au-dessus » de la fourchette, et le Wall Street Journal évoque plus de 80 dollars. À 78 dollars, l'opération lèverait 90,4 milliards de dollars, dont 26 milliards de placement privé, pour une valorisation totale d'environ 1 400 milliards de dollars."
+          ],
+          "critique": "Transparence : Six Heures est rédigé avec Claude, le modèle d'Anthropic ; nous nous limitons aux chiffres publiés. Une demande « sept fois supérieure » à l'offre est un signal à manier avec prudence : les investisseurs gonflent souvent leurs ordres en sachant qu'ils seront réduits. Le 5 novembre, après une première vague de ventes sur la tech, certains investisseurs pressentis évoquaient encore une valorisation plus proche de 1 000 milliards.",
+          "sources": [
+            {"label": "The Motley Fool, marchés du 17/11", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/"},
+            {"label": "The Motley Fool, Intel", "url": "https://www.fool.com/investing/2026/11/17/why-intel-stock-just-dropped/"},
+            {"label": "Moneyvox, infos Bourse du 17/11", "url": "https://www.moneyvox.fr/bourse/actualites/111288/intel-chute-de-28-deutsche-bank-et-dassault-systemes-reculent-les-infos-bourse-du-17-novembre-2026"},
+            {"label": "PYMNTS, introduction d'Anthropic", "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-eyes-higher-ipo-price-as-investors-scramble-for-shares/"}
+          ]
+        },
+        {
+          "kicker": "Iran · Golfe",
+          "minutes": 3,
+          "title": "Ormuz : pétroliers en feu, frappe américaine à Qeshm, trois porte-avions",
+          "chapo": "Les Gardiens de la révolution disent avoir touché deux pétroliers sur une route « non autorisée ». Un équipage indien a été évacué par Oman. Selon un responsable américain, des chasseurs ont frappé un site de lancement de missiles sur l'île de Qeshm.",
+          "body": [
+            "La marine des Gardiens de la révolution affirme que deux pétroliers ont heurté des mines et pris feu lundi en empruntant la route sud du détroit, que Téhéran juge « non autorisée ». La marine régulière iranienne revendique un troisième navire, immobilisé à l'est du détroit. Aucun nom n'a été donné et rien n'a pu être vérifié. L'agence britannique UKMTO a de son côté signalé deux attaques : un pétrolier en feu dans la salle des machines à 7 milles nautiques (13 km) au nord de Khasab, à la pointe omanaise, et un autre touché par un projectile non identifié en sortant du détroit.",
+            "Un pétrolier transportait 24 marins indiens. Les bilans ont varié au fil de la journée : Oman dit avoir évacué 24 membres d'équipage après un incendie, et la presse du Golfe fait état de deux blessés et d'un disparu. L'Organisation maritime internationale compte 136 incidents de sécurité visant des navires à Ormuz et dans la région entre le 1er mars et le 11 novembre, dont 35 en octobre.",
+            "La riposte américaine se précise. Une explosion a été signalée sur l'île de Qeshm, face à Bandar Abbas ; un responsable militaire américain a indiqué à Reuters que des avions de chasse avaient frappé un site de lancement de missiles des Gardiens. Le porte-avions USS Theodore Roosevelt est arrivé dans la zone, ce qui porte à trois le nombre de porte-avions sous le commandement central américain. Les Gardiens disent avoir de nouveau visé un radar américain à Bahreïn avec des drones ; Bahreïn assure avoir tout intercepté.",
+            "La crise déborde du détroit. Les sirènes ont retenti au-dessus du champ gazier de Khor Mor, au Kurdistan irakien, survolé par un drone. Sa production est à l'arrêt depuis une attaque la semaine dernière, qui a privé la région de 2,8 gigawatts de production électrique, selon l'exploitant Dana Gas. L'Irak a en revanche repris ses exportations de brut par l'oléoduc vers la Turquie. Les ministres omanais et iranien des Affaires étrangères ont parlé de « sécurité des couloirs maritimes », et le Qatar appelle à la retenue. Téhéran dément un projet d'attentat à la « bombe sale » à Washington évoqué dans la presse."
+          ],
+          "critique": "Deux récits s'opposent. L'Iran parle de mines sur une route « non autorisée » : c'est une manière d'imposer son propre schéma de circulation dans un détroit international. Les Occidentaux parlent de projectiles et d'attaques. Personne n'a encore identifié les navires, et les bilans humains ont changé trois fois en une journée. Paradoxe des marchés : malgré ces attaques, le Brent ne gagne que 0,8 %, à 93 dollars, car l'Agence internationale de l'énergie prévoit un retour à l'excédent de pétrole.",
+          "sources": [
+            {"label": "Al Jazeera, pétroliers touchés à Ormuz", "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field"},
+            {"label": "Khaleej Times, direct du 17/11", "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-17-2026"},
+            {"label": "BFM Bourse / Tradingsat, pétrole", "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-plombe-par-les-inquietudes-autour-de-nvidia-et-le-recul-du-luxe-le-cac-40-cloture-en-forte-baisse-1173960.html"}
+          ]
+        },
+        {
+          "kicker": "Ukraine · Russie",
+          "minutes": 3,
+          "title": "Le pont de Crimée coupé, et Washington désapprouve",
+          "chapo": "Deuxième frappe en vingt-quatre heures : une arche et une travée routière du pont de Kertch sont tombées dans le détroit. Volodymyr Zelensky revendique l'opération. Au Pentagone, Elbridge Colby met en garde contre l'escalade.",
+          "body": [
+            "Dans la nuit du 16 au 17 novembre, de nouvelles explosions ont touché le pont de Kertch, qui relie la Russie à la Crimée occupée. Des photos montrent qu'une arche et la chaussée entre deux piles ont disparu, avec des débris dans l'eau. La veille, une première frappe avait déformé l'arche principale. Le ministère russe des Transports a suspendu la circulation routière et ferroviaire, sans faire état de victimes. Sergueï Axionov, chef de l'administration installée par Moscou, affirme que les trains ont repris mardi.",
+            "Volodymyr Zelensky a confirmé l'opération et détaillé les armes : drones Palianytsia sur la partie routière ; missiles R-360 Neptune, drones Ruta et missiles de croisière FP-5 Flamingo sur la partie ferroviaire. L'ouvrage mesure 19 km et a coûté environ 4 milliards de dollars. Il avait été endommagé en octobre 2022 et en juillet 2023, sans jamais être mis hors service. Le commissaire ukrainien aux sanctions a résumé : « Pont de Crimée. Sanctionné. »",
+            "Elbridge Colby, numéro trois du Pentagone chargé de la politique, a critiqué la frappe, jugeant qu'elle pouvait provoquer une nouvelle escalade russe. Selon lui, les frappes à longue portée de l'Ukraine n'ont ni mis fin à la guerre ni dissuadé l'offensive, et celles visant des infrastructures civiles ont « durci la détermination » de l'opinion russe. Donald Trump a dit qu'il pourrait parler de l'Ukraine jeudi à Shenzhen avec Xi Jinping et Vladimir Poutine.",
+            "La Russie a frappé en retour. Au moins 14 personnes ont été tuées en une journée ; à Kyiv, des missiles balistiques ont touché les ponts Nord et Sud sur le Dniepr, fermés à la circulation. L'énergéticien DTEK compte environ 700 000 foyers sans électricité dans la région de Dnipropetrovsk. L'Allemagne et la Norvège financeront des armes américaines pour l'Ukraine, dont des intercepteurs Patriot ; Berlin annonce 300 millions de dollars. Le FMI prévoit désormais un recul du PIB ukrainien de 0,5 % en 2026 et de 1 % en 2027, et un besoin de financement supplémentaire de 32 à 34 milliards de dollars en 2027."
+          ],
+          "critique": "La portée militaire du pont est discutée. En septembre, le renseignement militaire ukrainien jugeait l'ouvrage « pas si stratégique », la plupart du fret militaire russe passant par Rostov et le corridor terrestre. Mais ce corridor côtier est lui-même neutralisé depuis avril, selon l'Institut des sciences stratégiques. La critique de Colby, à deux jours du sommet de Shenzhen, dit surtout que Washington ne veut pas que Kyiv dicte le tempo des discussions.",
+          "sources": [
+            {"label": "Kyiv Independent, effondrement d'une section", "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-crimean-bridge-after-russian-missiles-hit-kyiv-bridges/"},
+            {"label": "RBC-Ukraine, critique d'Elbridge Colby", "url": "https://newsukraine.rbc.ua/news/us-department-of-war-criticizes-ukraine-over-1794944933.html"},
+            {"label": "Forbes, guerre en Ukraine le 17/11", "url": "https://www.forbes.com/sites/katyasoldak/2026/11/17/tuesday-november-17-russias-war-on-ukraine-news-and-information-from-ukraine/"},
+            {"label": "Institut des sciences stratégiques, pont de Kertch", "url": "https://www.institut-sciences-strategiques.org/etats/ukraine/l-ukraine-touche-de-nouveau-le-pont-de-kertch-artere-de-la-crimee-occupee/"}
+          ]
+        },
+        {
+          "kicker": "En bref",
+          "minutes": 2,
+          "title": "Shenzhen, COP31, Deutsche Bank",
+          "chapo": "Xi Jinping ouvre le sommet de l'APEC en appelant à coopérer sur l'IA ; le projet d'accord de la COP31 divise ; Deutsche Bank chute après une enquête sur sa clientèle russe.",
+          "body": [
+            "APEC. Xi Jinping a ouvert mercredi à Shenzhen la 33e réunion des dirigeants de l'APEC (21 économies), la première organisée en Chine depuis 2014. Il a appelé à « bâtir des partenariats d'innovation scientifique et technologique », à coopérer sur l'économie numérique et l'IA, et à lever les barrières au commerce. Il doit rencontrer Donald Trump jeudi ; un tête-à-tête à trois avec Vladimir Poutine est en discussion. La trêve commerciale sino-américaine conclue l'an dernier en Corée du Sud expire en janvier. La ville vit sous un dispositif de sécurité en cercles concentriques depuis le 1er novembre.",
+            "COP31. L'Australie, qui pilote les négociations d'Antalya avec la Turquie, a publié lundi un projet de décision de 18 pages. Il appelle à sortir des énergies fossiles et demande aux pays riches d'atteindre la neutralité carbone dès 2030. L'envoyé européen Wopke Hoekstra juge ce texte de nature à rendre les discussions « intenables ». Un autre conflit porte sur le calendrier du septième rapport du GIEC : des dizaines de pays veulent qu'il paraisse avant le bilan mondial de 2028, l'Arabie saoudite freine. La conférence doit s'achever vendredi, et il faut le consensus.",
+            "Deutsche Bank. L'action a perdu 6 % à Francfort, à 30,94 euros, après une enquête du Monde, du Financial Times et de leurs partenaires fondée sur 15 millions de documents internes, sur la clientèle russe fortunée de la banque jusqu'à fin 2020 malgré des alertes sur le blanchiment. La banque répond que certains faits datent de près de vingt ans et qu'elle a investi 7 milliards d'euros dans ses contrôles entre 2019 et 2025.",
+            "Yémen. Les Houthis disent avoir lancé des drones vers l'oléoduc saoudien Est-Ouest, la route de contournement d'Ormuz. La coalition menée par Riyad a intercepté un drone qui se dirigeait vers la capitale saoudienne, et Etihad suspend ses vols vers Dammam et Riyad jusqu'au 30 novembre."
+          ],
+          "critique": "Le projet de la COP31 est volontairement ambitieux. Une présidence publie souvent un texte maximal pour le négocier ensuite à la baisse ; Chris Bowen annonce lui-même « au moins un autre projet » d'ici la fin de la semaine.",
+          "sources": [
+            {"label": "TRT World, ouverture de l'APEC", "url": "https://www.trtworld.com/article/00217755088a"},
+            {"label": "Latin Times, sécurité à Shenzhen", "url": "https://www.latintimes.com/shenzhen-apec-summit-xi-trump-putin-security-601294"},
+            {"label": "Al Jazeera, tensions à la COP31", "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31"},
+            {"label": "Moneyvox, Deutsche Bank", "url": "https://www.moneyvox.fr/bourse/actualites/111288/intel-chute-de-28-deutsche-bank-et-dassault-systemes-reculent-les-infos-bourse-du-17-novembre-2026"},
+            {"label": "Khaleej Times, Yémen et Arabie saoudite", "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-17-2026"}
+          ]
+        }
+      ],
+      "board": [
+        {"label": "S&P 500", "value": "7 341", "change": -1.03},
+        {"label": "Nasdaq", "value": "24 328", "change": -0.74},
+        {"label": "Dow Jones", "value": "50 759", "change": -1.64},
+        {"label": "CAC 40", "value": "8 217", "change": -1.62},
+        {"label": "Bitcoin", "value": "≈64 700 $", "change": -0.72},
+        {"label": "Or (once)", "value": "3 849 $", "change": -0.18},
+        {"label": "Brent (baril)", "value": "93,2 $", "change": 0.8},
+        {"label": "WTI (baril)", "value": "85,2 $", "change": 0.9}
+      ],
+      "boardNote": "Clôtures du mardi 17 novembre (Brent et WTI à la clôture de Paris). Taux américain à 10 ans : 5,11 % (−3 points de base) ; euro à 1,1016 dollar. Après la Bourse : Nvidia +3,6 % sur ses résultats. À suivre : prix d'introduction d'Anthropic ce soir, compte rendu de la Fed (20 h, heure de Paris), rencontre Trump-Xi jeudi à Shenzhen.",
+      "estimate": {
+        "question": "Quel chiffre d'affaires trimestriel Nvidia a-t-il publié mardi soir, en milliards de dollars ?",
+        "min": 0,
+        "max": 200,
+        "step": 0.1,
+        "unit": "Md$",
+        "answer": 115.8,
+        "explain": "115,8 milliards de dollars, en hausse de 103 % sur un an. Le consensus attendait 109,15 milliards."
+      },
+      "flashcards": [
+        {"front": "Consensus", "back": "Moyenne des prévisions des analystes pour un résultat d'entreprise. Nvidia : 109,15 milliards de dollars attendus, 115,8 milliards publiés."},
+        {"front": "Directeur général par intérim", "back": "Dirigeant provisoire en attendant un successeur. Chez Nvidia, la directrice financière Colette Kress cumule les deux fonctions depuis le départ de Jensen Huang."},
+        {"front": "Carnet d'ordres", "back": "Liste des ordres d'achat recueillis par les banques avant une introduction en Bourse. Celui d'Anthropic a été fermé mardi avec une demande proche de sept fois l'offre."},
+        {"front": "UKMTO", "back": "United Kingdom Maritime Trade Operations : centre de la Royal Navy qui recueille et diffuse les signalements d'incidents visant les navires marchands au Moyen-Orient."},
+        {"front": "Qeshm", "back": "Plus grande île du golfe Persique, face au port iranien de Bandar Abbas, au cœur du détroit d'Ormuz. Des avions américains y ont frappé un site de lancement de missiles."},
+        {"front": "FP-5 Flamingo", "back": "Missile de croisière ukrainien à longue portée, utilisé contre la partie ferroviaire du pont de Kertch selon Volodymyr Zelensky."},
+        {"front": "APEC", "back": "Coopération économique Asie-Pacifique : forum de 21 économies créé en 1989. Sommet 2026 à Shenzhen, le premier en Chine depuis 2014."}
+      ],
+      "quiz": [
+        {"q": "Quel chiffre d'affaires Nvidia prévoit-il pour le trimestre en cours ?", "choices": ["115,8 milliards $", "125 milliards $", "130 milliards $", "150 milliards $"], "answer": 2, "explain": "130 milliards de dollars à 3 % près, contre 125,25 milliards attendus, sans aucune vente de puces de centre de données en Chine."},
+        {"q": "Combien de porte-avions américains sont désormais déployés sous le commandement central ?", "choices": ["Un", "Deux", "Trois", "Cinq"], "answer": 2, "explain": "Trois, avec l'arrivée de l'USS Theodore Roosevelt."},
+        {"q": "Quel responsable américain a critiqué la frappe sur le pont de Crimée ?", "choices": ["Marco Rubio", "Elbridge Colby", "Scott Bessent", "Steve Witkoff"], "answer": 1, "explain": "Elbridge Colby, chargé de la politique au Pentagone, craint une escalade russe."},
+        {"q": "Quand Anthropic doit-il être coté pour la première fois ?", "choices": ["Mardi 17", "Mercredi 18", "Jeudi 19", "Vendredi 20"], "answer": 2, "explain": "Le prix est fixé mercredi, la première cotation est prévue jeudi 19 novembre."},
+        {"q": "Que demande le projet de décision de la COP31 aux pays riches ?", "choices": ["Doubler l'aide à l'adaptation", "La neutralité carbone dès 2030", "Sortir du charbon en 2035", "Taxer le kérosène"], "answer": 1, "explain": "La neutralité carbone dès 2030, et une sortie des énergies fossiles ; l'Union européenne juge le texte « intenable »."}
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "minutes": 10,
+      "lede": [
+        "La grève des fonctionnaires a moins mobilisé que le 5 novembre : 146 000 manifestants selon l'Intérieur, 500 000 selon la CGT, moins de 3 % de grévistes dans la fonction publique d'État.",
+        "Marine Le Pen a détaillé sa réforme des retraites : départ entre 60 et 62 ans, mais une décote quatre fois plus lourde et un fonds par capitalisation dont le mécanisme reste flou.",
+        "Bruxelles prévoit 0,4 % de croissance cette année, la plus faible de la zone euro l'an prochain, et un chômage à 9,2 %. Le Sénat vote aujourd'hui le budget de la Sécu, avec un an de résidence exigé pour certaines prestations."
+      ],
+      "articles": [
+        {
+          "kicker": "Social · Fonction publique",
+          "minutes": 3,
+          "title": "Grève du 17 novembre : un essoufflement, pas un apaisement",
+          "chapo": "146 000 manifestants selon le ministère de l'Intérieur, plus de 500 000 selon la CGT. Les taux de grève reculent nettement par rapport au 5 novembre. Les syndicats réclament des « annonces immédiates ».",
+          "body": [
+            "Les chiffres de la quatrième journée de l'automne sont en baisse. Le ministère de l'Intérieur a compté 146 000 manifestants en France ; la CGT et l'intersyndicale d'Île-de-France en revendiquent plus de 500 000, dont 175 000 à Paris, où la préfecture de police en a recensé 28 000 dans un cortège calme entre Nation et la place d'Italie. À Marseille, les syndicats annoncent 80 000 personnes, à Toulouse 20 000 ; les comptages officiels sont bien inférieurs.",
+            "Les taux de grévistes reculent. Dans la fonction publique d'État, ils passent sous 3 %, contre près de 10 % le 5 novembre. Dans la territoriale, 1,96 % contre 4,60 %. Seule l'hospitalière reste stable, à 3,93 %. L'AFP note une baisse de la mobilisation dans plusieurs villes. À Toulouse, les forces de l'ordre ont levé plusieurs blocages de lycées ; l'Union syndicale lycéenne dénonce une « répression très violente ».",
+            "Le fond du conflit n'a pas changé. Avec la hausse du Smic au 1er décembre, 1,1 million d'agents publics, près de 20 %, seraient passés sous le salaire minimum sans « mesures d'urgence ». Après ces mesures, environ 660 000 restent en dessous et touchent une indemnité différentielle, qui ne compte pas pour la retraite. Le ministre des Comptes publics, David Amiel, chiffre l'effort à plus d'un milliard d'euros. Les syndicats ont quitté Matignon vendredi après un nouveau refus de hausse générale des salaires.",
+            "Sophie Binet (CGT) demande que le gouvernement reçoive tous les syndicats pour des « annonces immédiates à la hauteur » : « seule la réponse à nos revendications arrêtera la mobilisation ». Les étudiants de l'Interfac prévoient une nouvelle journée le 26 novembre ; les retraités défilent demain, jeudi 19 novembre. Le prochain rendez-vous salarial avec le gouvernement reste fixé au 11 décembre."
+          ],
+          "critique": "L'écart entre les comptages (de 1 à 3,4) est habituel, mais la tendance est la même des deux côtés : moins de monde qu'au 5 novembre. Un taux de grève bas ne mesure pas l'adhésion à la politique salariale : chaque journée coûte une journée de salaire, et la répétition épuise. Le vrai test sera le rendez-vous salarial du 11 décembre.",
+          "sources": [
+            {"label": "Sud Radio, mobilisation du 17/11", "url": "https://www.sudradio.fr/societe/fonctionnaires-jeunesse-salaries-du-prive-une-colere-qui-converge-malgre-des-corteges-moins-fournis"},
+            {"label": "ICI, direct mobilisation", "url": "https://www.ici.fr/infos/economie-social/direct-mobilisation-du-17-novembre-suivez-la-nouvelle-journee-de-greve-et-de-manifestations-3379678"}
+          ]
+        },
+        {
+          "kicker": "Présidentielle · Retraites",
+          "minutes": 4,
+          "title": "Retraites du RN : partir plus tôt, mais payer plus cher chaque trimestre manquant",
+          "chapo": "Marine Le Pen promet un départ entre 60 et 62 ans et l'abrogation de la réforme de 2023. En contrepartie, la décote serait quadruplée et un pilier de capitalisation deviendrait obligatoire. Le chiffrage est celui du parti.",
+          "body": [
+            "Présentée mardi au siège du Rassemblement national, la réforme fixe l'âge de départ entre 60 et 62 ans, en cinq paliers de six mois. La réforme Borne, qui porte l'âge légal à 64 ans, serait abrogée au 1er janvier 2028. Le taux plein resterait automatique à 67 ans. Il faudrait 40 annuités pour ceux qui ont commencé à travailler avant 20 ans, 42 pour ceux entrés après 23 ans. Un trimestre serait validé dès qu'on a travaillé au moins à mi-temps pendant trois mois, sans condition de salaire (aujourd'hui, 150 heures payées au Smic suffisent).",
+            "La contrepartie se lit dans les durcissements. La décote passerait à 5 % par trimestre manquant, plafonnée à 50 % ; elle est aujourd'hui de 1,25 % par trimestre, plafonnée à 25 %. Elle rapporterait 2,7 milliards d'euros en 2032. Un plancher de 160 trimestres effectivement cotisés rapporterait 5,8 milliards. La majoration de pension de 10 % des pères de trois enfants disparaîtrait progressivement, celle des mères passerait à 12 %. Les droits acquis pendant le chômage seraient réduits, sans chiffrage.",
+            "Deux autres leviers rapporteraient ensemble 9,7 milliards d'euros : suspendre l'allocation personnalisée d'autonomie et le minimum vieillesse au-dessus de 3 000 euros de pension, et affecter aux retraites la moitié des excédents de l'Unédic. Au total, le RN annonce un coût brut de 18,6 milliards d'euros en 2032 et un solde net positif de 4,7 milliards, sans compter de gains de croissance.",
+            "Le dernier étage est le plus ambitieux : un pilier de capitalisation obligatoire et universel, d'abord pour les actifs de 52 ans au plus, avec l'objectif d'un fonds de « quasi 900 milliards d'euros en une génération » et un capital de « plusieurs dizaines de milliers d'euros minimum » pour les jeunes. Le taux de rendement visé et la manière de constituer le fonds ne sont pas précisés. Marine Le Pen privilégie la négociation avec les partenaires sociaux, mais envisage un référendum si elle n'obtient pas de majorité absolue."
+          ],
+          "critique": "Tous les chiffres cités viennent du RN, sans contre-expertise publiée à ce jour. Le projet est plus dur qu'il n'y paraît pour les carrières hachées : avec une décote de 5 % par trimestre, partir avec deux ans manquants coûterait 40 % de la pension, contre 10 % aujourd'hui. Pour la capitalisation, la question décisive est absente : qui paie la transition ? Les actifs devraient financer à la fois les pensions actuelles par répartition et leur propre épargne (voir Savoirs).",
+          "sources": [
+            {"label": "Public Sénat, la réforme présentée par Marine Le Pen", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-contient-la-reforme-des-retraites-presentee-par-marine-le-pen"},
+            {"label": "France Mag, départ dès 60 ans et durcissements", "url": "https://www.francemag.fr/article/4111/retraites-marine-le-pen-promet-un-depart-des-60-ans-mais-prevoit-aussi-plusieurs-durcissements"}
+          ]
+        },
+        {
+          "kicker": "Économie · Europe",
+          "minutes": 3,
+          "title": "Bruxelles place la France en queue de la zone euro",
+          "chapo": "La Commission européenne divise par deux la prévision de croissance française : 0,4 % en 2026, 0,6 % en 2027, la plus faible des 21 pays de la zone euro. Chômage à 9,2 %, déficit à 5,4 %.",
+          "body": [
+            "Les prévisions d'automne publiées mardi tracent deux trajectoires. La zone euro est relevée à 1,2 % de croissance en 2026 comme en 2027. La France est abaissée à 0,4 % en 2026 et 0,6 % en 2027, contre 0,8 % et 1,1 % au printemps ; le gouvernement table sur 1 % dans son projet de budget. Pour 2027, Bruxelles attend 2,1 % en Espagne, 1 % en Allemagne et 0,7 % en Italie. Un rebond français à 1,4 % n'interviendrait qu'en 2028.",
+            "Le marché du travail suivrait. Le chômage monterait de 8,4 % cette année à 9,2 % en 2027, puis près de 10 % en 2028, contre 6,5 % en moyenne dans la zone euro. L'inflation française resterait sous la moyenne : 2,6 % en 2026, 2,9 % en 2027, contre 3,1 % pour la zone euro.",
+            "Les finances publiques inquiètent davantage. La Commission prévoit un déficit de 5,5 % du PIB en 2026 et 5,4 % en 2027, au-dessus de l'objectif gouvernemental de 5 % et loin de la moyenne de la zone euro (3,6 %). La dette passerait de 119,2 % du PIB en 2026 à 123,2 % en 2028. Surtout, la charge d'intérêts grimperait de 2,2 % du PIB en 2025 à 3,3 % en 2028 : plus d'un point de PIB, soit une trentaine de milliards d'euros par an, absorbés par les créanciers plutôt que par les services publics.",
+            "Ces chiffres tombent alors que le budget de l'État a été rejeté par l'Assemblée et que le gouvernement prépare un passage par ordonnances. Ils confirment les données déjà publiées : trois trimestres de croissance nulle ou négative en 2026."
+          ],
+          "critique": "Une prévision de la Commission n'est pas un verdict : celles de printemps se sont révélées trop optimistes, celles d'automne peuvent pécher par l'excès inverse. Mais l'écart avec l'hypothèse du gouvernement (0,6 % contre 1 %) n'est pas un détail : chaque dixième de croissance en moins réduit les recettes et creuse le déficit. Un budget construit sur 1 % risque d'être faux dès son adoption.",
+          "sources": [
+            {"label": "Toute l'Europe, prévisions de la Commission", "url": "https://www.touteleurope.eu/economie-et-social/previsions-economiques-la-france-devrait-connaitre-la-plus-faible-croissance-de-la-zone-euro-en-2027/"},
+            {"label": "BFM Bourse / Tradingsat, prévisions et chômage", "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-plombe-par-les-inquietudes-autour-de-nvidia-et-le-recul-du-luxe-le-cac-40-cloture-en-forte-baisse-1173960.html"}
+          ]
+        },
+        {
+          "kicker": "Parlement · Sécurité sociale",
+          "minutes": 3,
+          "title": "Un an de résidence pour les allocations : le Sénat adopte l'article 37",
+          "chapo": "Le Sénat a voté une condition d'un an de séjour régulier pour que certains étrangers hors Union européenne touchent la plupart des prestations familiales. La gauche dénonce une « préférence nationale déguisée ». Le vote solennel du budget de la Sécu a lieu cet après-midi.",
+          "body": [
+            "L'article 37 du projet de budget de la Sécurité sociale crée une durée de résidence régulière d'un an avant de toucher la prestation d'accueil du jeune enfant, l'allocation de rentrée scolaire, le complément familial, l'allocation de soutien familial et les aides au logement. Il vise les étrangers venus de pays extérieurs à l'Union européenne, à l'Espace économique européen et à la Suisse. L'allocation d'éducation de l'enfant handicapé y échappe.",
+            "De nombreuses exceptions limitent la portée : réfugiés, bénéficiaires de la protection subsidiaire, apatrides, étrangers dont le titre de séjour autorise à travailler, et ressortissants des pays liés à la France par une convention de sécurité sociale. Les amendements de suppression ont été rejetés par 206 voix contre 132, puis l'article a été adopté à main levée. Les sénateurs RN et UDR voulaient trois, puis cinq ans ; ils ont été battus.",
+            "La ministre de la Santé, Stéphanie Rist, parle d'une « justice proportionnée » et rappelle que le RSA exige déjà cinq ans de titre de séjour et le minimum vieillesse dix ans. À gauche, l'écologiste Ghislaine Senée parle de « préférence nationale déguisée », la communiste Silvana Silvani d'une discrimination contraire aux engagements de la France. Une quarantaine d'associations, dont Amnesty International et le Secours catholique, s'y opposent. Même au centre, Xavier Iacovelli (Renaissance) dénonce l'« inutilité de l'article ».",
+            "Le Sénat se prononce cet après-midi sur l'ensemble du texte, après les questions au gouvernement. Il a déjà allégé de 3,2 milliards d'euros les économies prévues et supprimé le gel des pensions. Une commission mixte paritaire devra ensuite chercher un compromis avec les députés."
+          ],
+          "critique": "Le rendement financier est dérisoire : environ 1,8 million d'euros par an pour la branche famille et 60 millions pour l'État, qui finance les aides au logement, sur un budget social de plus de 600 milliards. L'enjeu est donc politique, ce que reconnaissent aussi des élus du centre. Le risque juridique est réel : en 2024, le Conseil constitutionnel a censuré une mesure voisine de la loi immigration comme « cavalier », puis jugé disproportionnée une durée de cinq ans dans le cadre d'un projet de référendum.",
+          "sources": [
+            {"label": "Public Sénat, adoption du délai de carence", "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-secu-apres-des-debats-houleux-le-senat-adopte-le-delai-de-carence-dun-an-pour-lacces-aux-prestations-familiales-des-etrangers"},
+            {"label": "Public Sénat, points chauds du PLFSS", "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre"},
+            {"label": "NosParlementaires, gel des pensions supprimé", "url": "https://nosparlementaires.fr/actualites/gel-pensions-senat-1500-euros-reforme-retraites-plfss-2027"}
+          ]
+        },
+        {
+          "kicker": "Bourse de Paris · Entreprises",
+          "minutes": 2,
+          "title": "Le CAC 40 perd 1,6 %, Dassault Systèmes déçoit",
+          "chapo": "Le luxe et la technologie ont fait chuter la Bourse de Paris avant les résultats de Nvidia. Dassault Systèmes recule de près de 5 % après avoir présenté des objectifs 2029 jugés trop prudents.",
+          "body": [
+            "Le CAC 40 a clôturé mardi à 8 216,78 points, en baisse de 1,62 %, après un recul de 0,2 % lundi. TotalEnergies a été la seule valeur de l'indice à finir dans le vert (+0,02 %). Le luxe a pesé lourd : Hermès −5,1 %, plus forte baisse de l'indice, Kering −3,6 %, LVMH −2,7 %. Capgemini a aussi reculé de plus de 3,9 %. L'euro gagnait 0,2 %, à 1,1016 dollar.",
+            "Dassault Systèmes a perdu 4,91 %, à 24,40 euros. L'éditeur de logiciels de conception a présenté ses objectifs pour 2029 : plus de 8 milliards d'euros de chiffre d'affaires et un bénéfice ajusté de 1,80 euro par action. C'est mieux que les 1,69 euro attendus par les analystes, mais bien en dessous des 2,20 à 2,40 euros que le groupe visait encore en juin 2025. Comme Salesforce à New York, il subit la crainte que l'IA ne réduise la valeur des logiciels traditionnels.",
+            "Vusion, ex-SES-imagotag, spécialiste des étiquettes électroniques de rayon, a cédé 3,98 %, à 151,80 euros. Il propose 88 millions d'euros pour racheter son concurrent suédois Pricer, avec une prime de 29,6 %, et doit obtenir plus de 90 % du capital. Le titre a perdu 26 % depuis janvier."
+          ],
+          "critique": "La baisse du luxe n'a pas reçu d'explication propre dans les comptes rendus de séance : elle suit un mouvement général de ventes sur les valeurs les plus chères. Il faut se méfier des récits construits après coup pour justifier un mouvement de Bourse d'une journée.",
+          "sources": [
+            {"label": "BFM Bourse / Tradingsat, clôture du CAC 40", "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-plombe-par-les-inquietudes-autour-de-nvidia-et-le-recul-du-luxe-le-cac-40-cloture-en-forte-baisse-1173960.html"},
+            {"label": "Moneyvox, infos Bourse du 17/11", "url": "https://www.moneyvox.fr/bourse/actualites/111288/intel-chute-de-28-deutsche-bank-et-dassault-systemes-reculent-les-infos-bourse-du-17-novembre-2026"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Selon le RN, quel serait le montant du fonds de retraite par capitalisation constitué « en une génération », en milliards d'euros ?",
+        "min": 0,
+        "max": 2000,
+        "step": 10,
+        "unit": "Md€",
+        "answer": 900,
+        "explain": "« Quasi 900 milliards d'euros », soit environ un tiers du PIB français. Le RN n'a précisé ni le rendement visé ni la manière de constituer ce fonds."
+      },
+      "flashcards": [
+        {"front": "Décote", "back": "Réduction de la pension pour chaque trimestre manquant avant le taux plein. Aujourd'hui 1,25 % par trimestre (plafond 25 %) ; le RN propose 5 % (plafond 50 %)."},
+        {"front": "Taux plein", "back": "Pension calculée sans décote, à 50 % du salaire annuel moyen dans le régime général. Obtenu avec tous les trimestres requis, ou automatiquement à 67 ans."},
+        {"front": "Indemnité différentielle", "back": "Complément versé aux agents publics payés sous le Smic. Environ 660 000 agents en dépendent ; elle ne compte pas pour la retraite."},
+        {"front": "Délai de carence (prestations)", "back": "Durée de résidence exigée avant d'ouvrir un droit. RSA : cinq ans de titre de séjour ; minimum vieillesse : dix ans ; prestations familiales : un an, selon l'article 37 voté au Sénat."},
+        {"front": "Commission mixte paritaire (CMP)", "back": "Sept députés et sept sénateurs chargés de trouver un texte commun quand les deux chambres ne s'accordent pas."},
+        {"front": "Charge d'intérêts", "back": "Somme payée chaque année aux créanciers de l'État. Pour la France, 2,2 % du PIB en 2025 et 3,3 % en 2028 selon Bruxelles."},
+        {"front": "Prévisions d'automne", "back": "Publication semestrielle de la Commission européenne sur la croissance, l'inflation, le chômage et les finances publiques des États membres."}
+      ],
+      "quiz": [
+        {"q": "Quel taux de grévistes dans la fonction publique d'État le 17 novembre ?", "choices": ["Moins de 3 %", "Environ 10 %", "Environ 20 %", "Plus de 30 %"], "answer": 0, "explain": "Moins de 3 %, contre près de 10 % le 5 novembre."},
+        {"q": "Quelle décote par trimestre manquant le RN propose-t-il ?", "choices": ["1,25 %", "2,5 %", "5 %", "10 %"], "answer": 2, "explain": "5 % par trimestre, plafonnée à 50 %, contre 1,25 % et 25 % aujourd'hui."},
+        {"q": "Quelle croissance la Commission européenne prévoit-elle pour la France en 2027 ?", "choices": ["0,4 %", "0,6 %", "1 %", "1,2 %"], "answer": 1, "explain": "0,6 %, la plus faible de la zone euro ; le gouvernement table sur 1 %."},
+        {"q": "Quelle prestation échappe à la condition d'un an de résidence votée au Sénat ?", "choices": ["Les aides au logement", "L'allocation de rentrée scolaire", "L'allocation d'éducation de l'enfant handicapé", "Le complément familial"], "answer": 2, "explain": "L'allocation d'éducation de l'enfant handicapé (AEEH) n'est pas concernée."},
+        {"q": "Quelle a été la plus forte baisse du CAC 40 mardi ?", "choices": ["LVMH", "Hermès", "Kering", "TotalEnergies"], "answer": 1, "explain": "Hermès, −5,1 %. TotalEnergies a été la seule valeur en hausse."}
+      ]
+    },
+    {
+      "id": "savoirs",
+      "name": "Savoirs",
+      "minutes": 10,
+      "lede": [
+        "Quand un fournisseur finance ses propres clients : ce que disent les 64 jours de factures impayées de Nvidia, et pourquoi le souvenir des années 2000 revient.",
+        "Répartition ou capitalisation : deux façons de payer les retraites, deux rendements différents, et un problème de transition que personne n'aime chiffrer. Et ce que veut dire « disproportionné » pour le Conseil constitutionnel.",
+        "Le 18 novembre 1883, l'Amérique a eu deux midis ; le 18 novembre 1963, le téléphone a appris à composer avec des sons. Et Proust, Mickey, Daguerre."
+      ],
+      "articles": [
+        {
+          "kicker": "Économie · Entreprise",
+          "minutes": 3,
+          "title": "Quand le vendeur prête à ses clients",
+          "chapo": "Nvidia vend plus que jamais, mais ses clients paient plus lentement et le groupe garantit une partie de leurs dettes. Deux indicateurs simples permettent de lire ce risque.",
+          "body": [
+            "Premier indicateur : le délai de paiement des clients, que les financiers appellent DSO (days sales outstanding). On divise les factures non encore payées par le chiffre d'affaires, et on multiplie par le nombre de jours de la période. Pour Nvidia : 81 milliards de dollars de créances, pour environ 116 milliards de ventes en 91 jours, soit 1,27 milliard de ventes par jour. 81 divisé par 1,27 donne environ 64 jours. Autrement dit, Nvidia attend en moyenne deux mois avant d'être payé ; c'est le délai le plus long depuis 2022.",
+            "Un DSO qui monte n'est pas forcément grave : il peut refléter des livraisons concentrées en fin de trimestre, ou de très gros clients qui négocient des délais. Mais il signale que le chiffre d'affaires comptabilisé n'est pas encore de l'argent en caisse. En comptabilité, une vente est enregistrée à la livraison, pas au paiement. Si un client fait défaut, la créance est dépréciée, et le bénéfice passé est effacé.",
+            "Second indicateur : le financement fournisseur (vendor financing). Le vendeur aide ses clients à acheter ses produits, par des prises de participation, des prêts ou des garanties. Nvidia a garanti 118 milliards de dollars d'obligations d'autres entreprises, en particulier de « néoclouds », ces loueurs de puissance de calcul. Une garantie n'apparaît pas comme une dette au bilan : elle ne devient un coût que si le client ne paie pas. C'est une dette potentielle, dite hors bilan.",
+            "Le mécanisme a un précédent célèbre. Vers 2000, les équipementiers télécoms comme Lucent ou Nortel prêtaient massivement à des opérateurs qui achetaient leurs équipements. Quand la bulle a éclaté, les clients ont fait faillite, les prêts sont devenus irrécouvrables et les ventes se sont effondrées en même temps. La différence aujourd'hui : les clients de Nvidia incluent les entreprises les plus riches du monde (Microsoft, Google, Meta). La question est donc de savoir quelle part des ventes repose sur les plus fragiles."
+          ],
+          "critique": "Les chiffres d'engagement (670 milliards) sont des calculs de Yahoo Finance à partir des documents de Nvidia, pas un total publié par l'entreprise. Ils additionnent des engagements de nature différente : achats de composants, investissements, garanties. Seules les garanties portent un vrai risque de crédit.",
+          "sources": [
+            {"label": "Yahoo Finance, la « banque Nvidia »", "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html"},
+            {"label": "Nvidia, communiqué des résultats", "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"}
+          ]
+        },
+        {
+          "kicker": "Économie · Retraites",
+          "minutes": 3,
+          "title": "Répartition, capitalisation : deux rendements, une transition",
+          "chapo": "Le RN veut ajouter un étage de capitalisation obligatoire au système par répartition. Pour comprendre l'enjeu, il faut comparer ce que « rapporte » chaque système, et ce que coûte le passage de l'un à l'autre.",
+          "body": [
+            "Dans la répartition, les cotisations des actifs d'aujourd'hui paient directement les pensions des retraités d'aujourd'hui. Rien n'est épargné. Le « rendement » d'un tel système, à long terme, est la croissance de la masse salariale : la croissance du nombre de cotisants plus celle de leurs salaires. Si la population active stagne et que les salaires réels progressent de 1 % par an, le système peut faire croître les pensions d'environ 1 % par an, à taux de cotisation constant.",
+            "Dans la capitalisation, chaque génération épargne pour elle-même. Les cotisations sont placées (actions, obligations) et le capital accumulé paie la retraite. Le rendement est celui des marchés financiers. Avec 3 % de rendement réel par an, une somme placée pendant 40 ans est multipliée par 1,03 puissance 40, soit environ 3,3. Avec 1 %, elle n'est multipliée que par 1,5. D'où l'attrait de la capitalisation quand les rendements financiers dépassent la croissance, et son risque : une crise boursière juste avant le départ peut amputer une épargne.",
+            "Le problème central est la transition, appelée « double charge ». Si une partie des cotisations part vers un fonds, elle ne paie plus les pensions actuelles, qui sont pourtant dues. Il faut alors soit cotiser davantage, soit s'endetter, soit baisser les pensions. La génération de transition paie deux fois : pour ses parents et pour elle-même. C'est pourquoi les pays qui ont basculé l'ont fait progressivement, ou avec des réserves déjà constituées, comme la Norvège avec ses revenus pétroliers.",
+            "Le RN annonce un fonds de « quasi 900 milliards d'euros en une génération », soit environ 30 ans. Pour s'en faire une idée : 900 milliards en 30 ans à 3 % de rendement réel suppose de verser environ 19 milliards d'euros par an, chaque année. Le programme ne dit pas d'où viendraient ces sommes."
+          ],
+          "critique": "Le calcul des 19 milliards par an est une illustration (versements constants, rendement réel de 3 %), pas un chiffrage officiel. Il montre l'ordre de grandeur : comparable au coût brut de la réforme annoncé par le RN lui-même (18,6 milliards en 2032).",
+          "sources": [
+            {"label": "Public Sénat, la réforme du RN", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-contient-la-reforme-des-retraites-presentee-par-marine-le-pen"}
+          ]
+        },
+        {
+          "kicker": "Droit · Institutions",
+          "minutes": 2,
+          "title": "Cavalier et proportionnalité : les deux pièges d'une loi",
+          "chapo": "L'article 37 du budget de la Sécu pourrait finir devant le Conseil constitutionnel. Deux notions décideront de son sort.",
+          "body": [
+            "Un « cavalier législatif » est une disposition sans lien avec l'objet du texte dans lequel on l'insère. La Constitution impose aux amendements un lien, au moins indirect, avec le projet. Pour les lois de financement de la Sécurité sociale, la règle est plus stricte : une mesure doit avoir un effet sur les recettes ou les dépenses de l'année, ou sur l'organisation de la Sécurité sociale. Sinon, c'est un « cavalier social », censuré quel que soit son contenu. C'est ce qui est arrivé en janvier 2024 à la condition de cinq ans de résidence pour les prestations, glissée dans la loi immigration.",
+            "Le second filtre porte sur le fond : la proportionnalité. Le principe d'égalité n'interdit pas de traiter différemment des situations différentes, mais la différence de traitement doit être en rapport avec l'objet de la loi et ne pas être excessive. En 2024, saisi d'un projet de référendum d'initiative partagée sur le même sujet, le Conseil a jugé qu'une durée de cinq ans portait une atteinte disproportionnée aux droits protégés par le préambule de 1946, qui garantit à la famille et à l'enfant les conditions nécessaires à leur développement.",
+            "Le Sénat a donc choisi un an, avec de nombreuses exceptions, précisément pour rester dans les limites tracées par cette jurisprudence. L'effet financier, même minime, sert à rattacher la mesure au budget de la Sécu. Si le texte est saisi, le Conseil devra dire si un an est un délai proportionné."
+          ],
+          "critique": "Le contrôle de proportionnalité laisse une part d'appréciation au juge. C'est ce qui rend son issue difficile à prévoir, et ce qui alimente la critique d'un « gouvernement des juges » à droite comme le soupçon de complaisance à gauche.",
+          "sources": [
+            {"label": "Public Sénat, article 37 et précédents", "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-secu-apres-des-debats-houleux-le-senat-adopte-le-delai-de-carence-dun-an-pour-lacces-aux-prestations-familiales-des-etrangers"}
+          ]
+        },
+        {
+          "kicker": "Ingénierie · Histoire des techniques",
+          "minutes": 3,
+          "title": "Le jour des deux midis et le téléphone qui chante",
+          "chapo": "Deux 18 novembre ont changé notre rapport au temps et aux télécommunications : l'heure normalisée des chemins de fer américains en 1883, et le clavier à touches en 1963.",
+          "body": [
+            "Jusqu'au XIXe siècle, chaque ville vivait à l'heure solaire : midi, c'est le moment où le Soleil passe au plus haut. La Terre tourne de 360 degrés en 24 heures, donc de 15 degrés par heure, soit un degré toutes les quatre minutes. Deux villes séparées d'un degré de longitude ont quatre minutes d'écart. En Grande-Bretagne, Bristol avait dix minutes de retard sur Londres. En Amérique du Nord, les écarts dépassaient une heure, et les compagnies ferroviaires utilisaient une cinquantaine d'heures différentes.",
+            "William F. Allen, secrétaire de la convention des horaires ferroviaires, proposa de les remplacer par quelques fuseaux. Le 18 novembre 1883 à midi, presque toutes les compagnies américaines et canadiennes adoptèrent l'heure normalisée ; dans beaucoup de villes, les horloges sonnèrent deux fois midi. La loi fédérale ne l'entérina qu'en 1918. La France adopta l'heure de Paris en 1891, puis en 1911 « l'heure de Paris retardée de 9 minutes 21 secondes » : c'est exactement l'heure de Greenwich, sans la nommer. Ces 9 minutes 21 secondes correspondent aux 2 degrés 20 minutes de longitude qui séparent les deux observatoires.",
+            "Le 18 novembre 1963, la compagnie Bell mit en vente le premier téléphone à touches grand public. Jusque-là, le cadran rotatif ouvrait et fermait le circuit autant de fois que le chiffre composé : des impulsions électriques, lentes, qui ne passaient pas les amplificateurs. Le nouveau système, appelé DTMF (dual-tone multi-frequency), envoie des sons. Chaque touche émet deux fréquences à la fois : une pour sa ligne (697, 770, 852 ou 941 hertz), une pour sa colonne (1 209, 1 336, 1 477 ou 1 633 hertz). Le « 1 » combine 697 et 1 209 hertz. Quatre fréquences basses fois quatre hautes donnent 16 signaux.",
+            "Pourquoi deux sons ? Parce qu'une voix humaine produit rarement exactement deux fréquences pures à la fois, ce qui évite les fausses détections pendant une conversation. Comme ce sont des sons audibles, ils traversent les répéteurs, les amplificateurs et les liaisons radio. Pour les décoder, les centraux numériques utilisent l'algorithme de Goertzel, une version allégée de la transformée de Fourier qui ne calcule que les huit fréquences utiles. Le système sert encore quand un serveur vocal vous demande de « taper 1 »."
+          ],
+          "critique": "Le récit du « jour des deux midis » est en partie une image : l'adoption s'est faite ville par ville et sans base légale pendant 35 ans. Une norme technique s'impose souvent par l'usage des grands acteurs (ici les chemins de fer) bien avant d'être votée.",
+          "sources": [
+            {"label": "Wikipédia, Railway time", "url": "https://en.wikipedia.org/wiki/Railway_time"},
+            {"label": "Wikipédia, DTMF", "url": "https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling"},
+            {"label": "Wikipédia, 18 novembre", "url": "https://en.wikipedia.org/wiki/November_18"}
+          ]
+        },
+        {
+          "kicker": "Éphéméride · 18 novembre",
+          "minutes": 2,
+          "title": "Proust, Mickey, Daguerre et douze câbles rompus",
+          "chapo": "Ce que le 18 novembre a laissé dans l'histoire, de Rome à Terre-Neuve. Bonne fête aux Aude.",
+          "body": [
+            "1626 : consécration de la nouvelle basilique Saint-Pierre de Rome, après plus d'un siècle de chantier. 1787 : naissance de Louis Daguerre, peintre de décors et inventeur du daguerréotype, premier procédé photographique diffusé au public. 1803 : bataille de Vertières, dernière grande bataille de la révolution haïtienne ; elle ouvre la voie à la république d'Haïti, première république noire des Amériques.",
+            "1918 : la Lettonie proclame son indépendance. 1922 : mort à Paris de Marcel Proust, à 51 ans ; les derniers volumes d'À la recherche du temps perdu paraîtront après sa mort. 1928 : sortie de Steamboat Willie, premier dessin animé au son entièrement synchronisé, qui fait connaître Mickey.",
+            "1929 : un séisme de magnitude 7,2 au large de Terre-Neuve rompt douze câbles télégraphiques transatlantiques et provoque un tsunami. Les heures de rupture, successives et de plus en plus loin de l'épicentre, permettront plus tard aux géologues de mesurer la vitesse d'une avalanche sous-marine de sédiments, un « courant de turbidité ». 1978 : premier vol du chasseur américain F/A-18 Hornet. 2013 : lancement de la sonde MAVEN de la Nasa, chargée d'étudier comment Mars a perdu son atmosphère."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Wikipédia, 18 novembre", "url": "https://en.wikipedia.org/wiki/November_18"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "De combien de minutes l'heure légale française de 1911 retardait-elle sur l'heure moyenne de Paris ?",
+        "min": 0,
+        "max": 30,
+        "step": 0.1,
+        "unit": "min",
+        "answer": 9.35,
+        "explain": "9 minutes 21 secondes (≈ 9,35 minutes) : l'écart de longitude entre Paris et Greenwich, 2° 20′, multiplié par 4 minutes par degré."
+      },
+      "flashcards": [
+        {"front": "DSO (délai de paiement clients)", "back": "Créances clients ÷ chiffre d'affaires × nombre de jours. Nvidia : 81 Md$ ÷ 116 Md$ × 91 jours ≈ 64 jours."},
+        {"front": "Engagement hors bilan", "back": "Obligation potentielle (garantie, engagement d'achat) qui n'apparaît pas comme une dette mais peut en devenir une. Nvidia garantit 118 Md$ de dettes de tiers."},
+        {"front": "Double charge", "back": "Coût de transition vers la capitalisation : les actifs financent à la fois les pensions en cours et leur propre épargne."},
+        {"front": "Cavalier social", "back": "Disposition d'une loi de financement de la Sécurité sociale sans effet sur ses recettes, ses dépenses ou son organisation ; censurée par le Conseil constitutionnel."},
+        {"front": "Fuseau horaire", "back": "Bande de 15° de longitude, car la Terre tourne de 15° par heure. Un degré de longitude = 4 minutes d'heure solaire."},
+        {"front": "DTMF", "back": "Signalisation téléphonique par deux tonalités simultanées : 4 fréquences basses × 4 hautes = 16 touches. Le « 1 » = 697 Hz + 1 209 Hz."},
+        {"front": "Courant de turbidité", "back": "Avalanche sous-marine d'eau chargée de sédiments. Sa vitesse a été mesurée grâce aux ruptures successives des câbles télégraphiques après le séisme de Terre-Neuve de 1929."}
+      ],
+      "quiz": [
+        {"q": "Que mesure le DSO ?", "choices": ["La marge brute", "Le délai moyen de paiement des clients", "Le rendement du dividende", "La part des ventes à l'étranger"], "answer": 1, "explain": "Le nombre moyen de jours entre la vente et l'encaissement : environ 64 jours chez Nvidia."},
+        {"q": "Quel est, à long terme, le « rendement » d'un système par répartition ?", "choices": ["Le taux de l'OAT", "La croissance de la masse salariale", "L'inflation", "Le rendement des actions"], "answer": 1, "explain": "La croissance du nombre de cotisants et de leurs salaires, qui détermine la capacité à financer les pensions."},
+        {"q": "Pourquoi la condition de cinq ans de la loi immigration a-t-elle été censurée en janvier 2024 ?", "choices": ["Disproportion", "Cavalier législatif", "Défaut de vote", "Contrariété au droit européen"], "answer": 1, "explain": "Comme cavalier : elle était sans lien suffisant avec le texte. La disproportion a été retenue plus tard, sur le projet de référendum."},
+        {"q": "Combien de minutes d'heure solaire correspondent à un degré de longitude ?", "choices": ["1", "4", "15", "60"], "answer": 1, "explain": "24 heures pour 360°, soit 4 minutes par degré."},
+        {"q": "Quelles fréquences produit la touche « 1 » d'un clavier téléphonique ?", "choices": ["440 et 880 Hz", "697 et 1 209 Hz", "941 et 1 633 Hz", "1 000 et 2 000 Hz"], "answer": 1, "explain": "697 Hz (première ligne) et 1 209 Hz (première colonne)."}
+      ]
+    }
+  ]
+}

@@ -95,3 +95,18 @@ Format : date | chapitre | sujet | angle déjà traité
 2026-11-17 | savoirs | VIX (√12, √252) | 
 2026-11-17 | savoirs | Croissance annualisée vs trimestrielle ; spread et renouvellement de la dette | 
 2026-11-17 | savoirs | Éphéméride : Suez 1869, brevet souris 1970, Gary/Ajar 1975, Velours 1989, Gilets jaunes 2018, sainte Élisabeth de Hongrie | 
+2026-11-18 | monde | Nvidia T3 (115,8 Md$, +103 %, guidance 130 Md$, Chine 0) | conseil exclut Huang, comité sécurité nationale, DSO 64 j / créances 81 Md$, engagements 670 Md$, garanties 118 Md$, +3,6 % après-Bourse
+2026-11-18 | monde | Marchés 17/11 : 4e baisse S&P (−1,03 %), Dow −849 | Salesforce −9,45 %, UnitedHealth, Nvidia réduit Intel (214,8→161,1 M), FedWatch 95,4 % ; Anthropic carnet fermé ~7x, prix 18/11, cotation 19/11, 90,4 Md$ à 78 $
+2026-11-18 | monde | Ormuz | 2 pétroliers minés route sud (CGRI) + 1 (marine), UKMTO Khasab, équipage indien évacué par Oman, OMI 136 incidents, frappe US Qeshm, USS Theodore Roosevelt (3 PA), Khor Mor 2,8 GW
+2026-11-18 | monde | Pont de Kertch : arche + travée effondrées | Zelensky revendique (Flamingo, Neptune, Palianytsia, Ruta), Colby critique, ponts Nord/Sud Kyiv, DTEK 700 000 foyers, FMI −0,5/−1 %, Allemagne 300 M$ Patriot
+2026-11-18 | monde | Brefs | APEC Shenzhen ouverte par Xi (IA, commerce), COP31 projet 18 p. (net zéro 2030 pays riches, Hoekstra, GIEC/Arabie), Deutsche Bank −6 % (enquête clientèle russe), Houthis oléoduc Est-Ouest
+2026-11-18 | france | Grève 17/11 bilan | 146 000 / 500 000, État < 3 %, territoriale 1,96 %, hospitalière 3,93 %, 660 000 agents sous Smic, Interfac 26/11
+2026-11-18 | france | Réforme retraites RN (détails) | 60-62 ans, décote 5 %/trim. plafond 50 %, plancher 160 trimestres, capitalisation 900 Md€, coût brut 18,6 Md€, solde +4,7 Md€, référendum
+2026-11-18 | france | Prévisions Commission automne | France 0,4 % / 0,6 % (dernière zone euro), chômage 9,2 % 2027, déficit 5,5/5,4 %, dette 123,2 % 2028, intérêts 3,3 % PIB
+2026-11-18 | france | PLFSS Sénat article 37 | 1 an de résidence prestations familiales hors UE, 206-132, économies 1,8 M€ + 60 M€, vote solennel 18/11
+2026-11-18 | france | Bourse Paris 17/11 | CAC 8 217 (−1,62 %), Hermès −5,1 %, Dassault Systèmes objectifs 2029, Vusion/Pricer 88 M€
+2026-11-18 | savoirs | DSO / financement fournisseur / hors bilan (Lucent, Nortel) | 
+2026-11-18 | savoirs | Répartition vs capitalisation, double charge | 
+2026-11-18 | savoirs | Cavalier social / proportionnalité (CC 2024) | 
+2026-11-18 | savoirs | Heure ferroviaire 1883, Paris −9 min 21 s, DTMF 1963, Goertzel | 
+2026-11-18 | savoirs | Éphéméride : Saint-Pierre 1626, Daguerre, Vertières, Lettonie, Proust, Steamboat Willie, Terre-Neuve 1929, MAVEN ; sainte Aude | 
