@@ -110,3 +110,19 @@ Format : date | chapitre | sujet | angle déjà traité
 2026-11-18 | savoirs | Cavalier social / proportionnalité (CC 2024) | 
 2026-11-18 | savoirs | Heure ferroviaire 1883, Paris −9 min 21 s, DTMF 1963, Goertzel | 
 2026-11-18 | savoirs | Éphéméride : Saint-Pierre 1626, Daguerre, Vertières, Lettonie, Proust, Steamboat Willie, Terre-Neuve 1929, MAVEN ; sainte Aude | 
+2026-11-19 | monde | Anthropic prix 83 $ (fourchette 70-78) | 1 500 Md$ dilué, ~81 Md$ (NPR/CNBC) vs SpaceX 75/86,2, placement 26 Md$, cofondateurs 3,4 M actions/282 M$, Amazon 15 %, Google 14 %, S1 16,3 Md$ CA / perte 80,7 Md$
+2026-11-19 | monde | Marchés 18/11 : S&P −0,23 % (5e baisse, sous MM200), Dow −561, Nvidia −2,9 % (150,96, marge 71-72 %, Rene Haas), UNH/Humana Medicare Advantage, dollar 19 mois | minutes Fed : 10-2 (Cook, Hammack), « presque tous » hausses, PCE 3,6/3,1, dette IA hors bilan
+2026-11-19 | monde | Shenzhen trilatérale (agenda) | règle licences puces 5 pays, Chine « contre-mesures », Megaspeed, Ouchakov, trêve 10/01
+2026-11-19 | monde | Ormuz | navire Adnoc L&S (1 disparu, 11 blessés), TARA GAS, Centcom blocus étendu aux transbordements, PortWatch 2 vs 85 passages
+2026-11-19 | monde | Ukraine : sommet Berlin 19/11 | 70 Md€ manque, prêt UE 45 Md€, Burnham 1 000 drones, Colby vs Pistorius « stupide », Streeting, Ilsky/Afipsky, Norvège PURL 300 M$, Suède 720 M SEK, AIEA adjoint russe
+2026-11-19 | monde | Brefs | COP31 dernier jour 20/11, Bowen nouveau projet, Hoekstra, AOSIS/GIEC
+2026-11-19 | france | PLFSS adopté au Sénat 201-124-15 | gel pensions supprimé (4 Md€, abattement 10 %), réforme 2023 rétablie (600 M€), allègements 1/04, CNRACL 400 M€, taxe sucres, déficit 14 Md€, CMP 26/11
+2026-11-19 | france | Manif retraités 19/11 | 9 organisations (sans CFDT/FO), seuils 1 260/2 034 €, CGT 28/35/18 %, exemple 126/306 €, enquête Unsa
+2026-11-19 | france | Tondelier prête à coalition Mélenchon | 86 % amendements, 4 conditions, vote 10-13/12
+2026-11-19 | france | Loi logement Jeanbrun | art. 4 adopté 124-34, 400 000 logts, Anru 3 5 Md€, DPE F/G assoupli, vote 24/11
+2026-11-19 | france | Bourse 18/11 | CAC 8 147 (−0,85 %), Alstom perte 954 M€ / dette 1,1 Md€ / AK probable, Accor-Ennismore, Eutelsat ; loi fin de gestion Sénat 228-109 (0,5 %, 5,4 %, 119,4 %)
+2026-11-19 | savoirs | Règle de Taylor / principe de Taylor | 
+2026-11-19 | savoirs | BLEVE / GPL (Feyzin 1966, San Juanico 1984) | 
+2026-11-19 | savoirs | Arsenaux nucléaires SIPRI 2025, New START | 
+2026-11-19 | savoirs | PER vs multiple de ventes | 
+2026-11-19 | savoirs | Éphéméride : Gettysburg, Apollo 12 foudre, Pelé 1000e but ; saint Tanguy | 

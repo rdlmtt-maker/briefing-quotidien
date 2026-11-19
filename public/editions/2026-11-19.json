@@ -1,0 +1,779 @@
+{
+ "date": "2026-11-19",
+ "weekday": "jeudi",
+ "saint": "Saint Tanguy",
+ "headline": "Anthropic entre en Bourse à 1 500 milliards de dollars, la Fed prépare de nouvelles hausses, et le Sénat refuse le gel des pensions.",
+ "chapters": [
+  {
+   "id": "monde",
+   "name": "Monde",
+   "minutes": 11,
+   "lede": [
+    "Anthropic a fixé hier soir le prix de son introduction en Bourse à 83 dollars par action, au-dessus de la fourchette annoncée. La société est valorisée environ 1 500 milliards de dollars et commence à coter aujourd'hui sur le Nasdaq.",
+    "Wall Street n'a pas suivi : Nvidia a perdu 2,9 % malgré un trimestre record, le Dow Jones 561 points, et le compte rendu de la Fed confirme que presque tous les responsables envisagent de nouvelles hausses de taux.",
+    "Trump, Xi et Poutine se retrouvent aujourd'hui à Shenzhen pendant que trente dirigeants européens se réunissent à Berlin avec Zelensky. À Ormuz, un navire émirati a été frappé et Washington étend son blocus aux transbordements en mer."
+   ],
+   "articles": [
+    {
+     "kicker": "Intelligence artificielle · Bourse",
+     "minutes": 3,
+     "title": "Anthropic à 83 dollars : la plus grosse introduction en Bourse de l'histoire",
+     "chapo": "Le créateur de Claude a fixé son prix au-dessus de la fourchette de 70 à 78 dollars. Valorisation : environ 1 500 milliards de dollars. Première cotation ce jeudi sur le Nasdaq, sous le symbole ANT.",
+     "body": [
+      "Le prix a été arrêté mercredi soir à 83 dollars par action, selon Reuters, Bloomberg et CNBC, cités par plusieurs médias. La fourchette indicative, publiée au lancement de la tournée de présentation aux investisseurs la semaine dernière, allait de 70 à 78 dollars. À ce prix, Anthropic vaut environ 1 500 milliards de dollars sur une base entièrement diluée, contre 965 milliards lors de sa dernière levée privée, en mai, où elle avait réuni 65 milliards.",
+      "Le projet initial portait sur 825 millions d'actions, dont environ 801 millions émises par la société et le reste vendu par des actionnaires existants. À 83 dollars, ce volume aurait rapporté environ 68,5 milliards de dollars. Bloomberg et Reuters ont rapporté que l'offre serait augmentée face à la demande ; NPR et CNBC chiffrent la levée à environ 81 milliards de dollars, ce qui dépasserait le record établi en juin par SpaceX (75 milliards de dollars hors surallocation, environ 86,2 milliards avec). S'y ajoute un placement privé de 26 milliards de dollars en actions sans droit de vote, souscrit par AMD, Broadcom, Google, Micron, Microsoft, Nvidia et TSMC.",
+      "Le prospectus révèle aussi qui vend. Les sept cofondateurs, dont le directeur général Dario Amodei, cèdent chacun près de 3,4 millions d'actions, soit environ 282 millions de dollars par personne selon TechCrunch. Amazon détiendrait près de 15 % du capital et Google près de 14 %. Aucun fonds de capital-risque ne dépasse 5 %. Après l'opération, les cofondateurs conserveront 50,1 % des droits de vote grâce à des actions à droits multiples.",
+      "Les comptes publiés en octobre donnent l'ordre de grandeur : 16,3 milliards de dollars de chiffre d'affaires au premier semestre, environ quatorze fois plus qu'un an plus tôt, pour une perte nette de 80,7 milliards, dont une charge comptable exceptionnelle de 72,4 milliards liée à des accords de financement. La trésorerie atteignait 131,7 milliards fin juin. Environ 250 clients paient plus de 10 millions de dollars par an, et les cinq premiers pèsent environ un quart des ventes. OpenAI, dernière valorisation connue à 1 250 milliards, n'a pas annoncé de calendrier."
+     ],
+     "critique": "Six Heures est rédigé avec Claude, le modèle d'Anthropic : lisez cet article en gardant ce lien en tête. Sur le fond, 1 500 milliards de dollars représentent environ 46 fois le chiffre d'affaires semestriel multiplié par deux. Ce prix suppose que la croissance dure des années et que les coûts de calcul baissent, deux paris. La concentration des clients (un quart des ventes chez cinq d'entre eux), le poids d'Amazon et de Google, à la fois actionnaires, fournisseurs de calcul et concurrents, et des droits de vote verrouillés par les fondateurs limitent ce que les nouveaux actionnaires pourront peser. Enfin, le premier cours coté ne dit rien de la valeur dans trois ans.",
+     "sources": [
+      {
+       "label": "Motley Fool, prix d'introduction d'Anthropic",
+       "url": "https://www.fool.com/investing/2026/11/18/it-s-official-anthropic-prices-its-ipo-at-usd83-a-share-here-s-what-we-know-and-what-we-don-t/"
+      },
+      {
+       "label": "TechCrunch, Anthropic à 83 dollars",
+       "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+      },
+      {
+       "label": "Fortune, valorisation de 1 500 milliards",
+       "url": "https://fortune.com/2026/11/18/anthropic-prices-ipo-83-per-share-1-5-trillion/"
+      },
+      {
+       "label": "NPR, une levée record de 81,3 milliards",
+       "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price"
+      },
+      {
+       "label": "Fast Company / AP, les chiffres du prospectus",
+       "url": "https://fastcompany.com/91630606/biggest-stock-listing-ever-look-anthropics-ipo-numbers"
+      }
+     ]
+    },
+    {
+     "kicker": "Marchés · Fed",
+     "minutes": 3,
+     "title": "Nvidia recule malgré le record, la Fed prépare le terrain pour décembre",
+     "chapo": "Cinquième baisse d'affilée du S&P 500, qui passe sous sa moyenne mobile de 200 jours. Le compte rendu de la Fed indique que presque tous ses membres jugent de nouvelles hausses probablement appropriées.",
+     "body": [
+      "Mercredi, le S&P 500 a perdu 0,23 %, à 7 323,63 points, et le Dow Jones 1,11 % (−561 points), à 50 198. Le Nasdaq a gagné 0,42 %, à 24 430. Le S&P 500 est passé sous sa moyenne des 200 dernières séances, un seuil que suivent de nombreux gérants pour juger de la tendance de fond. Le dollar a atteint son plus haut niveau depuis dix-neuf mois ; l'euro est tombé à 1,0966 dollar.",
+      "Nvidia a clôturé à 150,96 dollars, en baisse de 2,9 %, son plus bas niveau depuis juin 2025. Le titre avait pourtant ouvert en hausse de 2,2 % après un chiffre d'affaires de 115,8 milliards de dollars. Entre le pic de l'avant-Bourse et la clôture, environ 216 milliards de dollars de capitalisation se sont évaporés. Le site Techi relève que, sur les dix dernières publications, l'action a fini sous son cours d'ouverture le lendemain neuf fois. Deux détails ont pesé : la marge brute prévue retombe à 71-72 %, contre 74,8 %, et le trimestre en cours compte quatorze semaines, ce qui gonfle la prévision de 130 milliards. Selon Bloomberg, le cabinet chargé de trouver un nouveau patron a contacté Rene Haas, directeur général d'Arm. AMD a gagné 5,3 % et Broadcom 3,6 %.",
+      "La séance a aussi été marquée par la santé : UnitedHealth a chuté d'environ 10 % et Humana d'environ 13 % après un projet fédéral d'audits élargis du programme Medicare Advantage, avec récupération de paiements indus remontant à 2018. TJX a gagné 8 % sur des ventes meilleures que prévu. L'or a fortement reculé, autour de 3 730 dollars l'once, et le bitcoin est retombé vers 62 700 dollars.",
+      "Le compte rendu de la réunion des 27 et 28 octobre, publié à 20 heures (heure de Paris), confirme le virage. La Fed avait maintenu ses taux entre 3,75 % et 4 % par 10 voix contre 2 ; Lisa Cook et Beth Hammack voulaient déjà une hausse d'un quart de point. « Presque tous » les participants jugent qu'un nouveau relèvement sera « probablement approprié » ; quelques-uns évoquent une hausse de plus d'un quart de point si les données d'inflation sont mauvaises. L'inflation PCE atteignait 3,6 % en septembre (3,1 % hors énergie et alimentation), le chômage 4,2 %. Les services de la Fed s'inquiètent de la croissance rapide de la dette liée à l'IA, notamment de la location hors bilan et des financements circulaires, qui pourraient amplifier les pertes si les rendements de l'IA déçoivent. Prochaine réunion : 8 et 9 décembre."
+     ],
+     "critique": "La Fed décrit elle-même la contradiction dans laquelle se trouvent les marchés : l'investissement dans l'IA soutient la croissance et l'inflation, donc les taux, mais des taux plus hauts renchérissent la dette qui finance ce même investissement. Le compte rendu reflète l'information disponible fin octobre, avant la démission de Jensen Huang et la nouvelle règle sur les puces. Quant à la moyenne de 200 jours, c'est un indicateur suivi parce qu'il est suivi : il ne prédit rien à lui seul.",
+     "sources": [
+      {
+       "label": "Yahoo Finance / Motley Fool, séance du 18/11",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-18-230002098.html"
+      },
+      {
+       "label": "Techi, Nvidia recule après ses résultats",
+       "url": "https://www.techi.com/nvidia-stock-falls-day-after-earnings-ten-report-record/"
+      },
+      {
+       "label": "Réserve fédérale, compte rendu du FOMC des 27-28 octobre",
+       "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
+      },
+      {
+       "label": "BFM Bourse, clôture du CAC 40",
+       "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-les-resultats-tonitruants-de-nvidia-ne-suffisent-pas-a-apaiser-wall-street-le-cac-40-termine-en-nette-baisse-1174041.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Diplomatie · Chine",
+     "minutes": 3,
+     "title": "Shenzhen : Trump, Xi et Poutine à la même table, les puces au menu",
+     "chapo": "Rare rencontre à trois entre les dirigeants des trois premières puissances nucléaires. À l'ordre du jour : armes nucléaires, Iran, intelligence artificielle, commerce, et sans doute l'Ukraine et Taïwan.",
+     "body": [
+      "Donald Trump est arrivé mercredi en Chine. Après une photo de groupe et un banquet de bienvenue à l'APEC, où on l'a vu serrer la main de Vladimir Poutine à côté de Xi Jinping, la rencontre à trois doit se tenir ce jeudi à Shenzhen, que CBS décrit comme la capitale de l'industrie technologique chinoise. Aucun horaire n'a été rendu public.",
+      "Trump dit vouloir parler de dénucléarisation : les trois pays détiennent les trois plus grands arsenaux du monde. Il doit aussi aborder l'Iran, dont la Chine est un grand acheteur de pétrole et la Russie un partenaire. La Maison-Blanche avait exclu l'Ukraine faute de représentant ukrainien, mais Trump a déclaré lundi s'attendre à ce que le sujet vienne, le qualifiant de « mon sujet préféré ». Sur Taïwan : « Je suis sûr qu'il l'abordera. » La trêve commerciale de 2025 expire le 10 janvier. Trump doit aussi demander la libération de deux Américains détenus en Chine.",
+      "Les puces risquent d'électriser la rencontre. Lundi, le département du Commerce a imposé une licence pour exporter les puces d'IA les plus avancées vers Singapour, la Malaisie, la Thaïlande, l'Indonésie et le Brésil, afin d'empêcher des entreprises chinoises de les louer à l'heure dans des centres de données étrangers. Le ministère chinois du Commerce a répondu mardi : « Si les États-Unis persistent, la Chine prendra des contre-mesures. » Il juge que ces règles contredisent les accords conclus entre Xi et Trump. En toile de fond : l'enquête sur Megaspeed, l'entreprise d'Alice Huang soupçonnée d'avoir détourné des puces Nvidia vers la Chine. Pékin parle de « spéculations sans fondement ».",
+      "Côté russe, le conseiller diplomatique du Kremlin, Iouri Ouchakov, a présenté le sommet de Shenzhen comme « l'essentiel », reléguant au second plan la réunion de Berlin. Les deux pays ont aussi évoqué un canal de communication pour les systèmes d'IA qui dysfonctionnent, selon CBS. Al Jazeera fait état d'attentes modestes."
+     ],
+     "critique": "Un sommet à trois favorise les annonces symboliques plus que les accords vérifiables. Sur le nucléaire, la Chine refuse depuis des années de négocier des plafonds tant que son arsenal reste dix fois plus petit que ceux de Washington et Moscou. Sur les puces, Washington durcit les règles au moment même où il négocie : soit c'est un levier, soit c'est un signal de méfiance, et Pékin peut lire les deux. L'absence de l'Ukraine et de l'Europe dans la salle, elle, est un fait.",
+     "sources": [
+      {
+       "label": "CBS News, sommet de Shenzhen",
+       "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+      },
+      {
+       "label": "Al Jazeera, direct APEC",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit"
+      },
+      {
+       "label": "The Next Web, Pékin menace de contre-mesures",
+       "url": "https://thenextweb.com/news/china-warns-us-of-countermeasures-over-new-ai-chip-remote-access-curbs"
+      },
+      {
+       "label": "AFP via Yahoo, sommet de Berlin",
+       "url": "https://www.yahoo.com/news/politics/articles/ukraines-allies-meet-berlin-trump-025206417.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Iran · Golfe",
+     "minutes": 2,
+     "title": "Ormuz : un navire émirati frappé, le blocus américain s'étend aux transbordements",
+     "chapo": "Un marin disparu et onze blessés sur un navire d'Adnoc L&S. La Navy prévient que les navires qui reçoivent en mer des cargaisons iraniennes pourront être arraisonnés.",
+     "body": [
+      "La compagnie maritime émiratie Adnoc L&S a confirmé mercredi qu'un de ses navires avait été attaqué mardi soir en traversant le détroit d'Ormuz. Un membre d'équipage est porté disparu, onze sont blessés et le reste de l'équipage a été évacué. Aucune revendication n'a été publiée. Le gazier TARA GAS, battant pavillon panaméen, a lui aussi été frappé à plusieurs reprises ; un marin indien est porté disparu. Les médias d'État iraniens affirment que trois pétroliers ont pris feu après avoir heurté des mines dans l'est du détroit, ce qu'aucune autorité maritime n'a confirmé.",
+      "Le Commandement central américain (Centcom) a publié mercredi un avis : un navire qui reçoit, par transbordement en mer, une cargaison chargée dans un port iranien peut désormais être « arrêté, abordé, dérouté, saisi » ou renvoyé vers le port d'origine, même s'il n'est jamais entré dans les eaux iraniennes. Le blocus, imposé le 13 avril, levé en juin puis rétabli le 14 juillet, ne visait jusqu'ici que les navires liés directement à l'Iran. Selon des sources de Reuters, l'Iran avait continué d'exporter du GPL et du carburéacteur depuis juillet.",
+      "Le trafic reste quasi nul. Selon le suivi PortWatch du FMI, seuls deux passages ont été enregistrés le 15 novembre, contre 85 par jour avant la crise. Plus de quarante navires attendent au large. Le Brent a pourtant reculé de 1,7 %, à 91,56 dollars, le marché restant dominé par l'excédent mondial prévu par l'Agence internationale de l'énergie."
+     ],
+     "critique": "Les bilans viennent de sources qui ont chacune intérêt à les présenter à leur façon : l'Iran revendique des mines pour montrer qu'il contrôle le détroit, Washington communique sur le blocus pour montrer qu'il étrangle les revenus iraniens. Le prix du pétrole, lui, raconte une troisième histoire : un marché qui a appris à vivre sans Ormuz, au prix de stocks puisés et de routes détournées.",
+     "sources": [
+      {
+       "label": "The National, navire d'Adnoc L&S attaqué",
+       "url": "https://www.thenationalnews.com/business/energy/2026/11/18/adnoc-ls-ship-attacked-at-strait-of-hormuz-with-one-crew-member-missing/"
+      },
+      {
+       "label": "gCaptain / Reuters, blocus étendu aux transbordements",
+       "url": "https://gcaptain.com/u-s-targets-ship-to-ship-transfers-in-expanded-iran-maritime-blockade/"
+      },
+      {
+       "label": "Straits Daily Brief, 18/11",
+       "url": "https://straits.live/briefs/2026-11-18"
+      },
+      {
+       "label": "BFM Bourse, clôture du CAC 40",
+       "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-les-resultats-tonitruants-de-nvidia-ne-suffisent-pas-a-apaiser-wall-street-le-cac-40-termine-en-nette-baisse-1174041.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Ukraine · Europe",
+     "minutes": 2,
+     "title": "Berlin répond à Shenzhen, Pistorius répond au Pentagone",
+     "chapo": "Plus de trente dirigeants européens se réunissent ce jeudi à Berlin avec Zelensky et les émissaires américains. La veille, le ministre allemand de la Défense a qualifié de « stupide » la critique américaine des frappes ukrainiennes.",
+     "body": [
+      "La « coalition des volontaires » se réunit à Berlin à l'invitation de l'Allemagne, de la France et du Royaume-Uni, quelques heures après le sommet de Shenzhen. Volodymyr Zelensky, Ursula von der Leyen et les émissaires américains Jared Kushner et Steve Witkoff sont attendus. L'objectif : peser sur la négociation et obtenir des garanties de sécurité pour l'après-guerre. Le chancelier Friedrich Merz veut que les Vingt-Sept financent l'Ukraine, à qui il manque 70 milliards d'euros l'an prochain ; la Commission a proposé mercredi un prêt supplémentaire de 45 milliards. Le Premier ministre britannique Andy Burnham doit annoncer plus de mille drones de frappe à longue portée, certains capables de dépasser 1 000 km.",
+      "Le contexte est tendu avec Washington. Elbridge Colby, numéro trois du Pentagone, a estimé lors d'une réunion à l'OTAN que les frappes ukrainiennes en profondeur avaient « probablement durci la détermination » de l'opinion russe, citant les entrepôts de Wildberries. Boris Pistorius a répondu que c'était « une chose assez stupide » : il faudrait plutôt parler des frappes russes « terroristes » sur l'énergie, l'eau et le chauffage ukrainiens. Le ministre britannique de la Défense, Wes Streeting, estime que ces frappes « dégradent la machine de guerre de Poutine ».",
+      "Sur le terrain, les raffineries d'Ilsky et d'Afipsky, dans la région de Krasnodar, ont de nouveau été touchées dans la nuit de mardi à mercredi. La Norvège versera 300 millions de dollars au mécanisme PURL de l'OTAN, qui achète des armes américaines pour Kyiv, et la Suède 720 millions de couronnes (environ 71 millions de dollars). Kyiv proteste contre le projet du directeur de l'AIEA de nommer un adjoint russe visé par des sanctions."
+     ],
+     "critique": "Le sommet de Berlin se tient après celui de Shenzhen : l'ordre dit déjà qui fixe l'agenda. Les promesses européennes se mesurent en milliards, mais le besoin le plus urgent de l'Ukraine se mesure en intercepteurs Patriot, que l'Europe ne fabrique pas et que la guerre au Moyen-Orient rend rares.",
+     "sources": [
+      {
+       "label": "AFP via Yahoo, sommet de Berlin",
+       "url": "https://www.yahoo.com/news/politics/articles/ukraines-allies-meet-berlin-trump-025206417.html"
+      },
+      {
+       "label": "Meduza, Pistorius contre Colby",
+       "url": "https://meduza.io/en/news/2026/11/18/quite-a-stupid-thing-german-defense-minister-rejects-u-s-criticism-of-ukraine-s-strikes-deep-inside-russia"
+      },
+      {
+       "label": "Kyiv Independent, fil du 18/11",
+       "url": "https://kyivindependent.com/"
+      }
+     ]
+    },
+    {
+     "kicker": "En bref",
+     "minutes": 1,
+     "title": "COP31 : dernier jour vendredi, le texte divise toujours",
+     "chapo": "La conférence d'Antalya doit se terminer le 20 novembre. Les décisions s'y prennent par consensus.",
+     "body": [
+      "Le projet de décision de 18 pages présenté lundi par l'Australie, qui copilote la conférence, demande la sortie des énergies fossiles et la neutralité carbone des pays riches dès 2030. Le ministre australien Chris Bowen reconnaît des éléments « sur lesquels toutes les parties ne s'accordent pas » et annonce « au moins un nouveau projet » avant la fin de la semaine. Le commissaire européen Wopke Hoekstra juge que le texte rend la négociation « intenable ». La présidente de l'Alliance des petits États insulaires, Ilana Seid, dénonce les retards de publication du septième rapport du GIEC, dont la prochaine session est prévue en décembre."
+     ],
+     "critique": "Les COP finissent souvent après la date prévue, et un seul pays peut bloquer le texte final : le vrai résultat ne sera connu que ce week-end.",
+     "sources": [
+      {
+       "label": "Al Jazeera, tensions sur le projet de COP31",
+       "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31"
+      }
+     ]
+    }
+   ],
+   "board": [
+    {
+     "label": "S&P 500",
+     "value": "7 324",
+     "change": -0.23
+    },
+    {
+     "label": "Nasdaq",
+     "value": "24 430",
+     "change": 0.42
+    },
+    {
+     "label": "Dow Jones",
+     "value": "50 198",
+     "change": -1.11
+    },
+    {
+     "label": "CAC 40",
+     "value": "8 147",
+     "change": -0.85
+    },
+    {
+     "label": "Bitcoin",
+     "value": "≈62 700 $",
+     "change": -3.17
+    },
+    {
+     "label": "Or (once)",
+     "value": "≈3 730 $",
+     "change": -3.5
+    },
+    {
+     "label": "Brent (baril)",
+     "value": "91,6 $",
+     "change": -1.7
+    },
+    {
+     "label": "WTI (baril)",
+     "value": "83,4 $",
+     "change": -3.0
+    }
+   ],
+   "boardNote": "Clôtures du mercredi 18 novembre (Brent et WTI à la clôture de Paris ; or et bitcoin selon Yahoo Finance et Motley Fool, les sources divergent pour l'or). Taux américain à 10 ans : environ 5,07 % ; euro à 1,0966 dollar ; dollar au plus haut depuis 19 mois. À suivre aujourd'hui : première cotation d'Anthropic (ANT), sommet Trump-Xi-Poutine à Shenzhen, réunion de Berlin sur l'Ukraine, résultats de Walmart.",
+   "estimate": {
+    "question": "À quel prix par action Anthropic a-t-il fixé son introduction en Bourse ?",
+    "min": 0,
+    "max": 150,
+    "step": 1,
+    "unit": "$",
+    "answer": 83,
+    "explain": "83 dollars, au-dessus de la fourchette de 70 à 78 dollars, soit une valorisation d'environ 1 500 milliards de dollars."
+   },
+   "flashcards": [
+    {
+     "front": "Base entièrement diluée",
+     "back": "Calcul de la valeur d'une société qui compte toutes les actions qui pourraient exister : actions émises, options, actions gratuites promises aux salariés. Anthropic : environ 1 500 milliards de dollars à 83 dollars."
+    },
+    {
+     "front": "Placement privé concomitant",
+     "back": "Vente d'actions à des investisseurs choisis en même temps que l'introduction en Bourse. Anthropic : 26 milliards de dollars d'actions sans droit de vote à AMD, Broadcom, Google, Micron, Microsoft, Nvidia et TSMC."
+    },
+    {
+     "front": "Moyenne mobile à 200 jours",
+     "back": "Moyenne des 200 derniers cours de clôture, recalculée chaque jour. Un indice qui passe dessous est souvent lu comme un affaiblissement de la tendance de fond ; le S&P 500 l'a franchie mercredi."
+    },
+    {
+     "front": "Compte rendu du FOMC",
+     "back": "Résumé détaillé des débats du comité de politique monétaire de la Fed, publié trois semaines après chaque décision. Celui du 18 novembre : presque tous les membres jugent de nouvelles hausses probablement appropriées."
+    },
+    {
+     "front": "Transbordement (ship-to-ship)",
+     "back": "Transfert de cargaison d'un navire à un autre en pleine mer, souvent utilisé pour masquer l'origine du pétrole. Les navires qui en reçoivent de l'Iran peuvent désormais être arraisonnés par la marine américaine."
+    },
+    {
+     "front": "PURL",
+     "back": "Prioritised Ukraine Requirements List : mécanisme de l'OTAN par lequel des alliés financent l'achat d'armes américaines pour l'Ukraine. La Norvège vient d'y ajouter 300 millions de dollars."
+    },
+    {
+     "front": "Medicare Advantage",
+     "back": "Version privée de l'assurance maladie publique américaine des plus de 65 ans, gérée par des assureurs comme UnitedHealth ou Humana. Un projet d'audits élargis a fait chuter leurs actions de 10 à 13 %."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Quelle était la fourchette indicative de l'introduction d'Anthropic ?",
+     "choices": [
+      "50-60 $",
+      "60-70 $",
+      "70-78 $",
+      "80-90 $"
+     ],
+     "answer": 2,
+     "explain": "70 à 78 dollars ; le prix final de 83 dollars se situe au-dessus."
+    },
+    {
+     "q": "Comment l'action Nvidia a-t-elle fini la séance qui a suivi son trimestre record ?",
+     "choices": [
+      "+5,3 %",
+      "+0,4 %",
+      "−2,9 %",
+      "−10 %"
+     ],
+     "answer": 2,
+     "explain": "−2,9 %, à 150,96 dollars, après une ouverture en hausse de 2,2 %. C'est AMD qui a gagné 5,3 %."
+    },
+    {
+     "q": "Quelle est la fourchette actuelle des taux directeurs américains ?",
+     "choices": [
+      "3,25-3,5 %",
+      "3,75-4 %",
+      "4,25-4,5 %",
+      "5-5,25 %"
+     ],
+     "answer": 1,
+     "explain": "3,75 % à 4 %, maintenue fin octobre par 10 voix contre 2."
+    },
+    {
+     "q": "Vers quels pays la nouvelle règle américaine impose-t-elle une licence pour les puces d'IA avancées ?",
+     "choices": [
+      "Japon, Corée, Taïwan",
+      "Singapour, Malaisie, Thaïlande, Indonésie, Brésil",
+      "Inde, Vietnam, Mexique",
+      "Émirats, Arabie saoudite, Qatar"
+     ],
+     "answer": 1,
+     "explain": "Ces cinq pays, où des entreprises chinoises louaient à l'heure des puces Nvidia dans des centres de données."
+    },
+    {
+     "q": "Combien de navires traversaient Ormuz chaque jour avant la crise, selon PortWatch ?",
+     "choices": [
+      "Environ 15",
+      "Environ 40",
+      "Environ 85",
+      "Environ 200"
+     ],
+     "answer": 2,
+     "explain": "Environ 85 par jour, contre deux seulement le 15 novembre."
+    }
+   ]
+  },
+  {
+   "id": "france",
+   "name": "France",
+   "minutes": 10,
+   "lede": [
+    "Le Sénat a adopté hier le budget de la Sécurité sociale pour 2027, par 201 voix contre 124. Il supprime le gel partiel des pensions et rétablit la réforme des retraites de 2023, ce que le gouvernement combat.",
+    "Les retraités manifestent ce jeudi à Paris à l'appel de neuf organisations. Marine Tondelier se dit « prête » à une coalition autour de Jean-Luc Mélenchon.",
+    "À l'Assemblée, les députés ont voté l'avantage fiscal du dispositif « Relance logement ». À la Bourse, Alstom a chuté de plus de 7 % après une perte de 954 millions d'euros."
+   ],
+   "articles": [
+    {
+     "kicker": "Parlement · Sécurité sociale",
+     "minutes": 3,
+     "title": "Le Sénat adopte un budget de la Sécu qu'il a profondément réécrit",
+     "chapo": "Pensions protégées, réforme de 2023 rétablie, allègements de cotisations repoussés : la majorité sénatoriale a voté sa propre version, à 14 milliards d'euros de déficit. Rendez-vous en commission mixte paritaire le 26 novembre.",
+     "body": [
+      "Après six jours de débats, du 9 au 17 novembre, le Sénat a adopté mercredi le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 par 201 voix contre 124, avec 15 abstentions. Les trois groupes de gauche, le groupe RN-UDR et une grande partie du RDSE ont voté contre. L'Assemblée nationale ayant rejeté le texte en octobre, les sénateurs sont repartis de la version du gouvernement.",
+      "La mesure la plus visible concerne les retraités. Le gouvernement voulait ne revaloriser à l'inflation que les pensions de base des retraités touchant moins de 1 260 euros par mois. Le Sénat a supprimé cet article, ce qui coûte environ 4 milliards d'euros. Pour compenser, il propose de supprimer l'abattement fiscal de 10 % pour frais professionnels dont bénéficient les retraités, mesure qui relève du budget de l'État ; le gouvernement ne s'y est pas opposé. Le Sénat a aussi rétabli la réforme des retraites de 2023, dont la suspension avait été votée l'an dernier, pour une économie attendue de 600 millions d'euros en 2027. Le gouvernement y est fermement opposé.",
+      "D'autres changements pèsent sur l'équilibre. La réforme du calcul des allègements généraux de cotisations patronales, qui devait rapporter 3,7 milliards d'euros, est repoussée au 1er avril. La hausse des cotisations retraite des collectivités et des hôpitaux (CNRACL) est adoucie, pour 400 millions d'euros. La taxe sur les complémentaires santé, qui rapporte 1,1 milliard, n'est pas reconduite. En revanche, le Sénat a voté une taxe sur les aliments transformés contenant sucres ajoutés et additifs, une taxe sur les sucres ajoutés dans les aliments pour bébés, et la pénalité pour rendez-vous médical non honoré.",
+      "Résultat : le déficit prévu passe de 12,7 milliards d'euros dans le texte du gouvernement à 14 milliards, contre 21,8 milliards attendus en 2026. Une commission mixte paritaire réunira sept députés et sept sénateurs le 26 novembre ; Public Sénat juge un accord « peu probable ». Même en cas d'accord, rien ne garantit l'adoption à l'Assemblée : en 2024, un compromis similaire avait été suivi de la censure du gouvernement Barnier. Le gouvernement garde la possibilité du 49.3 ou des ordonnances."
+     ],
+     "critique": "Le vote du Sénat est un message plus qu'une loi. Rétablir la réforme de 2023 alors que l'Assemblée l'a suspendue assure un désaccord en commission mixte paritaire. Et compenser le dégel des pensions par la suppression de l'abattement de 10 % revient à faire payer les retraités autrement : ceux qui sont imposables perdraient l'abattement, ceux qui ne le sont pas gagneraient le dégel. Le Sénat affiche un déficit plus élevé sans dire comment le combler à moyen terme.",
+     "sources": [
+      {
+       "label": "Public Sénat, ce que le Sénat a changé au PLFSS",
+       "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-les-modifications-a-retenir-apres-le-passage-du-projet-de-loi-au-senat"
+      },
+      {
+       "label": "Actu Alt+, pourquoi les retraités manifestent",
+       "url": "https://www.actu-alt-plus.com/idees-solutions/pourquoi-retraites-manifestent-19-novembre-gel-pensions/42849/"
+      }
+     ]
+    },
+    {
+     "kicker": "Social · Retraites",
+     "minutes": 2,
+     "title": "Les retraités dans la rue contre le gel des pensions",
+     "chapo": "Neuf organisations appellent à manifester ce jeudi à Paris, de Montparnasse aux Invalides. La CFDT et FO ne sont pas dans le cortège.",
+     "body": [
+      "Six syndicats (FSU, CGT, CFE-CGC, Unsa, Solidaires et CFTC) et trois associations (FGR, LSR, Ensemble et Solidaires) appellent à un rassemblement à 11 heures sur le parvis de la gare Montparnasse, avant un défilé vers la place Vauban. L'Unsa demande une revalorisation « a minima au niveau de l'inflation au 1er janvier 2027 » et une retraite minimale au niveau du Smic ; la CGT réclame le rattrapage des pertes depuis 2017.",
+      "Le dispositif contesté, l'article 35 du projet initial, créait trois étages : revalorisation à l'inflation (1,7 % retenu) sous 1 260 euros de pension totale, taux réduit fixé par décret entre 1 260 et 2 034 euros, gel possible au-delà. Selon la CGT, 28 % des retraités sont sous le premier seuil, 35 % entre les deux et 18 % au-dessus du second. Pour une pension de base de 1 500 euros, la perte sur 2027 serait de 126 euros avec une hausse de 1 %, et de 306 euros en cas de gel. Le gouvernement en attendait 4,1 milliards d'euros d'économies.",
+      "Le vote du Sénat a supprimé ce mécanisme, mais il n'est pas définitif. Une enquête de l'Unsa auprès de 2 670 retraités indique que 45 % de ceux qui touchent moins de 1 400 euros disent avoir du mal à remplir leur réfrigérateur, et sept sur dix ont renoncé à des soins à cause des dépassements d'honoraires."
+     ],
+     "critique": "Les seuils portent sur la pension totale, complémentaire comprise, alors que la revalorisation ne concerne que la pension de base : un retraité peut être « au-dessus du seuil » avec une petite retraite de base. Les pourcentages de la CGT ne totalisent que 81 % ; les sources ne précisent pas où se situent les autres. L'enquête de l'Unsa repose sur un échantillon non représentatif.",
+     "sources": [
+      {
+       "label": "Actu Alt+, pourquoi les retraités manifestent",
+       "url": "https://www.actu-alt-plus.com/idees-solutions/pourquoi-retraites-manifestent-19-novembre-gel-pensions/42849/"
+      },
+      {
+       "label": "Public Sénat, ce que le Sénat a changé au PLFSS",
+       "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-les-modifications-a-retenir-apres-le-passage-du-projet-de-loi-au-senat"
+      }
+     ]
+    },
+    {
+     "kicker": "Présidentielle · Gauche",
+     "minutes": 2,
+     "title": "Tondelier tend la main à Mélenchon",
+     "chapo": "La secrétaire nationale des Écologistes se dit « prête » à une coalition autour du candidat insoumis, sous conditions. Les adhérents voteront du 10 au 13 décembre.",
+     "body": [
+      "Mercredi soir sur France 2, Marine Tondelier a déclaré : « Je suis prête, et les écologistes sont prêts, à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon. » Elle y voit « un chemin possible » si les Insoumis acceptent d'ouvrir un travail commun, et rappelle que les deux groupes parlementaires votent « déjà en commun 86 % des amendements » à l'Assemblée.",
+      "Elle pose ses conditions : une semaine de discussions portant sur un accord de gouvernement, un accord pour les législatives, un programme commun et une organisation de campagne partagée. Elle reste officiellement candidate. Les adhérents écologistes voteront du 10 au 13 décembre pour maintenir sa candidature ou soutenir un autre candidat de gauche.",
+      "Le camp écologiste est divisé. Sandrine Rousseau plaide depuis des mois pour un ralliement à Mélenchon, Yannick Jadot a rejoint l'équipe de Raphaël Glucksmann, vainqueur de la primaire sociale-démocrate, et une partie des militants veut une candidature autonome. Dans la moyenne des sondages relevée la semaine dernière, Mélenchon était à 18,1 % et Glucksmann à 11,3 %."
+     ],
+     "critique": "Une déclaration à la télévision n'est pas un accord : rien n'indique encore que LFI accepte de négocier un accord de gouvernement, ce qu'elle a refusé ces derniers mois. Pour Marine Tondelier, l'annonce sert aussi à reprendre la main avant le vote des adhérents, alors que Sandrine Rousseau a refusé de la parrainer.",
+     "sources": [
+      {
+       "label": "LCP, Tondelier prête à une coalition",
+       "url": "https://lcp.fr/actualites/presidentielle-2027-marine-tondelier-prete-a-une-coalition-autour-de-jean-luc-melenchon"
+      }
+     ]
+    },
+    {
+     "kicker": "Logement · Assemblée",
+     "minutes": 2,
+     "title": "Relance logement : les députés votent l'avantage fiscal pour les bailleurs",
+     "chapo": "L'article 4 du projet de loi de Vincent Jeanbrun, qui crée un avantage fiscal pour les propriétaires qui louent, a été adopté par 124 voix contre 34. Vote solennel prévu le 24 novembre.",
+     "body": [
+      "Le ministre du Logement, Vincent Jeanbrun, décrit « la pire crise d'accès au logement depuis l'après-guerre ». Son projet de loi « relance et décentralisation du logement », adopté par le Sénat en juillet, est arrivé dans l'hémicycle de l'Assemblée le 16 novembre. Mercredi, les députés ont adopté son article 4 par 124 voix contre 34 et 3 abstentions : un traitement fiscal spécifique pour les particuliers qui mettent un logement en location, y compris dans l'ancien sous conditions de travaux, en échange de loyers encadrés.",
+      "Le texte vise 400 000 logements par an, dont environ 125 000 logements sociaux. Il confie aux maires un rôle dans l'attribution des HLM et la gestion de MaPrimeRénov', crée des « périmètres de développement du logement » où l'on pourra déroger aux plans d'urbanisme, et prévoit un programme de rénovation urbaine Anru 3 (2030-2040) doté de 5 milliards d'euros. La version du Sénat permettrait de continuer à louer certains logements classés F ou G, normalement interdits à la location à partir de 2028, si le propriétaire s'engage à faire des travaux.",
+      "Le gouvernement vise une adoption définitive avant la fin de l'année, après une commission mixte paritaire. La rapporteure Annaïg Le Meur (Renaissance) prévient que le texte ne résoudra pas seul les difficultés structurelles ; le socialiste Iñaki Echaniz dénonce des engagements dont la mise en œuvre reviendra aux successeurs."
+     ],
+     "critique": "Les avantages fiscaux à l'investissement locatif (Pinel, Scellier, Duflot) ont coûté cher pour un effet discuté sur l'offre. Le texte ne donne pas encore les montants et les plafonds de l'avantage, ce qui empêche d'en évaluer le coût. Et assouplir l'interdiction de louer des passoires thermiques soutient l'offre à court terme au prix de l'objectif climatique.",
+     "sources": [
+      {
+       "label": "Maire-info, le projet de loi logement à l'Assemblée",
+       "url": "https://www.maire-info.com/logement/relance-du-logement-le-projet-de-loi-du-gouvernement-arrive-a-lassembla-e-nationale-art26-31295"
+      },
+      {
+       "label": "Politique Matin, vote de l'article 4",
+       "url": "https://www.politiquematin.fr/logement-assemblee-article-4-relance-investissement-locatif-19-novembre-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "Bourse de Paris · Entreprises",
+     "minutes": 2,
+     "title": "Alstom, la facture allemande ; le CAC 40 à 8 147 points",
+     "chapo": "Le constructeur ferroviaire a perdu 954 millions d'euros en six mois et prépare un renforcement de ses fonds propres. Le Sénat adopte la loi de fin de gestion 2026.",
+     "body": [
+      "Le CAC 40 a cédé 0,85 %, à 8 146,83 points. Alstom a perdu plus de 7 % : sur le semestre clos fin septembre, son chiffre d'affaires progresse de 3 %, à 9,33 milliards d'euros, mais la perte nette atteint 954 millions et la marge opérationnelle tombe à −4,2 %, contre 6,4 % un an plus tôt. Les dérapages de projets en Allemagne, surtout le train régional Coradia Max dont l'homologation traîne, coûtent environ dix points de marge. La dette nette est passée de 404 millions à 1,1 milliard d'euros en six mois.",
+      "Alstom vise environ 2 milliards d'euros de désendettement d'ici septembre 2027 en conservant sa notation « investment grade ». Le conseil étudie des cessions d'actifs et des financements « en fonds propres ou quasi-fonds propres ». Ces 2 milliards représentent environ 44 % de la capitalisation boursière, 4,56 milliards d'euros à la clôture de mardi. En 2024, le groupe avait déjà levé environ 1 milliard d'euros à 13 euros par action ; le titre vaut aujourd'hui plus d'un quart de moins. Deutsche Bank juge une augmentation de capital importante probable.",
+      "Accor a reculé de 4,2 % après l'annonce du rachat des minoritaires d'Ennismore, sa filiale d'hôtellerie de style ; Barclays juge le prix élevé. Eutelsat a gagné 7,65 %. Au Parlement, le Sénat a adopté la loi de fin de gestion pour 2026 par 228 voix contre 109, six jours après son rejet par l'Assemblée. Elle retient une croissance de 0,5 %, un déficit public de 5,4 % du PIB et une dette de 119,4 % du PIB en 2026."
+     ],
+     "critique": "Pour l'actionnaire d'Alstom, la question n'est plus de savoir s'il y aura une augmentation de capital mais à quel prix. Lever de l'argent quand le cours a baissé dilue davantage les actionnaires existants. Et l'entreprise demande à ses actionnaires de payer une seconde fois en deux ans des contrats signés à des conditions trop optimistes.",
+     "sources": [
+      {
+       "label": "BFM Bourse, clôture du CAC 40",
+       "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-les-resultats-tonitruants-de-nvidia-ne-suffisent-pas-a-apaiser-wall-street-le-cac-40-termine-en-nette-baisse-1174041.html"
+      },
+      {
+       "label": "Upside, Alstom perd près d'un milliard",
+       "url": "https://www.upside24.com/articles/alstom-perd-pres-d-un-milliard-en-six-mois-et-ses-actionnaires-pourraient-en-payer-une-part"
+      },
+      {
+       "label": "Politique Matin, loi de fin de gestion au Sénat",
+       "url": "https://www.politiquematin.fr/budget-2026-senat-228-voix-projet-fin-gestion-novembre"
+      }
+     ]
+    }
+   ],
+   "estimate": {
+    "question": "Combien de sénateurs ont voté pour le budget de la Sécurité sociale 2027 ?",
+    "min": 0,
+    "max": 348,
+    "step": 1,
+    "unit": "voix",
+    "answer": 201,
+    "explain": "201 voix pour, 124 contre et 15 abstentions, sur 348 sénateurs."
+   },
+   "flashcards": [
+    {
+     "front": "PLFSS",
+     "back": "Projet de loi de financement de la Sécurité sociale : il fixe chaque automne les recettes, les dépenses et le déficit de la Sécu. Version du Sénat pour 2027 : 14 milliards d'euros de déficit."
+    },
+    {
+     "front": "Commission mixte paritaire (CMP)",
+     "back": "Sept députés et sept sénateurs chargés de trouver un texte commun quand les deux chambres divergent. CMP sur le PLFSS : 26 novembre."
+    },
+    {
+     "front": "Abattement de 10 % des retraités",
+     "back": "Réduction de 10 % du montant des pensions déclaré à l'impôt sur le revenu, plafonnée à 4 439 euros par foyer. Le Sénat propose de la supprimer pour financer le dégel des pensions."
+    },
+    {
+     "front": "CNRACL",
+     "back": "Caisse nationale de retraites des agents des collectivités locales : elle verse les retraites des fonctionnaires territoriaux et hospitaliers, financée par des cotisations des employeurs publics."
+    },
+    {
+     "front": "Anru",
+     "back": "Agence nationale pour la rénovation urbaine. Le projet de loi logement prévoit un troisième programme, Anru 3, de 2030 à 2040, doté de 5 milliards d'euros."
+    },
+    {
+     "front": "Investment grade",
+     "back": "Catégorie de notation financière (BBB− et au-dessus) qui signale un risque de défaut faible et permet d'emprunter moins cher. Alstom veut la conserver."
+    },
+    {
+     "front": "Loi de fin de gestion",
+     "back": "Loi de finances rectificative votée en fin d'année pour ajuster les crédits : en ouvrir pour certaines dépenses, en annuler d'autres. Celle de 2026 a été rejetée par l'Assemblée et adoptée par le Sénat."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Quel est le déficit de la Sécurité sociale prévu pour 2027 dans la version du Sénat ?",
+     "choices": [
+      "8 milliards €",
+      "12,7 milliards €",
+      "14 milliards €",
+      "21,8 milliards €"
+     ],
+     "answer": 2,
+     "explain": "14 milliards d'euros, contre 12,7 milliards dans le texte du gouvernement et 21,8 milliards attendus en 2026."
+    },
+    {
+     "q": "Sous quel montant de pension le gouvernement garantissait-il la revalorisation à l'inflation ?",
+     "choices": [
+      "1 000 €",
+      "1 260 €",
+      "1 500 €",
+      "2 034 €"
+     ],
+     "answer": 1,
+     "explain": "1 260 euros par mois, soit 85 % du Smic, pension totale comprise."
+    },
+    {
+     "q": "Quelles organisations ne participent pas à la manifestation des retraités du 19 novembre ?",
+     "choices": [
+      "CGT et FSU",
+      "Unsa et CFTC",
+      "CFDT et FO",
+      "Solidaires et CFE-CGC"
+     ],
+     "answer": 2,
+     "explain": "La CFDT et FO ; les neuf organisations appelantes sont six syndicats et trois associations."
+    },
+    {
+     "q": "Combien de logements par an vise le projet de loi Jeanbrun ?",
+     "choices": [
+      "200 000",
+      "300 000",
+      "400 000",
+      "500 000"
+     ],
+     "answer": 2,
+     "explain": "400 000 par an, dont environ 125 000 logements sociaux."
+    },
+    {
+     "q": "Quelle perte nette Alstom a-t-il publiée pour son semestre ?",
+     "choices": [
+      "154 M€",
+      "454 M€",
+      "954 M€",
+      "1,9 Md€"
+     ],
+     "answer": 2,
+     "explain": "954 millions d'euros, avec une marge opérationnelle de −4,2 %."
+    }
+   ]
+  },
+  {
+   "id": "savoirs",
+   "name": "Savoirs",
+   "minutes": 10,
+   "lede": [
+    "La règle de Taylor, une formule de trois lignes, permet d'estimer de combien la Fed pourrait encore monter ses taux. Le calcul est simple, ses hypothèses le sont moins.",
+    "Un gazier en feu à Ormuz rappelle ce qu'est un BLEVE, l'explosion d'un liquide qui bout d'un seul coup. Le pire accident de ce type a eu lieu un 19 novembre, à Mexico.",
+    "Aussi : combien d'ogives détiennent les trois hommes réunis à Shenzhen, ce que mesure un multiple de valorisation, et un 19 novembre où la foudre a frappé Apollo 12 et où Pelé a marqué son millième but."
+   ],
+   "articles": [
+    {
+     "kicker": "Économie · Banques centrales",
+     "minutes": 3,
+     "title": "La règle de Taylor : combien de hausses reste-t-il à la Fed ?",
+     "chapo": "Une formule proposée en 1993 par l'économiste John Taylor donne un taux d'intérêt de référence à partir de l'inflation et de l'activité. Appliquée aux chiffres de la Fed, elle suggère que les taux sont encore trop bas.",
+     "body": [
+      "La règle s'écrit : taux directeur = taux neutre réel + inflation + 0,5 × (inflation − 2 %) + 0,5 × écart de production. Le taux neutre réel est le taux, hors inflation, qui ne freine ni n'accélère l'économie. L'écart de production mesure de combien le PIB dépasse (ou manque) son niveau potentiel. Le deuxième terme garantit que le taux suit l'inflation ; le troisième le pousse plus haut quand l'inflation dépasse la cible. Une variante dite « équilibrée » double le poids de l'écart de production.",
+      "Appliquons-la avec les chiffres du compte rendu publié mercredi. Prenons l'inflation PCE sous-jacente de septembre, 3,1 %, et supposons un taux neutre réel de 1 % (une hypothèse : la Fed elle-même le juge « estimé avec une incertitude considérable ») et un écart de production nul, puisque la Fed juge le marché du travail « proche du plein emploi ». On obtient 1 + 3,1 + 0,5 × 1,1 + 0 ≈ 4,65 %. Avec l'inflation totale de 3,6 %, on monte à environ 5,4 %.",
+      "Le taux actuel se situe au milieu de la fourchette de 3,75 à 4 %, soit environ 3,875 %. L'écart avec la règle va donc de 0,8 à 1,5 point, soit trois à six hausses d'un quart de point. C'est cohérent avec le compte rendu, où « presque tous » les responsables jugent de nouvelles hausses probablement appropriées.",
+      "Le coefficient de 0,5 sur l'inflation est le point clé, et il porte un nom : le principe de Taylor. Pour que la politique monétaire freine vraiment, le taux nominal doit monter de plus d'un point quand l'inflation monte d'un point ; sinon, le taux réel (taux nominal moins inflation) baisse et la politique devient plus accommodante au moment où il faudrait la durcir. Ici, 1 + 0,5 = 1,5 point de taux par point d'inflation."
+     ],
+     "critique": "La Fed le dit elle-même : ses dirigeants « consultent mais ne suivent pas mécaniquement » ces règles. Le taux neutre et l'écart de production ne s'observent pas, ils s'estiment, et une erreur d'un demi-point sur chacun déplace le résultat d'autant. Surtout, quand l'inflation vient d'un choc d'offre comme la fermeture d'Ormuz, monter les taux ne produit pas plus de pétrole : cela réduit la demande, au prix de l'emploi.",
+     "sources": [
+      {
+       "label": "Réserve fédérale, les règles de politique monétaire",
+       "url": "https://www.federalreserve.gov/monetarypolicy/policy-rules-and-how-policymakers-use-them.htm"
+      },
+      {
+       "label": "Réserve fédérale, compte rendu du FOMC des 27-28 octobre",
+       "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
+      }
+     ]
+    },
+    {
+     "kicker": "Physique · Sécurité industrielle",
+     "minutes": 3,
+     "title": "BLEVE : quand un liquide bout en une milliseconde",
+     "chapo": "Le GPL transporté par les gaziers frappés à Ormuz est un liquide qui ne demande qu'à bouillir. Si sa citerne cède d'un coup, il se vaporise presque instantanément : c'est le BLEVE, la hantise des pompiers.",
+     "body": [
+      "BLEVE signifie, en anglais, « explosion de vapeur d'un liquide en ébullition ». Le principe tient à une loi simple : la température d'ébullition d'un liquide augmente avec la pression. Le propane bout à −42 °C à la pression atmosphérique ; dans une citerne sous pression, il reste liquide à température ambiante. Si la paroi se rompt brutalement, la pression chute, le liquide se retrouve très au-dessus de son point d'ébullition, et une partie se vaporise en environ une milliseconde. Le volume explose, littéralement.",
+      "Le scénario typique commence par un incendie extérieur. Le feu chauffe la citerne : la pression intérieure monte, et le métal s'affaiblit. Le danger est maximal là où la paroi n'est pas mouillée par le liquide, en haut du réservoir, car le liquide n'y refroidit plus l'acier. Les soupapes de sûreté laissent échapper du gaz, mais pas toujours assez vite. Quand la paroi cède, la vapeur inflammable s'enflamme et forme une boule de feu qui monte en champignon ; son rayonnement thermique fait souvent plus de dégâts que l'onde de choc.",
+      "La France a son cas d'école : à la raffinerie de Feyzin, près de Lyon, le 4 janvier 1966, environ 1 000 tonnes de GPL ont explosé, faisant 18 morts. Des fragments de plus de 100 tonnes ont été projetés jusqu'à 350 mètres. Le pire accident reste celui de San Juan Ixhuatepec, près de Mexico, le 19 novembre 1984 : une série de BLEVE dans un dépôt de GPL de Pemex a tué plus de 500 personnes. La boule de feu mesurait 200 à 300 mètres de diamètre ; un réservoir a été projeté à environ 1 200 mètres.",
+      "Les parades sont connues : isoler les citernes pour retarder l'échauffement, les arroser pour les refroidir, dépressuriser en urgence, entretenir les soupapes. Sur un navire touché et à la dérive, plusieurs de ces parades deviennent impossibles, ce qui explique les évacuations rapides des équipages."
+     ],
+     "critique": "Il n'existe pas de consensus sur la température au-delà de laquelle un BLEVE devient possible : la formule de Reid donne environ 58 °C pour le propane, mais des BLEVE se sont produits en dessous, selon la manière dont la cuve cède. Les cartes de risque autour des dépôts reposent donc sur des scénarios, pas sur des certitudes.",
+     "sources": [
+      {
+       "label": "Wikipédia (en), BLEVE",
+       "url": "https://en.wikipedia.org/wiki/Boiling_liquid_expanding_vapor_explosion"
+      },
+      {
+       "label": "Straits Daily Brief, 18/11",
+       "url": "https://straits.live/briefs/2026-11-18"
+      }
+     ]
+    },
+    {
+     "kicker": "Géopolitique · Défense",
+     "minutes": 2,
+     "title": "Shenzhen : 11 236 ogives autour d'une table",
+     "chapo": "Les États-Unis, la Russie et la Chine détiennent environ 92 % des armes nucléaires du monde. Mais leurs arsenaux n'ont ni la même taille, ni la même trajectoire.",
+     "body": [
+      "Selon l'annuaire 2025 de l'Institut international de recherche sur la paix de Stockholm (SIPRI), qui décrit la situation en janvier 2025, la Russie détient environ 5 459 ogives, les États-Unis 5 177 et la Chine 600, sur 12 241 dans le monde. La France en compte 290 et le Royaume-Uni 225. Les trois pays réunis à Shenzhen totalisent donc environ 11 236 ogives, soit 92 % du total.",
+      "Les ogives déployées, montées sur des missiles ou présentes sur des bases opérationnelles, racontent une autre histoire : environ 1 770 pour les États-Unis, 1 718 pour la Russie, mais seulement 24 pour la Chine, qui garde l'essentiel de son arsenal en réserve. La Chine est en revanche le pays dont l'arsenal grandit le plus vite : de 500 à 600 ogives en 2024, soit environ 100 de plus, une hausse de 20 % en un an.",
+      "Le traité New START, dernier accord limitant les arsenaux russe et américain (1 550 ogives stratégiques déployées chacun), a expiré en février 2026. Le SIPRI avertissait que cette expiration, ajoutée aux appels américains à renforcer la dissuasion face à la Chine, ouvrait la perspective d'une course aux armements sans règles. C'est la raison pour laquelle Washington veut associer Pékin : un accord à deux ne limite plus la troisième puissance qui monte."
+     ],
+     "critique": "Ces chiffres sont des estimations : seuls les États-Unis publient le total de leur stock, et la Chine ne publie rien. Le SIPRI croise des sources ouvertes, des images satellites et des budgets, avec une marge d'erreur. Et compter des ogives ne mesure pas tout : précision, portée et capacité de seconde frappe comptent autant que le nombre.",
+     "sources": [
+      {
+       "label": "SIPRI Yearbook 2025, résumé",
+       "url": "https://www.sipri.org/sites/default/files/2025-06/yb25_summary_en.pdf"
+      },
+      {
+       "label": "CBS News, sommet de Shenzhen",
+       "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+      }
+     ]
+    },
+    {
+     "kicker": "Finance · Méthode",
+     "minutes": 2,
+     "title": "Ce que disent (et ne disent pas) les multiples",
+     "chapo": "Anthropic vaut environ 46 fois ses ventes annualisées, Nvidia moins de 10 fois ses bénéfices attendus. Deux ratios, deux mondes.",
+     "body": [
+      "Le multiple le plus courant est le PER (price earnings ratio) : le prix de l'action divisé par le bénéfice par action. Selon Techi, Nvidia se paie environ 9,7 fois le bénéfice attendu pour son exercice 2028, contre 33 fois pour AMD. Autrement dit, si les bénéfices restaient constants, l'acheteur d'une action Nvidia « récupérerait » sa mise en un peu moins de dix ans. Un PER bas signale soit une bonne affaire, soit un doute du marché sur la durabilité des profits.",
+      "Pour une entreprise qui perd de l'argent, le PER n'a pas de sens : on utilise alors le multiple de chiffre d'affaires. Anthropic a réalisé 16,3 milliards de dollars de ventes au premier semestre. En doublant ce chiffre, on obtient environ 32,6 milliards par an ; une valorisation de 1 500 milliards représente alors environ 46 fois les ventes. Comme les ventes ont été multipliées par environ 14 en un an, ce ratio baisse vite si la croissance continue.",
+      "Le PER et le multiple de ventes sont aussi ce qui sépare les deux visions du marché. Pour Nvidia, les investisseurs doutent que des marges de 75 % durent ; pour Anthropic, ils parient que des ventes en forte hausse finiront par produire des bénéfices. Dans les deux cas, le chiffre décisif n'est pas dans le ratio : c'est la croissance future, qu'aucun ratio ne mesure."
+     ],
+     "critique": "Annualiser un semestre en le multipliant par deux est une approximation grossière pour une entreprise dont les ventes changent d'ordre de grandeur chaque année : le résultat sous-estime le rythme actuel et ne dit rien de l'avenir. Ces multiples servent à comparer, pas à fixer une valeur.",
+     "sources": [
+      {
+       "label": "Techi, Nvidia recule après ses résultats",
+       "url": "https://www.techi.com/nvidia-stock-falls-day-after-earnings-ten-report-record/"
+      },
+      {
+       "label": "Fast Company / AP, les chiffres du prospectus",
+       "url": "https://fastcompany.com/91630606/biggest-stock-listing-ever-look-anthropics-ipo-numbers"
+      },
+      {
+       "label": "Fortune, valorisation de 1 500 milliards",
+       "url": "https://fortune.com/2026/11/18/anthropic-prices-ipo-83-per-share-1-5-trillion/"
+      }
+     ]
+    },
+    {
+     "kicker": "Éphéméride · 19 novembre",
+     "minutes": 2,
+     "title": "271 mots, deux éclairs et un millième but",
+     "chapo": "Le 19 novembre a vu un discours très court entrer dans l'histoire, une fusée survivre à la foudre et un footballeur atteindre un chiffre rond. On fête les Tanguy.",
+     "body": [
+      "19 novembre 1863 : Abraham Lincoln prononce le discours de Gettysburg, sur le champ de bataille transformé en cimetière militaire. La version la plus connue compte 271 mots et dure moins de deux minutes. L'orateur principal du jour, Edward Everett, avait parlé environ deux heures, en 13 607 mots. C'est pourtant Lincoln qu'on retient, et sa formule : un gouvernement « du peuple, par le peuple, pour le peuple », reprise dans l'article 2 de la Constitution française de 1958.",
+      "19 novembre 1969 : le module lunaire d'Apollo 12 se pose dans l'océan des Tempêtes, à 163 mètres de la sonde Surveyor 3, une démonstration de précision. Le lancement, cinq jours plus tôt, avait failli tourner court : la foudre a frappé la fusée Saturn V 36,5 secondes après le décollage, puis à 52 secondes. Les trois piles à combustible se sont déconnectées et la télémétrie est devenue incohérente. L'ingénieur John Aaron a reconnu la panne et demandé de basculer le commutateur « SCE » sur « Aux », qui alimente les capteurs autrement. Alan Bean l'a fait, et tout est revenu.",
+      "Le même jour, au Maracanã de Rio, Pelé marque son millième but, sur penalty, contre Vasco da Gama : « O Milésimo ». Et le 19 novembre 1984, la catastrophe de San Juan Ixhuatepec, au Mexique, rappelle ce que peut un dépôt de GPL (voir plus haut)."
+     ],
+     "critique": "Les comptes de Pelé incluent des matchs amicaux et non officiels ; selon les critères retenus, son millième but officiel ne tombe pas forcément ce jour-là. Et du discours de Gettysburg, cinq manuscrits existent, pas tout à fait identiques : les « 271 mots » sont ceux d'une copie parmi cinq.",
+     "sources": [
+      {
+       "label": "Wikipédia (en), discours de Gettysburg",
+       "url": "https://en.wikipedia.org/wiki/Gettysburg_Address"
+      },
+      {
+       "label": "Wikipédia (en), Apollo 12",
+       "url": "https://en.wikipedia.org/wiki/Apollo_12"
+      },
+      {
+       "label": "Wikipédia (en), Pelé",
+       "url": "https://en.wikipedia.org/wiki/Pel%C3%A9"
+      },
+      {
+       "label": "Wikipédia (en), BLEVE",
+       "url": "https://en.wikipedia.org/wiki/Boiling_liquid_expanding_vapor_explosion"
+      }
+     ]
+    }
+   ],
+   "estimate": {
+    "question": "Combien de mots compte la version la plus connue du discours de Gettysburg ?",
+    "min": 0,
+    "max": 2000,
+    "step": 1,
+    "unit": "mots",
+    "answer": 271,
+    "explain": "271 mots (copie dite de Bliss), moins de deux minutes, contre 13 607 mots et deux heures pour Edward Everett."
+   },
+   "flashcards": [
+    {
+     "front": "Règle de Taylor",
+     "back": "Taux directeur = taux neutre réel + inflation + 0,5 × (inflation − cible) + 0,5 × écart de production. Proposée par John Taylor en 1993."
+    },
+    {
+     "front": "Principe de Taylor",
+     "back": "Le taux nominal doit monter de plus d'un point quand l'inflation monte d'un point, sinon le taux réel baisse et la politique devient plus accommodante."
+    },
+    {
+     "front": "BLEVE",
+     "back": "Boiling Liquid Expanding Vapour Explosion : vaporisation quasi instantanée d'un liquide sous pression quand sa cuve se rompt. Pire cas : San Juan Ixhuatepec, Mexique, 19 novembre 1984, plus de 500 morts."
+    },
+    {
+     "front": "Feyzin, 1966",
+     "back": "Explosion d'environ 1 000 tonnes de GPL dans une raffinerie près de Lyon, le 4 janvier 1966 : 18 morts, fragments de plus de 100 tonnes projetés jusqu'à 350 mètres."
+    },
+    {
+     "front": "Ogive déployée",
+     "back": "Arme nucléaire montée sur un missile ou stockée sur une base opérationnelle. Chine : environ 24 déployées sur 600 (SIPRI, janvier 2025)."
+    },
+    {
+     "front": "PER",
+     "back": "Price earnings ratio : prix de l'action divisé par le bénéfice par action. Nvidia : environ 9,7 fois les bénéfices attendus de l'exercice 2028."
+    },
+    {
+     "front": "« SCE to Aux »",
+     "back": "Consigne de l'ingénieur John Aaron pendant le lancement d'Apollo 12, frappé par la foudre : basculer l'alimentation des capteurs sur le circuit auxiliaire. Elle a sauvé la mission."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Selon la règle de Taylor, de combien le taux doit-il monter quand l'inflation monte d'un point ?",
+     "choices": [
+      "0,5 point",
+      "1 point",
+      "1,5 point",
+      "2 points"
+     ],
+     "answer": 2,
+     "explain": "1,5 point : 1 pour le terme d'inflation, 0,5 pour l'écart à la cible."
+    },
+    {
+     "q": "Pourquoi le haut d'une citerne de GPL exposée au feu cède-t-il en premier ?",
+     "choices": [
+      "Le gaz y est plus dense",
+      "Le liquide ne refroidit plus l'acier",
+      "La soupape y est absente",
+      "La rouille s'y concentre"
+     ],
+     "answer": 1,
+     "explain": "Là où la paroi n'est pas mouillée, le liquide n'absorbe plus la chaleur : l'acier chauffe et s'affaiblit plus vite."
+    },
+    {
+     "q": "Combien d'ogives nucléaires la Chine détenait-elle en janvier 2025, selon le SIPRI ?",
+     "choices": [
+      "Environ 300",
+      "Environ 600",
+      "Environ 1 500",
+      "Environ 5 000"
+     ],
+     "answer": 1,
+     "explain": "Environ 600, dont seulement 24 déployées, contre 500 un an plus tôt."
+    },
+    {
+     "q": "Que vaut environ Anthropic rapporté à ses ventes annualisées ?",
+     "choices": [
+      "5 fois",
+      "15 fois",
+      "46 fois",
+      "150 fois"
+     ],
+     "answer": 2,
+     "explain": "Environ 46 fois : 1 500 milliards de dollars pour environ 32,6 milliards de ventes annualisées."
+    },
+    {
+     "q": "Où Apollo 12 s'est-il posé le 19 novembre 1969 ?",
+     "choices": [
+      "Mer de la Tranquillité",
+      "Océan des Tempêtes",
+      "Cratère Copernic",
+      "Mer de la Sérénité"
+     ],
+     "answer": 1,
+     "explain": "Dans l'océan des Tempêtes, à 163 mètres de la sonde Surveyor 3."
+    }
+   ]
+  }
+ ]
+}
