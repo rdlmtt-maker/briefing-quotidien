@@ -1,0 +1,386 @@
+{
+  "date": "2026-11-20",
+  "weekday": "vendredi",
+  "saint": "Saint Edmond",
+  "headline": "Anthropic gagne 17 % pour son premier jour, Wall Street enchaîne une sixième baisse, et Poutine ferme la porte aux négociations après le pont de Crimée.",
+  "chapters": [
+    {
+      "id": "monde",
+      "name": "Monde",
+      "minutes": 11,
+      "lede": [
+        "Anthropic a ouvert à 111,50 dollars jeudi sur le Nasdaq, 34 % au-dessus de son prix d'introduction, avant de clôturer à 97,17 dollars. La société vaut environ 1 750 milliards de dollars, mais la journée a fait chuter tout le reste de la tech.",
+        "Le S&P 500 a perdu 2,02 % pour sa sixième baisse d'affilée, la plus longue série depuis deux ans et demi ; le Dow Jones est repassé sous 50 000 points pour la première fois depuis juin.",
+        "À Shenzhen, Trump, Xi et Poutine ont signé un texte sur l'énergie, l'ONU et le nucléaire, sans rien sur l'Ukraine. Poutine exclut toute négociation après les frappes sur le pont de Crimée, pendant que quarante pays réunis à Berlin cherchent une place à la table."
+      ],
+      "articles": [
+        {
+          "kicker": "Intelligence artificielle · Bourse",
+          "title": "Anthropic : +34 % au premier échange, +17 % à la clôture",
+          "minutes": 3,
+          "chapo": "Pour sa première séance, le créateur de Claude a été porté jusqu'à 115,10 dollars avant de reperdre une partie de ses gains. À 97,17 dollars, l'entreprise vaut environ 1 750 milliards de dollars sur une base entièrement diluée.",
+          "body": [
+            "Le premier échange a eu lieu à 11 h 50, heure de New York, à 111,50 dollars, soit 34 % au-dessus du prix d'introduction de 83 dollars fixé mercredi soir. Le titre est monté jusqu'à 115,10 dollars, puis il est redescendu sous les 96 dollars en début d'après-midi, selon Reuters, avant de clôturer à 97,17 dollars. Le gain sur la journée atteint 17,07 % par rapport au prix d'introduction, mais le cours de clôture est inférieur de 12,85 % au premier échange. Plus de 846 millions d'actions ont changé de mains.",
+            "L'opération elle-même a été agrandie à la dernière minute. Anthropic a vendu 980 millions d'actions, contre 825 millions prévus au départ, et a levé 81,3 milliards de dollars. C'est la plus grosse introduction en Bourse jamais réalisée, devant celle de SpaceX en juin. Environ 15 % des titres ont été attribués à des particuliers. Le directeur général, Dario Amodei, a sonné la cloche d'ouverture du Nasdaq.",
+            "Le contraste avec le reste du marché est frappant. Pendant qu'Anthropic montait, Alphabet perdait 2,9 %, Amazon 3,9 % et Meta 3,3 %. Amazon et Alphabet détiennent pourtant environ 15 % et 14 % du capital, et la valeur de ces participations a été réévaluée à la hausse dans la journée. Plusieurs analystes interprètent ce mouvement comme un transfert : des gérants vendent d'autres valeurs de l'IA pour se faire une place dans le nouveau titre. Le prospectus rappelle aussi qu'Anthropic s'est engagé à dépenser 110 milliards de dollars en calcul chez Amazon et au moins 121,3 milliards chez Google : ces deux groupes sont donc à la fois actionnaires et fournisseurs.",
+            "Les avis divergent sur la signification de ce premier jour. Dan Ives, de Yorkville Ives, y voit une victoire à court terme pour toute la tech. Lukas Muehlbauer, du spécialiste des introductions IPOX, estime qu'une partie de la demande relève de la peur de manquer le mouvement. Un groupe d'experts en sécurité de l'IA a publié le jour même une « déclaration Misanthropic » critiquant l'entreprise, qui a répondu sur X qu'elle continuerait à régler le rythme de ses entraînements et de ses déploiements. Reste un chiffre : selon le document déposé à la SEC, la perte nette des neuf premiers mois de 2026 s'élève à 104 milliards de dollars."
+          ],
+          "critique": "Six Heures est rédigé avec Claude, le modèle d'Anthropic : gardez ce lien en tête. Sur le fond, un bond de 17 % le premier jour n'est pas qu'une bonne nouvelle pour la société : chaque dollar de hausse est un dollar qu'elle n'a pas encaissé. Entre 83 et 97,17 dollars, sur 980 millions d'actions, environ 13,9 milliards de dollars ont été « laissés sur la table » au profit des premiers acheteurs. Et un cours fixé par 846 millions de titres échangés un seul jour, sur une entreprise qui perd plus d'argent qu'elle n'en facture, mesure surtout l'appétit du moment.",
+          "sources": [
+            {"label": "The Wall Street Republic, clôture du 19 novembre", "url": "https://thewallstreetrepublic.substack.com/p/anthropic-closes-at-9717-s-and-p"},
+            {"label": "Al Jazeera (Reuters), premiers échanges d'Anthropic", "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo"},
+            {"label": "Motley Fool, Alphabet et la participation dans Anthropic", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-google-s-stake/"}
+          ]
+        },
+        {
+          "kicker": "Marchés",
+          "title": "Six baisses d'affilée : la peur s'installe à Wall Street",
+          "minutes": 2,
+          "chapo": "Le S&P 500 a perdu 2,02 %, le Nasdaq 2,25 % et le Dow Jones 1 101 points. L'indice de la peur, le VIX, gagne 15,8 %. Les données économiques du jour n'ont rien arrangé.",
+          "body": [
+            "Le S&P 500 a terminé à 7 175,83 points (−2,02 %), après avoir pourtant ouvert en hausse et touché 7 415 points. C'est sa sixième séance de baisse consécutive, la plus longue série depuis environ deux ans et demi. Le Nasdaq a cédé 2,25 % à 23 879 points, après avoir gagné jusqu'à 2 % dans la matinée. Le Dow Jones a perdu 1 101 points (−2,19 %) à 49 097 points, sa première clôture sous 50 000 depuis juin. Dans le S&P 500, 446 valeurs ont baissé contre 37 en hausse, et les onze secteurs ont fini dans le rouge. Le VIX, qui mesure la volatilité attendue, a bondi à 28,44.",
+            "Les semi-conducteurs ont mené la baisse. AMD a chuté de 7,72 % après la publication d'une position vendeuse du fonds Hunterbrook, qui accuse le groupe de liens avec le fabricant chinois de serveurs IEIT, placé sur liste noire ; AMD dément. Nvidia a perdu 3,30 % à 145,98 dollars alors qu'il ouvrait en hausse de 4,7 %. À l'inverse, Palo Alto Networks (+6,42 %) a relevé ses prévisions, et Intel (+1,92 %) a annoncé son premier client extérieur pour son procédé 18A. Walmart a battu les attentes (188,84 milliards de dollars de chiffre d'affaires) et relevé sa prévision annuelle, mais le titre a reculé de 1,04 %, car la fourchette implique un quatrième trimestre sous le consensus.",
+            "Côté économie, les nouvelles ont été mauvaises. L'indice manufacturier de la Fed de Philadelphie est tombé à 6,3, contre 20,9 le mois précédent, alors que les prix reçus par les industriels atteignent leur plus haut niveau depuis juin 2022. Les inscriptions hebdomadaires au chômage ont atteint 203 000. Le mélange d'une activité qui ralentit et de prix qui accélèrent est le pire scénario pour une banque centrale. Le gouverneur Christopher Waller a évoqué une hausse de 0,5 point en décembre ; une hausse d'un quart de point, le 9 décembre, est entièrement intégrée par les marchés. Le taux à 10 ans a reculé à 5,04 %."
+          ],
+          "critique": "Les commentateurs relient la chute à l'arrivée d'Anthropic, ce qui est commode mais incomplet. Le marché baisse depuis six séances, avant même la cotation, et l'enquête de Philadelphie montre une industrie qui ralentit pendant que ses prix montent. Une hausse des taux dans un tel contexte pèse sur toutes les valorisations, IA ou non.",
+          "sources": [
+            {"label": "The Wall Street Republic, clôture du 19 novembre", "url": "https://thewallstreetrepublic.substack.com/p/anthropic-closes-at-9717-s-and-p"},
+            {"label": "Motley Fool, marchés du 19 novembre", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-google-s-stake/"},
+            {"label": "Yahoo Finance (Motley Fool), crypto du 19 novembre", "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-19-224502799.html"}
+          ]
+        },
+        {
+          "kicker": "Diplomatie",
+          "title": "Shenzhen : une déclaration à trois, et rien sur l'Ukraine",
+          "minutes": 2,
+          "chapo": "Après une heure et demie de réunion, Trump, Xi et Poutine s'engagent à produire plus de pétrole et de gaz, à réformer l'ONU et à éviter la guerre nucléaire. Poutine, lui, ferme la porte à Kyiv.",
+          "body": [
+            "La réunion a duré environ une heure et demie, en marge du sommet de l'APEC, après deux rencontres bilatérales de Trump avec Poutine puis avec Xi. Le texte publié par le Kremlin, que la Maison Blanche a ensuite repris, contient quatre engagements : augmenter la production de pétrole et de gaz « au bénéfice de tous les pays », réformer l'ONU pour qu'elle réponde « plus efficacement » aux crises, maintenir la « stabilité stratégique », et réaffirmer qu'« une guerre nucléaire ne peut être gagnée et ne doit jamais être menée ». Les trois pays disent vouloir poursuivre le dialogue sur la réduction des risques nucléaires, sans aucun engagement chiffré.",
+            "Un passage est passé presque inaperçu : les trois puissances défendent « le principe du consentement des États et le respect des immunités des responsables d'État », et estiment que la Cour pénale internationale « ne doit pas abuser de ses pouvoirs ». Aucun des trois pays n'est membre de la Cour, qui a émis un mandat d'arrêt contre Poutine en 2023.",
+            "Sur l'Ukraine, Poutine a été clair après la réunion : « Après les frappes sur le pont de Crimée, il n'y aura pas de négociations. Nous répondrons à ces frappes. » Il a ajouté que la Russie ne signerait aucun cessez-le-feu portant sur l'énergie ou la mer Noire. Trump, lui, a noté la réunion « 12 sur 10 » au téléphone avec NBC et appelé Poutine « mon ami ». Le sénateur démocrate Tim Kaine a dit que cette phrase lui avait « retourné l'estomac ». Trump tiendra une conférence de presse ce vendredi à midi, heure de Washington. Les dossiers des puces électroniques, de l'Iran et de Taïwan sont restés en arrière-plan ; la trêve commerciale sino-américaine expire le 10 janvier."
+          ],
+          "critique": "Le texte est surtout une liste de principes. Le seul engagement concret, produire plus de pétrole et de gaz, sert les intérêts de deux grands producteurs (États-Unis et Russie) et d'un grand importateur qui veut des prix bas (Chine), au moment où la COP31 retire les énergies fossiles de son projet d'accord. Le passage sur la CPI est cohérent avec la situation des trois signataires : aucun n'accepte qu'un tribunal extérieur juge ses dirigeants.",
+          "sources": [
+            {"label": "CBS News, réunion à trois de Shenzhen", "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"},
+            {"label": "The National, Berlin et la position de Poutine", "url": "https://www.thenationalnews.com/news/europe/2026/11/19/berlin-hosts-zelenskyy-as-putin-cools-on-direct-talks/"}
+          ]
+        },
+        {
+          "kicker": "Ukraine",
+          "title": "Berlin : l'Europe cherche une chaise, Poutine en accepte l'idée",
+          "minutes": 1,
+          "chapo": "Une quarantaine de pays se sont retrouvés autour de Zelensky et de Friedrich Merz, avec les émissaires de Trump. L'Europe a désigné ceux qui parleront en son nom.",
+          "body": [
+            "Jared Kushner et Steve Witkoff, les négociateurs américains, ont rencontré Friedrich Merz avant le sommet de la « coalition des volontaires », puis Zelensky et ses alliés. Les Européens se sont mis d'accord sur une délégation : les conseillers à la sécurité nationale du Royaume-Uni, de la France, de l'Allemagne, de l'Italie et de la Pologne, avec les institutions de l'UE, parleront pour l'Europe si la table des négociations s'ouvre. Selon The National, Poutine a accepté publiquement pour la première fois le principe d'une participation européenne, tout en demandant de limiter les liens de sécurité entre l'Europe et l'Ukraine.",
+            "Zelensky a fixé quatre priorités : la défense aérienne, le soutien énergétique et financier, la diplomatie, et des garanties de sécurité pour l'après-guerre. Kyiv affirme avoir de nouveau frappé le pont de Crimée jeudi ; le ministère russe des Transports a suspendu le trafic ferroviaire sur l'ouvrage. Aucun nouveau montant d'aide n'a été annoncé à l'issue de la réunion."
+          ],
+          "critique": "Les chiffres sur la taille de la réunion varient selon les sources (36 ou 40 pays), et aucun communiqué final n'avait été publié jeudi soir. Accepter une présence européenne ne coûte rien à Moscou tant qu'il n'y a pas de négociation, et Poutine vient précisément d'en exclure.",
+          "sources": [
+            {"label": "The National, Berlin accueille Zelensky", "url": "https://www.thenationalnews.com/news/europe/2026/11/19/berlin-hosts-zelenskyy-as-putin-cools-on-direct-talks/"},
+            {"label": "Kyiv Independent, arrivée de Zelensky à Berlin", "url": "https://kyivindependent.com/zelensky-arrives-in-berlin-for-talks-with-european-officials-trumps-envoys/"},
+            {"label": "RTÉ, la coalition des volontaires à Berlin", "url": "https://www.rte.ie/news/world/2026/1119/1599769-coalition-of-willing-berlin-meeting/"}
+          ]
+        },
+        {
+          "kicker": "Iran · Golfe",
+          "title": "Iran : Trump parle d'armes chimiques mais « ne se presse pas »",
+          "minutes": 2,
+          "chapo": "Le président américain évoque des programmes chimiques ou biologiques iraniens, tout en disant pouvoir attendre la nouvelle année. La guerre a déjà coûté plus de 48 milliards de dollars au Pentagone.",
+          "body": [
+            "Sur Fox News, depuis Shenzhen, Trump a affirmé qu'il y avait « des indices » que l'Iran étudiait des armes chimiques ou biologiques, « parce que nous les avons bloqués sur le nucléaire », et prévenu : « si cela arrive, nous les rayons de la carte ». Le lendemain, à la chaîne israélienne Channel 12, il a dit ne pas se presser de prendre une décision et pouvoir attendre la nouvelle année. Selon le New York Times, cité par CBS, Benyamin Netanyahou pousse pour une campagne de frappes américano-israélienne de quatre à sept jours. Le contrôleur adjoint du Pentagone, Arthur Miller, chiffre le coût de la guerre à plus de 48 milliards de dollars depuis fin février.",
+            "Dans le détroit, les Gardiens de la révolution affirment que deux nouveaux pétroliers ont heurté des mines ; CBS rappelle que ces annonces sont rarement confirmées. L'UKMTO, l'agence maritime britannique, a confirmé mercredi qu'un projectile avait touché la salle des machines d'un pétrolier au nord de Khasab, sans victime. Le capitaine du navire d'Adnoc frappé mardi, Mohammed Hussam Al-Din Al-Otaibi, était toujours porté disparu jeudi. Plus au sud, les Houthis ont frappé une tour liée au fonds souverain saoudien à Riyad, sans faire de blessés. À Vienne, l'ambassadeur iranien Reza Najafi a déclaré que Téhéran n'accepterait pas « une coopération inconditionnelle et illimitée » avec l'AIEA.",
+            "Le pétrole, lui, reste calme : le Brent a fini à 91,98 dollars, quasi stable, et le WTI à 83,21 dollars. Les stocks de brut américains ont augmenté de 3,4 millions de barils, alors que les analystes attendaient une quasi-stabilité. L'excédent mondial annoncé par les agences pèse plus lourd que les attaques."
+          ],
+          "critique": "Trump avance une accusation grave (des armes chimiques ou biologiques) sans élément public pour l'étayer, et la relativise le lendemain. La séquence rappelle 2003 : c'est au renseignement de produire des preuves vérifiables. Les deux parties ont aussi intérêt à gonfler les bilans : les Gardiens de la révolution annoncent des pétroliers touchés que personne ne confirme.",
+          "sources": [
+            {"label": "CBS News, fil en direct sur la guerre d'Iran", "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"},
+            {"label": "Yahoo Finance (Reuters), pétrole du 19 novembre", "url": "https://finance.yahoo.com/news/oil-prices-steady-supply-surplus-024608326.html"}
+          ]
+        },
+        {
+          "kicker": "Climat",
+          "title": "COP31 : le projet final efface les énergies fossiles",
+          "minutes": 1,
+          "chapo": "La nouvelle version de la « déclaration d'Antalya » tient en neuf pages, contre dix-huit lundi. Plusieurs engagements importants ont disparu à la veille de la clôture.",
+          "body": [
+            "Toutes les références explicites aux énergies fossiles ont été retirées : l'appel à accélérer la « transition hors du charbon, du pétrole et du gaz » adopté à la COP28, et la mention de la feuille de route volontaire portée par le Brésil. L'objectif de porter le financement de l'adaptation des pays en développement à au moins 120 milliards de dollars par an d'ici 2035 a aussi disparu, renvoyé à l'an prochain. Reste l'objectif de 35 % d'électricité dans la consommation mondiale d'énergie en 2035, avec un langage adouci. Le texte reconnaît que le réchauffement dépassera 1,5 °C, ce qui ferait de la COP31 la première à l'admettre, selon le négociateur australien Chris Bowen.",
+            "Mohamed Adow, de Power Shift Africa, parle d'un « pas en arrière ». Le commissaire européen Wopke Hoekstra n'a pas voulu commenter l'absence des fossiles et a posé trois tests : l'ambition face au risque de dépasser 1,5 °C, le respect des accords existants, et le mandat européen. La conférence devait se terminer ce vendredi ; les prolongations sont fréquentes."
+          ],
+          "critique": "Reconnaître le dépassement de 1,5 °C est un aveu d'honnêteté, mais il arrive dans un texte qui retire au même moment le principal levier pour limiter ce dépassement. Le contexte pèse : guerre dans le Golfe, prix du pétrole élevés, et trois grandes puissances qui viennent de s'engager à produire plus.",
+          "sources": [
+            {"label": "RTÉ, COP31 jeudi", "url": "https://www.rte.ie/news/world/2026/1119/1599773-cop31-thursday/"}
+          ]
+        }
+      ],
+      "board": [
+        {"label": "S&P 500", "value": "7 176", "change": -2.02},
+        {"label": "Nasdaq", "value": "23 879", "change": -2.25},
+        {"label": "Dow Jones", "value": "49 097", "change": -2.19},
+        {"label": "CAC 40", "value": "8 081", "change": -0.81},
+        {"label": "Anthropic (ANT)", "value": "97,17 $", "change": 17.07},
+        {"label": "Bitcoin", "value": "≈61 900 $", "change": -1.69},
+        {"label": "Or (once)", "value": "≈3 686 $", "change": -1.5},
+        {"label": "Brent (baril)", "value": "91,98 $", "change": 0.03},
+        {"label": "WTI (baril)", "value": "83,21 $", "change": -0.06}
+      ],
+      "boardNote": "Clôtures du jeudi 19 novembre. Anthropic : variation par rapport au prix d'introduction de 83 dollars. Or : contrat de décembre (les sources divergent, entre 3 636 et 3 686 dollars). Bitcoin selon Yahoo Finance en fin de séance américaine. Taux américain à 10 ans : 5,04 % ; VIX : 28,44. À suivre aujourd'hui : conférence de presse de Trump, clôture de la COP31, PMI flash en Europe, Sénat français sur le budget.",
+      "estimate": {
+        "question": "À quel cours l'action Anthropic a-t-elle clôturé sa première séance (prix d'introduction : 83 $) ?",
+        "min": 60,
+        "max": 140,
+        "step": 1,
+        "unit": "$",
+        "answer": 97,
+        "explain": "97,17 dollars, soit +17,07 %, après un premier échange à 111,50 dollars et un plus haut à 115,10 dollars."
+      },
+      "flashcards": [
+        {"front": "Premier échange (first trade)", "back": "Premier prix auquel une action nouvellement introduite change de mains sur le marché. Anthropic : 111,50 dollars à 11 h 50, heure de New York, contre 83 dollars de prix d'introduction."},
+        {"front": "VIX", "back": "Indice de volatilité attendue du S&P 500 sur 30 jours, calculé à partir du prix des options. Il a bondi de 15,8 % à 28,44 jeudi ; au-dessus de 30, on parle de marché stressé."},
+        {"front": "Vente à découvert activiste", "back": "Un fonds parie sur la baisse d'une action puis publie ses accusations contre l'entreprise. Hunterbrook visait AMD jeudi (−7,72 %), qui dément."},
+        {"front": "Indice de la Fed de Philadelphie", "back": "Enquête mensuelle auprès des industriels de la région : part de ceux qui voient l'activité monter moins part de ceux qui la voient baisser. Novembre : 6,3, contre 20,9 en octobre."},
+        {"front": "Déclaration de Shenzhen", "back": "Texte signé le 19 novembre 2026 par Trump, Xi et Poutine : plus de pétrole et de gaz, réforme de l'ONU, stabilité stratégique, « pas de vainqueur dans une guerre nucléaire », critique de la CPI."},
+        {"front": "Coalition des volontaires", "back": "Groupe d'une trentaine à une quarantaine de pays, surtout européens, qui soutient l'Ukraine et prépare des garanties de sécurité pour un éventuel cessez-le-feu. Réunie à Berlin le 19 novembre."},
+        {"front": "Déclaration d'Antalya", "back": "Projet de texte final de la COP31 : neuf pages, plus aucune mention explicite des énergies fossiles, objectif de 35 % d'électricité en 2035, reconnaissance du dépassement de 1,5 °C."}
+      ],
+      "quiz": [
+        {"q": "De combien Anthropic a-t-il progressé à la clôture par rapport à son prix d'introduction ?", "choices": ["+7 %", "+17 %", "+34 %", "+52 %"], "answer": 1, "explain": "+17,07 %, à 97,17 dollars. Le +34 % correspond au premier échange."},
+        {"q": "Combien de séances de baisse consécutives pour le S&P 500 ?", "choices": ["3", "4", "6", "9"], "answer": 2, "explain": "Six, la plus longue série depuis environ deux ans et demi."},
+        {"q": "Qu'est-ce que Poutine exclut après la réunion de Shenzhen ?", "choices": ["Toute vente de gaz à la Chine", "Toute négociation avec l'Ukraine après les frappes sur le pont de Crimée", "Toute participation à l'APEC", "Tout dialogue nucléaire"], "answer": 1, "explain": "« Après les frappes sur le pont de Crimée, il n'y aura pas de négociations. »"},
+        {"q": "Combien la guerre contre l'Iran a-t-elle coûté au Pentagone depuis fin février ?", "choices": ["Environ 8 milliards de dollars", "Plus de 48 milliards de dollars", "Environ 150 milliards de dollars", "Plus de 400 milliards de dollars"], "answer": 1, "explain": "Plus de 48 milliards, selon le contrôleur adjoint Arthur Miller."},
+        {"q": "Quel objectif reste dans le projet de texte de la COP31 ?", "choices": ["Sortie accélérée du charbon", "120 milliards de dollars pour l'adaptation en 2035", "35 % d'électricité dans la consommation d'énergie en 2035", "Feuille de route brésilienne sur les fossiles"], "answer": 2, "explain": "Les trois autres ont été retirés de la version de jeudi."}
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "minutes": 10,
+      "lede": [
+        "Le budget de l'État arrive au Sénat avec un déficit prévu à 5 % du PIB, après son rejet automatique à l'Assemblée ; les sénateurs ont jusqu'au 9 décembre en séance.",
+        "Jeunes, enseignants et salariés des transports se mobilisent ce vendredi, à la veille d'un sixième samedi de colère sociale. À Lyon, trois lignes de métro sur quatre sont à l'arrêt.",
+        "La Bourse de Paris recule de 0,81 % à 8 081 points, mais Soitec bondit de 12 % grâce à la photonique, la technologie qui transporte les données des centres de calcul de l'IA."
+      ],
+      "articles": [
+        {
+          "kicker": "Budget",
+          "title": "Le budget de l'État arrive au Sénat sans avoir été voté par l'Assemblée",
+          "minutes": 3,
+          "chapo": "Rejeté en première lecture parce que sa partie recettes n'a pas été adoptée, le projet de loi de finances pour 2027 a été transmis aux sénateurs jeudi. Le gouvernement vise un déficit de 5 % du PIB.",
+          "body": [
+            "Le projet de loi de finances (PLF) pour 2027 avait été déposé le 1er octobre. Le 4 novembre, l'Assemblée a rejeté sa première partie, celle des recettes. Selon le règlement de l'Assemblée, quand la première partie d'un budget est rejetée, tout le texte est considéré comme rejeté : les députés n'ont donc jamais débattu des dépenses. Le texte a été transmis au Sénat le 19 novembre et enregistré sous le numéro 155. Les séances publiques commencent ce vendredi et se poursuivront les 23, 24, 25, 26, 27 et 28 novembre, puis si nécessaire jusqu'au 9 décembre.",
+            "La suite suit la navette habituelle : vote du Sénat, commission mixte paritaire de sept députés et sept sénateurs, puis nouvelle lecture et dernier mot à l'Assemblée. La Constitution donne au Parlement 70 jours pour se prononcer sur le budget à partir du dépôt, soit jusqu'à mi-décembre. Au-delà, le gouvernement peut mettre le texte en vigueur par ordonnance ; s'il n'y a pas de budget au 1er janvier, une loi spéciale permet de continuer à lever l'impôt.",
+            "Les grandes lignes du texte, telles qu'elles figurent dans son article liminaire : un déficit public de 5,0 % du PIB en 2027 contre 5,4 % attendus en 2026, une dette à 121,7 % du PIB, un taux de prélèvements obligatoires de 44,2 % et des dépenses publiques de 1 782 milliards d'euros, soit 56,9 % du PIB. Les dépenses augmenteraient de 0,6 % en volume, c'est-à-dire après inflation. Le texte retient une croissance potentielle de 1,2 % par an.",
+            "Ces chiffres sont déjà contestés. La Commission européenne, dans ses prévisions publiées mardi, voit la France à 5,5 % de déficit en 2026 et 5,4 % en 2027, avec une croissance de 0,4 % puis 0,6 %, la plus faible de la zone euro. Le Sénat, dominé par la droite et le centre, a déjà réécrit le budget de la Sécurité sociale en supprimant le gel des pensions ; il devrait modifier tout autant le budget de l'État, avant un retour à l'Assemblée où aucune majorité n'existe."
+          ],
+          "critique": "Le chiffre de 5 % de déficit repose sur une croissance et des économies que Bruxelles ne retient pas : l'écart de 0,4 point avec la prévision de la Commission représente environ 12 milliards d'euros. Les détails de calendrier et de chiffres proviennent ici d'une analyse de cabinet d'avocats rédigée avec l'aide d'une IA, recoupée pour les grandes dates mais pas ligne à ligne avec le texte officiel.",
+          "sources": [
+            {"label": "Kohen Avocats, le PLF 2027 transmis au Sénat", "url": "https://kohenavocats.fr/2026/11/19/plf-2027-rejete-assemblee-senat-19-novembre-2026-deficit-impots-navette/"},
+            {"label": "Assemblée nationale, dossier du PLF 2027", "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027"},
+            {"label": "Franceinfo, le Sénat adopte le budget de la Sécurité sociale", "url": "https://www.franceinfo.fr/economie/budget/le-senat-adopte-en-premiere-lecture-le-projet-de-budget-de-la-securite-sociale-pour-2027_8288699.html"}
+          ]
+        },
+        {
+          "kicker": "Social",
+          "title": "Vendredi des jeunes, samedi des Gilets jaunes",
+          "minutes": 2,
+          "chapo": "Lycéens et étudiants manifestent ce 20 novembre, journée internationale des droits de l'enfant, dans le cadre d'une « grève de la jeunesse » européenne. Lyon, Rennes et Dijon sont les plus touchées.",
+          "body": [
+            "L'Union étudiante a publié jeudi un appel intersyndical avec des organisations lycéennes, étudiantes et syndicales ; la CGT soutient une « journée européenne d'action à l'appel des jeunes », relayée par une coalition présente dans plus de 25 pays. La revendication centrale reste l'abrogation de Parcoursup, que le gouvernement promet de transformer dès 2027 et de remplacer en 2028. La mobilisation s'essouffle depuis début novembre : 575 000 manifestants le 5 novembre selon le ministère de l'Intérieur, 146 000 le 7, puis 106 000 le 14.",
+            "Localement, la journée est surtout visible dans les transports et les écoles. À Lyon, la CGT des TCL réclame 200 euros d'augmentation mensuelle : les métros B, C et D sont à l'arrêt toute la journée, la ligne A ne circule qu'entre 14 h et environ 19 h 40. À Rennes, 42 écoles sur 89 n'assurent pas un repas normal ce midi selon la Ville. À Dijon, un appel vise à bloquer les lycées dès 7 h, avant un rassemblement à 13 h place Darcy. Il n'y a pas d'appel national à la grève dans les écoles ; le SNUipp-FSU avait concentré ses forces sur le 17 novembre.",
+            "Samedi 21, l'« acte VI » de la colère sociale, lancé par des Gilets jaunes, est maintenu. Des syndicats et associations du droit au logement de sept pays européens organisent par ailleurs des manifestations contre la vie chère du 20 au 22 novembre, notamment à Bordeaux. Une « assemblée de convergence » est prévue à Saint-Denis les 28 et 29 novembre."
+          ],
+          "critique": "Les chiffres de participation viennent du ministère de l'Intérieur ; les organisateurs donnaient 1,6 million le 5 novembre, presque trois fois plus. La baisse est réelle dans les deux décomptes, mais la mobilisation se déplace vers des grèves locales et ciblées, plus difficiles à mesurer et parfois plus coûteuses pour les usagers.",
+          "sources": [
+            {"label": "Ma vigilance, grèves du vendredi 20 novembre", "url": "https://mavigilance.fr/jour/2026-11-20"},
+            {"label": "Actu Alt Plus, grève des écoles du 20 novembre", "url": "https://www.actu-alt-plus.com/idees-solutions/greve-ecole-vendredi-20-novembre-2026-rennes-essonne-isere/43459/"},
+            {"label": "Actu Alt Plus, prochaine manifestation étudiante", "url": "https://www.actu-alt-plus.com/idees-solutions/prochaine-manifestation-etudiante-17-20-novembre-2026/43062/"}
+          ]
+        },
+        {
+          "kicker": "Parlement · Emploi",
+          "title": "« Territoires zéro chômeur » : sauver l'expérimentation à six semaines de sa fin",
+          "minutes": 2,
+          "chapo": "Les députés ont examiné jeudi en deuxième lecture le texte qui pérennise et étend ce dispositif. Sans vote conforme, les 4 300 salariés concernés n'auraient plus de cadre légal au 1er janvier.",
+          "body": [
+            "Le principe est simple : plutôt que de payer des allocations, on finance des « entreprises à but d'emploi » qui embauchent en CDI des chômeurs de longue durée pour des activités utiles au territoire et non concurrentes du privé. La rapporteure socialiste Océane Godard a cité 4 322 salariés dans 85 territoires habilités. L'expérimentation se termine le 31 décembre 2026 ; la proposition de loi, déposée par Stéphane Viry en juin 2025, avait été adoptée en première lecture le 27 janvier 2026 par tous les groupes sauf LFI, qui s'était abstenue.",
+            "Le Sénat a modifié un point important : les départements pourront se retirer du financement des entreprises existantes avec un préavis d'un an, et leur participation ne sera plus obligatoire pour les nouveaux projets. Les rapporteurs ont demandé un vote « conforme », c'est-à-dire sans modification, pour éviter une nouvelle navette et une entrée en vigueur au 1er janvier 2027. Les groupes Droite républicaine, écologiste, MoDem et Horizons ont annoncé leur soutien. Le ministre du Travail, Jean-Pierre Farandou, a parlé d'une « période particulièrement incertaine d'examen des textes budgétaires ». La rapporteure a aussi rappelé que le 19 novembre est la date symbolique à partir de laquelle, compte tenu de l'écart de salaire, les femmes travaillent « gratuitement » jusqu'à la fin de l'année."
+          ],
+          "critique": "Le dispositif est populaire mais son coût par emploi est discuté, et la possibilité offerte aux départements de se retirer transfère le risque financier sur l'État au moment où il cherche des économies. Le compte rendu lu ne donne pas le résultat du vote final.",
+          "sources": [
+            {"label": "Assemblée nationale, compte rendu de la séance du 19 novembre", "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-jeudi-19-novembre-2026"}
+          ]
+        },
+        {
+          "kicker": "Bourse de Paris",
+          "title": "Le CAC 40 sous 8 100 points, Soitec s'envole",
+          "minutes": 2,
+          "chapo": "L'euphorie du matin n'a pas tenu : Paris a fini en baisse de 0,81 % à 8 080,74 points. Soitec, ADP et Riber ont fait exception.",
+          "body": [
+            "La Bourse de Paris a ouvert en hausse, portée par l'attente de la cotation d'Anthropic, avant de se retourner. Le CAC 40 a clôturé à 8 080,74 points (−0,81 %), le SBF 120 à 6 112,27 points (−0,8 %). Le compte rendu de la Fed, qui montre que la plupart de ses responsables envisagent de nouvelles hausses, a pesé sur toutes les places européennes. Le Trésor a émis 12 milliards d'euros d'emprunts d'État (OAT) à des taux en nette hausse, et 1,7 milliard d'OAT indexées sur l'inflation.",
+            "Soitec a gagné 12,01 % à 109,25 euros, en tête du SBF 120. Le spécialiste grenoblois des plaquettes de semi-conducteurs a publié un chiffre d'affaires semestriel en hausse de 37 % à 317 millions d'euros et vise une croissance annuelle d'environ 40 %. Il reste en perte (45 millions d'euros sur le semestre, contre 67 millions un an plus tôt), mais le titre a gagné 366 % depuis janvier, grâce à la demande de la photonique pour les centres de calcul (lire dans Savoirs). ADP a pris 3,91 % après l'avis favorable, assorti de cinq réserves, de l'Autorité de régulation des transports sur son contrat 2027-2034, et Riber 8,43 % après une commande en Asie."
+          ],
+          "critique": "Soitec illustre la dépendance de la cote parisienne aux cycles de l'IA américaine : un titre qui a presque quintuplé en un an sur une seule activité est exposé au moindre ralentissement des commandes des centres de calcul, comme celui que le marché américain commence à anticiper.",
+          "sources": [
+            {"label": "ABC Bourse (Agefi-Dow Jones), clôture du 19 novembre", "url": "https://www.abcbourse.com/marches/cac-40-paris-s-essouffle-et-finit-dans-le-rouge-avant-les-debuts-d-anthropic-a_706394"},
+            {"label": "MoneyVox, infos Bourse du 19 novembre", "url": "https://www.moneyvox.fr/bourse/actualites/111326/cac-40-euphorie-aura-ete-de-courte-duree-retrouvez-les-infos-bourse-du-19-novembre"}
+          ]
+        },
+        {
+          "kicker": "Agenda",
+          "title": "La semaine qui vient : Choose France, PMI et moral des ménages",
+          "minutes": 1,
+          "chapo": "Les rendez-vous économiques jusqu'au 26 novembre, selon l'AFP.",
+          "body": [
+            "Ce vendredi : climat des affaires de l'Insee (8 h 45), résultats du troisième trimestre de Vallourec, et PMI flash de novembre pour la France et la zone euro. Lundi 23 : deuxième édition du sommet Choose France de la semaine, PMI flash S&P Global, et session plénière du Parlement européen à Strasbourg jusqu'au 26. Mardi 24 : ventes européennes de voitures neuves d'octobre (ACEA) et prix des logements anciens au troisième trimestre (notaires et Insee). Mercredi 25 : moral des ménages de novembre (Insee). Le budget de l'État sera en séance au Sénat tous les jours ouvrés de la semaine, et la commission mixte paritaire sur le budget de la Sécurité sociale est prévue le 26."
+          ],
+          "sources": [
+            {"label": "TradingView (AFP), agenda économique France du 19 au 26 novembre", "url": "https://fr.tradingview.com/news/afp:1922923bf7cff:0/"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Combien de salariés travaillent dans les entreprises « Territoires zéro chômeur de longue durée » ?",
+        "min": 0,
+        "max": 20000,
+        "step": 100,
+        "unit": "salariés",
+        "answer": 4300,
+        "explain": "4 322 selon la rapporteure Océane Godard, dans 85 territoires habilités."
+      },
+      "flashcards": [
+        {"front": "Article liminaire", "back": "Premier article d'une loi de finances, qui présente le solde public, la dette et les dépenses prévues. PLF 2027 : déficit 5,0 % du PIB, dette 121,7 %, prélèvements obligatoires 44,2 %."},
+        {"front": "Rejet de la première partie", "back": "Si l'Assemblée rejette la partie recettes d'un budget, l'ensemble du texte est réputé rejeté et part au Sénat sans débat sur les dépenses. Ce fut le cas du PLF 2027 le 4 novembre."},
+        {"front": "Délai de 70 jours", "back": "L'article 47 de la Constitution donne 70 jours au Parlement pour voter le budget. Au-delà, le gouvernement peut le mettre en vigueur par ordonnance."},
+        {"front": "Vote conforme", "back": "Adoption d'un texte dans les mêmes termes que l'autre chambre. Il met fin à la navette et permet une promulgation rapide."},
+        {"front": "Entreprise à but d'emploi", "back": "Structure du dispositif Territoires zéro chômeur qui embauche en CDI des chômeurs de longue durée pour des activités non concurrentes. 4 322 salariés, 85 territoires."},
+        {"front": "OAT indexée", "back": "Obligation de l'État français dont le capital et les intérêts suivent l'inflation. Le Trésor en a émis 1,7 milliard d'euros jeudi."},
+        {"front": "SBF 120", "back": "Indice des 120 principales capitalisations de la Bourse de Paris, plus large que le CAC 40. 6 112,27 points jeudi, Soitec en tête (+12 %)."}
+      ],
+      "quiz": [
+        {"q": "Quel déficit public le PLF 2027 prévoit-il pour 2027 ?", "choices": ["3,0 % du PIB", "4,1 % du PIB", "5,0 % du PIB", "6,2 % du PIB"], "answer": 2, "explain": "5,0 %, contre 5,4 % attendus en 2026. Bruxelles prévoit 5,4 %."},
+        {"q": "Pourquoi le budget est-il arrivé au Sénat sans vote sur les dépenses ?", "choices": ["Le gouvernement a utilisé le 49.3", "La première partie, sur les recettes, a été rejetée", "Le Conseil constitutionnel l'a annulé", "Le délai de 70 jours était dépassé"], "answer": 1, "explain": "Le rejet de la première partie entraîne le rejet de tout le texte en première lecture."},
+        {"q": "Quelles lignes de métro sont à l'arrêt toute la journée à Lyon ce vendredi ?", "choices": ["A et B", "B, C et D", "Toutes", "Aucune"], "answer": 1, "explain": "Les lignes B, C et D ; la ligne A circule de 14 h à environ 19 h 40."},
+        {"q": "Quand se termine l'expérimentation Territoires zéro chômeur ?", "choices": ["31 décembre 2026", "30 juin 2027", "31 décembre 2028", "Elle est déjà pérenne"], "answer": 0, "explain": "D'où la demande de vote conforme pour une entrée en vigueur au 1er janvier 2027."},
+        {"q": "De combien Soitec a-t-il progressé jeudi ?", "choices": ["+3,9 %", "+8,4 %", "+12 %", "+37 %"], "answer": 2, "explain": "+12,01 % à 109,25 euros ; le +37 % est la hausse du chiffre d'affaires semestriel."}
+      ]
+    },
+    {
+      "id": "savoirs",
+      "name": "Savoirs",
+      "minutes": 10,
+      "lede": [
+        "Pourquoi une action gagne-t-elle 17 % le jour de son entrée en Bourse, et qui paie ce cadeau ? Le premier jour d'Anthropic illustre un phénomène observé depuis un demi-siècle.",
+        "Soitec fabrique des plaquettes de silicium d'un genre particulier, sur lesquelles on grave des circuits qui transportent la lumière. C'est ce qui relie les GPU entre eux dans les centres de calcul.",
+        "Il y a 81 ans jour pour jour s'ouvrait à Nuremberg le premier procès pénal international, celui-là même dont les principes sont visés, à mots couverts, par la déclaration de Shenzhen."
+      ],
+      "articles": [
+        {
+          "kicker": "Finance",
+          "title": "Le « pop » d'introduction : un cadeau à 13,9 milliards de dollars",
+          "minutes": 3,
+          "chapo": "Une action nouvellement cotée monte presque toujours le premier jour. Ce n'est pas un hasard : c'est en partie voulu, et cela a un coût pour la société qui s'introduit.",
+          "body": [
+            "Lors d'une introduction en Bourse, une banque conseil recueille les ordres des grands investisseurs pendant la tournée de présentation : c'est la constitution du livre d'ordres. Le prix est ensuite fixé, puis les actions sont attribuées. Dès le lendemain, le marché fixe un prix librement. L'écart entre les deux s'appelle la sous-évaluation initiale. Chez Anthropic, le premier échange s'est fait à 111,50 dollars pour un prix d'introduction de 83 dollars, et la clôture à 97,17 dollars.",
+            "Ce gain a un coût pour la société. Sur 980 millions d'actions, chaque dollar d'écart représente 980 millions de dollars qui auraient pu être encaissés. À la clôture, la différence atteint environ 13,9 milliards de dollars (14,17 dollars par action) ; au premier échange, environ 27,9 milliards. L'expression consacrée est « argent laissé sur la table ». Il profite aux investisseurs qui ont reçu des actions, c'est-à-dire surtout aux grands fonds, les particuliers n'ayant obtenu qu'environ 15 % du total.",
+            "Pourquoi les banques ne fixent-elles pas un prix plus élevé ? Les économistes proposent trois explications. La première est la « malédiction du vainqueur » : les investisseurs mal informés obtiennent surtout des actions dans les opérations que les mieux informés boudent ; il faut une décote moyenne pour qu'ils continuent à participer. La deuxième est la rémunération de l'information : un fonds qui révèle qu'il est prêt à payer cher pendant la tournée doit en être récompensé, sinon il mentira. La troisième est commerciale : une forte hausse le premier jour fait parler de la société, et un échec, au contraire, abîme durablement son image.",
+            "Il existe aussi une explication moins flatteuse. Les banques conseil sont payées par la société qui s'introduit, mais leurs clients réguliers sont les fonds qui achètent. Une décote généreuse leur permet de récompenser ces clients. Plusieurs scandales, notamment pendant la bulle Internet de 1999-2000, ont montré que des actions sous-évaluées pouvaient être réservées à des clients en échange de commissions.",
+            "Le premier jour ne dit d'ailleurs rien du long terme. De nombreuses études montrent qu'en moyenne, les sociétés nouvellement cotées font moins bien que le marché dans les trois à cinq années qui suivent. Chez Anthropic, le recul de 12,85 % entre le premier échange et la clôture montre déjà la difficulté de trouver un prix pour une entreprise sans équivalent."
+          ],
+          "critique": "Les fondateurs acceptent souvent cette décote parce qu'ils ne vendent qu'une petite partie de leurs actions : le reste de leur patrimoine est valorisé au prix du marché, pas au prix d'introduction. Le « coût » de la sous-évaluation est donc surtout supporté par l'entreprise et par les actionnaires qui vendent le jour même.",
+          "sources": [
+            {"label": "The Wall Street Republic, Anthropic à 97,17 dollars", "url": "https://thewallstreetrepublic.substack.com/p/anthropic-closes-at-9717-s-and-p"},
+            {"label": "Al Jazeera (Reuters), premiers échanges d'Anthropic", "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo"}
+          ]
+        },
+        {
+          "kicker": "Ingénierie · Semi-conducteurs",
+          "title": "Soitec et la photonique sur silicium : faire voyager les données à la vitesse de la lumière",
+          "minutes": 3,
+          "chapo": "Les GPU d'un centre de calcul échangent tant de données que les câbles en cuivre ne suffisent plus. La solution passe par des puces optiques gravées sur un matériau que Soitec fabrique à Bernin, près de Grenoble.",
+          "body": [
+            "Une plaquette SOI, pour « silicium sur isolant », est un empilement de trois couches : un support en silicium épais, une fine couche d'oxyde de silicium (le verre) et, au-dessus, une couche de silicium très mince, de quelques dixièmes de micromètre, dans laquelle on grave les composants. L'oxyde isole électriquement les transistors, ce qui réduit les fuites de courant. Il a aussi une propriété optique décisive.",
+            "Le silicium est transparent aux longueurs d'onde utilisées dans les télécommunications, 1 310 et 1 550 nanomètres : son écart d'énergie (1,12 électronvolt) ne lui permet d'absorber que la lumière de longueur d'onde inférieure à environ 1,1 micromètre. Son indice de réfraction est d'environ 3,5, contre 1,45 pour l'oxyde. Ce fort contraste confine la lumière dans le silicium par réflexion totale, comme dans une fibre optique, mais avec des guides d'onde de quelques centaines de nanomètres de large seulement. On peut ainsi graver sur une même puce des guides, des modulateurs et des multiplexeurs, avec les mêmes outils que pour l'électronique.",
+            "Pour fabriquer ces plaquettes, Soitec utilise un procédé appelé Smart Cut, mis au point au CEA-Leti de Grenoble dans les années 1990. On oxyde une plaquette « donneuse », puis on y implante des ions d'hydrogène à une profondeur précise. On la colle ensuite sur une seconde plaquette. En chauffant, l'hydrogène forme des microcavités qui se rejoignent et fendent la plaquette donneuse exactement à la profondeur voulue : une couche très mince reste collée, et le reste de la donneuse peut être réutilisé. C'est l'équivalent industriel d'un rabot à l'échelle atomique.",
+            "Pourquoi l'IA en a-t-elle besoin ? Dans un centre de calcul, des dizaines de milliers de GPU doivent échanger en permanence leurs résultats intermédiaires. Au-delà de quelques mètres et de quelques centaines de gigabits par seconde, le cuivre perd trop de signal et consomme trop d'énergie. Les émetteurs-récepteurs optiques convertissent le signal électrique en lumière, l'envoient dans une fibre, puis le reconvertissent. Plus ils sont intégrés près des puces, moins ils consomment.",
+            "En septembre, Soitec prévoyait que ses ventes de plaquettes Photonics-SOI seraient multipliées par 2,5 à 3 sur l'exercice 2026-2027, par rapport à un peu plus de 100 millions de dollars l'année précédente. Jeudi, l'entreprise a annoncé un chiffre d'affaires semestriel en hausse de 37 %, à 317 millions d'euros."
+          ],
+          "critique": "La croissance de la photonique compense pour l'instant le recul d'autres activités de Soitec, en particulier dans l'automobile et le carbure de silicium, qui lui a valu une dépréciation de 41 millions d'euros l'an dernier. La dépendance à quelques clients de l'IA crée une fragilité que le cours de Bourse ne reflète pas.",
+          "sources": [
+            {"label": "MoneyVox, Soitec et la Bourse du 19 novembre", "url": "https://www.moneyvox.fr/bourse/actualites/111326/cac-40-euphorie-aura-ete-de-courte-duree-retrouvez-les-infos-bourse-du-19-novembre"},
+            {"label": "Fortuneo (Zonebourse), Soitec relève ses prévisions Photonics-SOI", "url": "https://bourse.fortuneo.fr/actualites/soitec-releve-ses-previsions-porte-par-la-forte-demande-en-photonics-soi-967870"},
+            {"label": "TradingSat, résultats semestriels de Soitec en 2025", "url": "https://www.tradingsat.com/soitec-FR0013227113/actualites/soitec-soitec-plonge-dans-le-rouge-au-premier-semestre-2026-1150989.html"}
+          ]
+        },
+        {
+          "kicker": "Économie",
+          "title": "Lire un indice de diffusion : pourquoi 6,3 inquiète plus que 0",
+          "minutes": 1,
+          "chapo": "L'enquête de la Fed de Philadelphie n'est pas une mesure de la production. C'est un solde d'opinions, et sa lecture obéit à des règles précises.",
+          "body": [
+            "Chaque mois, la Fed de Philadelphie interroge un panel d'industriels de sa région : l'activité a-t-elle augmenté, baissé ou stagné ? L'indice est la part des réponses « hausse » moins la part des réponses « baisse ». Un indice de 6,3 signifie donc qu'un peu plus d'entreprises voient leur activité progresser qu'en baisse, mais l'écart s'est fortement réduit depuis 20,9 en octobre. L'indice ne dit rien de l'ampleur des variations : une entreprise qui double sa production et une autre qui gagne 1 % comptent de la même façon.",
+            "Le détail compte plus que le titre. En novembre, l'indice des prix reçus atteint 47, son plus haut niveau depuis juin 2022 : près de la moitié des entreprises, en solde net, augmentent leurs prix. Une activité qui ralentit avec des prix qui accélèrent ressemble à de la stagflation, le scénario le plus difficile pour une banque centrale. C'est ce qui explique que les marchés jugent une hausse de taux en décembre certaine malgré le ralentissement."
+          ],
+          "sources": [
+            {"label": "The Wall Street Republic, données macro du 19 novembre", "url": "https://thewallstreetrepublic.substack.com/p/anthropic-closes-at-9717-s-and-p"}
+          ]
+        },
+        {
+          "kicker": "Énergie",
+          "title": "Où va l'argent de l'énergie : 3 400 milliards de dollars en 2026",
+          "minutes": 1,
+          "chapo": "L'Agence internationale de l'énergie chiffre l'investissement énergétique mondial et montre comment la guerre du Golfe le réoriente.",
+          "body": [
+            "Selon le rapport World Energy Investment 2026 de l'AIE, le monde investira environ 3 400 milliards de dollars dans l'énergie cette année : environ 2 200 milliards dans les réseaux, le stockage, le nucléaire, les renouvelables, l'efficacité et l'électrification, et environ 1 200 milliards dans le pétrole, le gaz et le charbon. Les réseaux électriques reçoivent environ 550 milliards (près de 20 % de plus qu'en 2025), le stockage par batteries plus de 100 milliards, le nucléaire plus de 80 milliards, avec près de 80 gigawatts en construction dans 15 pays. L'investissement pétrolier baisse pour la troisième année consécutive, sous 500 milliards, mais celui du gaz atteint 330 milliards, un record sur dix ans, et celui du charbon 180 milliards, son plus haut depuis 2012, dont environ 70 % en Chine.",
+            "Fatih Birol, directeur de l'AIE, parle de « la plus grave crise de sécurité énergétique que le monde ait connue ». Le rapport note que près des trois quarts des investissements de 2026 avaient été décidés avant la crise : son effet complet se verra dans les années suivantes."
+          ],
+          "critique": "Un dollar investi ne produit pas la même quantité d'énergie selon la technologie : comparer des montants ne dit rien des térawattheures produits. Et la hausse du coût du capital, que l'AIE souligne, pénalise surtout les projets à forte mise de départ, comme le nucléaire et les renouvelables, dans les pays émergents.",
+          "sources": [
+            {"label": "AIE, World Energy Investment 2026", "url": "https://iea.org/news/impacts-of-middle-east-conflict-set-to-reshape-energy-investment-plans-as-disruptions-put-focus-on-security"},
+            {"label": "PV Tech, l'AIE et la réorientation des investissements", "url": "https://www.pv-tech.org/iran-energy-crisis-to-reshape-energy-investment-iea/"}
+          ]
+        },
+        {
+          "kicker": "Histoire · Éphéméride",
+          "title": "20 novembre 1945 : Nuremberg, le premier procès international",
+          "minutes": 2,
+          "chapo": "Six mois et demi après la capitulation allemande, quatre puissances jugeaient ensemble les principaux dirigeants nazis. Le procès a inventé des règles qu'on retrouve aujourd'hui à La Haye.",
+          "body": [
+            "Le procès s'ouvre le 20 novembre 1945 au palais de justice de Nuremberg, devant un tribunal militaire international de quatre juges titulaires : le Britannique Geoffrey Lawrence, qui préside, l'Américain Francis Biddle, le Français Henri Donnedieu de Vabres et le Soviétique Iona Nikitchenko. L'accusation américaine est menée par Robert Jackson, la française par François de Menthon puis Auguste Champetier de Ribes. Vingt-quatre dirigeants avaient été inculpés le 18 octobre ; Robert Ley s'est suicidé la veille du procès, Gustav Krupp a été écarté pour raison de santé, et Martin Bormann a été jugé en son absence.",
+            "Quatre chefs d'accusation sont retenus : complot, crimes contre la paix, crimes de guerre et crimes contre l'humanité, notion juridique alors nouvelle. Le verdict tombe le 1er octobre 1946 : 19 condamnations, dont 12 à mort, et 3 acquittements (Schacht, von Papen et Fritzsche). Dix condamnés sont pendus le 16 octobre ; Göring s'est suicidé la veille. Le tribunal déclare aussi criminelles plusieurs organisations, dont la Gestapo et la SS.",
+            "Le procès est aussi une prouesse technique : pour la première fois, les débats sont traduits en simultané en quatre langues (anglais, français, allemand, russe), avec des casques et des micros, ce qui a donné naissance au métier d'interprète de conférence. Plus de 400 visiteurs et 325 journalistes de 23 pays y assistent chaque jour. Son principal héritage juridique : un dirigeant ne peut se retrancher derrière sa fonction officielle pour échapper à sa responsabilité pénale. C'est précisément ce principe que la déclaration de Shenzhen vise lorsqu'elle défend « l'immunité des responsables d'État ».",
+            "Le 20 novembre est aussi la date de l'adoption de la Convention internationale des droits de l'enfant par l'ONU, en 1989, d'où la journée mondiale qui sert de cadre aux manifestations de jeunes ce vendredi. On fête saint Edmond, roi d'Est-Anglie tué par les Vikings en 869."
+          ],
+          "sources": [
+            {"label": "USHMM, le Tribunal militaire international de Nuremberg", "url": "https://encyclopedia.ushmm.org/content/fr/article/international-military-tribunal-at-nuremberg"},
+            {"label": "Mémorial de la Shoah, ouverture du procès de Nuremberg", "url": "https://www.memorialdelashoah.org/en/20-novembre-1945-ouverture-du-proces-de-nuremberg.html"},
+            {"label": "Larousse, procès de Nuremberg", "url": "https://www.larousse.fr/encyclopedie/divers/proc%C3%A8s_de_Nuremberg/135784"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Combien de condamnations à mort le tribunal de Nuremberg a-t-il prononcées le 1er octobre 1946 ?",
+        "min": 0,
+        "max": 24,
+        "step": 1,
+        "unit": "",
+        "answer": 12,
+        "explain": "Douze, dont une par contumace (Bormann). Dix condamnés ont été pendus le 16 octobre 1946 ; Göring s'est suicidé la veille."
+      },
+      "flashcards": [
+        {"front": "Sous-évaluation initiale", "back": "Écart entre le prix d'introduction et le premier cours de marché. Anthropic : 83 dollars, puis 97,17 dollars à la clôture, soit environ 13,9 milliards de dollars « laissés sur la table »."},
+        {"front": "Malédiction du vainqueur (introductions en Bourse)", "back": "Les investisseurs peu informés reçoivent surtout des actions dans les opérations boudées par les mieux informés ; une décote moyenne est nécessaire pour qu'ils continuent à participer."},
+        {"front": "SOI (silicium sur isolant)", "back": "Plaquette à trois couches : support en silicium, oxyde isolant, fine couche de silicium active. Base de la photonique sur silicium."},
+        {"front": "Smart Cut", "back": "Procédé du CEA-Leti exploité par Soitec : implantation d'hydrogène, collage, puis clivage thermique d'une couche de silicium ultra-mince ; la plaquette donneuse est réutilisée."},
+        {"front": "Guide d'onde en silicium", "back": "Ruban de silicium (indice ≈ 3,5) entouré d'oxyde (≈ 1,45) qui confine la lumière à 1 310 ou 1 550 nm par réflexion totale."},
+        {"front": "Indice de diffusion", "back": "Part des réponses « hausse » moins part des réponses « baisse » dans une enquête. Philadelphie : 6,3 en novembre, contre 20,9 en octobre."},
+        {"front": "Crimes contre l'humanité", "back": "Catégorie juridique appliquée pour la première fois à Nuremberg en 1945-1946 : meurtres, exterminations et persécutions contre des populations civiles."}
+      ],
+      "quiz": [
+        {"q": "Que mesure l'argent « laissé sur la table » lors d'une introduction en Bourse ?", "choices": ["Les commissions des banques", "L'écart entre prix d'introduction et cours du marché, multiplié par le nombre d'actions vendues", "Les actions non vendues", "Les dividendes futurs"], "answer": 1, "explain": "Chez Anthropic, environ 14,17 dollars × 980 millions d'actions, soit 13,9 milliards de dollars à la clôture."},
+        {"q": "Pourquoi le silicium convient-il pour guider la lumière à 1 550 nm ?", "choices": ["Il est conducteur", "Il est transparent à cette longueur d'onde et a un indice élevé", "Il émet de la lumière", "Il est magnétique"], "answer": 1, "explain": "Son écart d'énergie de 1,12 eV le rend transparent au-delà d'environ 1,1 µm, et son indice de 3,5 confine la lumière."},
+        {"q": "Que signifie un indice de diffusion de 6,3 ?", "choices": ["La production a crû de 6,3 %", "Un peu plus d'entreprises voient l'activité monter que baisser", "6,3 % des entreprises sont en faillite", "Les prix ont monté de 6,3 %"], "answer": 1, "explain": "C'est un solde d'opinions, pas une mesure de la production."},
+        {"q": "Quelle part de l'investissement énergétique 2026 va aux énergies fossiles selon l'AIE ?", "choices": ["Environ 10 %", "Environ un tiers", "Environ la moitié", "Environ 80 %"], "answer": 1, "explain": "Environ 1 200 milliards de dollars sur 3 400 milliards."},
+        {"q": "En combien de langues le procès de Nuremberg était-il interprété en simultané ?", "choices": ["2", "3", "4", "6"], "answer": 2, "explain": "Anglais, français, allemand et russe."}
+      ]
+    }
+  ]
+}

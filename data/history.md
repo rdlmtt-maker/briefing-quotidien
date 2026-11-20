@@ -126,3 +126,18 @@ Format : date | chapitre | sujet | angle déjà traité
 2026-11-19 | savoirs | Arsenaux nucléaires SIPRI 2025, New START | 
 2026-11-19 | savoirs | PER vs multiple de ventes | 
 2026-11-19 | savoirs | Éphéméride : Gettysburg, Apollo 12 foudre, Pelé 1000e but ; saint Tanguy | 
+2026-11-20 | monde | Anthropic 1er jour | 1er échange 111,50 $ (11 h 50), plus haut 115,10, clôture 97,17 (+17,07 %), 846 M titres, 980 M actions / 81,3 Md$, ~1 750 Md$, 15 % particuliers, Misanthropic Statement, perte 9 mois 104 Md$
+2026-11-20 | monde | Marchés 19/11 : 6e baisse S&P (7 175,83, −2,02 %), Dow 49 097 (−1 101), Nasdaq −2,25 %, VIX 28,44 | AMD −7,72 % Hunterbrook/IEIT, Nvidia −3,30 %, Walmart, Palo Alto, Intel 18A, Philly Fed 6,3 / prix 47, chômage 203 000, Waller 50 pb, 10 ans 5,04 %
+2026-11-20 | monde | Déclaration de Shenzhen | pétrole/gaz, ONU, stabilité stratégique, CPI/immunités, Poutine « pas de négociations après le pont de Crimée », Trump 12/10, Kaine, conférence vendredi
+2026-11-20 | monde | Berlin coalition des volontaires | ~40 pays, Kushner/Witkoff-Merz, délégation NSA UK/FR/DE/IT/PL + UE, Poutine accepte présence européenne, nouvelle frappe pont
+2026-11-20 | monde | Iran | Trump armes chimiques/bio puis « pas pressé », Netanyahou 4-7 jours (NYT), coût 48 Md$ (A. Miller), capitaine Adnoc disparu, tour PIF Riyad, Najafi AIEA, stocks US +3,4 M b
+2026-11-20 | monde | COP31 projet 9 pages | fossiles retirés, 120 Md$ adaptation retiré, 35 % électricité 2035 maintenu, dépassement 1,5 °C reconnu, Adow, Hoekstra 3 tests
+2026-11-20 | france | PLF 2027 au Sénat | rejet 1re partie 4/11, n° 155, séances 20/11-9/12, déficit 5,0 %, dette 121,7 %, PO 44,2 %, dépense 1 782 Md€ (+0,6 % vol.)
+2026-11-20 | france | Mobilisation jeunesse 20/11 + acte VI 21/11 | Intérieur 575 000/146 000/106 000, TCL Lyon B-C-D (200 €), Rennes 42/89 écoles, Dijon, vie chère 7 pays, Saint-Denis 28-29/11
+2026-11-20 | france | Territoires zéro chômeur 2e lecture AN | 4 322 salariés, 85 territoires, fin 31/12/2026, retrait départements préavis 1 an, vote conforme demandé
+2026-11-20 | france | Bourse 19/11 | CAC 8 080,74 (−0,81 %), Soitec +12 % (S1 317 M€ +37 %, perte 45 M€), ADP +3,9 % (ART), Riber, OAT 12 Md€ ; agenda Choose France 23/11
+2026-11-20 | savoirs | Sous-évaluation des IPO (argent laissé sur la table, malédiction du vainqueur, sous-performance long terme) | 
+2026-11-20 | savoirs | SOI / Smart Cut / photonique sur silicium (indices 3,5/1,45, gap 1,12 eV) | 
+2026-11-20 | savoirs | Indice de diffusion (Philly Fed) | 
+2026-11-20 | savoirs | AIE World Energy Investment 2026 (3 400 Md$, 2 200/1 200) | 
+2026-11-20 | savoirs | Éphéméride : Nuremberg 1945, CIDE 1989 ; saint Edmond | 
