@@ -141,3 +141,19 @@ Format : date | chapitre | sujet | angle déjà traité
 2026-11-20 | savoirs | Indice de diffusion (Philly Fed) | 
 2026-11-20 | savoirs | AIE World Energy Investment 2026 (3 400 Md$, 2 200/1 200) | 
 2026-11-20 | savoirs | Éphéméride : Nuremberg 1945, CIDE 1989 ; saint Edmond | 
+2026-11-21 | monde | Marchés 20/11 : Nasdaq −5,28 % (22 618, négatif sur 2026), S&P −3,70 % (6 910, correction, 7e baisse), Dow −1,93 % ; semaine −10/−8,6/−8 % | Micron, AMD, Broadcom (Google), TSMC, Taïwan EWT −10,95 %, Anthropic −8,5 % (88,91), Intuit/Mailchimp, or −3 %, BTC 59 000, 10 ans 4,91 %, Michigan 51,5, Cook
+2026-11-21 | monde | Nvidia : enquête SEC comptabilité (Reuters) | −14 % (125,53), ~431 Md$ (24/7), pire séance depuis DeepSeek, −46 % du record, Singapour, financement circulaire, Woodcock, Hugging Face DOJ, audition Huang 1/12
+2026-11-21 | monde | Missiles Kh-101 + drone en Pologne | Nowy Lipowiec, Rudnik nad Sanem, Mołodycz, Tusk « provocation intentionnelle », Eastern Sentry F-35/AWACS, ONU, article 4 non confirmé, Lviv Sknyliv
+2026-11-21 | monde | Conférence de presse Trump 20/11 | Poutine, Xi garde-fous IA, taxe data centers à l'étranger, rumeur bombe sale, Huang « second chance », Miller candidat ?
+2026-11-21 | monde | COP31 prolongée | fossiles absents, CCUS salué, 120 Md$ retiré / triplement 2035, coalition France-Panama, objection Navarro, Barbut, 35 by 35, Turquie 26 Md$ dont 15 Md$ Chine
+2026-11-21 | monde | Pétrole 3e baisse hebdo | Brent 92,57 (−3,4 % sem.), WTI 83,41, AIE excédent 2 Mb/j, Wright flux record, Windward 5 pétroliers, Liberman
+2026-11-21 | france | Bourse 20/11 | CAC 7 928 (−1,89 %, >−5 % sem.), Ubisoft −23 % (guidance 250 M€, dette 675 M€ 2027), Worldline −15,5 % (FT trésorerie), Vallourec −14,6 %, Abivax
+2026-11-21 | france | PLF 2027 Sénat question préalable rejetée 249-19-77 | PS/écolos abstention, Amiel 6 Md€ d'économies, Lecornu priorités de compromis, fin 9/12
+2026-11-21 | france | Mobilisation 21/11 | intersyndicale IdF + jeunesse + GJ + DAL, République-Nation, 70 000 FdO, mortiers interdits jusqu'au 27/11, 6 000 tirs, 200 M€ France Assureurs
+2026-11-21 | france | Matinales 20/11 | Tanguy retraites RN, Nuñez préfet du Loiret (fuites RN), Jeanbrun DPE, Lefèvre/Larcher présidentielle anticipée, Farandou arrêts maladie
+2026-11-21 | france | Votre argent | directive crédit conso (découverts, LOA), chèque énergie guichet 14/01, 62 % cash à domicile
+2026-11-21 | savoirs | Correction/marché baissier/asymétrie p/(1−p), pondération prix vs capitalisation | 
+2026-11-21 | savoirs | Kh-101, horizon radar 4,12(√h1+√h2), articles 4/5 OTAN | 
+2026-11-21 | savoirs | Captage et stockage du carbone (millième, pénalité 14-40 %, coûts, 70 % projets abandonnés) | 
+2026-11-21 | savoirs | Montgolfière 21/11/1783, portance air chaud 0,28 kg/m³ | 
+2026-11-21 | savoirs | Éphéméride : phonographe Edison 1877 ; Présentation de Marie | 

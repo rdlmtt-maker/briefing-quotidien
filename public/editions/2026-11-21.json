@@ -1,0 +1,743 @@
+{
+  "date": "2026-11-21",
+  "weekday": "samedi",
+  "saint": "Présentation de Marie",
+  "headline": "Le Nasdaq plonge de 5,3 % sur fond d'enquête de la SEC sur Nvidia, des missiles russes tombent en Pologne, et la COP31 joue les prolongations.",
+  "chapters": [
+    {
+      "id": "monde",
+      "name": "Monde",
+      "minutes": 11,
+      "lede": [
+        "Le Nasdaq a perdu 5,28 % vendredi, sa pire séance de l'année, et efface tous ses gains de 2026. Le S&P 500 (−3,70 %) entre en correction, à plus de 10 % de son record, après sept baisses d'affilée.",
+        "Le déclencheur : selon Reuters, les enquêteurs de la SEC examinent de possibles problèmes comptables chez Nvidia. L'action a chuté de 14 %, soit plus de 400 milliards de dollars de valeur effacés en une journée.",
+        "Au même moment, deux missiles de croisière russes et un drone sont tombés en Pologne pendant une attaque massive contre l'Ukraine. Varsovie parle de « provocation intentionnelle » et réclame des moyens à l'OTAN."
+      ],
+      "articles": [
+        {
+          "kicker": "Marchés · Wall Street",
+          "title": "La pire semaine depuis 2020 : le Nasdaq efface son année",
+          "minutes": 3,
+          "chapo": "Vendredi 20 novembre, la vente des valeurs de l'intelligence artificielle a tourné à la débâcle. Sur la semaine, le Nasdaq recule de 10 %, le S&P 500 de 8,6 % et le Dow Jones de 8 %.",
+          "body": [
+            "Le S&P 500 a clôturé à 6 910,39 points, en baisse de 3,70 %, soit 265 points perdus en une séance. C'est sa septième baisse consécutive, selon Reuters. L'indice se trouve désormais à plus de 10 % sous son record, le seuil conventionnel d'une « correction ». Le Nasdaq Composite a fini à 22 617,73 points (−5,28 %), et le Dow Jones à 48 147,33 points (−1,93 %). D'après l'agence AP, le Nasdaq est désormais en recul de 2,7 % depuis le 1er janvier, quand le S&P 500 ne garde que 0,9 % de hausse et le Dow 0,2 %.",
+            "La semaine est la pire depuis mars 2020 pour le Dow Jones. Mesurés par leurs fonds indiciels, le S&P 500 (SPY) se trouve 11,5 % sous son record du 6 octobre et le Dow (DIA) 11,4 % sous son record du 5 août. Le fonds qui réplique le Nasdaq 100 a perdu 5,67 % sur la seule journée de vendredi.",
+            "Les semi-conducteurs ont concentré la panique. Nvidia a perdu 14,01 %, Micron 13,89 %, AMD 13,25 %, Broadcom environ 12,2 % et TSMC 9,48 %. Pour Broadcom, la Motley Fool cite des informations non confirmées selon lesquelles Google réduirait ses commandes de puces l'an prochain. L'Asie avait donné le ton : le fonds qui réplique Taïwan a chuté de 10,95 % vendredi, sa plus forte baisse hebdomadaire depuis juin 2000 (−23,2 % depuis le 13 novembre), celui de la Corée du Sud de 8,42 %.",
+            "Anthropic n'a pas échappé au mouvement. Au lendemain de son introduction, l'action a reculé de 8,50 % à 88,91 dollars. Elle reste 7,1 % au-dessus du prix d'introduction de 83 dollars, mais 20,3 % sous le premier cours coté jeudi (111,50 dollars). Le courtier Seaport Research a lancé sa couverture avec une recommandation neutre. Intuit a perdu 12,77 % malgré un chiffre d'affaires trimestriel en hausse de 12 %, et a annoncé la vente de Mailchimp à Bending Spoons pour environ 3,68 milliards de dollars.",
+            "Les valeurs refuges ont joué leur rôle à moitié. Le rendement du Trésor américain à 10 ans a reculé à 4,91 % et les obligations longues ont gagné 1,37 %. L'énergie et les services aux collectivités ont monté. Mais l'or a perdu 3,02 % à 3 517 dollars l'once, et le bitcoin 5,1 % à environ 59 057 dollars, signe de ventes forcées pour couvrir des pertes ailleurs.",
+            "Les stratèges sont divisés. Pour Bénédicte Lowe, de BNP Paribas, il s'agit de « ventes de panique ». Binky Chadha, de Deutsche Bank, juge le marché « très survendu ». La gouverneure de la Fed Lisa Cook a, elle, rappelé depuis le Chili qu'attendre trop longtemps pour relever les taux risquait de mettre la banque centrale « en retard ». Seule éclaircie macroéconomique : l'indice de confiance des consommateurs de l'université du Michigan est remonté à 51,5 en novembre, contre 48,0 en octobre."
+          ],
+          "critique": "Une correction se mesure par rapport à un record, et ce record avait été atteint dans l'euphorie : le S&P 500 reste à peu près au niveau de janvier. La vraie question n'est donc pas la baisse elle-même, mais ce qu'elle révèle. Les mêmes valeurs ont porté la hausse et portent la chute : les sept plus grosses capitalisations, toutes liées à l'IA, ont rendu l'indice dépendant d'un seul pari. Attention aussi aux mots : « survendu » ou « panique » sont des jugements de stratèges dont le métier est de vendre des actions, pas des faits.",
+          "sources": [
+            {
+              "label": "Motley Fool, clôture du 20 novembre",
+              "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/"
+            },
+            {
+              "label": "StockTitan, séance du 20 novembre",
+              "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
+            },
+            {
+              "label": "The Financial (AP, Reuters), indices en correction",
+              "url": "https://finchannel.com/nasdaq-falls-5-3-as-sp-500-and-dow-enter-corrections/142573/american-business-trends/stock-prices/2026/11/"
+            }
+          ]
+        },
+        {
+          "kicker": "Tech · Régulation",
+          "title": "Nvidia : la SEC examine la comptabilité, l'action perd 14 %",
+          "minutes": 2,
+          "chapo": "D'après Reuters, les services d'enquête du gendarme boursier américain s'intéressent à de « possibles problèmes comptables » chez le premier fabricant de puces d'IA. Nvidia vaut désormais environ 46 % de moins qu'à son record du 6 octobre.",
+          "body": [
+            "L'information, publiée vendredi après-midi par Reuters sur la foi de deux personnes informées du dossier, précise que les équipes de la SEC chargées des sanctions « examinent de possibles problèmes comptables ». Reuters n'a pu déterminer ni la date d'ouverture de l'enquête ni la nature exacte des points examinés. Le Wall Street Journal avait évoqué mardi une enquête de la SEC sans en connaître l'objet. La SEC n'a pas commenté et Nvidia n'avait pas répondu à l'heure de la publication.",
+            "Il s'agit d'une procédure civile. Reuters rappelle que les enquêtes « ne sont pas une preuve d'infraction » et que beaucoup se referment sans sanction. L'agence cite deux éléments de contexte, sans les relier formellement à l'enquête : le changement de présentation géographique des ventes l'an dernier, qui a fait disparaître Singapour du tableau (le Financial Times estimait que près de la moitié du chiffre d'affaires y était facturée), et les inquiétudes des analystes sur les financements « circulaires » entre acteurs de l'IA. Le chef des enquêtes de la SEC, David Woodcock, a dit examiner les informations publiées par les entreprises d'IA.",
+            "L'action a clôturé à 125,53 dollars. Selon 24/7 Wall St., la séance a effacé environ 431 milliards de dollars de capitalisation et constitue la pire journée depuis la chute de 17 % provoquée par DeepSeek le 27 janvier 2025. Nvidia est retombée au quatrième rang mondial des capitalisations, selon Forbes. Mardi, la directrice générale par intérim, Colette Kress, avait promis d'être « beaucoup plus sélective » dans les financements accordés au secteur.",
+            "L'enquête s'ajoute à une série noire : démission de Jensen Huang le 12 novembre après la révélation de liaisons, dont une avec Alice Huang, que les autorités américaines soupçonnent d'espionnage pour la Chine (Pékin dément) ; examen par le ministère de la Justice du rachat de Hugging Face pour 12,9 milliards de dollars ; audition de Jensen Huang à huis clos par trois commissions de la Chambre le 1er décembre. Jensen Huang a perdu 17,3 milliards de dollars vendredi, selon Forbes. Le soir même, Donald Trump a dit souhaiter le voir revenir : « J'aimerais le voir revenir. »"
+          ],
+          "critique": "Une enquête dont personne ne connaît l'objet a suffi à effacer plus de 400 milliards de dollars : c'est la mesure de la fragilité de la confiance, pas de la gravité des faits. Les chiffres de 24/7 Wall St. (431 milliards, 2 700 milliards depuis octobre) sont ses propres calculs. Et le contexte cité par Reuters, Singapour et le financement circulaire, ne prouve rien en soi : ce sont des questions que les analystes posent depuis des mois. Prudence aussi sur l'appel de Trump à réintégrer Huang : le président est actionnaire de fait de l'industrie via les accords sur les exportations, et le conseil d'administration a exclu ce retour.",
+          "sources": [
+            {
+              "label": "Reuters via Investing.com, enquête de la SEC sur Nvidia",
+              "url": "https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460"
+            },
+            {
+              "label": "Forbes, la SEC et la comptabilité de Nvidia",
+              "url": "https://www.forbes.com/sites/fionariley/2026/11/20/sec-is-investigating-nvidias-accounting-practices-according-to-report/"
+            },
+            {
+              "label": "24/7 Wall St., pire séance depuis DeepSeek",
+              "url": "https://247wallst.com/investing/2026/11/20/nvidia-stock-plunges-12-after-reuters-reports-an-sec-probe-of-its-accounting-its-nvidias-worst-day-since-deepseek-and-it-has-lost-2-7-trillion-since-october/"
+            },
+            {
+              "label": "CBS News, conférence de presse de Trump (direct)",
+              "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "kicker": "Europe · Défense",
+          "title": "Des missiles russes tombent en Pologne : « une provocation intentionnelle »",
+          "minutes": 2,
+          "chapo": "Dans la nuit de jeudi à vendredi, deux missiles de croisière Kh-101 et un drone à réaction sont tombés dans le sud-est de la Pologne, pendant une frappe massive contre l'Ukraine. Aucune victime n'est signalée.",
+          "body": [
+            "Selon le ministre polonais de la Défense, Władysław Kosiniak-Kamysz, cité par Latin Times, un Kh-101 est tombé dans un champ près de Nowy Lipowiec, à une cinquantaine de kilomètres de la frontière ukrainienne. Un deuxième objet de type missile a été retrouvé près de Rudnik nad Sanem, et un drone, probablement à réaction, près de Mołodycz, à environ 30 kilomètres de la frontière. Les intercepteurs ont décollé et des batteries Patriot ont été activées vers 3 h 30, mais les trois engins ont franchi la frontière sans être arrêtés.",
+            "Le Premier ministre Donald Tusk a dénoncé, selon l'AP, une provocation « calculée pour coïncider avec des exercices militaires européens » : des troupes européennes s'entraînaient à proximité en vue d'une éventuelle mission de stabilisation en Ukraine après un cessez-le-feu. « C'était une provocation intentionnelle », a-t-il dit. Varsovie a demandé au secrétaire général de l'OTAN, Mark Rutte, des moyens supplémentaires dans le cadre de l'opération Eastern Sentry, notamment des F-35 et des avions de surveillance radar, et va porter l'affaire devant le Conseil de sécurité de l'ONU.",
+            "Mark Rutte a jugé ces violations réelles, imputables à la Russie et « clairement dangereuses ». L'AP rapporte que l'OTAN parle de « violation ». Un titre de Latin Times affirme que la Pologne invoque l'article 4 du traité de l'Atlantique Nord (consultations entre alliés), mais le corps de l'article, comme la dépêche de l'AP, parle seulement de consultations urgentes et d'une demande de moyens : l'invocation formelle n'est pas confirmée.",
+            "Les engins visaient l'Ukraine, frappée par une vague de missiles et de drones quelques heures après que Vladimir Poutine eut promis une réponse « douloureuse » aux attaques contre le pont de Crimée. La gare de Sknyliv, à Lviv, a été touchée. Avant l'incident, Donald Trump avait minimisé de précédents survols en parlant de drones et de « quelques petits missiles » envoyés en Pologne « par erreur ». Le précédent de référence reste novembre 2022, quand un missile de la défense antiaérienne ukrainienne avait tué deux personnes à Przewodów."
+          ],
+          "critique": "Trois engins sont passés sans être interceptés au-dessus d'un pays de l'OTAN en alerte depuis la veille : c'est le fait le plus inquiétant, et le moins commenté par les gouvernements. Un missile de croisière qui vole à quelques dizaines de mètres du sol laisse quelques minutes de réaction. La qualification d'« intentionnelle » reste une accusation politique : aucune preuve publique ne distingue, à ce stade, une trajectoire délibérée d'une déviation. L'intérêt de Varsovie à dramatiser, pour obtenir des moyens alliés, et celui de Moscou à tester les réactions, sont tous deux réels.",
+          "sources": [
+            {
+              "label": "AP via Local10, missiles russes en Pologne",
+              "url": "https://www.local10.com/news/world/2026/11/20/poland-says-a-russian-missile-that-crashed-in-its-territory-was-a-provocation/"
+            },
+            {
+              "label": "Latin Times, Kh-101 et demande de moyens à l'OTAN",
+              "url": "https://www.latintimes.com/russian-weapons-crash-poland-nato-article-4-601654"
+            }
+          ]
+        },
+        {
+          "kicker": "États-Unis · Diplomatie",
+          "title": "Trump au retour de Chine : Poutine « fatigué », Xi et des « garde-fous » sur l'IA",
+          "minutes": 2,
+          "chapo": "Lors d'une longue conférence de presse vendredi, le président américain a défendu sa relation avec Vladimir Poutine, promis des taxes sur les centres de données construits à l'étranger et évoqué une « rumeur » de bombe sale iranienne.",
+          "body": [
+            "Donald Trump a qualifié sa tournée asiatique de l'une des plus réussies de l'histoire, avec « plus de 20 dirigeants » rencontrés en quatre jours et deux nouveaux accords commerciaux. De la rencontre à trois avec Xi Jinping et Vladimir Poutine, il a retenu « une grande électricité » et la responsabilité des trois premières puissances nucléaires. Selon CBS, il a affirmé ailleurs que la réunion portait « principalement sur l'Ukraine », alors que la déclaration commune ne mentionne pas ce pays.",
+            "Sur la Russie, il a rapporté que Poutine lui avait dit que l'invasion de 2022 n'aurait « jamais eu lieu » s'il avait été président, et jugé que le dirigeant russe traverse « un moment difficile » parce que la guerre « dure depuis cinq ans ». Sur l'intelligence artificielle, il a annoncé que Xi et lui étaient d'accord pour des « garde-fous communs », sans dire lesquels. Il a menacé d'une « taxe énorme » les entreprises américaines qui construiraient des centres de données hors des États-Unis, car « la Chine les prendra tous ».",
+            "Sur l'Iran, il a répété que Téhéran voulait un accord mais que l'offre n'était pas acceptable. Interrogé sur un projet de bombe sale visant Washington, il a parlé d'une « rumeur » et ajouté : « Nous ne le permettrons pas. » En politique intérieure, il s'est dit prêt à travailler avec les démocrates sur la santé, tout en promettant de mettre son veto à leurs textes, a approuvé le vice-président Vance qui attribuait la défaite des élections de mi-mandat à la guerre, et a demandé publiquement à son chef de cabinet Stephen Miller s'il voulait être candidat à la présidence."
+          ],
+          "sources": [
+            {
+              "label": "CBS News, conférence de presse de Trump (direct)",
+              "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "kicker": "Climat · Diplomatie",
+          "title": "COP31 : Antalya joue les prolongations sans les énergies fossiles",
+          "minutes": 2,
+          "chapo": "La conférence devait s'achever vendredi. Faute de consensus, elle se prolonge ce week-end. Le projet de « déclaration d'Antalya » ne mentionne plus la sortie des énergies fossiles, et une coalition menée par la France et le Panama menace de bloquer.",
+          "body": [
+            "Vendredi après-midi, la présidence n'avait publié aucune nouvelle version du texte et les délégations travaillaient toujours sur le projet de jeudi, selon ONU Info. Ce projet supprime les références explicites à l'abandon du charbon, du pétrole et du gaz, et se contente de rappeler le langage de la COP28, sans objectif ni calendrier. Il « salue » en revanche le développement du captage et du stockage du carbone, ce que le ministre du Vanuatu, Ralph Regenvanu, juge injustifié. Le chiffre de 120 milliards de dollars pour l'adaptation, réclamé par les pays en développement, a disparu ; il reste un engagement à « tripler » ce financement d'ici 2035, sans méthode de calcul.",
+            "Un groupe emmené par la France et le Panama, avec la Belgique, la Côte d'Ivoire, la Finlande, la Grèce, le Guatemala, l'Espagne, la Suède et le Vanuatu, estime que l'accord « n'est pas assez bon ». Le ministre panaméen Juan Carlos Navarro a annoncé une objection formelle à tout texte sans mention des fossiles. La ministre française Monique Barbut parle d'une « tache noire ». Les décisions se prennent au consensus : une seule objection formelle suffit à bloquer. Le négociateur en chef, l'Australien Chris Bowen, a promis de ne pas quitter Antalya sans consensus.",
+            "Seul acquis concret : l'électrification. Le texte salue l'objectif turc d'une électricité représentant 35 % de l'énergie finale mondiale en 2035. Le paquet volontaire de la présidence rassemble plus de 150 pays et l'Union européenne, 37 villes et plus de 260 entreprises. La Turquie revendique plus de 26 milliards de dollars d'accords signés pendant la conférence, dont un accord préliminaire de 15 milliards avec la Chine pour les renouvelables. Mohamed Adow, de Power Shift Africa, parle de « la pire COP de tous les temps »."
+          ],
+          "critique": "Un accord au consensus donne un droit de veto de fait aux producteurs de pétrole, ce qui explique le recul sur les fossiles ; mais il donne le même pouvoir au Panama. La coalition « ambitieuse » mêle d'ailleurs des pays dont la position coûte peu : la France produit très peu d'hydrocarbures. Quant aux 26 milliards d'accords turcs, ce sont des annonces, souvent préliminaires, que rien ne permet encore de vérifier. Le seul objectif chiffré qui survit, 35 % d'électricité, est un objectif mondial et volontaire.",
+          "sources": [
+            {
+              "label": "ONU Info, la COP31 au dernier jour",
+              "url": "https://news.un.org/en/story/2026/11/1168845"
+            },
+            {
+              "label": "ONU Info, les fossiles disparaissent du projet",
+              "url": "https://news.un.org/en/story/2026/11/1168839"
+            },
+            {
+              "label": "AFP via Manila Times, pas d'accord en vue",
+              "url": "https://www.manilatimes.net/2026/11/21/world/americas-emea/crunch-time-for-cop31-but-no-agreement-in-sight/2474972"
+            },
+            {
+              "label": "Climate Action, électrification et projet affaibli",
+              "url": "https://www.climateaction.org/news/cop31-reaches-its-final-day-new-momentum-on-electrification-but-a-weakened"
+            }
+          ]
+        },
+        {
+          "kicker": "Énergie · Moyen-Orient",
+          "title": "Pétrole : troisième semaine de baisse malgré les attaques à Ormuz",
+          "minutes": 1,
+          "chapo": "Le Brent a gagné 0,6 % vendredi, à 92,57 dollars, mais recule de 3,4 % sur la semaine. Le marché pèse un excédent attendu plus lourd que la guerre larvée dans le Golfe.",
+          "body": [
+            "Le baril de Brent a clôturé à 92,57 dollars et le WTI (contrat de janvier) à 83,41 dollars, en hausse de 1,2 %. Selon Bloomberg, le Brent a perdu environ un cinquième de sa valeur depuis le début du mois, à mesure que les exportations du Moyen-Orient se rétablissaient. L'Agence internationale de l'énergie prévoit un excédent d'environ 2 millions de barils par jour ce trimestre, et Goldman Sachs évoque un risque de surabondance l'an prochain. Le secrétaire américain à l'Énergie, Chris Wright, affirme que les flux à travers Ormuz atteignent un record ; Donald Trump dit ne pas être « pressé » de frapper l'Iran.",
+            "Sur le terrain, la guerre d'usure continue. La société Windward a recensé cinq pétroliers touchés près d'Ormuz entre le 11 et le 18 novembre, et parle d'une stratégie iranienne d'« attrition maritime ». En Israël, l'ancien ministre de la Défense Avigdor Liberman, qui préside la commission des Affaires étrangères et de la Défense de la Knesset, a estimé qu'aucune raison de sécurité ne justifiait de frapper l'Iran maintenant, et que si Benyamin Netanyahou le décidait, ce serait par calcul politique."
+          ],
+          "sources": [
+            {
+              "label": "Rigzone (Bloomberg), troisième baisse hebdomadaire du pétrole",
+              "url": "https://www.rigzone.com/news/wire/oil_posts_third_weekly_loss_amid_surplus-20-nov-2026-185141-article/"
+            },
+            {
+              "label": "OilPrice, attaques de pétroliers à Ormuz",
+              "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Steps-Up-Hormuz-Tanker-Attacks-as-Oil-Prices-Slide.html"
+            },
+            {
+              "label": "Times of Israel, direct du 20 novembre",
+              "url": "https://www.timesofisrael.com/liveblog-november-20-2026/"
+            }
+          ]
+        }
+      ],
+      "board": [
+        {
+          "label": "S&P 500",
+          "value": "6 910",
+          "change": -3.7
+        },
+        {
+          "label": "Nasdaq",
+          "value": "22 618",
+          "change": -5.28
+        },
+        {
+          "label": "Dow Jones",
+          "value": "48 147",
+          "change": -1.93
+        },
+        {
+          "label": "CAC 40",
+          "value": "7 928",
+          "change": -1.89
+        },
+        {
+          "label": "Nvidia",
+          "value": "125,53 $",
+          "change": -14.01
+        },
+        {
+          "label": "Anthropic (ANT)",
+          "value": "88,91 $",
+          "change": -8.5
+        },
+        {
+          "label": "Bitcoin",
+          "value": "≈59 060 $",
+          "change": -5.1
+        },
+        {
+          "label": "Or (once)",
+          "value": "≈3 517 $",
+          "change": -3.02
+        },
+        {
+          "label": "Brent (baril)",
+          "value": "92,57 $",
+          "change": 0.6
+        },
+        {
+          "label": "WTI (baril)",
+          "value": "83,41 $",
+          "change": 1.2
+        }
+      ],
+      "boardNote": "Clôtures du vendredi 20 novembre. Semaine : Nasdaq −10 %, S&P 500 −8,6 %, Dow −8 %, CAC 40 plus de −5 %. Taux américain à 10 ans : 4,91 %. WTI : contrat de janvier (le contrat de décembre, échu vendredi, a fini à 83,98 $). Bitcoin et or selon la Motley Fool en fin de séance américaine. Prochaine séance lundi 23 novembre ; Wall Street fermée jeudi 26 pour Thanksgiving.",
+      "estimate": {
+        "question": "Quelle part de sa valeur le Nasdaq Composite a-t-il perdue sur la seule séance du vendredi 20 novembre ?",
+        "min": 0,
+        "max": 12,
+        "step": 0.1,
+        "unit": "%",
+        "answer": 5.3,
+        "explain": "5,28 %, à 22 617,73 points. Sur la semaine, l'indice recule de 10 %, et il est désormais en baisse de 2,7 % depuis le 1er janvier."
+      },
+      "flashcards": [
+        {
+          "front": "Correction",
+          "back": "Baisse d'au moins 10 % d'un indice par rapport à son dernier record. Le S&P 500 y est entré vendredi, après sept séances de baisse."
+        },
+        {
+          "front": "SEC (Securities and Exchange Commission)",
+          "back": "Gendarme boursier américain. Ses enquêtes sont civiles. Selon Reuters, ses enquêteurs examinent de possibles problèmes comptables chez Nvidia."
+        },
+        {
+          "front": "Kh-101",
+          "back": "Missile de croisière russe tiré d'avion, d'environ 3 500 km de portée, qui vole à 30-70 m du sol. Deux sont tombés en Pologne vendredi."
+        },
+        {
+          "front": "Opération Eastern Sentry",
+          "back": "Dispositif de l'OTAN de surveillance du flanc est. La Pologne y a réclamé des F-35 et des avions radar après la chute des missiles."
+        },
+        {
+          "front": "Déclaration d'Antalya",
+          "back": "Projet de texte final de la COP31. La version du 19 novembre ne mentionne plus la sortie des énergies fossiles et salue le captage du carbone."
+        },
+        {
+          "front": "35 by 35",
+          "back": "Objectif porté par la Turquie : que l'électricité fournisse 35 % de l'énergie finale mondiale en 2035. Seul objectif chiffré qui survit dans le projet de la COP31."
+        },
+        {
+          "front": "Attrition maritime",
+          "back": "Stratégie qui use l'adversaire par des attaques répétées plutôt que par une bataille décisive. Windward l'attribue à l'Iran : 5 pétroliers touchés en une semaine."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "Quel indice a effacé tous ses gains de 2026 vendredi ?",
+          "choices": [
+            "Le Dow Jones",
+            "Le S&P 500",
+            "Le Nasdaq Composite",
+            "Le CAC 40"
+          ],
+          "answer": 2,
+          "explain": "Le Nasdaq, en recul de 2,7 % depuis le 1er janvier après −5,28 % vendredi. Le S&P 500 garde +0,9 %."
+        },
+        {
+          "q": "Qu'examinerait la SEC chez Nvidia, selon Reuters ?",
+          "choices": [
+            "Des ventes illégales en Chine",
+            "De possibles problèmes comptables",
+            "Un délit d'initié de Jensen Huang",
+            "Une entente sur les prix"
+          ],
+          "answer": 1,
+          "explain": "De possibles problèmes comptables, sans que Reuters sache lesquels ni depuis quand."
+        },
+        {
+          "q": "Quels engins sont tombés en Pologne vendredi ?",
+          "choices": [
+            "Un drone Shahed",
+            "Deux missiles de croisière Kh-101 et un drone à réaction",
+            "Un missile balistique Iskander",
+            "Un missile antiaérien ukrainien"
+          ],
+          "answer": 1,
+          "explain": "Deux Kh-101 et un drone, selon le ministre polonais de la Défense. Aucune victime."
+        },
+        {
+          "q": "Quel pays a annoncé une objection formelle à tout accord de la COP31 sans mention des fossiles ?",
+          "choices": [
+            "L'Arabie saoudite",
+            "La Turquie",
+            "Le Panama",
+            "L'Australie"
+          ],
+          "answer": 2,
+          "explain": "Le Panama, par la voix de son ministre Juan Carlos Navarro. Une seule objection suffit à bloquer un consensus."
+        },
+        {
+          "q": "Combien de semaines de baisse d'affilée pour le pétrole ?",
+          "choices": [
+            "Une",
+            "Deux",
+            "Trois",
+            "Cinq"
+          ],
+          "answer": 2,
+          "explain": "Trois : le Brent recule de 3,4 % sur la semaine, à 92,57 dollars, sous le poids d'un excédent attendu."
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "minutes": 10,
+      "lede": [
+        "Le CAC 40 a fini à 7 928 points vendredi (−1,89 %), sous la barre des 8 000, et perd plus de 5 % sur la semaine, sa pire depuis le début de la guerre en Iran en mars. Ubisoft s'effondre de 23 %.",
+        "Au Sénat, l'examen du budget 2027 a commencé : la motion de la gauche communiste pour arrêter les débats a été rejetée par 249 voix contre 19. Les votes s'étaleront jusqu'au 9 décembre.",
+        "Aujourd'hui, nouvelle journée de mobilisation : syndicats, organisations de jeunesse et Gilets jaunes défilent, à Paris de République à Nation, sous la surveillance d'environ 70 000 policiers et gendarmes."
+      ],
+      "articles": [
+        {
+          "kicker": "Bourse · Entreprises",
+          "title": "Le CAC 40 repasse sous 8 000 points, Ubisoft perd près d'un quart",
+          "minutes": 3,
+          "chapo": "Cinquième séance de baisse et semaine noire pour la Bourse de Paris, entraînée par le décrochage des valeurs de l'IA à Wall Street et en Asie. Trois valeurs françaises ont perdu plus de 14 % en une journée.",
+          "body": [
+            "Le CAC 40 a clôturé vendredi à 7 928 points, en baisse de 1,89 %. Sur la semaine, il perd plus de 5 %, ce qui efface l'essentiel du gain de 2,8 % de la semaine précédente. Selon MoneyVox, c'est la pire semaine depuis mars 2026, au début de la guerre en Iran, et avant cela depuis avril 2025 et les droits de douane américains. Tokyo et Séoul avaient perdu plus de 5 % dans la nuit. Les investisseurs s'inquiètent des valorisations de l'IA, des dépenses colossales dans les centres de données et de taux américains durablement élevés.",
+            "Ubisoft a chuté de 23,24 %, à 3,20 euros. Le chiffre d'affaires du trimestre, 389 millions d'euros, a dépassé les attentes, mais l'éditeur prévoit 250 millions d'euros pour le trimestre suivant, quand le marché en attendait 388 millions. Il invoque la concurrence de GTA 6 pendant les fêtes et des reports de sorties. La perte opérationnelle du semestre atteint 156 millions d'euros et l'entreprise a brûlé 338 millions d'euros de trésorerie. Elle doit rembourser 675 millions d'euros de dette en novembre 2027 et travaille à un refinancement. Le titre a perdu plus de 96 % depuis son sommet de 2018, et la moitié depuis janvier.",
+            "Worldline a perdu 15,47 %, à 8,07 euros, après un article du Financial Times affirmant que le spécialiste des paiements retardait ses paiements aux fournisseurs et demandait des avances à ses clients pour embellir sa trésorerie. Worldline dément toute irrégularité ; des actionnaires l'ont attaqué en justice. Vallourec a reculé de 14,57 %, à 15,47 euros : son excédent brut d'exploitation du troisième trimestre a baissé de 26 % sur un an, à 181 millions de dollars, et sa prévision pour le quatrième trimestre (170 à 210 millions) est inférieure aux 251 millions attendus. Abivax a perdu 17,21 % sans raison précise avancée.",
+            "Seules quelques valeurs défensives ou de services ont progressé : Capgemini (+1,42 %), Sopra Steria (+1,41 %) et Sanofi (+1,35 %). La Bourse de Paris est relativement épargnée par rapport à New York, parce qu'elle compte peu de valeurs de semi-conducteurs et beaucoup de luxe, de banques et d'industrie."
+          ],
+          "critique": "Le cas Worldline rappelle que la trésorerie se « maquille » plus facilement qu'on ne le croit : payer ses fournisseurs plus tard et encaisser ses clients plus tôt améliore le chiffre de fin de période sans rien changer à l'activité. C'est précisément le type de pratique que les marchés soupçonnent désormais partout, de Nvidia à Paris. Pour Ubisoft, le marché sanctionne moins un trimestre qu'un mur de dette : 675 millions d'euros à refinancer avec une action à 3,20 euros, c'est une augmentation de capital très diluante ou un adossement en perspective.",
+          "sources": [
+            {
+              "label": "MoneyVox, journal de la Bourse du 20 novembre",
+              "url": "https://www.moneyvox.fr/bourse/actualites/111354/cac-40-en-baisse-de-pres-de-2-krach-de-ia-ubisoft-le-journal-de-la-bourse-du-vendredi-20-novembre-2026"
+            }
+          ]
+        },
+        {
+          "kicker": "Parlement · Budget",
+          "title": "Budget 2027 : le Sénat refuse d'arrêter les débats",
+          "minutes": 2,
+          "chapo": "Le Sénat a engagé vendredi l'examen du projet de loi de finances pour 2027, déjà rejeté à l'Assemblée. La motion de la gauche communiste qui demandait son retrait a été écartée par 249 voix contre 19.",
+          "body": [
+            "La « question préalable », déposée par Pascal Savoldelli et le groupe CRCE-Kanaky, visait à faire décider qu'il n'y avait pas lieu de délibérer et à demander au gouvernement de retirer son texte. Elle a été rejetée par 249 voix contre 19, avec 77 abstentions. Les Républicains (123 sénateurs) et l'Union centriste (63) ont voté contre ; les socialistes (62) et les écologistes (15) se sont abstenus ; seuls les 18 membres du groupe CRCE-K et un non-inscrit ont voté pour.",
+            "Le vote est purement procédural : il n'adopte aucune recette ni aucune dépense. Il signifie simplement que la majorité sénatoriale, de droite et du centre, va réécrire le budget plutôt que de le rejeter, à la différence de l'Assemblée qui avait refusé la partie recettes le 4 novembre par 458 voix contre 0. Les débats se poursuivent jusqu'au 9 décembre, avec les ministres Roland Lescure (Économie) et David Amiel (Comptes publics) au banc et Christine Lavarde comme rapporteure générale.",
+            "Selon MoneyVox, David Amiel estime nécessaires au moins 6 milliards d'euros d'économies supplémentaires, et Sébastien Lecornu doit présenter « dans les prochains jours » ses priorités de compromis. La suite reste ouverte : commission mixte paritaire, recours au 49.3, ordonnances ou loi spéciale, les options déjà sur la table depuis le rejet à l'Assemblée."
+          ],
+          "critique": "Un Sénat qui « sauve » le budget en le réécrivant ne règle rien : la version sénatoriale devra ensuite être conciliée avec une Assemblée qui a rejeté le texte à l'unanimité. L'abstention socialiste est le signal le plus utile : elle laisse la porte ouverte à un compromis, sans engagement.",
+          "sources": [
+            {
+              "label": "PolitiqueMatin, question préalable rejetée au Sénat",
+              "url": "https://www.politiquematin.fr/budget-2027-senat-rejette-question-prealable-249-voix-20-novembre"
+            },
+            {
+              "label": "MoneyVox, journal de la Bourse du 20 novembre",
+              "url": "https://www.moneyvox.fr/bourse/actualites/111354/cac-40-en-baisse-de-pres-de-2-krach-de-ia-ubisoft-le-journal-de-la-bourse-du-vendredi-20-novembre-2026"
+            }
+          ]
+        },
+        {
+          "kicker": "Social · Mobilisation",
+          "title": "Samedi de mobilisation : syndicats, jeunesse et Gilets jaunes dans la rue",
+          "minutes": 2,
+          "chapo": "L'intersyndicale francilienne, les organisations étudiantes et lycéennes et la coordination des Gilets jaunes manifestent aujourd'hui pour les salaires, la vie chère et les services publics. C'est le sixième week-end de protestation consécutif.",
+          "body": [
+            "Selon Infodujour, l'appel réunit en Île-de-France la CGT, la CFDT, FO, la FSU et Solidaires, les organisations de jeunesse Fage, Unef, Union étudiante et Union syndicale lycéenne, la coordination des Gilets jaunes et l'association Droit au logement. Les revendications portent sur la vie chère, les salaires, les services publics, le droit au logement et le climat. La date coïncide avec le huitième anniversaire du mouvement des Gilets jaunes, né le 17 novembre 2018.",
+            "À Paris, le cortège ira de la place de la République à la place de la Nation, départ à 14 h. La préfecture a refusé le parcours Bastille-Concorde proposé par les Gilets jaunes, qui ont rejoint le défilé syndical. Seize stations de métro et de RER seraient fermées selon la RATP. À Lyon, les rassemblements sont restreints dans une partie du centre-ville.",
+            "Le ministère de l'Intérieur reconduit le dispositif des week-ends précédents : environ 70 000 policiers et gendarmes. La vente de certains mortiers d'artifice est interdite jusqu'au 27 novembre, après quelque 6 000 tirs contre les forces de l'ordre depuis le 17 octobre. France Assureurs chiffre à plus de 200 millions d'euros le coût des incidents des 17 et 18 octobre. Pour mémoire, la journée du 14 novembre avait réuni 106 000 manifestants selon l'Intérieur et 200 000 selon les organisateurs."
+          ],
+          "sources": [
+            {
+              "label": "Infodujour, manifestations du 21 novembre",
+              "url": "https://infodujour.fr/societe/police/88154-manifestations-21-novembre-70-000-policiers-et-enjeux-securitaires"
+            },
+            {
+              "label": "PolitiqueMatin, invités politiques du 20 novembre",
+              "url": "https://www.politiquematin.fr/enjeux-politiques-retraites-logement-novembre-2026"
+            }
+          ]
+        },
+        {
+          "kicker": "Politique · Matinales",
+          "title": "Retraites du RN, préfet du Loiret, présidentielle anticipée : ce qu'il fallait entendre vendredi",
+          "minutes": 2,
+          "chapo": "Les invités des matinales de vendredi ont surtout parlé du projet de retraites du RN, des soupçons de fuites d'un préfet vers ce parti et de l'idée d'avancer l'élection présidentielle.",
+          "body": [
+            "Sur France Inter, le député RN Jean-Philippe Tanguy a reconnu que le projet de retraites de son parti prendrait moins bien en compte le chômage, par exemple pour un salarié licencié à 38 ans après vingt ans de travail. Ses collègues Laurent Jacobelli (TF1) et Julien Odoul (franceinfo) ont défendu la suppression des interdictions de location liées au diagnostic de performance énergétique (DPE) et leur opposition à l'encadrement des loyers.",
+            "Le ministre de l'Intérieur, Laurent Nuñez, a confirmé sur BFMTV et RMC qu'il recevrait le préfet du Loiret après des informations de presse sur de possibles fuites d'informations confidentielles au profit du RN. Il a renvoyé l'enquête à la justice et n'a annoncé aucune sanction. Le ministre du Logement, Vincent Jeanbrun, veut rétablir les restrictions de location liées au DPE, avec un délai pour les travaux, par une nouvelle délibération ou en commission mixte paritaire.",
+            "Le porte-parole du gouvernement, Mathieu Lefèvre, a relativisé la proposition de Gérard Larcher d'avancer l'élection présidentielle, faite selon lui « en son nom », et répété que la priorité de la droite et du centre est d'être au second tour, derrière Édouard Philippe. Le ministre du Travail, Jean-Pierre Farandou, attend les propositions des partenaires sociaux pour économiser sur les arrêts maladie."
+          ],
+          "critique": "Des soupçons de fuites d'un préfet vers un parti candidat au pouvoir posent une question institutionnelle sérieuse : la neutralité de l'administration à cinq mois d'une présidentielle où le RN est en tête. À ce stade, il s'agit d'informations de presse et d'une enquête judiciaire, pas d'un fait établi. Le ministre a raison de ne pas sanctionner avant les faits, mais l'absence de suspension conservatoire sera lue politiquement.",
+          "sources": [
+            {
+              "label": "PolitiqueMatin, invités politiques du 20 novembre",
+              "url": "https://www.politiquematin.fr/enjeux-politiques-retraites-logement-novembre-2026"
+            }
+          ]
+        },
+        {
+          "kicker": "Votre argent",
+          "title": "Crédit à la consommation, chèque énergie, argent liquide : ce qui change",
+          "minutes": 1,
+          "chapo": "Trois nouvelles pratiques pour le portefeuille, publiées vendredi.",
+          "body": [
+            "De nouvelles règles de crédit à la consommation, issues de la transposition d'une directive européenne, sont entrées en vigueur vendredi. Elles concernent notamment les découverts bancaires et la location avec option d'achat (LOA) automobile, désormais mieux encadrés.",
+            "Le chèque énergie 2027 sera envoyé plus tôt. « Le guichet sera ouvert dès le 14 janvier », a indiqué Roland Lescure, pour les ménages qui ne le reçoivent pas automatiquement. Enfin, selon un sondage OpinionWay pour MoneyVox, 62 % des Français gardent de l'argent liquide chez eux par crainte d'une panne bancaire, d'un bug ou d'une cyberattaque, et 3 % conservent plus de 1 000 euros à domicile."
+          ],
+          "sources": [
+            {
+              "label": "MoneyVox, les trois infos argent du 20 novembre",
+              "url": "https://www.moneyvox.fr/votre-argent/actualites/111353/nouvelles-regles-du-credit-cheque-energie-2027-cash-a-domicile-les-3-infos-du-20-novembre-2026"
+            }
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "De combien l'action Ubisoft a-t-elle chuté vendredi ?",
+        "min": 0,
+        "max": 50,
+        "step": 1,
+        "unit": "%",
+        "answer": 23,
+        "explain": "−23,24 %, à 3,20 euros, à cause d'une prévision de 250 millions d'euros de chiffre d'affaires pour le trimestre suivant contre 388 millions attendus."
+      },
+      "flashcards": [
+        {
+          "front": "Question préalable",
+          "back": "Motion qui demande à une assemblée de décider qu'il n'y a pas lieu de délibérer sur un texte. Si elle est adoptée, le texte est rejeté. Celle de la gauche communiste au Sénat a été repoussée par 249 voix contre 19."
+        },
+        {
+          "front": "Rapporteur général du budget",
+          "back": "Parlementaire de la commission des finances qui suit tout le projet de loi de finances. Au Sénat : Christine Lavarde (LR)."
+        },
+        {
+          "front": "Refinancement",
+          "back": "Remplacer une dette qui arrive à échéance par une nouvelle. Ubisoft doit refinancer 675 millions d'euros dus en novembre 2027."
+        },
+        {
+          "front": "Excédent brut d'exploitation (Ebitda)",
+          "back": "Résultat de l'activité avant amortissements, intérêts et impôts. Celui de Vallourec a baissé de 26 % au troisième trimestre, à 181 millions de dollars."
+        },
+        {
+          "front": "LOA (location avec option d'achat)",
+          "back": "Location longue d'un bien, le plus souvent une voiture, avec possibilité de l'acheter à la fin. Les nouvelles règles du crédit à la consommation l'encadrent depuis vendredi."
+        },
+        {
+          "front": "DPE",
+          "back": "Diagnostic de performance énergétique, de A à G. Les logements les moins bien classés font l'objet d'interdictions de location progressives, que le RN veut supprimer et le ministre Jeanbrun rétablir."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "À quel niveau le CAC 40 a-t-il clôturé vendredi ?",
+          "choices": [
+            "7 528 points",
+            "7 928 points",
+            "8 147 points",
+            "8 361 points"
+          ],
+          "answer": 1,
+          "explain": "7 928 points (−1,89 %), sous les 8 000 points, après plus de 5 % de baisse sur la semaine."
+        },
+        {
+          "q": "Par combien de voix le Sénat a-t-il rejeté la motion d'arrêt des débats budgétaires ?",
+          "choices": [
+            "458 contre 0",
+            "249 contre 19",
+            "201 contre 124",
+            "124 contre 34"
+          ],
+          "answer": 1,
+          "explain": "249 contre 19, avec 77 abstentions, dont les socialistes et les écologistes."
+        },
+        {
+          "q": "Que reproche le Financial Times à Worldline ?",
+          "choices": [
+            "Une fraude fiscale",
+            "D'embellir sa trésorerie en retardant ses fournisseurs et en demandant des avances",
+            "Une panne géante",
+            "Une fuite de données"
+          ],
+          "answer": 1,
+          "explain": "Retarder ses paiements aux fournisseurs et demander des avances aux clients. Worldline dément toute irrégularité."
+        },
+        {
+          "q": "Combien de policiers et gendarmes sont mobilisés pour les manifestations du 21 novembre ?",
+          "choices": [
+            "7 000",
+            "25 000",
+            "70 000",
+            "150 000"
+          ],
+          "answer": 2,
+          "explain": "Environ 70 000, comme les week-ends précédents."
+        },
+        {
+          "q": "Quelle part des Français garde de l'argent liquide chez soi, selon OpinionWay ?",
+          "choices": [
+            "12 %",
+            "35 %",
+            "62 %",
+            "88 %"
+          ],
+          "answer": 2,
+          "explain": "62 %, par crainte de pannes bancaires ou de cyberattaques ; 3 % gardent plus de 1 000 euros."
+        }
+      ]
+    },
+    {
+      "id": "savoirs",
+      "name": "Savoirs",
+      "minutes": 10,
+      "lede": [
+        "Correction, marché baissier, krach : les seuils de 10 et 20 % sont des conventions, mais l'arithmétique des pertes, elle, est implacable. Perdre 46 %, comme Nvidia depuis octobre, impose de regagner 85 %.",
+        "Pourquoi un missile de croisière peut-il traverser une frontière sous la surveillance de batteries Patriot ? Parce qu'en volant à 50 mètres du sol, il reste caché derrière la courbure de la Terre jusqu'au dernier moment.",
+        "Il y a 243 ans jour pour jour, deux hommes survolaient Paris dans un ballon à air chaud. Le calcul de la poussée d'Archimède explique pourquoi il fallait un ballon de la taille d'un immeuble."
+      ],
+      "articles": [
+        {
+          "kicker": "Finance · Mathématiques",
+          "title": "Correction, marché baissier, krach : l'arithmétique des pertes",
+          "minutes": 2,
+          "chapo": "Les mots de la Bourse reposent sur des seuils simples. Mais une baisse et la hausse qui la compense ne sont jamais symétriques.",
+          "body": [
+            "Par convention, on parle de correction quand un indice recule d'au moins 10 % par rapport à son dernier record, et de marché baissier (« bear market ») au-delà de 20 %. Ces seuils n'ont aucune justification théorique : ce sont des repères de journalistes et de gérants. Ils servent surtout à dater les épisodes. Exemple récent : le S&P 500 a perdu 18,9 % entre le 19 février et le 8 avril 2025, juste sous le seuil du marché baissier, avant de retrouver un record le 27 juin. Le mot « krach » n'a pas de définition chiffrée ; il désigne une chute brutale, sur un ou quelques jours.",
+            "La règle à retenir est l'asymétrie. Si un actif perd une fraction p, il doit ensuite gagner p / (1 − p) pour revenir à son point de départ. Une baisse de 10 % exige un rebond de 11,1 % ; une baisse de 20 % un rebond de 25 % ; une baisse de 50 % un doublement. Nvidia, à 46 % sous son record du 6 octobre, devrait gagner environ 85 % pour le retrouver. C'est pourquoi les gérants surveillent la « perte maximale » (drawdown) autant que la performance moyenne.",
+            "Pourquoi le Nasdaq a-t-il perdu 5,3 % vendredi quand le Dow Jones ne cédait que 1,9 % ? D'abord par composition : le Nasdaq est dominé par la technologie. Ensuite par mode de calcul : le Nasdaq et le S&P 500 pondèrent chaque entreprise par sa capitalisation boursière, si bien que les géants de l'IA y pèsent lourd ; le Dow Jones, lui, pondère par le prix de l'action, ce qui donne plus de poids à une action à 600 dollars qu'à une action à 125 dollars, quelle que soit la taille de l'entreprise. Le même choc produit donc des chiffres très différents selon l'indice."
+          ],
+          "sources": [
+            {
+              "label": "Wikipédia (en), correction de marché",
+              "url": "https://en.wikipedia.org/wiki/Market_correction"
+            },
+            {
+              "label": "Motley Fool, clôture du 20 novembre",
+              "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/"
+            },
+            {
+              "label": "24/7 Wall St., pire séance depuis DeepSeek",
+              "url": "https://247wallst.com/investing/2026/11/20/nvidia-stock-plunges-12-after-reuters-reports-an-sec-probe-of-its-accounting-its-nvidias-worst-day-since-deepseek-and-it-has-lost-2-7-trillion-since-october/"
+            }
+          ]
+        },
+        {
+          "kicker": "Défense · Physique",
+          "title": "Kh-101 : pourquoi un missile de croisière passe sous les radars",
+          "minutes": 3,
+          "chapo": "Le missile tombé en Pologne vole lentement, moins vite qu'un avion de ligne. Sa force est ailleurs : il épouse le relief, et la courbure de la Terre le cache.",
+          "body": [
+            "Le Kh-101 est un missile de croisière russe tiré depuis des bombardiers : huit sous les ailes d'un Tu-95MS, douze dans les soutes d'un Tu-160. Il mesure 7,45 m, pèse environ 2 400 kg et emporte une charge de 400 kg (jusqu'à 800 kg sur certaines versions récentes, au prix d'une portée réduite). Sa portée atteint environ 3 500 km. Il croise vers 700 km/h, soit Mach 0,58, propulsé par un petit turboréacteur à double flux.",
+            "Son guidage combine une centrale inertielle, des recalages par satellite (GLONASS) et la comparaison du relief survolé avec une carte numérique chargée avant le vol. Cette technique, dite de suivi de terrain, lui permet de voler à 30 à 70 mètres du sol, avec une précision annoncée de 6 à 10 mètres.",
+            "Pourquoi voler si bas ? À cause de l'horizon radar. Une onde radar se propage presque en ligne droite ; la Terre étant ronde, un objet très bas disparaît derrière l'horizon. Avec un rayon terrestre « effectif » corrigé de la réfraction atmosphérique, la portée d'horizon vaut environ 4,12 × (√h₁ + √h₂) kilomètres, avec les hauteurs en mètres. Pour un radar au sol dont l'antenne est à 10 m et un missile à 30 m : 4,12 × (3,2 + 5,5) ≈ 36 km. À 700 km/h, le missile parcourt ces 36 km en environ trois minutes. C'est exactement le délai d'identification évoqué pour l'OTAN vendredi.",
+            "Un radar aéroporté change tout : placé à 9 000 mètres, il voit un missile à 30 m jusqu'à environ 400 km. D'où la demande polonaise d'avions de surveillance radar plutôt que de nouvelles batteries au sol.",
+            "Côté droit, la Pologne a demandé des consultations et des moyens à l'OTAN. L'article 4 du traité de l'Atlantique Nord prévoit des consultations quand « l'intégrité territoriale, l'indépendance politique ou la sécurité » d'un membre est menacée ; il avait été invoqué neuf fois en septembre 2025, dont par la Pologne après les drones russes de septembre 2025. L'article 5, la défense collective, ne l'a été qu'une fois, après le 11 septembre 2001."
+          ],
+          "critique": "La formule d'horizon radar est une approximation (rayon terrestre multiplié par 4/3 pour tenir compte de la réfraction) : selon la météo, la portée réelle varie. Et la précision de 6 à 10 m est une donnée constructeur, invérifiable indépendamment.",
+          "sources": [
+            {
+              "label": "Wikipédia (en), Kh-101",
+              "url": "https://en.wikipedia.org/wiki/Kh-101"
+            },
+            {
+              "label": "Wikipédia (en), Traité de l'Atlantique Nord",
+              "url": "https://en.wikipedia.org/wiki/North_Atlantic_Treaty"
+            },
+            {
+              "label": "Latin Times, Kh-101 et demande de moyens à l'OTAN",
+              "url": "https://www.latintimes.com/russian-weapons-crash-poland-nato-article-4-601654"
+            }
+          ]
+        },
+        {
+          "kicker": "Énergie · Climat",
+          "title": "Captage du carbone : ce que la COP31 veut « saluer »",
+          "minutes": 2,
+          "chapo": "Le projet de déclaration d'Antalya encourage le captage et le stockage du CO₂. Les ordres de grandeur expliquent pourquoi tant de délégations s'en méfient.",
+          "body": [
+            "Le principe : séparer le CO₂ des fumées d'une usine ou d'une centrale, le comprimer, le transporter par canalisation et l'injecter dans une formation géologique profonde. En 2024, 44 installations fonctionnaient dans le monde et captaient environ un millième des émissions mondiales de CO₂.",
+            "Le captage coûte de l'énergie. Les études citées par le GIEC estiment qu'une centrale à charbon équipée doit brûler 14 à 40 % de charbon en plus pour produire la même électricité, et une centrale à gaz à cycle combiné 11 à 22 % de gaz en plus. C'est la « pénalité énergétique » : il faut chauffer le solvant qui absorbe le CO₂ pour le régénérer, puis comprimer le gaz à plus de 100 bars.",
+            "Le coût par tonne dépend de la concentration du CO₂. Il est faible (15 à 25 dollars) quand le gaz est déjà presque pur, comme dans le traitement du gaz naturel ; il monte à 40-120 dollars pour l'électricité, le ciment ou l'acier, et au-delà de 1 000 dollars pour le captage direct dans l'air, où le CO₂ ne représente que 0,04 % du volume. Surtout, une revue de 2022 a montré qu'environ 70 % des projets annoncés n'avaient jamais vu le jour, et plus de 98 % dans le secteur électrique. Environ 80 % du CO₂ capté sert à la récupération assistée du pétrole : on l'injecte dans des gisements pour en extraire davantage."
+          ],
+          "critique": "Le captage est indispensable pour le ciment, dont le procédé libère du CO₂ indépendamment de l'énergie utilisée. Mais le mettre en avant dans un texte qui ne parle plus de sortir des fossiles permet aux producteurs de présenter leur pétrole comme compatible avec le climat. Le chiffre clé reste le millième : la technologie existe depuis des décennies et n'a jamais changé d'échelle.",
+          "sources": [
+            {
+              "label": "Wikipédia (en), captage et stockage du carbone",
+              "url": "https://en.wikipedia.org/wiki/Carbon_capture_and_storage"
+            },
+            {
+              "label": "ONU Info, les fossiles disparaissent du projet",
+              "url": "https://news.un.org/en/story/2026/11/1168839"
+            },
+            {
+              "label": "AFP via Manila Times, pas d'accord en vue",
+              "url": "https://www.manilatimes.net/2026/11/21/world/americas-emea/crunch-time-for-cop31-but-no-agreement-in-sight/2474972"
+            }
+          ]
+        },
+        {
+          "kicker": "Histoire des sciences · Physique",
+          "title": "21 novembre 1783 : la poussée d'Archimède emporte deux hommes au-dessus de Paris",
+          "minutes": 2,
+          "chapo": "Il y a 243 ans, Pilâtre de Rozier et le marquis d'Arlandes réalisaient le premier vol libre habité, dans une montgolfière partie du château de la Muette.",
+          "body": [
+            "Le vol a duré 25 minutes, couvert environ 9 kilomètres et atteint près de 900 mètres d'altitude. Le ballon s'est posé à la Butte-aux-Cailles, entre deux moulins. Il restait assez de combustible pour aller quatre à cinq fois plus loin. Les deux aéronautes entretenaient le feu dans un brasier suspendu sous l'ouverture du ballon.",
+            "Le calcul de la portance tient en une ligne. La masse volumique de l'air est inversement proportionnelle à sa température absolue. À 15 °C (288 K), l'air pèse environ 1,225 kg/m³. Chauffé à 100 °C (373 K), il ne pèse plus que 1,225 × 288 / 373 ≈ 0,95 kg/m³. Chaque mètre cube d'air chaud « porte » donc environ 0,28 kg.",
+            "Pour soulever deux hommes, une nacelle, un brasier, du combustible et l'enveloppe elle-même, soit plusieurs centaines de kilos, il faut donc des milliers de mètres cubes. Les montgolfières habitées de l'époque mesuraient de l'ordre de 1 700 m³, 23 mètres de haut et 15 mètres de diamètre : à peine 475 kg de portance avec un air à 100 °C."
+          ],
+          "sources": [
+            {
+              "label": "Wikipédia (en), frères Montgolfier",
+              "url": "https://en.wikipedia.org/wiki/Montgolfier_brothers"
+            }
+          ]
+        },
+        {
+          "kicker": "Éphéméride",
+          "title": "Le phonographe d'Edison, la Présentation de Marie",
+          "minutes": 1,
+          "chapo": "Ce que le 21 novembre rappelle.",
+          "body": [
+            "Le 21 novembre 1877, Thomas Edison annonçait l'invention du phonographe, présenté le 29 novembre et breveté le 19 février 1878. Le principe : une membrane mise en vibration par la voix entraîne un stylet qui grave en profondeur (« en colline et vallée ») une feuille d'étain enroulée sur un cylindre rainuré, qui tourne et avance sur une vis. À la lecture, le stylet suit les creux et fait vibrer la membrane en sens inverse. Le premier enregistrement, « Mary Had a Little Lamb », n'a pas été conservé.",
+            "L'Église catholique célèbre ce jour la Présentation de Marie au Temple."
+          ],
+          "sources": [
+            {
+              "label": "Wikipédia (en), phonographe",
+              "url": "https://en.wikipedia.org/wiki/Phonograph"
+            }
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Quel rebond (en %) faut-il pour effacer une baisse de 46 %, celle de Nvidia depuis son record ?",
+        "min": 0,
+        "max": 150,
+        "step": 1,
+        "unit": "%",
+        "answer": 85,
+        "explain": "0,46 / 0,54 ≈ 85 %. Une perte p exige un gain de p / (1 − p) pour revenir au point de départ."
+      },
+      "flashcards": [
+        {
+          "front": "Asymétrie des pertes",
+          "back": "Après une baisse p, il faut un gain de p / (1 − p) pour revenir au départ : +11 % après −10 %, +25 % après −20 %, +100 % après −50 %."
+        },
+        {
+          "front": "Indice pondéré par les prix",
+          "back": "Indice où chaque action pèse selon son cours, non selon la taille de l'entreprise. C'est le cas du Dow Jones ; le S&P 500 et le Nasdaq sont pondérés par la capitalisation."
+        },
+        {
+          "front": "Horizon radar",
+          "back": "Distance au-delà de laquelle la courbure de la Terre cache une cible. Environ 4,12 × (√h₁ + √h₂) km : 36 km pour un missile à 30 m et un radar à 10 m."
+        },
+        {
+          "front": "Article 4 du traité de l'Atlantique Nord",
+          "back": "Consultations entre alliés en cas de menace sur un membre. Neuf invocations en septembre 2025. L'article 5, défense collective, une seule fois (après le 11-Septembre)."
+        },
+        {
+          "front": "Pénalité énergétique du captage du carbone",
+          "back": "Surplus de combustible pour capter le CO₂ : 14 à 40 % pour le charbon, 11 à 22 % pour le gaz, selon des études citées par le GIEC."
+        },
+        {
+          "front": "Portance de l'air chaud",
+          "back": "Environ 0,28 kg par m³ pour de l'air à 100 °C dans de l'air à 15 °C : il faut des milliers de m³ pour soulever quelques centaines de kilos."
+        },
+        {
+          "front": "Gravure « en colline et vallée »",
+          "back": "Enregistrement en profondeur du phonographe d'Edison : le stylet enfonce plus ou moins la feuille d'étain selon la vibration du son."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "Quel gain faut-il pour compenser une baisse de 20 % ?",
+          "choices": [
+            "20 %",
+            "22 %",
+            "25 %",
+            "40 %"
+          ],
+          "answer": 2,
+          "explain": "0,20 / 0,80 = 25 %."
+        },
+        {
+          "q": "Pourquoi le Kh-101 vole-t-il à 30-70 m du sol ?",
+          "choices": [
+            "Pour économiser du carburant",
+            "Pour rester sous l'horizon radar des stations au sol",
+            "Pour suivre les routes",
+            "Pour éviter les oiseaux"
+          ],
+          "answer": 1,
+          "explain": "La courbure de la Terre le cache aux radars au sol jusqu'à quelques dizaines de kilomètres."
+        },
+        {
+          "q": "Quelle part des émissions mondiales de CO₂ le captage et stockage traite-t-il aujourd'hui ?",
+          "choices": [
+            "Environ 0,1 %",
+            "Environ 2 %",
+            "Environ 10 %",
+            "Environ 25 %"
+          ],
+          "answer": 0,
+          "explain": "Environ un millième, avec 44 installations en fonctionnement en 2024."
+        },
+        {
+          "q": "Combien de temps a duré le premier vol libre habité, le 21 novembre 1783 ?",
+          "choices": [
+            "3 minutes",
+            "25 minutes",
+            "2 heures",
+            "Une demi-journée"
+          ],
+          "answer": 1,
+          "explain": "25 minutes, pour environ 9 km, de la Muette à la Butte-aux-Cailles."
+        },
+        {
+          "q": "Sur quel support Edison gravait-il le son en 1877 ?",
+          "choices": [
+            "Un disque de cire",
+            "Une bande magnétique",
+            "Une feuille d'étain sur un cylindre",
+            "Une plaque de verre"
+          ],
+          "answer": 2,
+          "explain": "Une feuille d'étain enroulée sur un cylindre rainuré."
+        }
+      ]
+    }
+  ]
+}
