@@ -1,0 +1,398 @@
+{
+  "date": "2026-11-22",
+  "weekday": "dimanche",
+  "saint": "Cécile",
+  "headline": "L'OTAN fait bloc derrière la Pologne, Kushner promet une garantie « type article 5 » pour l'Ukraine, et François Ruffin renonce à la présidentielle.",
+  "chapters": [
+    {
+      "id": "monde",
+      "name": "Monde",
+      "minutes": 10,
+      "lede": [
+        "Mark Rutte s'est rendu à Varsovie samedi : « tous les alliés » sont solidaires de la Pologne après la chute de deux missiles russes et d'un drone sur son sol. Varsovie n'invoque pas l'article 4, mais réclame davantage de défense aérienne.",
+        "La même nuit, la Russie a tiré plus de 400 drones et au moins 110 missiles sur l'Ukraine, forçant ses trois centrales nucléaires à baisser leur production. À Berlin, Jared Kushner affirme que Moscou serait « à l'aise » avec une garantie de sécurité inspirée de l'article 5.",
+        "Dans le détroit d'Ormuz, les attaques contre les navires atteignent leur plus haut niveau depuis le début de la guerre. À Antalya, la présidence de la COP31 annonce un texte d'accord, soumis à approbation ce dimanche matin."
+      ],
+      "articles": [
+        {
+          "kicker": "Europe · OTAN",
+          "title": "Missiles en Pologne : l'OTAN affiche sa solidarité, sans aller plus loin",
+          "minutes": 3,
+          "chapo": "Rutte à Varsovie, des F-16 polonais en alerte, une demande de renforts : l'Alliance répond par la présence et la parole. L'article 4 n'est pas invoqué, l'article 5 n'est pas sur la table.",
+          "body": [
+            "Les faits sont désormais établis par le ministre polonais de la Défense, Władysław Kosiniak-Kamysz : pendant l'attaque russe de la nuit du 19 au 20 novembre, deux missiles et un drone à réaction sont tombés dans le sud-est de la Pologne, à Nowy Lipowiec, Rudnik nad Sanem et Mołodycz. Un missile de croisière Kh-101 s'est abattu à une cinquantaine de kilomètres de la frontière ukrainienne, le drone à une trentaine. Selon Al Jazeera et l'agence AP, aucune victime ni aucun dégât n'ont été signalés ; les images de l'agence polonaise PAP montrent une forte explosion dans une zone boisée.",
+            "Le lieu de chute compte autant que la chute elle-même. Le second missile est tombé à environ 35 kilomètres de Nowa Dęba, où se déroule depuis le 9 novembre KOALICJA 26.2, le premier exercice multinational grandeur nature de la « coalition des volontaires ». Onze pays y participent, dont la France, le Royaume-Uni, l'Allemagne, la Pologne et la Turquie. L'objectif est de préparer une éventuelle force multinationale pour l'Ukraine d'après-guerre, baptisée MNF-U. Donald Tusk y voit « une provocation intentionnelle », calée sur le calendrier de ces manœuvres.",
+            "Samedi, le secrétaire général de l'OTAN, Mark Rutte, s'est rendu à Varsovie. Après sa rencontre avec Donald Tusk, il a déclaré que « tous les alliés » se tenaient « en pleine solidarité avec la Pologne », a qualifié la violation de l'espace aérien de « dangereuse » et « inacceptable », et salué la réaction des F-16 polonais appuyés par l'Alliance : « exactement la manière dont l'Alliance doit fonctionner ». Selon l'Institut pour l'étude de la guerre (ISW), cité par Anadolu, Varsovie a demandé davantage de forces et de défense aérienne, dans le cadre de la mission Eastern Sentry déjà en place.",
+            "La Pologne n'a pas invoqué l'article 4 du traité de l'Atlantique Nord, qui permet à un allié de demander des consultations quand sa sécurité est menacée. Elle l'avait fait en septembre 2025, après des incursions de drones. L'article 5, la défense collective, n'est pas envisagé : il suppose une décision politique unanime des 32 membres. Les réactions européennes ont été vives mais verbales : le Premier ministre britannique Andy Burnham parle d'un acte « totalement inacceptable », Berlin d'« un exemple de plus des provocations continues de la Russie », António Costa, président du Conseil européen, d'une Russie qui « continue de répandre ses menaces ».",
+            "La voix discordante vient de Washington. Quelques heures plus tôt, Donald Trump avait évoqué un Vladimir Poutine qui fait tomber « des drones en Pologne et quelques petits missiles, par erreur ». Moscou n'a fait aucun commentaire. Le chef du renseignement de la défense britannique, le général Matthew Jones, résume la crainte dominante : « le risque d'une erreur de calcul importante »."
+          ],
+          "critique": "La réponse de l'OTAN est calibrée pour ne rien déclencher : solidarité affichée, renforts discutés, aucun mécanisme du traité activé. C'est rationnel face à des engins sans victimes, mais cela fixe un seuil que Moscou peut tester à bas coût. Notez aussi l'écart entre les mots européens et ceux de Donald Trump, qui parle d'« erreur » là où Varsovie parle de provocation : ce décalage est en lui-même une information pour le Kremlin. Enfin, l'absence de dégâts ne dit rien de l'intention ; un Kh-101 qui s'égare à 50 km de la frontière reste un missile de croisière à longue portée.",
+          "sources": [
+            {"label": "Al Jazeera, que s'est-il passé en Pologne ?", "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"},
+            {"label": "AP via Manila Times, missiles et exercices", "url": "https://www.manilatimes.net/2026/11/21/world/americas-emea/russian-missiles-land-in-poland-as-europe-held-military-drills-nearby-nato-calls-it-a-violation/2475390"},
+            {"label": "Anadolu, Rutte à Varsovie", "url": "https://www.anews.com.tr/world/2026/11/21/allies-stand-with-poland-after-airspace-breach-by-russia-nato-chief"}
+          ]
+        },
+        {
+          "kicker": "Ukraine · Diplomatie",
+          "title": "Une garantie « type article 5 » pour Kyiv ? Kushner y croit, Moscou dit non",
+          "minutes": 3,
+          "chapo": "Au moment où la Russie lançait l'une de ses plus lourdes frappes de l'automne, le gendre de Donald Trump affirmait à Berlin que le Kremlin accepterait une protection de l'Ukraine calquée sur l'OTAN.",
+          "body": [
+            "La nuit du 19 au 20 novembre, selon Volodymyr Zelensky, la Russie a tiré plus de 400 drones et au moins 110 missiles, dont 27 balistiques, certains à sous-munitions. Au moins huit civils ont été tués. Le ministère russe de la Défense dit avoir visé des sites d'assemblage de missiles et de drones et des composants de carburant pour fusées. Les frappes sur le réseau électrique ont forcé les trois centrales nucléaires ukrainiennes en service à réduire leur production, entraînant des coupures d'urgence dans onze régions, selon le vice-ministre de l'Énergie Artem Nekrassov. Vladimir Poutine avait promis des représailles après les frappes ukrainiennes sur le pont de Kertch.",
+            "C'est dans ce contexte que Jared Kushner, émissaire de Donald Trump, a pris la parole à la réunion de Berlin de la coalition des volontaires (une quarantaine de pays), le 19 novembre, quelques heures après le sommet Trump-Xi-Poutine de Shenzhen. « Je pense que nous avons rendu les Russes à l'aise avec ce concept », a-t-il dit, à propos de garanties de sécurité « fondées sur l'article 5 ». Il a ajouté que Donald Trump voulait « conclure un accord avec l'Europe à ses côtés » et que la présence européenne à la table serait « essentielle ». Le président américain, qui s'est joint par téléphone à la réunion, serait « ouvert » à l'idée, à condition qu'elle serve « l'intérêt de l'Amérique » et s'insère dans « un paquet de sécurité plus large ».",
+            "Moscou a répondu presque aussitôt. Le vice-ministre des Affaires étrangères Sergueï Riabkov juge « totalement inacceptable » toute « quasi-adhésion » de l'Ukraine à l'OTAN. Vladimir Poutine reconnaît à l'Ukraine « un droit à la sécurité, comme la Russie », mais rejette l'adhésion comme les garanties, et a prévenu que des troupes européennes déployées en Ukraine après un accord seraient des cibles légitimes. Volodymyr Zelensky, lui, relève qu'il n'existe « pas de compréhension commune » de ce que recouvrirait une telle garantie : des soldats américains et européens stationnés sur le sol ukrainien ?",
+            "En arrière-plan, le marchandage territorial. Selon Al Jazeera, Kushner et Steve Witkoff avaient évoqué la semaine précédente l'idée d'un siège à l'OTAN pour Kyiv en échange de l'abandon du Donbass, ce que l'analyste Harry Nedelcu (Rasmussen Global) décrit comme un retrait complet des troupes ukrainiennes de la région. Emmanuel Macron, de son côté, a estimé qu'il fallait « rouvrir la question de l'adhésion de l'Ukraine à l'OTAN ».",
+            "Rappel utile : l'article 5 n'a rien d'automatique. Il oblige chaque allié à prendre « les mesures qu'il juge nécessaires », y compris militaires, et n'a été invoqué qu'une seule fois, après le 11 septembre 2001. Pour l'ancien diplomate Eric Ciaramella (Carnegie), une garantie de ce type pour l'Ukraine « met la crédulité à rude épreuve »."
+          ],
+          "critique": "Une phrase de Kushner ne vaut pas un accord, et le démenti russe est venu dans la journée. Le vrai sujet est ailleurs : une garantie n'a de valeur que par ce qui la rend crédible (troupes, automatisme, ratification). Or c'est précisément ce que Moscou refuse, et ce que Washington n'a jamais détaillé. L'Ukraine a déjà connu des « assurances » non contraignantes, celles du mémorandum de Budapest de 1994. Si le prix d'une garantie floue est l'abandon du Donbass, Kyiv échangerait un territoire certain contre une promesse incertaine.",
+          "sources": [
+            {"label": "Al Jazeera, Kushner et la garantie « type OTAN »", "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it"},
+            {"label": "AP via Manila Times, bilan de la nuit du 20 novembre", "url": "https://www.manilatimes.net/2026/11/21/world/americas-emea/russian-missiles-land-in-poland-as-europe-held-military-drills-nearby-nato-calls-it-a-violation/2475390"},
+            {"label": "Al Jazeera, Riabkov et Poutine", "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"}
+          ]
+        },
+        {
+          "kicker": "Moyen-Orient · Ormuz",
+          "title": "Ormuz : les attaques contre les navires au plus haut depuis le début de la guerre",
+          "minutes": 2,
+          "chapo": "Deux pétroliers touchés samedi au large d'Oman, un 58e drone américain revendiqué par l'Iran : la pression maritime monte, alors que le pétrole recule.",
+          "body": [
+            "Selon un décompte d'ABC News fondé sur les données de l'UKMTO, l'agence britannique de sécurité maritime, 31 attaques ont été enregistrées dans et autour du détroit en octobre, et environ 19 en novembre au 18 du mois. De mars à septembre, l'UKMTO en comptait 53. L'Organisation maritime internationale recense 34 attaques confirmées sur octobre-novembre et 138 contre des navires dans tout le Moyen-Orient depuis le début de la guerre. La plupart frappent le sud du détroit, le long de la côte omanaise, où transitent les navires qui évitent les eaux iraniennes.",
+            "Samedi 21 novembre, l'UKMTO a signalé deux nouvelles attaques par projectiles : l'une a touché la salle des machines d'un pétrolier à 17 milles nautiques à l'est de Khasab (Oman), l'autre la poupe d'un navire à 11 milles au nord. Selon Starboard Maritime Intelligence, le premier pourrait être le LUJAIN, sous pavillon des îles Marshall et à propriétaire saoudien. Le Critical Threats Project estime que l'Iran utilise des drones ou des missiles de croisière à approche rasante, dirigés vers les salles des machines. Les Gardiens de la révolution revendiquent par ailleurs la destruction d'un 58e drone américain MQ-9.",
+            "Le front s'étend. L'Arabie saoudite a intercepté trois missiles balistiques au-dessus de Riyad et un drone dans le sud du pays le 20 novembre, puis un autre drone au-dessus de Riyad samedi ; la protection civile a émis huit alertes en 24 heures. Au Yémen, les Houthis construiraient des fortifications et des radars le long de Bab el-Mandeb. Côté diplomatie, le Critical Threats Project ne relève « rien de significatif ». À Washington, les élus démocrates Yassamin Ansari et Ro Khanna demandent au Congrès de couper les crédits des opérations offensives contre l'Iran avant l'échéance budgétaire du 11 décembre.",
+            "Paradoxe des marchés : malgré ces attaques, le brut américain a perdu 14 % en novembre, à 83,62 dollars vendredi, l'excédent mondial annoncé par l'AIE pesant plus lourd que le risque de transport."
+          ],
+          "critique": "La hausse des attaques et la baisse du pétrole ne se contredisent pas : le marché a déjà intégré un Ormuz presque fermé et regarde désormais l'excédent mondial. Mais les compteurs divergent (UKMTO, OMI, revendications iraniennes) et aucun ne mesure la même chose ; prudence avant de parler de « record ». Enfin, l'Iran vise des salles des machines plutôt que des cuves : il cherche à immobiliser et à faire monter les assurances, pas à provoquer une marée noire qui retournerait les pays riverains contre lui.",
+          "sources": [
+            {"label": "ABC News, attaques au plus haut", "url": "https://abcnews.com/International/strait-hormuz-attacks-increased-highest-level-iran-war/story?id=138304456"},
+            {"label": "Critical Threats, Iran Update du 21 novembre", "url": "https://www.criticalthreats.org/analysis/iran-update-november-21-2026"},
+            {"label": "Outlook India, direct du 21 novembre", "url": "https://www.outlookindia.com/national/live-news-today-delhi-aqi-cyclone-akvan-pm-modi-congress-bjp-india-world-news-21-nov-2026"}
+          ]
+        },
+        {
+          "kicker": "Climat · COP31",
+          "title": "COP31 : un texte « que tous peuvent accepter », vraiment ?",
+          "minutes": 2,
+          "chapo": "Au terme de deux jours de prolongation, la présidence turque assure avoir répondu aux critiques sur les fossiles et l'adaptation. Les délégations avaient jusqu'à 4 h, heure de Paris, pour objecter ; l'adoption devait commencer à 7 h.",
+          "body": [
+            "Samedi soir, lors d'une plénière tardive, le président de la COP31, Murat Kurum, a déclaré : « Nous pensons avoir présenté un texte sur lequel toutes les parties peuvent s'accorder. » Selon Reuters, le texte a été façonné par la Turquie et l'Australie avec « près de 200 délégations ». Les délégations avaient jusqu'à 3 h GMT pour formuler une objection, et l'approbation devait débuter à 6 h GMT ce dimanche. Murat Kurum assure que les inquiétudes sur les combustibles fossiles et sur le financement de l'adaptation des pays en développement ont été « prises en compte », sans que le nouveau texte ait été publié au moment où nous bouclons.",
+            "Le projet précédent avait été critiqué pour son absence totale de mention des énergies fossiles. Une coalition menée par la France et le Panama (avec la Belgique, la Côte d'Ivoire, l'Espagne, la Finlande, la Grèce, le Guatemala, la Suède et le Vanuatu) le jugeait « pas assez bon ». Le ministre panaméen de l'Environnement, Juan Carlos Navarro, avait prévenu qu'il objecterait formellement à tout accord sans référence aux fossiles. La ministre française de la Transition écologique, Monique Barbut, relevait que le texte promouvait le captage du carbone tout en taisant les fossiles : « Cela veut dire que nous ne reconnaissons pas quel est le problème. »",
+            "Côté société civile, le Climate Action Network rejetait les propositions, faute de rien qui « protège les gens ». Mohamed Adow (Power Shift Africa) parlait de « la pire COP de tous les temps ». Le secrétaire général de l'ONU, António Guterres, demandait le triplement du financement de l'adaptation d'ici 2035. À la COP, une seule objection formelle peut bloquer l'adoption : tout dépendra donc de la lecture que Panama et la coalition feront du nouveau texte."
+          ],
+          "critique": "« Prises en compte » ne veut pas dire « inscrites ». Après deux COP consécutives sans avancée sur la sortie des fossiles, le test est simple : le mot figure-t-il dans le texte final, et avec quel verbe ? La présidence turque a par ailleurs obtenu des accords bilatéraux d'investissement pendant la conférence ; l'intérêt de l'hôte à conclure n'est pas forcément celui du climat.",
+          "sources": [
+            {"label": "Reuters via Spokesman-Review, accord en vue", "url": "https://www.spokesman.com/stories/2026/nov/21/cop31-climate-talks-close-to-final-deal-says-summi/"},
+            {"label": "ONU Info via Manila Times, dernier jour", "url": "https://www.manilatimes.net/2026/11/21/world/un-news/cop31-countries-demand-stronger-climate-deal-as-talks-in-antalya-reach-final-day/2475463"}
+          ]
+        },
+        {
+          "kicker": "Marchés · Bilan de semaine",
+          "title": "Nvidia : la plus longue série de baisses hebdomadaires depuis 2008",
+          "minutes": 1,
+          "chapo": "Le week-end n'a apporté aucune nouvelle de la SEC. Reste le bilan, lourd, d'une action qui a perdu près du quart de sa valeur en cinq séances.",
+          "body": [
+            "Selon 24/7 Wall St., Nvidia enchaîne sa septième semaine de baisse, sans semaine positive depuis début octobre : la plus longue série depuis 2008, selon MarketWatch. L'action recule de 23,7 % sur la semaine, de 41,4 % sur un mois et de 31,9 % depuis le 1er janvier. La SEC n'a annoncé aucune procédure : l'enquête n'est connue que par Reuters, qui cite deux sources, et la nature des questions comptables reste inconnue.",
+            "D'autres dossiers s'accumulent : une assignation en Californie liée aux ventes de puces à la Chine (Fox Business), l'arrêt des ventes de puces Hopper sous licence à la Chine, qui avaient rapporté 2,4 milliards de dollars au troisième trimestre, et l'enquête interne du comité indépendant du conseil d'administration, citée parmi les facteurs de risque. Colette Kress assure l'intérim de la direction depuis la démission de Jensen Huang. Prochaine séance lundi ; Wall Street sera fermée jeudi pour Thanksgiving."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "24/7 Wall St., série noire et SEC", "url": "https://247wallst.com/investing/2026/11/21/nvidias-worst-losing-streak-since-2008-now-has-an-sec-problem-what-shareholders-need-to-know/"}
+          ]
+        },
+        {
+          "kicker": "En bref",
+          "title": "Ailleurs dans le monde",
+          "minutes": 1,
+          "chapo": "Danemark, Pérou, data centers, juges fédéraux et prison de Rikers.",
+          "body": [
+            "Danemark. Copenhague a expulsé l'attaché de défense russe, en lien avec un projet présumé d'assassinat d'un rappeur près de la capitale, selon Al Jazeera.",
+            "Pérou. Un séisme de magnitude 6,9 a frappé le centre du pays (région de Junín) le 20 novembre, heure locale, sans dégâts immédiatement signalés.",
+            "États-Unis, data centers. Donald Trump veut interdire aux entreprises américaines de construire des centres de données d'IA à l'étranger, sous peine d'une « taxe énorme », et cite un projet en Finlande. Son équipe n'était pas prévenue, et aucune base juridique n'a été précisée. Selon un sondage CNBC, 64 % des électeurs inscrits refusent un data center à moins de 16 km de chez eux.",
+            "États-Unis, Sénat. Les républicains accélèrent les confirmations de juges fédéraux avant de perdre la majorité en janvier : Richard Bennett (49-43) et Courtney Coker (49-41), au Texas, vendredi.",
+            "New York. Le maire Zohran Mamdani demande de repousser de 2027 à 2032 la fermeture légale de la prison de Rikers, remplacée par quatre prisons d'arrondissement (environ 4 100 places pour quelque 6 650 détenus actuels, selon le New York Post)."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Al Jazeera (Danemark)", "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"},
+            {"label": "Outlook India (Pérou, data centers)", "url": "https://www.outlookindia.com/national/live-news-today-delhi-aqi-cyclone-akvan-pm-modi-congress-bjp-india-world-news-21-nov-2026"},
+            {"label": "Morning Briefing du 21 novembre (Sénat, Rikers, sondage CNBC)", "url": "https://thejefferymead.substack.com/p/morning-briefing-november-21-2026"}
+          ]
+        }
+      ],
+      "board": [
+        {"label": "S&P 500", "value": "6 910", "change": -3.7},
+        {"label": "Nasdaq", "value": "22 618", "change": -5.28},
+        {"label": "Dow Jones", "value": "48 147", "change": -1.93},
+        {"label": "CAC 40", "value": "7 928", "change": -1.89},
+        {"label": "Nvidia", "value": "125,53 $", "change": -14.01},
+        {"label": "Anthropic (ANT)", "value": "88,91 $", "change": -8.5},
+        {"label": "Bitcoin", "value": "≈59 060 $", "change": -5.1},
+        {"label": "Or (once)", "value": "≈3 517 $", "change": -3.02},
+        {"label": "Brent (baril)", "value": "92,57 $", "change": 0.6},
+        {"label": "WTI (baril)", "value": "83,41 $", "change": 1.2}
+      ],
+      "boardNote": "Marchés fermés le week-end : clôtures du vendredi 20 novembre, inchangées depuis l'édition de samedi. Bitcoin à la clôture de Wall Street vendredi, sans actualisation fiable du week-end. Sur novembre, le brut américain recule de 14 %. Prochaine séance lundi 23 novembre ; Wall Street fermée jeudi 26 (Thanksgiving).",
+      "estimate": {
+        "question": "Combien d'attaques contre des navires l'UKMTO a-t-elle enregistrées dans et autour du détroit d'Ormuz en octobre ?",
+        "min": 0,
+        "max": 80,
+        "step": 1,
+        "unit": "attaques",
+        "answer": 31,
+        "explain": "31 en octobre, contre 53 sur les sept mois de mars à septembre réunis, et environ 19 en novembre au 18 du mois (décompte d'ABC News)."
+      },
+      "flashcards": [
+        {"front": "KOALICJA 26.2", "back": "Premier exercice multinational grandeur nature de la coalition des volontaires, à Nowa Dęba (Pologne) depuis le 9 novembre, avec 11 pays. Il prépare une éventuelle force pour l'Ukraine d'après-guerre (MNF-U)."},
+        {"front": "Article 4 du traité de l'Atlantique Nord", "back": "Consultations entre alliés quand l'intégrité territoriale, l'indépendance ou la sécurité de l'un d'eux est menacée. Invoqué neuf fois ; la Pologne ne l'a pas fait cette fois."},
+        {"front": "Article 5", "back": "Une attaque contre un allié est une attaque contre tous ; chacun prend « les mesures qu'il juge nécessaires ». Invoqué une seule fois, après le 11-Septembre."},
+        {"front": "Garantie « type article 5 » pour l'Ukraine", "back": "Idée défendue par Jared Kushner à Berlin le 19 novembre. Rejetée par Moscou (Riabkov : « quasi-adhésion » inacceptable), jugée floue par Zelensky."},
+        {"front": "UKMTO", "back": "United Kingdom Maritime Trade Operations : centre de la Royal Navy qui recense les incidents maritimes. 31 attaques autour d'Ormuz en octobre."},
+        {"front": "Consensus à la COP", "back": "Les décisions sont adoptées sans vote : une seule objection formelle peut bloquer l'accord. Le Panama menaçait de l'utiliser à Antalya."},
+        {"front": "Murat Kurum", "back": "Ministre turc de l'Environnement, président de la COP31 d'Antalya, qui a présenté samedi soir un texte « que toutes les parties peuvent accepter »."}
+      ],
+      "quiz": [
+        {"q": "Où se déroulait l'exercice de la coalition des volontaires proche des points de chute des missiles ?", "choices": ["Rzeszów", "Nowa Dęba", "Lublin", "Cracovie"], "answer": 1, "explain": "À Nowa Dęba : l'un des missiles est tombé à environ 35 km de la zone d'exercice."},
+        {"q": "Combien de missiles la Russie a-t-elle tirés sur l'Ukraine la nuit du 19 au 20 novembre, selon Zelensky ?", "choices": ["Au moins 30", "Au moins 60", "Au moins 110", "Au moins 400"], "answer": 2, "explain": "Au moins 110 missiles, dont 27 balistiques, et plus de 400 drones."},
+        {"q": "Qui a dit que la Russie serait « à l'aise » avec des garanties fondées sur l'article 5 ?", "choices": ["Steve Witkoff", "Marco Rubio", "Jared Kushner", "Mark Rutte"], "answer": 2, "explain": "Jared Kushner, à Berlin, le 19 novembre."},
+        {"q": "Combien l'action Nvidia a-t-elle perdu sur la semaine ?", "choices": ["≈ 8 %", "≈ 14 %", "≈ 24 %", "≈ 41 %"], "answer": 2, "explain": "−23,7 % sur la semaine ; −41,4 % sur un mois."},
+        {"q": "Quel pays menaçait d'objecter à tout accord COP31 sans mention des fossiles ?", "choices": ["La France", "Le Panama", "Le Vanuatu", "L'Australie"], "answer": 1, "explain": "Le Panama, par la voix de son ministre Juan Carlos Navarro."}
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "minutes": 10,
+      "lede": [
+        "François Ruffin renonce à la présidentielle de 2027. Faute de « grande primaire » à gauche, il prend acte de « l'impasse » et ne soutient personne : le duel Mélenchon-Glucksmann se précise.",
+        "Le sixième samedi de mobilisation recule encore : 82 500 manifestants selon l'Intérieur (106 000 la semaine précédente), 150 000 selon la CGT. Des incidents à Marseille et à Lille.",
+        "La CFDT rejoint Gérard Larcher pour demander d'avancer la présidentielle d'une semaine, afin d'éviter un second tour le 2 mai, au lendemain du 1er-Mai. Dans le Pas-de-Calais, 850 habitations ont été inondées."
+      ],
+      "articles": [
+        {
+          "kicker": "Présidentielle 2027 · Gauche",
+          "title": "Ruffin jette l'éponge : la gauche réduite à deux pôles",
+          "minutes": 3,
+          "chapo": "Lancé en janvier, plafonnant entre 1 et 3 % des intentions de vote, le député de la Somme se retire à cinq mois du premier tour, sans donner de consigne.",
+          "body": [
+            "Samedi 21 novembre, François Ruffin a annoncé qu'il renonçait à sa candidature à l'élection présidentielle. Il « prend acte de l'impasse » de sa campagne, construite autour d'une primaire de toute la gauche, « de Poutou à Hollande ». Il constate que « les appareils ont rejeté cette grande primaire » et que « le duel des deux gauches irréconciliables est installé ». Selon LCP et l'AFP, sa campagne est restée « scotchée entre 1 et 3 % ».",
+            "Il ne soutient aucun candidat et souhaite « bon courage » et « bonne campagne » aux « candidats de gauche encore en lice ». Il promet que « le combat continue » avec son mouvement Debout!, et qu'il combattra le Rassemblement national. Les réactions sont restées mesurées : Fabien Roussel (PCF) a salué sur X leurs « convergences nombreuses », Pierre Jouvet, au nom de Raphaël Glucksmann, des « batailles » communes. Les Insoumis, qui le considèrent comme un traître depuis 2024, n'ont pas réagi.",
+            "Le paysage se simplifie. Jean-Luc Mélenchon domine la gauche dans les sondages, qui le qualifient pour le second tour. Raphaël Glucksmann, vainqueur de la primaire sociale-démocrate, lance à peine sa campagne et recueille environ 11 % selon les configurations. Clémentine Autain s'est ralliée à Mélenchon. Marine Tondelier a reconnu la dynamique « indéniable » de l'Insoumis et propose une coalition autour de lui, soumise au vote des militants écologistes du 10 au 13 décembre ; une approbation mettrait fin à une candidature écologiste autonome.",
+            "Le calendrier reste fixé au 18 avril et au 2 mai 2027, mais il est désormais contesté (lire plus bas)."
+          ],
+          "critique": "Le retrait de Ruffin pèse peu en voix (1 à 3 %), beaucoup en symbole : c'était la dernière tentative de dépasser le clivage entre une gauche de rupture et une gauche sociale-démocrate. Son absence de consigne est un choix politique, pas une neutralité : elle laisse ses électeurs, souvent populaires et du Nord, sans boussole face au RN. Attention aussi aux « 11 % » de Glucksmann : ils varient selon les hypothèses testées, et à cinq mois du scrutin, les intentions de vote restent très volatiles.",
+          "sources": [
+            {"label": "LCP, Ruffin se retire", "url": "https://lcp.fr/actualites/francois-ruffin-se-retire-de-la-presidentielle-2027-sans-soutenir-aucun-des-candidats-de"},
+            {"label": "Sud Radio (AFP), le paysage se clarifie à gauche", "url": "https://www.sudradio.fr/societe/presidentielle-ruffin-renonce-le-paysage-se-clarifie-a-gauche"},
+            {"label": "L'Express via Orange, trois infos du 21 novembre", "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-samedi-21-novembre-l-express-via-6medias-CNT000002tWh6P.html"}
+          ]
+        },
+        {
+          "kicker": "Social · Mobilisation",
+          "title": "Sixième samedi : la rue s'essouffle, la tension demeure",
+          "minutes": 2,
+          "chapo": "Syndicats, jeunesse et Gilets jaunes ont de nouveau défilé contre la vie chère. La participation baisse pour la deuxième semaine consécutive.",
+          "body": [
+            "Le ministère de l'Intérieur a compté 82 500 manifestants dans l'Hexagone samedi 21 novembre, contre 106 000 le samedi précédent ; les syndicats en revendiquent 150 000. À Paris, 21 500 personnes ont défilé selon les autorités. L'Express parle d'un « nouveau recul ». Sur deux semaines, le chiffre officiel a baissé d'environ 22 %.",
+            "Des incidents ont éclaté à Marseille et à Lille, avec dégradations et affrontements avec les forces de l'ordre. Le ministère de l'Intérieur annonçait 144 interpellations dans un bilan provisoire à 18 heures, selon franceinfo. À Lyon, Nantes, Caen ou Nice, de nombreux manifestants se sont rassemblés malgré des interdictions préfectorales. Pour rappel, la vente et l'usage de mortiers d'artifice restent interdits jusqu'au 27 novembre.",
+            "Le mouvement change de nature. Une semaine de manifestations contre les violences sexistes et sexuelles a commencé samedi dans une douzaine de villes moyennes (Angers, Nevers, Narbonne). Elle passera par Bordeaux, Marseille et Nantes le 25 novembre, journée internationale de lutte contre les violences faites aux femmes, puis par Lille, Lyon et Paris le samedi 28. À Paris, deux cortèges partiront à 14 heures, de République et du Panthéon. Le collectif NousToutes, des dizaines d'associations et des syndicats réclament le vote de la « loi intégrale », adoptée par l'Assemblée le 13 octobre et attendue au Sénat en janvier. La Fondation des femmes en chiffre le coût à 4 milliards d'euros par an. L'an dernier, ces marches avaient réuni 17 000 personnes à Paris et autant en régions, selon la police."
+          ],
+          "critique": "Une mobilisation qui baisse n'est pas une colère qui retombe : les chiffres officiels mesurent la présence dans la rue, pas l'adhésion, et l'écart du simple au double avec les syndicats rappelle que les deux comptages servent un récit. Le vrai signal politique est la dispersion : vie chère, jeunesse, violences sexistes, retraites. Sans revendication unique, le gouvernement peut attendre l'usure ; mais il n'a pas de réponse à un mécontentement diffus qui pourrait se reporter dans les urnes en avril.",
+          "sources": [
+            {"label": "L'Express via Orange, participation et incidents", "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-samedi-21-novembre-l-express-via-6medias-CNT000002tWh6P.html"},
+            {"label": "franceinfo, bilan provisoire des interpellations", "url": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html"},
+            {"label": "Sud Radio (AFP), semaine contre les violences sexistes", "url": "https://www.sudradio.fr/societe/a-partir-de-samedi-des-manifestations-toute-la-semaine-contre-les-violences-sexistes"}
+          ]
+        },
+        {
+          "kicker": "Institutions · Calendrier",
+          "title": "Un second tour le 2 mai ? La CFDT demande d'avancer l'élection",
+          "minutes": 2,
+          "chapo": "Après Gérard Larcher, Marylise Léon réclame « formellement » de décaler la présidentielle d'une semaine. Le problème : le 1er-Mai, la veille du vote.",
+          "body": [
+            "Dans un entretien à La Tribune Dimanche, la secrétaire générale de la CFDT, Marylise Léon, demande « formellement » d'avancer la présidentielle d'une semaine. Le calendrier entériné par l'exécutif prévoit un premier tour le 18 avril et un second le 2 mai 2027. Or le second tour tomberait au lendemain des défilés du 1er-Mai, avec « le risque de vives tensions ». Le 2 mai est, selon elle, « le pire scénario possible ». La période de réserve, qui interdit toute campagne, commencerait le vendredi 30 avril à minuit, soit la veille de la fête du Travail.",
+            "Le président du Sénat, Gérard Larcher, avait le premier jugé jeudi cette date « difficilement compatible » avec les défilés syndicaux. Avancer d'une semaine donnerait un premier tour le 11 avril et un second le 25 avril (notre calcul). Le gouvernement n'a pas encore répondu.",
+            "La marge existe dans la Constitution. Son article 7 dispose que l'élection a lieu « vingt jours au moins et trente-cinq jours au plus avant l'expiration des pouvoirs du président en exercice », et que le second tour se tient « le quatorzième jour suivant ». Le texte ne parle pas de dimanche : c'est la pratique. Marylise Léon en profite pour réclamer des mesures sociales immédiates (point d'indice, grilles de la fonction publique, Smic et branches) et qualifie le projet du RN sur les retraites de « grande supercherie »."
+          ],
+          "critique": "L'argument sécuritaire est réel, mais le choix de la date est aussi politique : avancer le scrutin raccourcit la campagne d'une semaine, ce qui n'avantage pas tous les candidats de la même façon. Il faut aussi rappeler que le calendrier a été fixé par l'exécutif en connaissance du 1er-Mai ; le changer maintenant, c'est reconnaître que le climat social a changé.",
+          "sources": [
+            {"label": "Sud Radio (AFP), Marylise Léon et la date du 2 mai", "url": "https://www.sudradio.fr/societe/presidentielle-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai"},
+            {"label": "Conseil constitutionnel, Constitution (article 7)", "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"}
+          ]
+        },
+        {
+          "kicker": "Territoires · Crues",
+          "title": "Pas-de-Calais : la Canche à des niveaux record, 850 habitations inondées",
+          "minutes": 2,
+          "chapo": "Trois jours de fortes pluies ont fait déborder la Canche et l'Authie. Le soleil est revenu samedi, mais la vigilance orange crues reste active.",
+          "body": [
+            "Selon le préfet du Pas-de-Calais, François-Xavier Lauch, cité par l'AFP, 150 communes ont été touchées, dont 50 « particulièrement affectées », et environ 850 habitations inondées. Aucune victime n'est à déplorer. L'Express fait état de près de 800 personnes évacuées depuis jeudi 19 novembre. La Canche est montée à des niveaux record en amont mais restait dans son lit en aval ; Vigicrues signale des « débordements dommageables » sur la Canche et une « crue importante » de l'Authie. À Aire-sur-la-Lys, une vingtaine d'habitations ont été envahies par un affluent de la Lys.",
+            "Des pompes de grande puissance ont été déployées et le nettoyage a commencé. Le préfet insiste sur l'échelle : la situation n'a « rien à voir » avec les inondations de 2023-2024, qui avaient touché plusieurs centaines de milliers d'habitants. Le maire de Neuville-sous-Montreuil met en cause les pratiques agricoles et la disparition des haies, qui freinent le ruissellement (lire Savoirs)."
+          ],
+          "critique": "Comparer avec 2023-2024 rassure, mais c'est la répétition qui inquiète : trois épisodes majeurs en trois hivers sur les mêmes bassins. L'accusation contre l'agriculture mérite d'être vérifiée bassin par bassin : les haies réduisent le ruissellement, mais face à trois jours de pluie sur des sols saturés, aucun aménagement n'empêche une rivière de monter.",
+          "sources": [
+            {"label": "Sud Radio (AFP), crues à gérer", "url": "https://www.sudradio.fr/societe/apres-les-pluies-le-pas-de-calais-a-encore-des-crues-a-gerer"},
+            {"label": "L'Express via Orange, évacuations", "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-samedi-21-novembre-l-express-via-6medias-CNT000002tWh6P.html"}
+          ]
+        },
+        {
+          "kicker": "Diplomatie",
+          "title": "Macron veut « rouvrir » la question de l'Ukraine dans l'OTAN",
+          "minutes": 1,
+          "chapo": "Pendant que Barbut ferraille à Antalya, Paris se repositionne sur la sécurité européenne.",
+          "body": [
+            "Emmanuel Macron a estimé qu'il fallait « rouvrir la question de l'adhésion de l'Ukraine à l'OTAN », au moment où Washington évoque une garantie « type article 5 » sans adhésion. La France participe à l'exercice KOALICJA 26.2 en Pologne, près duquel sont tombés des missiles russes. À la COP31, la ministre Monique Barbut a mené, avec le Panama, la coalition qui réclamait une mention des énergies fossiles dans l'accord final."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Al Jazeera, Macron et l'adhésion", "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it"},
+            {"label": "ONU Info via Manila Times, coalition France-Panama", "url": "https://www.manilatimes.net/2026/11/21/world/un-news/cop31-countries-demand-stronger-climate-deal-as-talks-in-antalya-reach-final-day/2475463"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Combien de manifestants le ministère de l'Intérieur a-t-il comptés en France samedi 21 novembre ?",
+        "min": 0,
+        "max": 300000,
+        "step": 2500,
+        "unit": "personnes",
+        "answer": 82500,
+        "explain": "82 500, contre 106 000 le samedi précédent. Les syndicats en revendiquent 150 000. À Paris : 21 500 selon les autorités."
+      },
+      "flashcards": [
+        {"front": "Debout!", "back": "Mouvement de François Ruffin, avec lequel il dit continuer « le combat » après avoir renoncé à la présidentielle le 21 novembre."},
+        {"front": "Calendrier présidentiel actuel", "back": "Premier tour le 18 avril 2027, second tour le 2 mai. La CFDT et Gérard Larcher demandent d'avancer d'une semaine."},
+        {"front": "Article 7 de la Constitution (date)", "back": "L'élection a lieu 20 jours au moins et 35 jours au plus avant la fin du mandat ; le second tour, le quatorzième jour suivant le premier."},
+        {"front": "Loi intégrale (violences sexuelles)", "back": "Texte adopté par l'Assemblée le 13 octobre, attendu au Sénat en janvier. Coût estimé par la Fondation des femmes : 4 Md€ par an."},
+        {"front": "Vote des militants écologistes", "back": "Du 10 au 13 décembre, sur une coalition autour de Jean-Luc Mélenchon proposée par Marine Tondelier."},
+        {"front": "Canche", "back": "Fleuve côtier du Pas-de-Calais, monté à des niveaux record en amont après trois jours de pluie ; 150 communes et 850 habitations touchées."}
+      ],
+      "quiz": [
+        {"q": "Dans quelle fourchette François Ruffin plafonnait-il dans les sondages ?", "choices": ["1 à 3 %", "4 à 6 %", "7 à 9 %", "10 à 12 %"], "answer": 0, "explain": "Entre 1 et 3 %, selon LCP et l'AFP."},
+        {"q": "Combien de manifestants à Paris samedi, selon les autorités ?", "choices": ["8 500", "21 500", "45 000", "82 500"], "answer": 1, "explain": "21 500 à Paris ; 82 500 en France."},
+        {"q": "Pourquoi le 2 mai pose-t-il problème selon la CFDT ?", "choices": ["Vacances scolaires", "Lendemain des défilés du 1er-Mai", "Pont de l'Ascension", "Fin de la trêve hivernale"], "answer": 1, "explain": "Le second tour tomberait au lendemain du 1er-Mai, avec « le risque de vives tensions »."},
+        {"q": "Qui a demandé le premier un changement de date ?", "choices": ["Sophie Binet", "Gérard Larcher", "Yaël Braun-Pivet", "Marine Le Pen"], "answer": 1, "explain": "Gérard Larcher, président du Sénat, dès jeudi."},
+        {"q": "Combien de communes du Pas-de-Calais sont touchées par les crues ?", "choices": ["15", "50", "150", "850"], "answer": 2, "explain": "150 communes, dont 50 particulièrement affectées ; 850 habitations inondées."}
+      ]
+    },
+    {
+      "id": "savoirs",
+      "name": "Savoirs",
+      "minutes": 10,
+      "lede": [
+        "Assurance ou garantie ? En 1994, l'Ukraine a rendu ses armes nucléaires contre des « assurances ». La nuance juridique éclaire tout le débat sur la garantie « type article 5 ».",
+        "Pourquoi une centrale nucléaire doit-elle réduire sa puissance quand on bombarde des sous-stations ? Parce qu'un réacteur arrêté continue de chauffer, et qu'il a besoin du réseau pour se refroidir.",
+        "Aussi au menu : la formule qui relie pluie, surface et débit d'une crue, pourquoi un seul pays peut bloquer une COP, et Charles de Gaulle, né un 22 novembre."
+      ],
+      "articles": [
+        {
+          "kicker": "Droit international",
+          "title": "Assurance, garantie, article 5 : trois mots, trois niveaux de promesse",
+          "minutes": 3,
+          "chapo": "Le mémorandum de Budapest de 1994 est le contre-exemple que tout Ukrainien a en tête quand Washington parle de « garanties ».",
+          "body": [
+            "Le 5 décembre 1994, à Budapest, en marge de la conférence de la CSCE, l'Ukraine, la Russie, les États-Unis et le Royaume-Uni signent un mémorandum. La France et la Chine donnent des assurances comparables dans des documents séparés. En échange, l'Ukraine renonce aux armes nucléaires soviétiques restées sur son sol après 1991, alors l'un des plus grands arsenaux du monde. Une déclaration trilatérale de janvier 1994 prévoyait le transfert d'« au moins 200 ogives » vers la Russie, et Kyiv reçoit plus de 300 millions de dollars d'aide au démantèlement (programme Nunn-Lugar).",
+            "Ce que promettent les signataires : respecter l'indépendance, la souveraineté et les frontières existantes de l'Ukraine ; ne pas recourir à la menace ou à l'usage de la force, sauf légitime défense ; ne pas exercer de coercition économique ; saisir le Conseil de sécurité si l'Ukraine est victime d'une agression nucléaire. Ce qu'ils ne promettent pas : intervenir militairement.",
+            "Tout tient dans un mot. Les juristes du département d'État ont choisi « assurances » pour le texte anglais ; les versions ukrainienne et russe parlent de « garanties de sécurité ». Une assurance n'impose aucune obligation juridique d'assistance militaire ; Washington considère d'ailleurs le mémorandum comme non contraignant. En 2014 puis en 2022, la Russie a violé ses engagements, et aucun signataire n'était tenu d'intervenir.",
+            "L'article 5 du traité de l'Atlantique Nord va plus loin : une attaque contre un allié est une attaque contre tous, et chacun prend « les mesures qu'il juge nécessaires, y compris l'emploi de la force armée ». C'est une obligation de réagir, pas une obligation de faire la guerre : chaque État choisit sa réponse. Il n'a été invoqué qu'une fois, après le 11 septembre 2001. L'article 4, lui, ne prévoit que des consultations ; il a été invoqué neuf fois à la date de septembre 2025.",
+            "Sa force réelle vient moins du texte que de ce qui l'entoure : des troupes alliées stationnées sur place, qui seraient touchées dès la première frappe (l'effet « fil-piège »), une structure de commandement intégrée, et soixante-quinze ans de crédibilité accumulée. Une garantie « type article 5 » sans adhésion ni troupes ressemblerait davantage à Budapest qu'à l'OTAN. C'est pourquoi Volodymyr Zelensky demande d'abord qui, concrètement, serait déployé en Ukraine."
+          ],
+          "critique": "L'histoire de Budapest est souvent résumée en « l'Ukraine a rendu ses bombes et a été envahie ». C'est vrai, mais incomplet : Kyiv n'avait ni les codes de lancement ni la maintenance de ces armes, et la pression américaine et russe pour la dénucléarisation était convergente. La leçon juridique reste solide : ce qui protège n'est pas le mot écrit, c'est le coût, pour l'agresseur, de le violer.",
+          "sources": [
+            {"label": "Wikipédia (en), Budapest Memorandum", "url": "https://en.wikipedia.org/wiki/Budapest_Memorandum"},
+            {"label": "Wikipédia (en), North Atlantic Treaty", "url": "https://en.wikipedia.org/wiki/North_Atlantic_Treaty"},
+            {"label": "Al Jazeera, Kushner et l'article 5", "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it"}
+          ]
+        },
+        {
+          "kicker": "Énergie · Nucléaire",
+          "title": "Pourquoi un réacteur a besoin du réseau même quand il ne produit plus",
+          "minutes": 3,
+          "chapo": "Le 20 novembre, les trois centrales ukrainiennes en service ont dû baisser leur puissance après des frappes sur le réseau. Explication en trois idées : la fréquence, la chaleur résiduelle, l'alimentation de secours.",
+          "body": [
+            "Première idée : un réseau électrique doit équilibrer à chaque instant production et consommation. Cet équilibre se lit sur la fréquence (50 Hz en Europe). Quand des sous-stations sont détruites, des centrales se retrouvent soudain sans débouché pour leur électricité : la production excède ce que le réseau peut évacuer, la fréquence monte localement, et les protections déclenchent. Un réacteur ne peut pas « stocker » sa puissance : il faut la réduire, ou l'arrêter. C'est ce qui s'est passé le 20 novembre, avec à la clé des coupures d'urgence dans onze régions.",
+            "Deuxième idée : un réacteur arrêté continue de chauffer. Les barres de contrôle stoppent la réaction en chaîne en quelques secondes, mais les produits de fission, très radioactifs, continuent de se désintégrer et de dégager de la chaleur : la « puissance résiduelle ». Elle vaut environ 6,5 % de la puissance thermique juste après l'arrêt, encore 1,5 % au bout d'une heure, 0,4 % au bout d'un jour. Ordre de grandeur pour un réacteur d'environ 3 000 MW thermiques : 45 MW au bout d'une heure, l'équivalent de plusieurs milliers de radiateurs, à évacuer sans interruption.",
+            "Troisième idée : pour évacuer cette chaleur, il faut faire tourner des pompes, et donc de l'électricité. En temps normal, elle vient du réseau extérieur. Si le réseau tombe, des groupes diesel de secours prennent le relais, avec des réserves de carburant limitées. Le cas de Zaporijjia, occupée par la Russie et à l'arrêt, l'illustre : le 8 novembre, la centrale a perdu toute alimentation extérieure pendant plus de 12 heures après la coupure de sa dernière ligne, sa 27e perte totale depuis 2022, selon l'AIEA. Les diesels ont tenu.",
+            "Le 16 novembre, les autorités de sûreté européennes (WENRA, HERCA, NORA, 38 pays) ont alerté sur un risque d'accident croissant. Un black-out national, selon Per Strand, pourrait affecter « les neuf réacteurs en service de l'Ukraine en même temps » ; si le refroidissement échoue, cela pourrait conduire à des rejets radioactifs. C'est la leçon de Fukushima en 2011 : le séisme n'a pas détruit les réacteurs, c'est la perte simultanée du réseau et des diesels, noyés par le tsunami, qui a provoqué les fusions."
+          ],
+          "critique": "Les frappes russes visent officiellement le réseau, pas les centrales. Mais pour un réacteur, la distinction est théorique : sans réseau, il dépend d'un stock de gazole. Le risque est probabiliste et il augmente avec la répétition des attaques ; une absence d'accident jusqu'ici ne prouve pas que le système soit sûr, seulement que les redondances ont tenu.",
+          "sources": [
+            {"label": "Kyiv Independent, alerte des autorités de sûreté", "url": "https://kyivindependent.com/ukraine-faces-rising-nuclear-accident-risk-this-winter-regulators-warn/"},
+            {"label": "Wikipédia (en), Decay heat", "url": "https://en.wikipedia.org/wiki/Decay_heat"},
+            {"label": "AP via Manila Times, centrales et onze régions", "url": "https://www.manilatimes.net/2026/11/21/world/americas-emea/russian-missiles-land-in-poland-as-europe-held-military-drills-nearby-nato-calls-it-a-violation/2475390"}
+          ]
+        },
+        {
+          "kicker": "Hydrologie",
+          "title": "Pluie, surface, débit : la formule qui fait déborder une rivière",
+          "minutes": 2,
+          "chapo": "Pourquoi trois jours de pluie font-ils monter la Canche à des niveaux record ? Et que peuvent vraiment les haies ?",
+          "body": [
+            "Les hydrologues utilisent une formule simple pour estimer le débit de pointe d'un petit bassin versant, la « méthode rationnelle » : Q = C × i × A / 3,6, avec Q le débit en mètres cubes par seconde, i l'intensité de la pluie en millimètres par heure, A la surface en kilomètres carrés, et C le coefficient de ruissellement, la part de la pluie qui ruisselle au lieu de s'infiltrer (entre 0 et 1).",
+            "Exemple : 10 mm/h de pluie sur un bassin de 10 km². Si la moitié ruisselle (C = 0,5), le débit atteint environ 14 m³/s. Si le sol est déjà gorgé d'eau après deux jours de pluie, C peut approcher 0,9 : 25 m³/s, près du double, pour la même pluie. C'est pourquoi le troisième jour d'un épisode pluvieux est souvent le plus dangereux.",
+            "L'autre paramètre est le temps : le « temps de concentration », celui que met une goutte tombée au point le plus éloigné pour atteindre l'exutoire. Plus il est court, plus les eaux de tout le bassin arrivent en même temps, et plus le pic est haut. C'est là qu'interviennent les haies. Selon l'Office français de la biodiversité, un maillage dense de haies allonge le chemin de l'eau, limite le ruissellement et favorise l'infiltration ; les haies plantées en travers de la pente « freinent » le ruissellement, et la réserve en eau des couches superficielles du sol augmente de 5 à 10 %.",
+            "En clair, une haie agit sur C et sur le temps de concentration : elle étale et abaisse le pic. Mais quand le sol est saturé, l'infiltration devient faible partout ; la haie ralentit encore l'eau, elle ne l'absorbe plus. Les haies limitent les crues fréquentes, beaucoup moins les crues exceptionnelles."
+          ],
+          "critique": "La méthode rationnelle est une approximation, valable pour de petits bassins de quelques kilomètres carrés ; un fleuve comme la Canche exige des modèles hydrologiques complets. Elle a pourtant le mérite de montrer les deux leviers que l'aménagement peut toucher (la part qui ruisselle et la vitesse de l'eau), et celui qu'il ne touche pas : la pluie.",
+          "sources": [
+            {"label": "OFB, ce que nous apportent les haies et le bocage", "url": "https://ofb.gouv.fr/que-nous-apportent-les-haies-et-le-bocage"},
+            {"label": "Sud Radio (AFP), crues du Pas-de-Calais", "url": "https://www.sudradio.fr/societe/apres-les-pluies-le-pas-de-calais-a-encore-des-crues-a-gerer"}
+          ]
+        },
+        {
+          "kicker": "Diplomatie climatique",
+          "title": "Pourquoi un seul pays peut bloquer une COP",
+          "minutes": 1,
+          "chapo": "Le Panama menaçait d'objecter. Ce pouvoir vient d'une règle jamais adoptée.",
+          "body": [
+            "Les COP ne votent pas : leurs décisions sont adoptées par consensus, c'est-à-dire en l'absence d'objection formelle, et une seule objection peut bloquer l'adoption, rappelle ONU Info. Cette situation date des débuts de la Convention-cadre de l'ONU sur les changements climatiques : les États ne se sont jamais mis d'accord sur la règle de vote de son règlement intérieur, appliqué depuis à titre provisoire sans elle. Résultat : un petit pays peut peser autant qu'une grande puissance, et la présidence cherche un texte que personne n'osera refuser.",
+            "D'où les accords qui se jouent dans les dernières heures, et les formulations ambiguës. À Copenhague en 2009, faute de consensus, la conférence s'était contentée de « prendre note » de l'accord négocié par quelques chefs d'État. À Dubaï en 2023, le consensus avait permis la première mention d'une « transition hors des combustibles fossiles »."
+          ],
+          "critique": "Le consensus protège les petits États, mais aussi les gros producteurs de pétrole, qui peuvent bloquer toute mention des fossiles. Il produit des textes au plus petit dénominateur commun.",
+          "sources": [
+            {"label": "ONU Info via Manila Times, consensus et objection", "url": "https://www.manilatimes.net/2026/11/21/world/un-news/cop31-countries-demand-stronger-climate-deal-as-talks-in-antalya-reach-final-day/2475463"}
+          ]
+        },
+        {
+          "kicker": "Éphéméride · 22 novembre",
+          "title": "De Gaulle à Lille, Cécile et les musiciens",
+          "minutes": 1,
+          "chapo": "Le jour où naît le fondateur de la Ve République, dont l'article 7 fixe aujourd'hui le calendrier de la présidentielle.",
+          "body": [
+            "Charles de Gaulle naît le 22 novembre 1890 à Lille, au 9 rue Princesse, à 4 heures du matin. C'est sous la Constitution qu'il a voulue en 1958, et dont l'article 7 encadre la date de l'élection présidentielle, que se discute aujourd'hui le choix du 2 mai 2027.",
+            "On fête sainte Cécile, martyre romaine devenue patronne des musiciens : de nombreuses harmonies et chorales donnent leur concert de la Sainte-Cécile autour de cette date."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Wikipédia, Charles de Gaulle", "url": "https://fr.wikipedia.org/wiki/Charles_de_Gaulle"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Quelle part de sa puissance thermique un réacteur dégage-t-il encore une heure après son arrêt ?",
+        "min": 0,
+        "max": 10,
+        "step": 0.1,
+        "unit": "%",
+        "answer": 1.5,
+        "explain": "Environ 1,5 % (6,5 % juste après l'arrêt, 0,4 % au bout d'un jour). Pour un réacteur de 3 000 MW thermiques, cela fait encore 45 MW à évacuer."
+      },
+      "flashcards": [
+        {"front": "Mémorandum de Budapest (1994)", "back": "Ukraine, Russie, États-Unis, Royaume-Uni : l'Ukraine renonce aux armes nucléaires soviétiques contre des « assurances » de sécurité, sans obligation d'assistance militaire."},
+        {"front": "Assurance vs garantie", "back": "Une assurance est un engagement politique sans obligation d'intervenir ; une garantie suppose un engagement juridique d'assistance."},
+        {"front": "Puissance résiduelle", "back": "Chaleur dégagée par les produits de fission après l'arrêt d'un réacteur : ≈ 6,5 % au départ, 1,5 % après 1 h, 0,4 % après 1 jour."},
+        {"front": "Méthode rationnelle", "back": "Q = C × i × A / 3,6 : débit de pointe (m³/s) selon le coefficient de ruissellement, l'intensité de pluie (mm/h) et la surface (km²)."},
+        {"front": "Temps de concentration", "back": "Durée que met l'eau tombée au point le plus éloigné d'un bassin pour atteindre son exutoire. Plus il est court, plus le pic de crue est élevé."},
+        {"front": "Consensus (COP)", "back": "Adoption sans objection formelle. Aucune règle de vote n'a jamais été adoptée : un seul État peut bloquer."},
+        {"front": "22 novembre 1890", "back": "Naissance de Charles de Gaulle à Lille."}
+      ],
+      "quiz": [
+        {"q": "En quelle année a été signé le mémorandum de Budapest ?", "choices": ["1991", "1994", "1997", "2008"], "answer": 1, "explain": "Le 5 décembre 1994."},
+        {"q": "Combien de fois l'article 5 de l'OTAN a-t-il été invoqué ?", "choices": ["Jamais", "Une fois", "Trois fois", "Neuf fois"], "answer": 1, "explain": "Une seule fois, après le 11 septembre 2001. C'est l'article 4 qui a été invoqué neuf fois."},
+        {"q": "Pourquoi un réacteur arrêté doit-il encore être refroidi ?", "choices": ["La réaction en chaîne continue", "Les produits de fission continuent de se désintégrer", "Les barres de contrôle chauffent", "Le combustible frais s'enflamme"], "answer": 1, "explain": "La désintégration des produits de fission produit la puissance résiduelle."},
+        {"q": "Avec la méthode rationnelle, que devient le débit si C passe de 0,5 à 0,9, à pluie égale ?", "choices": ["Il baisse", "Il est multiplié par 1,8", "Il double exactement", "Il est multiplié par 9"], "answer": 1, "explain": "Q est proportionnel à C : 0,9 / 0,5 = 1,8."},
+        {"q": "Où est né Charles de Gaulle ?", "choices": ["Paris", "Colombey-les-Deux-Églises", "Lille", "Arras"], "answer": 2, "explain": "À Lille, rue Princesse, le 22 novembre 1890."}
+      ]
+    }
+  ]
+}

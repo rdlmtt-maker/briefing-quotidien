@@ -157,3 +157,18 @@ Format : date | chapitre | sujet | angle déjà traité
 2026-11-21 | savoirs | Captage et stockage du carbone (millième, pénalité 14-40 %, coûts, 70 % projets abandonnés) | 
 2026-11-21 | savoirs | Montgolfière 21/11/1783, portance air chaud 0,28 kg/m³ | 
 2026-11-21 | savoirs | Éphéméride : phonographe Edison 1877 ; Présentation de Marie | 
+2026-11-22 | monde | Pologne : Rutte à Varsovie 21/11 | KOALICJA 26.2 Nowa Dęba (11 pays, MNF-U), art. 4 non invoqué, Eastern Sentry renforts, Trump « par erreur », Burnham, gén. M. Jones
+2026-11-22 | monde | Ukraine : nuit du 20/11 (400+ drones, 110 missiles dont 27 balistiques, 8 morts, 3 centrales réduites, 11 régions) + Kushner garanties « type article 5 » | Riabkov, Poutine troupes = cibles, Zelensky, Donbass contre siège OTAN, Macron rouvrir adhésion
+2026-11-22 | monde | Ormuz attaques record | UKMTO 31 oct / ~19 nov / 53 mars-sept, OMI 34 et 138, 2 attaques Khasab 21/11 (LUJAIN ?), 58e MQ-9, Riyad, Ansari/Khanna 11/12, WTI −14 % nov
+2026-11-22 | monde | COP31 texte Kurum (objections 3 h GMT, adoption 6 h GMT 22/11) | coalition France-Panama, Navarro, Barbut, CAN, Guterres
+2026-11-22 | monde | Nvidia 7e semaine de baisse | −23,7 % sem., −41,4 % mois, −31,9 % YTD, assignation Californie, Hopper Chine 2,4 Md$
+2026-11-22 | monde | Brefs | Danemark expulse attaché russe, séisme Pérou 6,9, Trump data centers Finlande (sondage CNBC 64 %), juges Sénat, Mamdani Rikers 2032
+2026-11-22 | france | Ruffin renonce (1-3 %) | Debout!, pas de consigne, Roussel/Jouvet, Glucksmann ~11 %, Autain → Mélenchon, vote écolos 10-13/12
+2026-11-22 | france | Mobilisation 21/11 | 82 500 (vs 106 000) / CGT 150 000, Paris 21 500, Marseille/Lille, 144 interpellations (18 h), semaine violences sexistes (28/11 Paris, loi intégrale 4 Md€)
+2026-11-22 | france | Date présidentielle | Léon (La Tribune) + Larcher, 2 mai lendemain du 1er-Mai, art. 7 (20-35 j, 14e jour), 11/25 avril
+2026-11-22 | france | Crues Pas-de-Calais | Canche/Authie, 150 communes, 850 habitations, ~800 évacués, préfet Lauch, haies
+2026-11-22 | savoirs | Mémorandum de Budapest / assurance vs garantie / art. 4-5 | 
+2026-11-22 | savoirs | Puissance résiduelle, fréquence réseau, diesels, ZNPP 27e perte, WENRA | 
+2026-11-22 | savoirs | Méthode rationnelle Q = CiA/3,6, temps de concentration, haies (OFB) | 
+2026-11-22 | savoirs | Consensus COP (règle de vote jamais adoptée) | 
+2026-11-22 | savoirs | Éphéméride : de Gaulle 22/11/1890 Lille ; sainte Cécile | 
