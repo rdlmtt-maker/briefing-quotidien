@@ -172,3 +172,17 @@ Format : date | chapitre | sujet | angle déjà traité
 2026-11-22 | savoirs | Méthode rationnelle Q = CiA/3,6, temps de concentration, haies (OFB) | 
 2026-11-22 | savoirs | Consensus COP (règle de vote jamais adoptée) | 
 2026-11-22 | savoirs | Éphéméride : de Gaulle 22/11/1890 Lille ; sainte Cécile | 
+2026-11-23 | monde | COP31 échec Pacte d'Antalya | UE déclaration « profonde déception », O'Brien, UK/Norvège/Panama/Marshall, Arabie saoudite CCUS, décisions transition juste/Fonds adaptation/marchés carbone, 5 100-6 800 Md$, 305 Md$/an, Bonn 06/2027, COP32 Addis-Abeba
+2026-11-23 | monde | Ukraine semaine 2 700 drones / 1 460 bombes / 165 missiles | Patriot payés via OTAN bloqués par Washington, Dymer immeuble 2 morts 11 disparus, Sosnovyi Bir
+2026-11-23 | monde | Baltique : Sparta II (Oboronlogistika) frappé par 2 drones 21/11 | Gogland, 16 marins, 7 navires, remorquage 22/11, Estonie ferme frontière 1/12
+2026-11-23 | monde | Golfe : frappe iranienne Bahreïn (Sitra, 2 blessés), 2 pétroliers en feu Ormuz, Khat-Shekan fantôme, 14 pétroliers à Kharg, blocus 130e jour, médiation Qatar, coupures électricité Iran
+2026-11-23 | monde | Bitcoin plus bas 55 640 $, 1,8 Md$ liquidés, 60 785 $ dimanche, −22 % nov. ; Corée du Sud Choi Kyo-jin démission (triche IA, Suneung, 111 cas)
+2026-11-23 | france | Règle d'or : Macron envisage Congrès janvier (Tribune Dimanche) | Fillon 2011, Bardella, dette 119 %
+2026-11-23 | france | Fuites Beauvau : mail chez Chatillon à Rome (parquet européen) | 3 personnes accès, Moutouh demande à être relevé, Le Pen dément
+2026-11-23 | france | Choose France édition France 23/11 | 42,5 Md€, 273 projets/81 inédits, ~15 Md€ nouveaux, ADP 9,5 Md€, L'Oréal 300 M€, Elyse 1,6 Md€, Airbus 350 M€
+2026-11-23 | france | Vigilance orange 5 départements (Corse 170 km/h) ; brefs Lisnard primaire, Castel, victimes de la route ×3, docteurs juniors
+2026-11-23 | savoirs | BepiColombo en orbite (freinage, 9 assistances, ionique 290 mN/Isp 4 300 s, orbites MPO/Mio) | 
+2026-11-23 | savoirs | AIS / spoofing (SOLAS 300 GT, fréquences, TacSat-2) | 
+2026-11-23 | savoirs | Effet de levier, liquidation 1/L, cascade | 
+2026-11-23 | savoirs | Article 89, Congrès 3/5 | 
+2026-11-23 | savoirs | Éphéméride : Doctor Who 23/11/1963 ; saint Clément | 

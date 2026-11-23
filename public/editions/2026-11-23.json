@@ -1,0 +1,742 @@
+{
+  "date": "2026-11-23",
+  "weekday": "lundi",
+  "saint": "Clément",
+  "headline": "La COP31 s'achève sans accord sur les fossiles, l'Iran frappe Bahreïn, et Macron envisage une règle d'or budgétaire dans la Constitution.",
+  "chapters": [
+    {
+      "id": "monde",
+      "name": "Monde",
+      "minutes": 10,
+      "lede": [
+        "La COP31 d'Antalya s'est achevée dimanche sans son « Pacte d'Antalya » : l'Union européenne et ses alliés ont refusé un texte muet sur la sortie des énergies fossiles. Seules des décisions techniques ont été adoptées.",
+        "En Ukraine, Volodymyr Zelensky chiffre la semaine écoulée à 2 700 drones et 165 missiles russes et presse Washington de livrer des Patriot déjà payés. En mer Baltique, un cargo militaire russe a brûlé deux jours après une attaque de drones.",
+        "Dans le Golfe, l'Iran a frappé un site industriel à Bahreïn et deux pétroliers ont pris feu près d'Ormuz. Le bitcoin, tombé à 55 640 $, est remonté au-dessus de 60 000 $ dimanche."
+      ],
+      "articles": [
+        {
+          "kicker": "Climat · COP31",
+          "title": "Antalya, la COP qui n'a pas su conclure",
+          "minutes": 3,
+          "chapo": "Deux jours de prolongation, trois projets de texte et, au bout, aucun accord politique. Le « Pacte d'Antalya » tombe sur la question qui divise depuis dix ans : les énergies fossiles.",
+          "body": [
+            "La séance plénière de clôture s'est tenue dimanche 22 novembre, près de deux jours après la date de fin prévue (vendredi 20). Le président de la COP31, le ministre turc de l'Environnement Murat Kurum, a constaté l'échec en quelques mots, rapportés par l'agence Xinhua : « Il semble que des parties s'opposent à ce texte. » Puis : « Il n'y a pas d'accord sur ce texte. Pour cette raison, ces décisions n'ont pas été adoptées. » Le quotidien thaïlandais The Nation parle du sommet climatique de l'ONU « le plus long jamais enregistré » ; aucune autre source lue ne le confirme.",
+            "Le troisième projet de décision chapeau, publié dimanche, réaffirmait l'objectif de 1,5 °C et appelait à des réductions d'émissions « profondes, rapides et durables ». Mais, selon Down To Earth, il s'arrêtait avant de reconnaître explicitement la nécessité de « transitionner hors des énergies fossiles », formule pourtant obtenue à Dubaï en 2023. L'objectif de 35 % d'électricité dans la consommation finale d'énergie en 2035 restait, mais n'était plus rattaché au triplement des renouvelables et au doublement du rythme d'efficacité énergétique, comme dans la version du 19 novembre. Le texte visait en revanche un captage et stockage du carbone à l'échelle de la « gigatonne » d'ici 2035.",
+            "C'est l'Union européenne qui a fait tomber le texte. Dans une déclaration commune, les Vingt-Sept disent leur « profonde déception » et refusent un texte qui « omet un engagement clair » sur les fossiles et met un accent « disproportionné » sur le captage du carbone. Selon The Nation, le ministre irlandais Darragh O'Brien, porte-parole de l'UE, a mis en garde contre le « greenwashing » de l'industrie fossile ; le Royaume-Uni, la Norvège, le Panama et les îles Marshall ont suivi. L'Arabie saoudite défendait au contraire les dispositions sur le captage. Toujours selon The Nation, la Chine, le Pakistan et le groupe africain n'ont pas rejeté le texte malgré leurs réserves.",
+            "Tout n'est pas perdu sur le plan technique. Des décisions séparées ont été adoptées sur le programme de travail pour une transition juste, le Fonds pour l'adaptation, les marchés carbone et la transparence. Le mécanisme « Belém-Antalya » sur la transition juste est renvoyé à la COP32. Le projet chiffrait les besoins de financement climatique des pays en développement à 5 100 à 6 800 milliards de dollars d'ici 2030, soit 455 à 584 milliards par an, et les besoins d'adaptation à environ 305 milliards par an jusqu'en 2035. Il ne fixait pourtant aucun nouvel objectif chiffré : seulement l'« ambition » de tripler la finance d'adaptation d'ici 2035, sans année de référence. Aucune nouvelle promesse n'a été faite pour les pertes et dommages.",
+            "Les réactions sont tranchées. Le ministre australien Chris Bowen, président des négociations, juge le résultat « profondément décevant ». Mohamed Adow (Power Shift Africa) parle du « pire sommet climatique à ce jour ». Antonio Guterres résume : « Il peut ne pas y avoir de consensus dans la salle de négociation. Il n'y a aucune ambiguïté dans la science. » Rendez-vous à Bonn en juin 2027, puis à la COP32 d'Addis-Abeba, en Éthiopie."
+          ],
+          "critique": "Faut-il préférer « pas d'accord » à un mauvais accord, comme le dit Harjeet Singh (« Mieux vaut pas d'accord qu'un accord qui verrouille l'échec ») ? L'argument tient si l'on pense qu'un texte sans les fossiles aurait légitimé un recul. Mais l'échec a aussi un coût : aucun signal sur la finance d'adaptation, attendue par les pays les plus vulnérables, et un précédent où un bloc riche bloque seul un texte que la Chine et l'Afrique acceptaient. L'UE défend la sortie des fossiles tout en important du gaz : sa position est cohérente dans les textes, moins dans les flux. Enfin, la règle du consensus, jamais formellement adoptée, montre ses limites : la COP31 a d'ailleurs prévu des dialogues en 2027 et 2028 sur la façon de la renforcer.",
+          "sources": [
+            {
+              "label": "Down To Earth, COP31 sans accord majeur",
+              "url": "https://www.downtoearth.org.in/climate-change/cop31-ends-with-no-major-deal-divisions-over-fossil-fuels-and-climate-finance-deepen"
+            },
+            {
+              "label": "The Nation (Thaïlande), impasse à la COP31",
+              "url": "https://www.nationthailand.com/sustaination/40073807"
+            },
+            {
+              "label": "Xinhua / Quotidien du peuple, pas de consensus",
+              "url": "https://en.people.cn/n3/2026/1123/c90000-20521955.html"
+            }
+          ]
+        },
+        {
+          "kicker": "Ukraine",
+          "title": "2 700 drones en une semaine, et des Patriot qui n'arrivent pas",
+          "minutes": 2,
+          "chapo": "Zelensky dresse le bilan d'une semaine de frappes sur 20 régions et pointe un blocage : des intercepteurs payés par les Européens attendent le feu vert de Washington.",
+          "body": [
+            "Dimanche, sur Telegram, Volodymyr Zelensky a chiffré la semaine écoulée : environ 2 700 drones d'attaque, près de 1 460 bombes aériennes guidées et 165 missiles, dont une part importante de balistiques, certains fournis par la Corée du Nord. Les frappes ont touché 20 régions. Il dit trouver « particulièrement difficile à comprendre » le retard des livraisons de systèmes antibalistiques. Les missiles Patriot en question ont déjà été payés par des partenaires, via le programme coordonné par l'OTAN qui finance l'achat d'armes américaines pour Kyiv ; il ne manque que l'autorisation de Washington, selon Al Jazeera.",
+            "Le même jour, à Dymer, au nord de Kyiv, une frappe a fait s'effondrer une partie d'un immeuble de cinq étages. D'après Interfax, citant Radio Liberty, les secouristes avaient retiré deux corps et cherchaient onze disparus, dont deux enfants. À Zaporijjia, un homme a été tué par des bombardements. L'armée de l'air ukrainienne a compté dans la nuit de samedi trois missiles balistiques et 148 drones, dont 117 abattus (Irish Times).",
+            "Côté russe, le ministère de la Défense revendique, sans vérification indépendante, des frappes sur un cargo au nord-est d'Odessa, une installation électrique à Zaporijjia, une raffinerie, des sous-stations et un centre de données de l'opérateur MKM Telecom, ainsi que la prise du village de Sosnovyi Bir, dans la région de Kharkiv."
+          ],
+          "critique": "Le chiffre de 2 700 drones vient de la présidence ukrainienne, qui a intérêt à dramatiser pour débloquer des livraisons. Il reste cohérent avec les décomptes nocturnes publiés par l'armée de l'air. Le vrai point est politique : Washington retient des armes payées par d'autres, alors qu'il pousse en parallèle un plan de paix. Un intercepteur non livré est aussi un levier de négociation.",
+          "sources": [
+            {
+              "label": "Al Jazeera, Zelensky réclame les Patriot",
+              "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles"
+            },
+            {
+              "label": "Irish Times (Bloomberg), drones contre un cargo russe",
+              "url": "https://www.irishtimes.com/world/europe/2026/11/22/ukrainian-drones-attack-russian-cargo-ship-in-baltic-sea/"
+            }
+          ]
+        },
+        {
+          "kicker": "Baltique",
+          "title": "Le Sparta II, cargo militaire russe, a brûlé deux jours au large de la Finlande",
+          "minutes": 2,
+          "chapo": "Deux drones, un navire de la logistique militaire russe, des eaux internationales devenues finlandaises par la dérive : la guerre déborde dans le golfe de Finlande.",
+          "body": [
+            "Le Sparta II est un cargo de 121 mètres sous pavillon russe, propriété d'Oboronlogistika, la société qui assure la logistique du ministère russe de la Défense. Il est sous sanctions américaines. Parti de Saint-Pétersbourg vendredi, il faisait route vers l'enclave de Kaliningrad. Samedi 21 novembre, deux drones l'ont frappé à environ trois milles nautiques de la frontière maritime russe, selon le gouverneur de la région de Leningrad, Alexandre Drozdenko. Les forces armées finlandaises situent l'attaque dans les eaux internationales à l'ouest de l'île de Gogland et l'attribuent « probablement » à l'Ukraine.",
+            "L'incendie a duré environ deux jours. Sept navires l'ont combattu : deux russes, deux estoniens, les autres finlandais. Les 16 membres d'équipage ont été transférés sur un navire russe ; un a été légèrement blessé. Le cargo a dérivé dans les eaux finlandaises avant qu'un navire de secours russe ne commence à le remorquer dimanche. Selon le quotidien Helsingin Sanomat, il pouvait transporter du matériel militaire ; les garde-frontières disent ne pas l'avoir vérifié.",
+            "C'est le deuxième navire frappé par drone ce mois-ci dans le golfe de Finlande. Le commandant de la marine estonienne, Ivo Vark, n'exclut pas d'autres attaques. La Finlande soupçonne aussi un hélicoptère russe d'avoir violé son espace aérien samedi près de Loviisa, et l'Estonie fermera sa frontière terrestre avec la Russie le 1er décembre, pour six mois."
+          ],
+          "critique": "L'Ukraine n'a pas revendiqué l'attaque. Si elle en est l'auteur, elle frappe une cible militaire légitime, mais dans un espace maritime partagé avec deux pays de l'OTAN. Le risque n'est pas l'épave : c'est l'incident qui oblige la Finlande ou l'Estonie à choisir entre secourir un navire russe et laisser brûler un cargo chargé dans leurs eaux.",
+          "sources": [
+            {
+              "label": "Irish Times (Bloomberg), drones contre un cargo russe",
+              "url": "https://www.irishtimes.com/world/europe/2026/11/22/ukrainian-drones-attack-russian-cargo-ship-in-baltic-sea/"
+            },
+            {
+              "label": "Moscow Times (Reuters), remorquage du Sparta II",
+              "url": "https://www.themoscowtimes.com/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-attack-a94343"
+            }
+          ]
+        },
+        {
+          "kicker": "Golfe · Iran",
+          "title": "Bahreïn touché, pétroliers en feu, pétrolier fantôme : la guerre du blocus",
+          "minutes": 3,
+          "chapo": "Le blocus naval américain entre dans son cinquième mois. L'Iran répond par des frappes sur ses voisins et la mer, pendant que le Qatar tente une médiation.",
+          "body": [
+            "Samedi 21 novembre, des frappes iraniennes ont touché un site industriel civil à Bahreïn et provoqué un incendie, selon le ministère bahreïni de l'Intérieur. Deux personnes sont hospitalisées : un Bahreïni dans un état stable et un résident pakistanais dans un état critique. Des habitants ont vu de la fumée au-dessus de l'île de Sitra, où se trouve la raffinerie de Bapco. Les Gardiens de la révolution disent avoir visé par missiles et drones les positions américaines des bases d'Al-Riffa et d'Awali. L'Arabie saoudite a condamné des attaques « criminelles », tout comme la Ligue arabe (AFP via Arab News).",
+            "En mer, deux pétroliers ont pris feu dans le détroit d'Ormuz, selon les médias iraniens ; la marine iranienne affirme qu'ils étaient entrés dans une « zone interdite » à l'est du détroit. Au même moment, un « pétrolier iranien » nommé Khat-Shekan apparaissait sur MarineTraffic en train de franchir le détroit. Le site TankerTrackers parle d'une usurpation : le navire n'existe pas et « toutes les données » accompagnant la transmission sont fausses. Les images satellites montrent au contraire plus de 14 pétroliers immobilisés autour de l'île de Kharg, principal terminal d'exportation iranien (Euronews).",
+            "L'armée américaine a compté samedi le 130e jour consécutif de son blocus des ports iraniens ; Donald Trump parle d'un « mur d'acier impénétrable ». Le ministre iranien des Affaires étrangères, Abbas Araghchi, demande que le blocus soit levé « rationnellement » et qu'on « donne une chance » aux discussions régionales. Une délégation qatarie a tenu deux heures de discussions à Téhéran samedi soir. L'Iran pose ses conditions : fin de la guerre sur tous les fronts, dégel des avoirs, levée des sanctions pétrolières et fin du contre-blocus.",
+            "À l'intérieur, la pression monte. La compagnie nationale d'électricité a annoncé des coupures tournantes à partir de dimanche. Le général Mostafa Izadi, commandant adjoint des Gardiens, accuse les « ennemis » de chercher à provoquer l'instabilité en aggravant la pression économique (agence IRNA)."
+          ],
+          "critique": "Le blocus fonctionne au sens strict : le brut iranien ne sort plus, les pétroliers attendent à Kharg. Mais il pousse Téhéran vers la seule riposte qui lui reste, frapper le trafic des autres et les voisins qui hébergent des bases américaines. Les coupures d'électricité et la rhétorique sur les « ennemis » suggèrent que le régime prépare l'opinion à une crise intérieure. Prudence sur les incidents en mer : ils sont souvent annoncés par une seule partie, et l'épisode du Khat-Shekan rappelle que les données de suivi des navires se falsifient facilement.",
+          "sources": [
+            {
+              "label": "Arab News (AFP), Bahreïn et Ormuz",
+              "url": "https://www.arabnews.com/middle-east/bahrain-says-two-injured-in-iranian-attack-on-industrial-site-as-tankers-hit-in-hormuz-3013503"
+            },
+            {
+              "label": "Al Jazeera, direct guerre d'Iran du 22 novembre",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat"
+            },
+            {
+              "label": "Euronews, le pétrolier fantôme Khat-Shekan",
+              "url": "https://www.euronews.com/2026/11/22/tracking-site-says-iranian-tanker-reportedly-sailing-through-strait-of-hormuz-does-not-exi"
+            }
+          ]
+        },
+        {
+          "kicker": "Crypto",
+          "title": "Bitcoin : 1,8 milliard de dollars liquidés, puis un rebond fragile",
+          "minutes": 1,
+          "chapo": "La cryptomonnaie a touché un plus bas de deux ans avant de repasser 60 000 dollars dimanche. Novembre efface les gains de l'été.",
+          "body": [
+            "Vendredi, dans le sillage de la chute de Wall Street, le bitcoin est tombé à 55 640 dollars, son plus bas depuis deux ans (Bitcoin.com). Environ 1,8 milliard de dollars de positions à effet de levier ont été liquidées. Dimanche soir, il remontait à 60 785 dollars (+1,15 % sur 24 heures selon CoinGecko, cité par Motley Fool), mais restait en baisse de 6,3 % sur sept jours, de 22 % sur novembre et de plus de 30 % depuis janvier. L'ether vaut 1 720 dollars, −42 % depuis le début de l'année.",
+            "La capitalisation totale des cryptomonnaies est passée de plus de 2 700 milliards de dollars le 1er novembre à 2 140 milliards : plus de 500 milliards effacés en trois semaines. Les ETF bitcoin cotés à New York avaient perdu près de 6 % vendredi ; leur réouverture lundi dira si le rebond du week-end attire de vrais acheteurs."
+          ],
+          "sources": [
+            {
+              "label": "Motley Fool, le bitcoin repasse 60 000 $",
+              "url": "https://www.fool.com/coverage/stock-market-today/2026/11/22/crypto-market-today-nov-22-bitcoin-reclaims-usd60-000-after-usd1-8-billion-liquidation-wipeout-is-the-worst-over/"
+            },
+            {
+              "label": "Bitcoin.com News, la déroute de novembre",
+              "url": "https://news.bitcoin.com/market-updates/bitcoin-price-takes-a-beating-as-november-rout-erases-summer-gains/"
+            }
+          ]
+        },
+        {
+          "kicker": "En bref",
+          "title": "Ailleurs dans le monde",
+          "minutes": 1,
+          "chapo": "En Corée du Sud, l'IA fait tomber un ministre.",
+          "body": [
+            "Corée du Sud. Le ministre de l'Éducation, Choi Kyo-jin, 72 ans, a démissionné dimanche après un scandale de triche assistée par l'IA. Tout est parti de l'aveu, le 15 novembre, du major d'un concours national d'expert-comptable fiscal : il avait photographié les sujets avec une microcaméra et les avait envoyés à une IA. Le jour du Suneung, l'examen d'entrée à l'université passé par environ 500 000 élèves le 19 novembre, 8 400 surveillants supplémentaires ont été mobilisés, trois alertes nationales envoyées sur les téléphones et 111 cas de fraude par appareil électronique relevés. Le président Lee Jae-myung promet une prime d'au moins 75 000 dollars aux lanceurs d'alerte.",
+            "Agenda. Wall Street rouvre lundi après sa pire semaine depuis des mois ; elle sera fermée jeudi pour Thanksgiving."
+          ],
+          "sources": [
+            {
+              "label": "The Star (AFP), démission du ministre coréen",
+              "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/23/minister-resigns-amid-ai-cheating"
+            },
+            {
+              "label": "Inquisitr, Choi Kyo-jin démissionne",
+              "url": "https://www.inquisitr.com/choi-kyo-jin-resignation-suneung/"
+            }
+          ]
+        }
+      ],
+      "board": [
+        {
+          "label": "S&P 500",
+          "value": "6 910",
+          "change": -3.7
+        },
+        {
+          "label": "Nasdaq",
+          "value": "22 618",
+          "change": -5.28
+        },
+        {
+          "label": "Dow Jones",
+          "value": "48 147",
+          "change": -1.93
+        },
+        {
+          "label": "CAC 40",
+          "value": "7 928",
+          "change": -1.89
+        },
+        {
+          "label": "Nvidia",
+          "value": "125,53 $",
+          "change": -14.01
+        },
+        {
+          "label": "Anthropic (ANT)",
+          "value": "88,91 $",
+          "change": -8.5
+        },
+        {
+          "label": "Bitcoin",
+          "value": "≈60 785 $",
+          "change": 1.15
+        },
+        {
+          "label": "Ether",
+          "value": "≈1 720 $",
+          "change": 2.23
+        },
+        {
+          "label": "Or (once)",
+          "value": "≈3 517 $",
+          "change": -3.02
+        },
+        {
+          "label": "Brent (baril)",
+          "value": "92,57 $",
+          "change": 0.6
+        },
+        {
+          "label": "WTI (baril)",
+          "value": "83,41 $",
+          "change": 1.2
+        }
+      ],
+      "boardNote": "Actions, or et pétrole : clôtures du vendredi 20 novembre (marchés fermés le week-end). Bitcoin et ether : cours de dimanche soir (CoinGecko, 21 h 16 UTC), variation sur 24 heures. Le bitcoin a touché 55 640 $ vendredi. Wall Street rouvre lundi 23 et ferme jeudi 26 (Thanksgiving).",
+      "estimate": {
+        "question": "Combien de drones d'attaque la Russie a-t-elle lancés sur l'Ukraine en une semaine, selon Volodymyr Zelensky ?",
+        "min": 0,
+        "max": 5000,
+        "step": 100,
+        "unit": "drones",
+        "answer": 2700,
+        "explain": "Environ 2 700 drones, plus près de 1 460 bombes guidées et 165 missiles, sur 20 régions. Soit près de 400 drones par jour en moyenne."
+      },
+      "flashcards": [
+        {
+          "front": "Pacte d'Antalya",
+          "back": "Projet de décision chapeau de la COP31 (Türkiye, 9-22 novembre 2026). Non adopté : l'UE l'a rejeté faute d'engagement clair sur la sortie des énergies fossiles."
+        },
+        {
+          "front": "COP32",
+          "back": "Prochaine conférence climat de l'ONU, à Addis-Abeba (Éthiopie). Étape intermédiaire : Bonn, juin 2027."
+        },
+        {
+          "front": "Oboronlogistika",
+          "back": "Société de logistique du ministère russe de la Défense, propriétaire du Sparta II, cargo frappé par des drones dans le golfe de Finlande le 21 novembre."
+        },
+        {
+          "front": "Sitra (Bahreïn)",
+          "back": "Île industrielle qui abrite la raffinerie de Bapco. De la fumée y a été vue après la frappe iranienne du 21 novembre (deux blessés)."
+        },
+        {
+          "front": "Île de Kharg",
+          "back": "Principal terminal d'exportation de pétrole iranien. Plus de 14 pétroliers y sont immobilisés par le blocus américain, entré dans son 130e jour."
+        },
+        {
+          "front": "Liquidation (crypto)",
+          "back": "Fermeture forcée d'une position à effet de levier quand les pertes épuisent la garantie. Environ 1,8 Md$ liquidés lors de la chute du bitcoin à 55 640 $."
+        },
+        {
+          "front": "Suneung",
+          "back": "Examen national d'entrée à l'université en Corée du Sud (environ 500 000 candidats). L'édition 2026 a été marquée par un scandale de triche assistée par l'IA."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "Quel acteur a fait échouer l'adoption du Pacte d'Antalya ?",
+          "choices": [
+            "La Chine",
+            "L'Arabie saoudite",
+            "L'Union européenne",
+            "Le groupe africain"
+          ],
+          "answer": 2,
+          "explain": "L'UE, soutenue notamment par le Royaume-Uni, la Norvège et le Panama, a refusé un texte sans engagement clair sur les fossiles."
+        },
+        {
+          "q": "Où se tiendra la COP32 ?",
+          "choices": [
+            "Bonn",
+            "Addis-Abeba",
+            "Belém",
+            "Sydney"
+          ],
+          "answer": 1,
+          "explain": "À Addis-Abeba, en Éthiopie. Bonn accueille la session intermédiaire de juin 2027."
+        },
+        {
+          "q": "Vers où faisait route le Sparta II quand il a été frappé ?",
+          "choices": [
+            "Mourmansk",
+            "Kaliningrad",
+            "Sébastopol",
+            "Saint-Pétersbourg"
+          ],
+          "answer": 1,
+          "explain": "Parti de Saint-Pétersbourg, il allait vers l'enclave de Kaliningrad."
+        },
+        {
+          "q": "Pourquoi l'Ukraine n'a-t-elle pas encore reçu certains missiles Patriot ?",
+          "choices": [
+            "Ils ne sont pas payés",
+            "L'Allemagne bloque leur transit",
+            "Washington n'a pas donné son feu vert",
+            "Ils ont été détruits en Pologne"
+          ],
+          "answer": 2,
+          "explain": "Ils ont été financés par des partenaires via un programme coordonné par l'OTAN, mais attendent l'autorisation américaine."
+        },
+        {
+          "q": "Qu'est-ce que le « Khat-Shekan » ?",
+          "choices": [
+            "Un drone iranien",
+            "Un pétrolier qui n'existe pas",
+            "Une base américaine à Bahreïn",
+            "Un détroit"
+          ],
+          "answer": 1,
+          "explain": "Selon TankerTrackers, une fausse transmission AIS : le navire visible sur MarineTraffic n'existe pas."
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "minutes": 10,
+      "lede": [
+        "Emmanuel Macron réfléchirait à réunir le Congrès à Versailles en janvier pour inscrire une « règle d'or » budgétaire dans la Constitution. Le RN applaudit, la droite suit.",
+        "L'affaire des fuites du ministère de l'Intérieur vers le RN s'épaissit : un mail du service du préfet Hugues Moutouh a été retrouvé à Rome, chez Frédéric Chatillon. Le préfet a demandé à être relevé de ses fonctions ; Marine Le Pen nie tout.",
+        "Ce lundi, le sommet Choose France consacré aux entreprises françaises affiche 42,5 milliards d'euros et 273 projets, dont seulement 15 milliards d'investissements nouveaux. Cinq départements sont en vigilance orange."
+      ],
+      "articles": [
+        {
+          "kicker": "Institutions · Budget",
+          "title": "La règle d'or revient, quinze ans après Fillon",
+          "minutes": 3,
+          "chapo": "Selon La Tribune Dimanche, le président envisage de convoquer le Congrès en janvier pour graver l'équilibre budgétaire dans la Constitution. Un texte déjà voté en 2011, puis abandonné.",
+          "body": [
+            "L'information vient de La Tribune Dimanche, reprise par L'Express : Emmanuel Macron « réfléchirait » à réunir députés et sénateurs en Congrès à Versailles dès janvier pour leur soumettre une règle d'or budgétaire. Le principe : un cap de trois ans pour ramener à l'équilibre les recettes et les dépenses, appliqué à l'ensemble des finances publiques, de l'État aux collectivités locales. L'Élysée n'a pas souhaité commenter samedi, selon BFMTV.",
+            "L'idée n'est pas neuve. En 2011, le gouvernement de François Fillon avait fait adopter par les deux assemblées un projet de loi constitutionnelle prévoyant des « lois-cadres d'équilibre des finances publiques », avec des trajectoires pluriannuelles. Il ne manquait que le vote final du Congrès, à la majorité des trois cinquièmes. Faute de cette majorité, Nicolas Sarkozy n'a jamais convoqué Versailles, et le texte est tombé avec la campagne de 2012.",
+            "Le contexte a changé. La dette publique dépasse 119 % du PIB selon L'Express (121,7 % prévus fin 2027 dans le projet de loi de finances en discussion au Sénat), et le pays vit depuis deux ans de budgets arrachés sans majorité. Jordan Bardella s'est dit dimanche « heureux » que le chef de l'État « semble s'être rallié » à une demande du RN, qui votera le texte si ses modalités lui conviennent. La droite se dit également prête à soutenir le projet. Une coalition RN, droite et bloc central pourrait, sur le papier, atteindre les trois cinquièmes.",
+            "Reste une difficulté de procédure : une révision constitutionnelle doit d'abord être adoptée dans les mêmes termes par l'Assemblée et le Sénat avant le Congrès. Le texte de 2011 a été voté sous une autre législature ; il faudrait donc, à moins de six mois de la présidentielle, refaire tout le parcours."
+          ],
+          "critique": "Une règle d'or est d'abord un signal adressé aux marchés et aux électeurs, pas un instrument de redressement. La France est déjà soumise à une règle européenne (déficit structurel encadré depuis le traité budgétaire de 2012) qu'elle ne respecte pas. Un équilibre en trois ans supposerait un effort de l'ordre de 5 points de PIB, plus de 150 milliards d'euros : aucun parti qui soutient l'idée n'a dit où il les trouverait. Pour le RN, approuver la règle coûte peu et crédibilise. Pour Macron, c'est un legs institutionnel à défaut d'un budget voté. Le vrai test sera la définition de l'« équilibre » : structurel ou effectif, et avec quelles exceptions pour l'investissement ou la défense.",
+          "sources": [
+            {
+              "label": "L'Express via Orange, Macron et la règle d'or",
+              "url": "https://actu.orange.fr/politique/emmanuel-macron-envisagerait-de-faire-adopter-par-le-parlement-une-regle-d-or-budgetaire-dans-la-constitution-l-express-via-6medias-CNT000002tWVBU.html"
+            },
+            {
+              "label": "L'Express via Orange, trois infos du 22 novembre",
+              "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-dimanche-22-novembre-l-express-via-6medias-CNT000002tZ0QO.html"
+            },
+            {
+              "label": "Wikipédia (en), Congrès du Parlement",
+              "url": "https://en.wikipedia.org/wiki/Congress_of_the_French_Parliament"
+            }
+          ]
+        },
+        {
+          "kicker": "Justice · RN",
+          "title": "Fuites de Beauvau : le mail retrouvé à Rome",
+          "minutes": 2,
+          "chapo": "Un courriel interne du ministère de l'Intérieur a été saisi chez Frédéric Chatillon, ancien prestataire du RN. Trois personnes, dont le préfet Moutouh, y avaient accès.",
+          "body": [
+            "Le document est une copie d'un courriel envoyé par une fonctionnaire du secrétariat général du ministère de l'Intérieur à sa hiérarchie. Elle y relate son audition par la brigade financière anticorruption de la police judiciaire de Paris, dans l'enquête sur un possible financement illégal de campagnes électorales du RN. Ce mail a été découvert lors d'une perquisition au domicile romain de Frédéric Chatillon, proche de Marine Le Pen, menée dans le cadre d'une enquête du parquet européen sur un usage frauduleux présumé de fonds du Parlement européen (Le Monde, confirmé par l'AFP).",
+            "Selon Le Monde, seules trois personnes avaient accès à ce courriel, dont Hugues Moutouh, alors secrétaire général du ministère. Des perquisitions ont visé fin juillet le secrétariat général de Beauvau puis le domicile du préfet, et le 9 novembre le siège du RN. Hugues Moutouh, aujourd'hui préfet de la région Centre-Val de Loire, a annoncé samedi avoir demandé à être relevé de ses fonctions.",
+            "Marine Le Pen a répondu dimanche sur France 2 et France Inter : « Je n'ai jamais reçu d'informations confidentielles. » Elle dit ignorer comment le document s'est retrouvé chez « un de nos anciens prestataires » et se déclare « incapable » de dire si d'autres membres du parti en ont bénéficié, l'enquête étant en cours."
+          ],
+          "critique": "À ce stade, rien n'établit qui a transmis le mail, ni que la direction du RN l'a reçu. Mais la gravité tient au contenu : une audition dans une enquête visant le RN lui-même. Si la fuite est avérée, ce n'est pas une indiscrétion administrative, c'est une entrave potentielle à une enquête judiciaire, à quelques mois d'une présidentielle où le RN est favori.",
+          "sources": [
+            {
+              "label": "Yahoo Actualités (L'Obs/AFP), le mail du service Moutouh",
+              "url": "https://fr.news.yahoo.com/scandale-rn-mail-service-pr%C3%A9fet-131818782.html"
+            },
+            {
+              "label": "L'Express via Orange, trois infos du 22 novembre",
+              "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-dimanche-22-novembre-l-express-via-6medias-CNT000002tZ0QO.html"
+            }
+          ]
+        },
+        {
+          "kicker": "Économie · Industrie",
+          "title": "Choose France, version française : 42,5 milliards, dont 15 vraiment nouveaux",
+          "minutes": 2,
+          "chapo": "Deuxième édition du sommet consacré aux investissements des entreprises françaises, ce lundi à Paris. Les chiffres annoncés mêlent projets connus et inédits.",
+          "body": [
+            "Le sommet se tient lundi 23 novembre à la Cité internationale universitaire de Paris, ouvert à 14 heures par Roland Lescure (Économie) et Sébastien Martin (Industrie). L'Élysée recense 42,5 milliards d'euros d'investissements et 273 projets, dont 81 inédits. Le total « agrège des projets déjà connus et des annonces inédites » : les investissements nouveaux représentent près de 15 milliards (AFP via Sud Radio). La première édition, en 2025, avait valorisé 30,4 milliards.",
+            "Quelques projets ont été dévoilés : 9,5 milliards pour Groupe ADP, près de 300 millions pour la rénovation de sites de L'Oréal, 1,6 milliard pour une usine de carburants d'aviation durables d'Elyse Energy dans les Pyrénées-Atlantiques (enquête publique jusqu'à mi-décembre, mise en service espérée en 2031, contestée par des militants sur la ressource en bois). Roland Lescure compte 37 projets pour 5,45 milliards dans le Grand Ouest. Pour être retenus, les projets devaient dépasser 5 millions d'euros et avoir été engagés après décembre 2025 (L'EnerGeek). Emmanuel Macron se rend le même jour chez Airbus à Toulouse, où l'enveloppe publique de recherche aéronautique pourrait monter à 350 millions d'euros en 2026 (Le Parisien, cité par l'AFP).",
+            "Le décor est moins flatteur : l'investissement des entreprises recule pour le quatrième trimestre consécutif selon l'Insee, l'économie frôle la récession et les coûts de production montent avec la guerre au Moyen-Orient."
+          ],
+          "critique": "Additionner des projets déjà annoncés, parfois sur plusieurs années, produit un chiffre de communication, pas une mesure de l'investissement. Les 9,5 milliards d'ADP pèsent à eux seuls plus de 20 % du total et relèvent largement d'un plan de long terme. Aucune source ne chiffre les emplois. À cinq mois de la fin du quinquennat, le sommet sert aussi à défendre un bilan, alors que la statistique publique dit l'inverse : l'investissement baisse.",
+          "sources": [
+            {
+              "label": "Sud Radio (AFP), Choose France : 273 projets",
+              "url": "https://www.sudradio.fr/societe/choose-france-273-projets-valorises-et-pres-de-15-milliards-deuros-dinvestissements-nouveaux"
+            },
+            {
+              "label": "L'EnerGeek, programme du 23 novembre",
+              "url": "https://lenergeek.com/2026/11/22/choose-france-2026-energie-decarbonation-hydrogene-23-novembre-1333/"
+            },
+            {
+              "label": "Head Topics (RTL), les enjeux du sommet",
+              "url": "https://fr.headtopics.com/news/42-5-milliards-d-euros-d-investissement-273-projets-90090569"
+            }
+          ]
+        },
+        {
+          "kicker": "Météo",
+          "title": "Vigilance orange dans cinq départements, rafales à 170 km/h en Corse",
+          "minutes": 1,
+          "chapo": "Pluie, crues et vent : l'épisode doit s'achever lundi matin.",
+          "body": [
+            "Météo-France a placé cinq départements en vigilance orange dimanche : l'Ain et le Jura pour pluie-inondation, le Pas-de-Calais pour les crues, et les deux départements corses pour le vent à partir de minuit, avec des rafales jusqu'à 170 km/h attendues sur le Cap Corse. Des précipitations pourraient être neigeuses sur les reliefs de l'Est. Dans le Pas-de-Calais, où la Canche a atteint des niveaux record, le préfet juge la situation « pas totalement stabilisée »."
+          ],
+          "sources": [
+            {
+              "label": "L'Express via Orange, trois infos du 22 novembre",
+              "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-dimanche-22-novembre-l-express-via-6medias-CNT000002tZ0QO.html"
+            }
+          ]
+        },
+        {
+          "kicker": "En bref",
+          "title": "Ce qu'il faut savoir aussi",
+          "minutes": 2,
+          "chapo": "Primaire à droite, héritage Castel, assurance auto.",
+          "body": [
+            "Présidentielle. David Lisnard, attaqué par le RN et le centre, maintient son projet de primaire à droite ; Marine Le Pen l'accuse de vouloir « broyer » le Code du travail. Lisnard dit qu'il votera pour tout candidat opposé à Jean-Luc Mélenchon. Éric Zemmour se présente en « candidat de la liberté de parler ».",
+            "Entreprises. Le groupe Castel (vins, bières), dont le fondateur Pierre Castel, onzième fortune française, vient d'avoir 100 ans, est secoué par une guerre de succession (Le Monde).",
+            "Société. L'indemnisation des victimes de la route coûte trois fois plus cher qu'il y a vingt ans, selon Le Monde, et attire de plus en plus d'avocats. En Dordogne, l'arrivée des premiers « docteurs juniors » de médecine générale relance le débat sur les déserts médicaux."
+          ],
+          "sources": [
+            {
+              "label": "L'Express via Orange, trois infos du 22 novembre",
+              "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-dimanche-22-novembre-l-express-via-6medias-CNT000002tZ0QO.html"
+            },
+            {
+              "label": "Presse Évasion, revue de presse du 22 novembre",
+              "url": "https://www.presse-evasion.fr/article/revue-presse-22-11-2026"
+            }
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Quelle majorité faut-il au Congrès pour adopter une révision constitutionnelle ?",
+        "min": 50,
+        "max": 80,
+        "step": 1,
+        "unit": "% des suffrages exprimés",
+        "answer": 60,
+        "explain": "Les trois cinquièmes (60 %) des suffrages exprimés, après adoption du texte dans les mêmes termes par l'Assemblée et le Sénat (article 89). Sinon, la révision passe par référendum."
+      },
+      "flashcards": [
+        {
+          "front": "Règle d'or budgétaire",
+          "back": "Obligation constitutionnelle d'équilibre des finances publiques. Votée par les deux chambres en 2011 (gouvernement Fillon), jamais soumise au Congrès."
+        },
+        {
+          "front": "Congrès du Parlement",
+          "back": "Réunion de l'Assemblée et du Sénat à Versailles. Adopte une révision constitutionnelle à la majorité des 3/5 des suffrages exprimés."
+        },
+        {
+          "front": "Hugues Moutouh",
+          "back": "Ancien secrétaire général du ministère de l'Intérieur, préfet de la région Centre-Val de Loire. Soupçonné de fuites vers le RN ; a demandé à être relevé."
+        },
+        {
+          "front": "Frédéric Chatillon",
+          "back": "Proche de Marine Le Pen et ancien prestataire du RN. Un mail du ministère de l'Intérieur a été saisi chez lui à Rome."
+        },
+        {
+          "front": "Parquet européen",
+          "back": "Organe de l'UE chargé des fraudes au budget européen. Enquête sur un usage présumé frauduleux de fonds du Parlement européen."
+        },
+        {
+          "front": "Choose France, édition France",
+          "back": "Sommet 2026 : 42,5 Md€ recensés, 273 projets dont 81 inédits, près de 15 Md€ d'investissements nouveaux."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "Quel Premier ministre avait porté le projet de règle d'or en 2011 ?",
+          "choices": [
+            "Dominique de Villepin",
+            "François Fillon",
+            "Jean-Marc Ayrault",
+            "Édouard Philippe"
+          ],
+          "answer": 1,
+          "explain": "François Fillon. Le texte, voté par les deux chambres, n'a jamais été soumis au Congrès."
+        },
+        {
+          "q": "Où a été retrouvé le mail du service du préfet Moutouh ?",
+          "choices": [
+            "Au siège du RN",
+            "À Bruxelles",
+            "À Rome, chez Frédéric Chatillon",
+            "À Beauvau"
+          ],
+          "answer": 2,
+          "explain": "Lors d'une perquisition au domicile romain de Frédéric Chatillon, dans une enquête du parquet européen."
+        },
+        {
+          "q": "Combien d'investissements vraiment nouveaux compte Choose France 2026 ?",
+          "choices": [
+            "Près de 15 Md€",
+            "30,4 Md€",
+            "42,5 Md€",
+            "9,5 Md€"
+          ],
+          "answer": 0,
+          "explain": "Près de 15 Md€ sur 42,5 Md€ recensés, le reste étant des projets déjà connus."
+        },
+        {
+          "q": "Quelle entreprise porte à elle seule 9,5 Md€ des annonces ?",
+          "choices": [
+            "L'Oréal",
+            "Airbus",
+            "Groupe ADP",
+            "Elyse Energy"
+          ],
+          "answer": 2,
+          "explain": "Groupe ADP, gestionnaire des aéroports parisiens."
+        },
+        {
+          "q": "Quelle rafale maximale était attendue sur le Cap Corse ?",
+          "choices": [
+            "110 km/h",
+            "140 km/h",
+            "170 km/h",
+            "210 km/h"
+          ],
+          "answer": 2,
+          "explain": "Jusqu'à 170 km/h, d'où la vigilance orange vent pour les deux départements corses."
+        }
+      ]
+    },
+    {
+      "id": "savoirs",
+      "name": "Savoirs",
+      "minutes": 10,
+      "lede": [
+        "BepiColombo est en orbite autour de Mercure : huit ans et neuf survols pour atteindre la planète la plus proche du Soleil. Paradoxe : il est plus difficile d'aller vers le Soleil que de s'en éloigner.",
+        "Le pétrolier fantôme d'Ormuz montre la faille d'un système dont dépend tout le commerce maritime : l'AIS, une balise radio sans aucune sécurité.",
+        "Et deux mécanismes pour lire l'actualité : comment l'effet de levier transforme une baisse de 10 % en ruine, et comment on modifie la Constitution."
+      ],
+      "articles": [
+        {
+          "kicker": "Espace · Mécanique céleste",
+          "title": "BepiColombo : pourquoi Mercure est si dure à atteindre",
+          "minutes": 3,
+          "chapo": "Lancée en 2018, la mission européano-japonaise est entrée en orbite le 21 novembre. Il a fallu freiner pendant huit ans, pas accélérer.",
+          "body": [
+            "Samedi 21 novembre à 18 h 24 UTC, l'ensemble composé de l'orbiteur européen MPO (Mercury Planetary Orbiter) et du japonais Mio (Mercury Magnetospheric Orbiter) a été capturé par Mercure. L'ESA l'a confirmé dans la nuit : la dynamique de vol « a déjà confirmé » la capture orbitale. C'est la première mission à placer deux engins autour de Mercure, et la troisième seulement à la visiter, après Mariner 10 et MESSENGER (en orbite de 2011 à 2015).",
+            "Pourquoi tant de temps pour une planète située en moyenne à 0,39 unité astronomique du Soleil ? Parce que tomber vers le Soleil fait accélérer. La Terre circule à environ 30 km/s autour du Soleil, Mercure à environ 48 km/s. Une sonde qui part de la Terre et « tombe » vers l'intérieur gagne de la vitesse et arriverait sur Mercure beaucoup trop vite pour être capturée par sa faible gravité. Tout le voyage consiste donc à freiner. BepiColombo a quitté la Terre avec une vitesse d'excès hyperbolique de 3,475 km/s, puis enchaîné neuf assistances gravitationnelles : la Terre (2020), Vénus deux fois (2020 et 2021), Mercure six fois (2021 à janvier 2025). Ces six survols ont ramené sa vitesse relative à 1,76 km/s.",
+            "Entre les survols, la propulsion électrique a fait le reste : quatre moteurs ioniques T6 au xénon de 145 millinewtons chacun, 290 mN au maximum, soit le poids d'une pièce de 30 grammes. Une poussée minuscule, mais une impulsion spécifique de 4 300 secondes, environ dix fois celle d'un moteur chimique : on consomme dix fois moins de carburant pour le même changement de vitesse, à condition d'avoir des mois devant soi. Une panne de ces moteurs en 2024 a retardé l'arrivée de 11 mois, de décembre 2025 à novembre 2026.",
+            "La suite : MPO et Mio se sépareront les 9 et 10 décembre. Mio rejoindra une orbite très allongée de 590 × 11 640 km (période 9,3 heures) pour étudier la magnétosphère ; MPO descendra sur une orbite polaire de 480 × 1 500 km bouclée en 2,36 heures pour cartographier la surface. La science commence en avril 2027, pour au moins un an. Les questions posées : d'où vient Mercure, pourquoi son noyau de fer est-il si gros, pourquoi garde-t-elle un champ magnétique, pourquoi sa surface est-elle si sombre, et y a-t-il de la glace dans ses cratères polaires jamais éclairés. Coût estimé en 2017 : 1,65 milliard d'euros."
+          ],
+          "critique": "« Huit ans pour 1,65 milliard d'euros » peut sembler beaucoup pour une petite planète brûlée. Mais Mercure est un laboratoire unique : la planète la plus dense après la Terre, avec un champ magnétique qu'on ne s'explique pas sur un corps si petit. Et la mission sert aussi à éprouver la propulsion électrique lourde, technologie clé pour les futures missions lointaines.",
+          "sources": [
+            {
+              "label": "EarthSky, BepiColombo en orbite",
+              "url": "https://earthsky.org/space/bepicolombo-mission-mercury/"
+            },
+            {
+              "label": "ESA, arrivée de BepiColombo à Mercure",
+              "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
+            },
+            {
+              "label": "Wikipédia (en), BepiColombo",
+              "url": "https://en.wikipedia.org/wiki/BepiColombo"
+            }
+          ]
+        },
+        {
+          "kicker": "Ingénierie · Mer",
+          "title": "L'AIS, la balise qui permet de suivre (et de tromper) tous les navires",
+          "minutes": 3,
+          "chapo": "Le « pétrolier » Khat-Shekan n'existait que sous forme de messages radio. Comment est-ce possible ?",
+          "body": [
+            "Le système d'identification automatique (AIS) est un transpondeur VHF. Chaque navire émet, sur deux fréquences (161,975 et 162,025 MHz), son identifiant, sa position GPS, son cap, sa vitesse, son tirant d'eau et sa destination. Depuis 2002, la convention SOLAS de l'Organisation maritime internationale l'impose aux navires de plus de 300 tonneaux de jauge brute en voyage international et à tous les navires à passagers, soit environ 100 000 bâtiments ; plus de 1,6 million de navires en étaient équipés en 2021. Un navire de classe A émet toutes les 2 à 10 secondes en route, toutes les 3 minutes au mouillage.",
+            "À l'origine, c'est un outil anticollision : la portée terrestre est d'environ 10 à 20 milles nautiques, limitée par l'horizon radio. Depuis 2006 et le satellite TacSat-2, des satellites en orbite basse captent aussi ces messages, ce qui a donné naissance aux cartes mondiales du trafic comme MarineTraffic. Le défaut est structurel : l'AIS n'offre pratiquement aucune sécurité et repose sur la coopération des participants. Aucun message n'est signé ni authentifié.",
+            "D'où deux pratiques. Couper son transpondeur (« passer en sombre ») est ce que font les pétroliers de la flotte fantôme pour charger discrètement. Usurper (spoofing) consiste à émettre de faux messages : un navire inventé, comme le Khat-Shekan, ou une fausse position. En juin 2021, la trace du destroyer britannique HMS Defender aurait ainsi été falsifiée. Pour démasquer ces fraudes, les analystes croisent l'AIS avec l'imagerie satellite optique ou radar : c'est ainsi que TankerTrackers voit plus de 14 pétroliers immobiles à Kharg pendant qu'un « VLCC » franchit Ormuz sur les cartes."
+          ],
+          "critique": "Les cartes de trafic maritime citées par les médias sont des agrégations de déclarations radio, pas des observations. Chaque chiffre de « passages dans le détroit » hérite de cette faiblesse, dans les deux sens : des navires réels invisibles, des navires visibles irréels.",
+          "sources": [
+            {
+              "label": "Wikipédia (en), système d'identification automatique",
+              "url": "https://en.wikipedia.org/wiki/Automatic_identification_system"
+            },
+            {
+              "label": "Euronews, le pétrolier fantôme Khat-Shekan",
+              "url": "https://www.euronews.com/2026/11/22/tracking-site-says-iranian-tanker-reportedly-sailing-through-strait-of-hormuz-does-not-exi"
+            }
+          ]
+        },
+        {
+          "kicker": "Finance · Mathématiques",
+          "title": "Effet de levier : pourquoi 10 % de baisse peuvent tout effacer",
+          "minutes": 2,
+          "chapo": "1,8 milliard de dollars de positions crypto ont été liquidées vendredi. Le calcul est simple et brutal.",
+          "body": [
+            "Avec un levier de 10, un investisseur qui dépose 1 000 dollars de garantie contrôle une position de 10 000 dollars. Si le prix monte de 5 %, il gagne 500 dollars, soit +50 % sur sa mise. S'il baisse de 10 %, la perte atteint 1 000 dollars : la garantie est épuisée, la plateforme ferme d'office la position. En pratique, la liquidation intervient un peu avant, car la plateforme exige une marge de maintenance. Règle approchée : avec un levier L, une baisse d'environ 1/L suffit à tout perdre, soit 20 % à levier 5, 2 % à levier 50.",
+            "Le danger est collectif. Chaque liquidation est une vente forcée au marché, qui fait encore baisser le prix et déclenche les liquidations suivantes : c'est la « cascade ». C'est ce qui explique qu'un actif puisse perdre plusieurs pour cent en quelques minutes, puis rebondir dès que les positions fragiles ont été purgées. Le bitcoin passé de 55 640 à plus de 61 000 dollars en deux jours illustre ce mouvement : le rebond ne dit rien de la demande réelle, il dit seulement que les vendeurs forcés ont disparu."
+          ],
+          "sources": [
+            {
+              "label": "Motley Fool, le bitcoin repasse 60 000 $",
+              "url": "https://www.fool.com/coverage/stock-market-today/2026/11/22/crypto-market-today-nov-22-bitcoin-reclaims-usd60-000-after-usd1-8-billion-liquidation-wipeout-is-the-worst-over/"
+            },
+            {
+              "label": "Bitcoin.com News, la déroute de novembre",
+              "url": "https://news.bitcoin.com/market-updates/bitcoin-price-takes-a-beating-as-november-rout-erases-summer-gains/"
+            }
+          ]
+        },
+        {
+          "kicker": "Droit constitutionnel",
+          "title": "Comment on change la Constitution : l'article 89 en trois étapes",
+          "minutes": 2,
+          "chapo": "Projet du gouvernement ou proposition des parlementaires, puis référendum ou Congrès : le chemin d'une règle d'or.",
+          "body": [
+            "L'article 89 de la Constitution de 1958 prévoit d'abord que l'initiative appartient au président de la République, sur proposition du Premier ministre (projet de révision), ou aux parlementaires (proposition de révision). Le texte doit ensuite être voté dans les mêmes termes par l'Assemblée nationale et par le Sénat : le Sénat dispose donc d'un droit de veto de fait, sans commission mixte paritaire possible.",
+            "Troisième étape : la ratification. Par principe, elle se fait par référendum. Mais pour un projet de révision, le président peut choisir de le soumettre au Parlement réuni en Congrès à Versailles, qui l'approuve à la majorité des trois cinquièmes des suffrages exprimés. C'est la voie presque toujours suivie : la grande révision de juillet 2008 est passée à une voix près au-dessus du seuil. Une proposition de révision d'origine parlementaire, elle, ne peut passer que par référendum.",
+            "Une limite enfin : la forme républicaine du gouvernement ne peut faire l'objet d'aucune révision, et aucune révision ne peut être engagée quand l'intégrité du territoire est atteinte. Le Congrès sert aussi, depuis 2008, à entendre une déclaration du président (Sarkozy en 2009, Hollande en novembre 2015, Macron en 2017), sans vote."
+          ],
+          "sources": [
+            {
+              "label": "Wikipédia (en), Congrès du Parlement",
+              "url": "https://en.wikipedia.org/wiki/Congress_of_the_French_Parliament"
+            },
+            {
+              "label": "L'Express via Orange, Macron et la règle d'or",
+              "url": "https://actu.orange.fr/politique/emmanuel-macron-envisagerait-de-faire-adopter-par-le-parlement-une-regle-d-or-budgetaire-dans-la-constitution-l-express-via-6medias-CNT000002tWVBU.html"
+            }
+          ]
+        },
+        {
+          "kicker": "Éphéméride",
+          "title": "Doctor Who, 80 secondes de retard et 63 ans d'antenne",
+          "minutes": 1,
+          "chapo": "23 novembre 1963, BBC, 17 h 16 : une cabine de police bleue entre dans l'histoire de la télévision.",
+          "body": [
+            "Le premier épisode de Doctor Who est diffusé le 23 novembre 1963 à 17 h 16 min 20 s GMT, avec 80 secondes de retard, à cause de la couverture de l'assassinat de John F. Kennedy la veille. La série compte 26 saisons de 1963 à 1989, puis 15 séries depuis 2005 : 892 épisodes, dont 95 manquent dans les archives de la BBC, effacés à l'époque pour réutiliser les bandes. Le Guinness World Records la classe comme la plus longue série de science-fiction au monde. Quatorze acteurs ont incarné le Docteur.",
+            "On fête aujourd'hui saint Clément, Clément de Rome, quatrième évêque de la ville selon la tradition, mort vers l'an 100."
+          ],
+          "sources": [
+            {
+              "label": "Wikipédia (en), Doctor Who",
+              "url": "https://en.wikipedia.org/wiki/Doctor_Who"
+            }
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Combien d'assistances gravitationnelles BepiColombo a-t-elle utilisées pour atteindre Mercure ?",
+        "min": 0,
+        "max": 20,
+        "step": 1,
+        "unit": "survols",
+        "answer": 9,
+        "explain": "Neuf : la Terre une fois, Vénus deux fois, Mercure six fois. Combinés à la propulsion ionique, ils ont réduit la vitesse relative à 1,76 km/s."
+      },
+      "flashcards": [
+        {
+          "front": "BepiColombo",
+          "back": "Mission ESA-JAXA lancée le 20/10/2018, en orbite de Mercure le 21/11/2026. Deux orbiteurs : MPO (surface) et Mio (magnétosphère). Science dès avril 2027."
+        },
+        {
+          "front": "Assistance gravitationnelle",
+          "back": "Survol d'une planète qui modifie la vitesse et la direction d'une sonde sans carburant. Pour Mercure, on s'en sert pour freiner."
+        },
+        {
+          "front": "Impulsion spécifique (Isp)",
+          "back": "Efficacité d'un moteur, en secondes. Moteur ionique T6 : ≈4 300 s ; moteur chimique : quelques centaines. Plus elle est haute, moins on consomme."
+        },
+        {
+          "front": "AIS",
+          "back": "Transpondeur VHF (161,975 et 162,025 MHz) obligatoire pour les navires de plus de 300 tonneaux en voyage international. Non authentifié, donc falsifiable."
+        },
+        {
+          "front": "Spoofing AIS",
+          "back": "Émission de faux messages AIS (navire fictif ou fausse position). Démasqué en croisant avec l'imagerie satellite."
+        },
+        {
+          "front": "Levier L",
+          "back": "Une baisse d'environ 1/L du prix efface la garantie : 10 % à levier 10, 2 % à levier 50. Les liquidations en chaîne amplifient les chutes."
+        },
+        {
+          "front": "Article 89",
+          "back": "Révision de la Constitution : vote identique Assemblée/Sénat, puis référendum ou Congrès (3/5 des suffrages exprimés, pour un projet du président)."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "Pourquoi faut-il tant de temps pour atteindre Mercure ?",
+          "choices": [
+            "Elle est très loin de la Terre",
+            "La sonde doit perdre de la vitesse acquise en tombant vers le Soleil",
+            "Le Soleil bloque les communications",
+            "Les moteurs ioniques ne fonctionnent pas près du Soleil"
+          ],
+          "answer": 1,
+          "explain": "En s'approchant du Soleil, une sonde accélère : il faut freiner longtemps pour être capturée par Mercure."
+        },
+        {
+          "q": "Quelle est la poussée totale maximale des moteurs ioniques de BepiColombo ?",
+          "choices": [
+            "290 mN",
+            "29 N",
+            "2,9 kN",
+            "290 kN"
+          ],
+          "answer": 0,
+          "explain": "290 millinewtons : à peu près le poids d'un objet de 30 grammes, mais pendant des mois."
+        },
+        {
+          "q": "Quel navire doit obligatoirement porter un AIS selon SOLAS ?",
+          "choices": [
+            "Tout voilier",
+            "Les navires de plus de 300 tonneaux en voyage international",
+            "Seulement les navires militaires",
+            "Seulement les pétroliers"
+          ],
+          "answer": 1,
+          "explain": "Plus de 300 tonneaux de jauge brute en voyage international, plus tous les navires à passagers."
+        },
+        {
+          "q": "Avec un levier de 20, quelle baisse efface environ la garantie ?",
+          "choices": [
+            "1 %",
+            "5 %",
+            "20 %",
+            "50 %"
+          ],
+          "answer": 1,
+          "explain": "Environ 1/20, soit 5 %."
+        },
+        {
+          "q": "Pourquoi le premier épisode de Doctor Who a-t-il commencé en retard ?",
+          "choices": [
+            "Une panne d'émetteur",
+            "La couverture de l'assassinat de Kennedy",
+            "Un match de football",
+            "Une grève"
+          ],
+          "answer": 1,
+          "explain": "La BBC couvrait l'assassinat de JFK, survenu la veille : 80 secondes de retard."
+        }
+      ]
+    }
+  ]
+}
