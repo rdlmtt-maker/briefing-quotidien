@@ -1,0 +1,390 @@
+{
+  "date": "2026-11-24",
+  "weekday": "mardi",
+  "saint": "Flora",
+  "headline": "Nvidia rappelle Jensen Huang et Wall Street s'envole, l'Ukraine coule une corvette russe en Libye, et le Sénat alourdit l'impôt sur les indemnités.",
+  "chapters": [
+    {
+      "id": "monde",
+      "name": "Monde",
+      "minutes": 10,
+      "lede": [
+        "Onze jours après sa démission, Jensen Huang reprend la tête de Nvidia. Donald Trump revendique l'avoir obtenu : « J'ai fait le deal. » L'action bondit de 31,5 % et entraîne Wall Street dans sa meilleure séance depuis des mois : Nasdaq +6,5 %, S&P 500 +4,7 %.",
+        "L'Ukraine confirme avoir coulé la corvette russe Merkury dans le port libyen de Benghazi, à environ 2 400 km du front, avec sept drones navals lancés depuis un navire-mère. Moscou dénonce une « tendance très dangereuse ».",
+        "Dans le Golfe, Téhéran promet d'utiliser « tous les moyens » contre le blocus américain, pendant que Donald Trump affirme que l'Iran n'a jamais tiré autant de drones et de missiles depuis plus d'un an. Le Brent recule sous 91 dollars."
+      ],
+      "articles": [
+        {
+          "kicker": "Tech · Gouvernance",
+          "title": "Le retour de Jensen Huang, signé à la Maison-Blanche",
+          "minutes": 3,
+          "chapo": "Le conseil de Nvidia, qui jurait la semaine dernière de ne pas reprendre son fondateur, l'a réinstallé à l'unanimité lundi matin. Le président américain dit avoir « convaincu » les administrateurs.",
+          "body": [
+            "Lundi 23 novembre à 8 h 55 (heure de New York), Nvidia a annoncé que Jensen Huang redevenait président-directeur exécutif (« president and CEO ») et administrateur, « avec effet immédiat ». Le vote du conseil a été unanime, après des discussions avec l'intéressé. Huang avait démissionné le 12 novembre ; la directrice financière Colette Kress assurait l'intérim. Elle retrouve ses fonctions de directrice financière.",
+            "Le président du conseil, Harvey C. Jones, justifie la volte-face dans un communiqué cité par l'agence AP : le conseil estime que Jensen Huang « est la bonne personne pour diriger Nvidia » et que son retour sert « les actionnaires, les salariés, les partenaires et les clients ». Selon StockTitan, qui reprend le communiqué, le conseil dit avoir reçu des « plus hauts niveaux du gouvernement américain » l'assurance que ce retour « ne pose aucun risque pour la sécurité nationale ». Un comité d'administrateurs indépendants doit néanmoins terminer son enquête sur les informations selon lesquelles Huang aurait été la cible d'une opération de renseignement étrangère.",
+            "Donald Trump n'a pas laissé le mérite à d'autres. Au téléphone avec CNBC, rapporte ABC News : « Je leur ai parlé. Disons-le ainsi : je les ai convaincus. J'ai fait le deal. » Selon AP, il a ajouté que « le conseil a décidé de faire ce que nous voulions » et que, « en gros, [il] était représenté au conseil », sans dire s'il avait participé à la réunion. Une source anonyme citée par AP indique que le vice-président JD Vance a servi d'émissaire auprès des administrateurs pendant le week-end. Trump reconnaît que la chute de la Bourse la semaine précédente a « probablement » pesé dans sa réflexion.",
+            "Le président affirme qu'une enquête « très approfondie » du gouvernement a « disculpé » Huang. Le ministre de la Justice Todd Blanche a confirmé, selon AP, que l'État « ne possède pas de preuve » d'un comportement illégal. Mais il a aussi précisé, lors d'une autre conférence de presse, que le ministère « enquête ou examine » la question de savoir si Alice Huang, avec qui Jensen Huang a reconnu une liaison, travaillait pour l'espionnage chinois. Le ministère mène par ailleurs une enquête pénale sur de possibles violations du contrôle des exportations chez Megaspeed, l'entreprise de cloud singapourienne dont elle était dirigeante.",
+            "Le retour n'éteint donc rien. Huang doit être entendu la semaine prochaine par trois commissions de la Chambre des représentants. Le chef des démocrates au Sénat, Chuck Schumer, estime que la précipitation « souligne la nécessité pour le Congrès d'agir ». L'enquête de la SEC sur la comptabilité de Nvidia, révélée par Reuters le 20 novembre, n'a pas été évoquée dans les communiqués de lundi. Huang, lui, promet d'être « un meilleur PDG la seconde fois ».",
+            "En Bourse, le titre a ouvert en hausse de 33 % à 165,57 dollars et a clôturé à 165,05 dollars (+31,5 %), après −14 % vendredi. Il reste loin de son record de 239,24 dollars, atteint le mois dernier selon AP. Avec environ 24 milliards d'actions en circulation, la séance représente de l'ordre de 950 milliards de dollars de capitalisation retrouvés (calcul Six Heures, ordre de grandeur)."
+          ],
+          "critique": "Le précédent est lourd : un président des États-Unis revendique publiquement d'avoir fait nommer le patron de la première capitalisation technologique, en avouant que la chute des marchés a guidé sa décision. Les administrateurs d'une société cotée doivent agir dans l'intérêt des actionnaires, pas sous la pression politique ; or ils avaient écarté Huang quelques jours plus tôt, sans élément nouveau connu depuis, hormis un appel de Washington. Reste aussi une contradiction : on « disculpe » Huang tout en enquêtant sur la personne au cœur des soupçons. Le marché a voté pour la continuité ; la question de gouvernance, elle, est entière.",
+          "sources": [
+            {"label": "PBS / AP, le conseil réinstalle Jensen Huang", "url": "https://www.pbs.org/newshour/nation/nvidia-board-unanimously-reinstates-jensen-huang-as-ceo-and-chairman"},
+            {"label": "ABC News, « I made the deal »", "url": "https://abcnews.com/Politics/made-deal-trump-convinced-nvidia-board-reinstate-jensen/story?id=138373104"},
+            {"label": "StockTitan, séance du 23 novembre", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-23-2026"},
+            {"label": "Just Security, Early Edition du 23 novembre", "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"}
+          ]
+        },
+        {
+          "kicker": "Marchés",
+          "title": "Wall Street efface une semaine noire en une séance",
+          "minutes": 2,
+          "chapo": "Sept séances de baisse, une correction de plus de 10 %, puis un rebond parmi les plus violents depuis 1957. Les semi-conducteurs mènent, et la cybersécurité s'offre la plus grosse fusion de son histoire.",
+          "body": [
+            "Selon AP, le S&P 500 a gagné 326,78 points (+4,73 %) à 7 237,17, le Nasdaq 1 471,82 points (+6,51 %) à 24 089,56 et le Dow Jones 1 447,98 points (+3,01 %) à 49 595,31. Le Russell 2000 des petites capitalisations a pris 3,40 %. StockTitan classe la séance au 33e rang des plus fortes hausses du S&P 500 depuis 1957. L'indice de volatilité VIX a chuté de 25,8 % à 26,62. La semaine précédente, le Nasdaq avait perdu 10 % et le S&P 500 8,6 %.",
+            "Tout ce qui touche à l'IA a rebondi. Selon StockTitan, Micron a gagné 19 %, TSMC 14 %, KLA 15 %, AMD 6,9 %, CoreWeave 22,3 %, Nebius 20,3 % ; Astera Labs, Credo et SiTime ont pris plus de 21 %. Exception notable : Anthropic, cotée depuis jeudi, a fini en baisse de 1,43 % (une seule source, StockTitan).",
+            "Hors IA, la journée a été marquée par l'annonce, à 5 h 32, du rachat de Zscaler par CrowdStrike : une offre entièrement en actions d'environ 43,9 milliards de dollars, soit 1,135 action CrowdStrike pour une action Zscaler, une prime de 34 % sur le cours de vendredi selon AP. Les actionnaires de CrowdStrike détiendront 84,1 % de l'ensemble. Le groupe vise environ 10 milliards de dollars de revenus récurrents annuels et 500 millions d'économies de coûts sous deux ans, selon Cybersecurity Dive. Zscaler a gagné 17,7 %, CrowdStrike a perdu 8,9 %.",
+            "Le reste du tableau est plus calme : bitcoin quasi stable vers 61 250 dollars, or en hausse de 3,4 % à 3 635 dollars, rendement à 10 ans à 4,92 %. Le pétrole recule de près de 4 % (WTI 80,26 dollars), ce qu'AP rattache à la baisse générale des tensions sur les prix. Mardi, l'indice de confiance des consommateurs ; jeudi, Wall Street est fermée pour Thanksgiving."
+          ],
+          "critique": "Un rebond de 6,5 % après une chute de 10 % ne ramène pas au point de départ : il faut +11 % pour effacer −10 %. Surtout, la séance a été déclenchée par un seul événement, le retour d'un dirigeant, ce qui illustre la concentration du marché sur quelques valeurs. Les sujets de fond qui avaient fait baisser la cote, financement circulaire des centres de données, enquête de la SEC, Fed qui envisage une hausse en décembre, n'ont pas bougé lundi.",
+          "sources": [
+            {"label": "AP via Yahoo Finance, indices du 23 novembre", "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-213053319.html"},
+            {"label": "StockTitan, séance du 23 novembre", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-23-2026"},
+            {"label": "AP via ABC News, CrowdStrike rachète Zscaler", "url": "https://abcnews.com/Business/wireStory/crowdstrike-acquire-zscaler-44-billion-deal-create-cybersecurity-138373706"},
+            {"label": "Cybersecurity Dive, CrowdStrike-Zscaler", "url": "https://www.cybersecuritydive.com/news/crowdstrike-acquire-zscaler-439-billion-turbulent-threat/875477/"},
+            {"label": "Schwab, semaine du 16 au 20 novembre", "url": "https://www.schwab.com/learn/story/market-volatility"}
+          ]
+        },
+        {
+          "kicker": "Ukraine · Méditerranée",
+          "title": "Une corvette russe coulée à Benghazi",
+          "minutes": 3,
+          "chapo": "Après le cargo Sparta II en Baltique, l'Ukraine frappe la flotte russe en Libye, à des milliers de kilomètres du front. Moscou parle de « terrorisme », Medvedev évoque à nouveau l'arme nucléaire.",
+          "body": [
+            "Lundi matin, Volodymyr Zelensky a confirmé que l'Ukraine avait coulé la veille la corvette Merkury, amarrée à la base navale de Benghazi, dans l'est de la Libye. Il parle d'une « opération ukrainienne exemplaire ». Sept drones navals de fabrication ukrainienne ont été utilisés, a-t-il écrit ; un hélicoptère Ka-27 embarqué a été détruit. Le service de sécurité ukrainien (SBU) précise, selon ABC News, que les sept embarcations sans équipage ont été « transportées sur zone et lancées depuis un navire-mère ». Selon l'American Legion, l'opération s'est déroulée à environ 2 400 km du front.",
+            "Le Merkury est une corvette de la classe Steregushchiy, mise en service le 13 mai 2023 : 104,5 m de long, 2 200 tonnes à pleine charge, 90 marins, des missiles antinavires Kh-35 et un hangar pour hélicoptère (Wikipédia). Une image satellite Vantor du 22 novembre montre le navire chaviré. Une seconde cible a été touchée : le cargo Angara, sous sanctions, que le SBU décrit comme un transporteur d'armes sur les routes russes vers la Syrie et la Libye et que la corvette escortait. Reuters, cité par Defense News, fait état de dix blessés, Russes et Libyens.",
+            "Benghazi est la capitale du gouvernement de l'Est libyen, dit de stabilité nationale, rival du gouvernement reconnu par l'ONU à Tripoli et décrit par Defense News comme soutenu par la Russie. Ce gouvernement explique que la corvette rentrait en Russie et faisait escale pour se ravitailler, dans le cadre d'un accord de coopération ; il a ouvert une enquête conjointe avec Moscou et porté plainte à l'ONU pour atteinte à la souveraineté libyenne. Tripoli exprime sa « grave préoccupation ». La mission de l'ONU prévient que la Libye « ne doit pas devenir un champ de bataille pour des conflits étrangers ».",
+            "Le Kremlin a d'abord « pris note » de la déclaration de Zelensky. Son porte-parole, Dmitri Peskov, a ensuite qualifié l'attaque du cargo Sparta II en Baltique de « tendance très dangereuse » et espéré que les pays baltes pousseraient Kyiv à cesser ses « pratiques terroristes », rapporte Al Jazeera. Dmitri Medvedev a écrit que la Russie pourrait employer « tous les moyens », « y compris potentiellement l'arme nucléaire », tout en reconnaissant ne pas en voir la « nécessité directe ». Le Premier ministre Mikhaïl Michoustine annonce 47 milliards de roubles (576 millions de dollars) pour deux ferries ferroviaires Oust-Louga–Baltiïsk vers Kaliningrad, attendus en 2030.",
+            "Côté finlandais, le Premier ministre Petteri Orpo a écrit que « la guerre déborde dans notre voisinage immédiat » tout en affirmant que « l'Ukraine a le droit de riposter ». À Kryvyï Rih, le bilan des frappes russes de la fin de semaine est monté à onze morts selon le gouverneur régional."
+          ],
+          "critique": "Militairement, l'opération montre que la flotte russe n'est plus à l'abri hors de la mer Noire, et qu'un drone de surface lancé d'un navire civil peut frapper presque n'importe quel port. Politiquement, elle exporte la guerre dans un pays tiers divisé et pose une question que Kyiv évite : quel navire-mère, sous quel pavillon, avec quelles complicités ? Si un État tiers a facilité l'opération, il devient partie prenante. Les menaces de Medvedev sont, elles, un registre récurrent ; elles n'ont jusqu'ici été suivies d'aucun changement de doctrine visible.",
+          "sources": [
+            {"label": "ABC News, le Merkury coulé par des drones navals", "url": "https://abcnews.com/International/ukrainian-naval-drones-sank-russias-merkury-warship-libya/story?id=138369738"},
+            {"label": "Defense News, l'Ukraine confirme", "url": "https://www.defensenews.com/global/mideast-africa/2026/11/23/ukraine-confirms-it-sank-russian-corvette-in-libyan-port/"},
+            {"label": "Al Jazeera, la Russie met en garde", "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks"},
+            {"label": "American Legion, Five Things to Know", "url": "https://www.legion.org/information-center/news/security/2026/november/five-things-to-know-nov-23-2026"},
+            {"label": "Wikipédia (en), corvette Merkury", "url": "https://en.wikipedia.org/wiki/Russian_corvette_Merkury"}
+          ]
+        },
+        {
+          "kicker": "Golfe · Iran",
+          "title": "Téhéran fixe son prix pour rouvrir Ormuz",
+          "minutes": 2,
+          "chapo": "Nouveaux pétroliers touchés, nouvelles sanctions américaines, nouvelles conditions iraniennes : le détroit reste fermé au commerce, mais le pétrole baisse.",
+          "body": [
+            "Lundi, le porte-parole de la diplomatie iranienne, Esmaïl Baghaei, a déclaré que l'Iran « utilisera tous les moyens disponibles » contre ce qu'il appelle « l'agression » américaine, en invoquant l'article 51 de la Charte de l'ONU (légitime défense). Il ajoute, selon l'agence IRNA citée par ABC News, que la navigation pourrait être rétablie « dans les plus brefs délais » si Washington lève les sanctions et le blocus naval et respecte le protocole d'accord de juin. Le ministre Abbas Araghchi juge « vaine » toute discussion sur Ormuz tant que ces exigences, dont le dégel des avoirs et la fin de la guerre « sur tous les fronts », ne sont pas satisfaites (CBS News).",
+            "Sur l'eau, la marine des Gardiens de la révolution affirme que deux pétroliers ont « explosé » sur des mines au nord de l'île de Ghanem, à l'est du détroit, pour avoir emprunté des « routes non autorisées ». Aucune autorité maritime ne l'a confirmé. L'agence britannique UKMTO a signalé dimanche un incident entre un pétrolier et des « forces militaires » en mer d'Oman. Le nageur Lewis Pugh, qui traversait le détroit lundi, dit avoir entendu deux fortes explosions.",
+            "Donald Trump a écrit dimanche que l'Iran « a lancé plus de drones et de missiles la semaine dernière qu'à aucun moment depuis plus d'un an », avant d'ajouter : « Ne vous inquiétez pas, ils ont tous été abattus. » Le Trésor américain a annoncé lundi de nouvelles sanctions contre les réseaux de paiement de la compagnie nationale iranienne de pétroliers, selon gCaptain cité par Straits. Une délégation qatarie a passé deux heures à Téhéran vendredi soir, sans résultat annoncé.",
+            "Le Brent a perdu environ 3,7 % lundi, à 90,94 dollars à la clôture européenne (BFM Bourse) et vers 89,2 dollars en soirée (Straits). Le suivi IMF PortWatch comptait 2 passages le 15 novembre, contre 85 par jour avant la crise."
+          ],
+          "critique": "Les deux camps parlent d'un accord possible « en deux jours » ou d'une « vraie » négociation, mais leurs préalables sont incompatibles : l'Iran exige la levée du blocus avant de rouvrir, Washington veut l'inverse. Les annonces de mines « sur routes non autorisées » servent aussi un objectif : dissuader les armateurs de forcer le passage sans escorte iranienne. Et le pétrole qui baisse malgré un détroit fermé rappelle que le marché regarde surtout l'excédent mondial prévu par l'AIE, pas le seul Golfe.",
+          "sources": [
+            {"label": "CBS News, fil Iran", "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"},
+            {"label": "ABC News, fil Iran", "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648"},
+            {"label": "Straits, brief du 23 novembre", "url": "https://straits.live/briefs/2026-11-23"}
+          ]
+        },
+        {
+          "kicker": "En bref",
+          "title": "Le reste du monde",
+          "minutes": 1,
+          "chapo": "Séoul remanie, Dhaka menace, Israël s'inquiète de ses colons, et une élection se joue à 330 voix.",
+          "body": [
+            "Corée du Sud : au lendemain de la démission du ministre de l'Éducation, le président Lee Jae-myung a remanié son gouvernement lundi. Kang Kum-sil devient la première femme à diriger le renseignement (NIS) ; Lim Woong-soon prend les Affaires étrangères.",
+            "Bangladesh : le gouvernement dit qu'il fera arrêter l'ancienne Première ministre Sheikh Hasina, condamnée à mort, si elle rentre d'Inde.",
+            "Israël : le Premier ministre désigné Gadi Eisenkot a qualifié de « terrorisme juif » les incendies de villages près de Ramallah par des colons, en accusant les ministres Ben Gvir et Smotrich d'avoir mené la région « au bord de l'anarchie ».",
+            "États-Unis : après recomptage, le démocrate Chuck Hubbard bat la républicaine Virginia Foxx, élue depuis onze mandats en Caroline du Nord, avec 330 voix d'avance sur 287 000. Selon Reuters, cité par Just Security, le renseignement de l'OTAN pense que la Russie prépare le lancement d'un satellite à arme nucléaire."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Just Security, Early Edition du 23 novembre", "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"}
+          ]
+        }
+      ],
+      "board": [
+        {"label": "S&P 500", "value": "7 237", "change": 4.73},
+        {"label": "Nasdaq", "value": "24 090", "change": 6.51},
+        {"label": "Dow Jones", "value": "49 595", "change": 3.01},
+        {"label": "CAC 40", "value": "8 045", "change": 1.48},
+        {"label": "Nvidia", "value": "165,05 $", "change": 31.48},
+        {"label": "Anthropic (ANT)", "value": "≈87,6 $", "change": -1.43},
+        {"label": "VIX", "value": "26,62", "change": -25.84},
+        {"label": "Bitcoin", "value": "≈61 250 $", "change": 0.67},
+        {"label": "Or (once)", "value": "≈3 636 $", "change": 3.42},
+        {"label": "Brent (baril)", "value": "90,94 $", "change": -3.7},
+        {"label": "WTI (baril)", "value": "80,26 $", "change": -3.78}
+      ],
+      "boardNote": "Clôtures du lundi 23 novembre (AP, StockTitan, BFM Bourse). Anthropic : variation d'une seule source, cours calculé. Brent à la clôture européenne ; il cotait vers 89,2 $ en soirée. Taux à 10 ans américain : 4,92 % ; OAT française : 4,78 % (−9 pb). Wall Street fermée jeudi 26 (Thanksgiving).",
+      "estimate": {
+        "question": "De combien de pour cent l'action Nvidia a-t-elle progressé lundi, jour du retour de Jensen Huang ?",
+        "min": 0,
+        "max": 50,
+        "step": 1,
+        "unit": "%",
+        "answer": 31,
+        "explain": "+31,5 %, à 165,05 $, après −14 % vendredi. Le titre reste environ 31 % sous son record de 239,24 $ atteint en octobre."
+      },
+      "flashcards": [
+        {"front": "Harvey C. Jones", "back": "Président du conseil d'administration de Nvidia. A signé le communiqué de réintégration de Jensen Huang le 23/11/2026, vote unanime."},
+        {"front": "Merkury", "back": "Corvette russe classe Steregushchiy (2 200 t, 104,5 m), mise en service en mai 2023. Coulée le 22/11/2026 à Benghazi par sept drones navals ukrainiens."},
+        {"front": "Navire-mère", "back": "Bâtiment qui transporte et met à l'eau des drones ou embarcations plus petits loin de leur base. Clé de la frappe ukrainienne en Libye, à ~2 400 km du front."},
+        {"front": "Gouvernement de stabilité nationale (Libye)", "back": "Autorité de l'Est libyen, basée à Benghazi, rivale du gouvernement d'unité nationale reconnu par l'ONU à Tripoli. Coopère avec la Russie."},
+        {"front": "CrowdStrike-Zscaler", "back": "Rachat en actions de 43,9 Md$ annoncé le 23/11/2026 : 1,135 action CrowdStrike par action Zscaler, prime de 34 %. Plus grosse fusion de l'histoire de la cybersécurité."},
+        {"front": "Article 51 de la Charte de l'ONU", "back": "Reconnaît le droit de légitime défense individuelle ou collective en cas d'agression armée. Invoqué par l'Iran contre le blocus américain."},
+        {"front": "Kang Kum-sil", "back": "Nommée le 23/11/2026 à la tête du NIS sud-coréen : première femme à diriger le renseignement du pays."}
+      ],
+      "quiz": [
+        {"q": "Qui revendique publiquement avoir obtenu le retour de Jensen Huang ?", "choices": ["Elon Musk", "Donald Trump", "Colette Kress", "Chuck Schumer"], "answer": 1, "explain": "Donald Trump, sur CNBC : « Je les ai convaincus. J'ai fait le deal. »"},
+        {"q": "Où la corvette Merkury a-t-elle été coulée ?", "choices": ["À Sébastopol", "À Tartous (Syrie)", "À Benghazi (Libye)", "À Kaliningrad"], "answer": 2, "explain": "Dans le port de Benghazi, capitale de l'Est libyen, où elle faisait escale."},
+        {"q": "Combien de drones navals l'Ukraine dit-elle avoir utilisés ?", "choices": ["2", "7", "15", "30"], "answer": 1, "explain": "Sept drones de fabrication ukrainienne, lancés depuis un navire-mère selon le SBU."},
+        {"q": "Quelle est la parité d'échange du rachat de Zscaler ?", "choices": ["0,5 action CrowdStrike", "1 action CrowdStrike", "1,135 action CrowdStrike", "2 actions CrowdStrike"], "answer": 2, "explain": "1,135 action CrowdStrike par action Zscaler, soit une prime de 34 % sur le cours de vendredi."},
+        {"q": "Que réclame l'Iran avant de rouvrir le détroit d'Ormuz ?", "choices": ["Un siège à l'OPEP", "La levée du blocus et des sanctions", "Le départ des troupes américaines de Corée", "Un prix plancher du pétrole"], "answer": 1, "explain": "La levée du blocus naval et des sanctions, le dégel des avoirs et l'application du protocole de juin."}
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "minutes": 10,
+      "lede": [
+        "Au Sénat, la droite durcit le budget 2027 : les indemnités journalières des affections de longue durée deviennent entièrement imposables et les indemnités de départ le seront au-delà de 48 060 euros.",
+        "Portée par le retour de Jensen Huang chez Nvidia, la Bourse de Paris repasse les 8 000 points. Le taux à 10 ans recule à 4,78 %, mais l'activité privée française continue de se contracter.",
+        "Génération.s rallie Jean-Luc Mélenchon, David Lisnard reconnaît des convergences avec Sarah Knafo, et les députés LR préparent jeudi une niche parlementaire très sécuritaire."
+      ],
+      "articles": [
+        {
+          "kicker": "Budget · Sénat",
+          "title": "Le Sénat taxe les malades de longue durée et les indemnités de départ",
+          "minutes": 3,
+          "chapo": "Deux votes lundi sur l'article 2 du projet de loi de finances : la majorité sénatoriale va plus loin que le gouvernement sur les revenus de remplacement.",
+          "body": [
+            "Lundi 23 novembre, les sénateurs ont adopté par 194 voix contre 146 un amendement de la rapporteure générale Christine Lavarde (LR), soutenu par plusieurs centristes. Il soumet entièrement à l'impôt sur le revenu les indemnités journalières versées aux personnes en affection de longue durée (ALD), aujourd'hui exonérées à moitié. Le gouvernement, dans le texte rejeté à l'Assemblée, proposait d'en imposer la moitié. Même logique pour les indemnités d'accidents du travail et de maladies professionnelles, désormais intégralement imposables. Le gouvernement s'en est remis à la « sagesse » du Sénat.",
+            "Selon Public Sénat, la version initiale devait rapporter 965 millions d'euros à l'État. En parallèle, la CSG sur les indemnités journalières de maladie passe de 6,2 % à 9,2 % au 1er janvier 2027, pour 540 millions d'euros au profit de la Sécurité sociale. Les groupes socialiste, communiste, écologiste et RN-UDR ont voté contre.",
+            "Le même article 2 alourdit la fiscalité des indemnités de rupture du contrat de travail. Les montants supérieurs à 48 060 euros, soit un plafond annuel de la Sécurité sociale (PASS), seront imposés quel que soit le motif de la rupture. Selon un rapport de l'IGF et de l'Igas cité par Public Sénat, ces exonérations ont coûté 1,379 milliard d'euros en 2024 ; l'exécutif attend 380 millions d'euros d'économies en 2027. Le ministre des Comptes publics, David Amiel, affirme que 95 % des salariés concernés échapperont à la mesure.",
+            "Le gouvernement voulait l'appliquer dès 2026, de façon rétroactive. Le Sénat a retenu le 1er janvier 2027. La sénatrice LR Marie-Do Aeschlimann a résumé le malaise d'une partie de la droite : « Ce débat me met mal à l'aise, il me donne la nausée. » Le texte repartira ensuite à l'Assemblée. L'examen du budget au Sénat doit durer jusqu'au 9 décembre."
+          ],
+          "critique": "L'argument de rendement est mince au regard du déficit : 965 millions d'un côté, 380 millions de l'autre, pour un budget de près de 1 800 milliards de dépenses publiques. L'argument d'équité est plus solide : une indemnité journalière remplace un salaire, qui est imposé. Mais une ALD touche souvent des ménages modestes et des malades chroniques, et la hausse de la CSG s'ajoute à l'impôt. Pour les indemnités de départ, le chiffre de 95 % épargnés ne dit pas combien de cadres seniors seront touchés, ni l'effet sur les négociations de ruptures conventionnelles.",
+          "sources": [
+            {"label": "Public Sénat, fiscalisation des indemnités ALD", "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-le-senat-vote-la-fiscalisation-integrale-des-indemnites-pour-affections-de-longue-duree"},
+            {"label": "Public Sénat, indemnités de départ", "url": "https://www.publicsenat.fr/actualites/economie/ce-debat-me-donne-la-nausee-le-senat-alourdit-la-fiscalite-des-indemnites-de-depart-des-salaries"}
+          ]
+        },
+        {
+          "kicker": "Économie · Marchés",
+          "title": "Paris rebondit, l'économie française décroche",
+          "minutes": 2,
+          "chapo": "Le CAC 40 suit Wall Street, et les taux baissent après l'idée d'une règle d'or. Mais les enquêtes d'activité placent la France en queue de peloton européen.",
+          "body": [
+            "Le CAC 40 a terminé lundi à 8 044,84 points (+1,48 %), après cinq séances de baisse et −5,27 % la semaine précédente. Selon BFM Bourse, STMicroelectronics a pris 8,96 %, Legrand 4,91 % et Schneider Electric 4,2 %, portés par le rebond des valeurs liées à l'IA. Forvia (+10,5 %), Worldline (+9 %) et Eutelsat (+8,9 %) mènent le palmarès. Abivax gagne 7,3 % après avoir répondu au vendeur à découvert Scorpion Capital. Eramet perd 5,25 % : l'Indonésie étudie une hausse de la part de l'État dans les revenus miniers.",
+            "Le taux de l'OAT à 10 ans a reculé de 9 points de base, à 4,78 %. BFM Bourse l'attribue aux informations selon lesquelles Emmanuel Macron envisage d'inscrire une règle d'or budgétaire dans la Constitution. Selon LCP, le texte de 2011 n'interdit pas les déficits : il crée des « lois-cadres » pluriannuelles fixant « un plafond de dépenses et un minimum de mesures nouvelles » de recettes, que chaque budget devrait respecter sous le contrôle du Conseil constitutionnel. Une loi-cadre devrait être votée avant le 28 février pour s'appliquer rapidement.",
+            "Les indices PMI de novembre, publiés lundi, dessinent une Europe à deux vitesses. Selon Zonebourse, l'indice composite de la zone euro monte à 51,7, celui de l'Allemagne à 55, son plus haut depuis mars 2022. Celui de la France recule de 46,6 à 46,2, avec une demande intérieure faible. Sous 50, l'activité se contracte. La croissance et l'inflation françaises seront publiées vendredi."
+          ],
+          "critique": "La baisse des taux sur une simple intention présidentielle montre la sensibilité du marché au moindre signal de discipline budgétaire, mais rien n'est voté : il faut un Congrès, les trois cinquièmes, puis une loi organique. L'écart entre la France (46,2) et l'Allemagne (55) est le chiffre le plus inquiétant de la journée : il traduit un problème de demande intérieure, que la hausse d'impôts votée au Sénat le même jour ne va pas soutenir.",
+          "sources": [
+            {"label": "BFM Bourse, clôture du CAC 40", "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-propulse-par-wall-street-et-donc-par-l-ahurissant-comeback-de-jensen-huang-chez-nvidia-le-cac-40-termine-en-hausse-d-15-et-repasse-au-dessus-des-8000-points-1174281.html"},
+            {"label": "Zonebourse, PMI de novembre", "url": "https://www.zonebourse.com/actualite-bourse/l-europe-se-redresse-l-economie-francaise-s-enfonce-ce7851dad881f127"},
+            {"label": "LCP, ce que prévoit la règle d'or", "url": "https://lcp.fr/actualites/regle-d-or-que-prevoit-vraiment-le-texte-qu-emmanuel-macron-envisage-de-faire-adopter"}
+          ]
+        },
+        {
+          "kicker": "Présidentielle",
+          "title": "La gauche se range, la droite se cherche",
+          "minutes": 2,
+          "chapo": "Génération.s rejoint Mélenchon après le retrait de Ruffin ; à droite, David Lisnard flirte avec le programme de Sarah Knafo sans franchir la ligne.",
+          "body": [
+            "Génération.s, le mouvement fondé en 2017 par Benoît Hamon, a annoncé lundi que 85 % de ses adhérents avaient voté pour soutenir Jean-Luc Mélenchon. Le communiqué dit vouloir « s'allier sans se renier » et réclame un « accord de majorité législative » autour du programme « l'Avenir en commun ». Le mouvement, codirigé par le député Benjamin Lucas-Lundy et Hella Kribi-Romdhane, compte six députés. Ce ralliement suit le retrait de François Ruffin et précède le vote des écologistes, du 10 au 13 décembre.",
+            "À droite, David Lisnard, maire de Cannes et candidat, admet sur Public Sénat que Sarah Knafo a « un discours économique très proche du [sien] », tout en écartant tout rapprochement. Candidat aussi à sa réélection à la tête de l'Association des maires de France, il dit qu'il maintiendra sa candidature présidentielle même s'il n'est pas reconduit à l'AMF."
+          ],
+          "critique": "La gauche se regroupe derrière le candidat le mieux placé dans les sondages, mais ce regroupement a un coût : chaque ralliement rapproche la gauche d'un second tour mais l'éloigne de l'électorat central. À droite, la porosité des programmes économiques avec l'extrême droite rend la frontière plus difficile à expliquer aux électeurs que la frontière d'alliance.",
+          "sources": [
+            {"label": "LCP, Génération.s soutient Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-generations-officialise-son-soutien-a-jean-luc-melenchon-445502"},
+            {"label": "Public Sénat, Lisnard et Knafo", "url": "https://www.publicsenat.fr/actualites/politique/elle-a-un-discours-economique-tres-proche-du-mien-david-lisnard-admet-des-convergences-avec-sarah-knafo-mais-ecarte-tout-rapprochement"}
+          ]
+        },
+        {
+          "kicker": "Parlement · Sécurité",
+          "title": "Peines planchers et majorité pénale à 16 ans : la niche LR",
+          "minutes": 2,
+          "chapo": "Jeudi 26 novembre, le groupe de Laurent Wauquiez inscrit neuf textes à l'ordre du jour de l'Assemblée, dont quatre durcissent les sanctions.",
+          "body": [
+            "La proposition de Patrick Hetzel rétablit des peines planchers : au moins 5 ans de prison pour un crime puni de 15 ans, 7 ans pour 20 ans, 10 ans pour 30 ans, le juge pouvant y déroger par décision motivée. Instaurées sous Nicolas Sarkozy et abrogées sous François Hollande, elles ont été adoptées en commission. Celle d'Éric Pauget rend les mineurs de 16 à 18 ans pleinement responsables pénalement et punit de 5 ans de prison et 75 000 euros d'amende les parents de mineurs récidivistes ; elle a été adoptée en commission, amputée d'un de ses principaux articles.",
+            "Deux textes visent les prestations sociales. Celui de Corentin Le Fur suspendrait jusqu'à un an le RSA, les APL, les allocations familiales, les bourses et le logement social des auteurs de violences en manifestation ; celui de Nicolas Ray suspendrait jusqu'à trois ans les prestations des fraudeurs multirécidivistes. Tous deux ont été rejetés en commission, selon LCP."
+          ],
+          "critique": "Les peines planchers ont déjà été appliquées de 2007 à 2014 et leur bilan sur la récidive reste discuté ; le texte reproduit la même soupape (dérogation motivée) qui en limitait la portée. Suspendre les allocations familiales frappe aussi les enfants du foyer, ce qui pose une question constitutionnelle d'individualisation de la peine. À cinq mois de la présidentielle, ces textes servent d'abord à occuper le terrain face au RN.",
+          "sources": [
+            {"label": "LCP, les députés LR à l'offensive sur la sécurité", "url": "https://lcp.fr/actualites/suspension-des-prestations-sociales-peines-planchers-responsabilite-penale-a-16-ans-les"}
+          ]
+        },
+        {
+          "kicker": "En bref",
+          "title": "Le reste de l'actualité",
+          "minutes": 1,
+          "chapo": "Choose France décortiqué, policiers condamnés, circulaires sans effet.",
+          "body": [
+            "Choose France : sur les 42,5 milliards d'euros annoncés, deux programmes pèsent 41 % du total, ADP (9,5 milliards, financés en grande partie par les redevances aériennes) et RTE (8 milliards). Environ 30 % des projets reçoivent un soutien public, notamment via France 2030, selon l'AFP citée par LCP.",
+            "Justice : trois policiers ont été condamnés à des peines d'un à deux ans de prison pour avoir frappé le producteur Michel Zecler ; le tribunal a reconnu le caractère raciste de l'agression, selon Just Security.",
+            "Parquet de Paris : la procureure Laure Beccuau affirme devant les députés que les circulaires de Gérald Darmanin n'ont entraîné « aucune modification » de la politique pénale du parquet.",
+            "Famille : en commission, les députés ont approuvé une « majoration » de la pension alimentaire quand le parent ne respecte pas son droit de visite et d'hébergement (texte de Caroline Yadan)."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "LCP, que recouvrent les 42,5 Md€ de Choose France", "url": "https://lcp.fr/actualites/sommet-choose-france-que-recouvrent-les-425-milliards-d-euros-d-investissements-annonces"},
+            {"label": "LCP, circulaires Darmanin", "url": "https://lcp.fr/actualites/17-octobre-les-circulaires-de-gerald-darmanin-n-ont-entraine-aucune-modification-de-la"},
+            {"label": "LCP, pension alimentaire", "url": "https://lcp.fr/actualites/pension-alimentaire-en-commission-les-deputes-approuvent-une-majoration-en-cas-de-non"},
+            {"label": "Just Security, Early Edition du 23 novembre", "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Au-delà de quel montant les indemnités de départ seront-elles imposées, selon le vote du Sénat ?",
+        "min": 10000,
+        "max": 150000,
+        "step": 1000,
+        "unit": "€",
+        "answer": 48060,
+        "explain": "48 060 €, soit un plafond annuel de la Sécurité sociale (PASS), quel que soit le motif de la rupture, à partir du 1er janvier 2027."
+      },
+      "flashcards": [
+        {"front": "ALD", "back": "Affection de longue durée : maladie chronique ou grave (diabète, cancer…) ouvrant droit à une prise en charge renforcée. Indemnités journalières aujourd'hui exonérées d'impôt à moitié."},
+        {"front": "PASS", "back": "Plafond annuel de la Sécurité sociale : 48 060 € selon Public Sénat. Sert de référence pour les cotisations et, désormais, pour l'imposition des indemnités de départ."},
+        {"front": "Avis de sagesse", "back": "Le gouvernement ne prend pas position sur un amendement et s'en remet au vote de l'assemblée."},
+        {"front": "Loi-cadre d'équilibre (2011)", "back": "Prévue par la règle d'or de 2011 : loi pluriannuelle (≥ 3 ans) fixant un plafond de dépenses et un minimum de mesures de recettes, que les budgets doivent respecter."},
+        {"front": "PMI composite", "back": "Indice d'enquête auprès des directeurs d'achat. Au-dessus de 50 : expansion. France 46,2 en novembre 2026, Allemagne 55, zone euro 51,7."},
+        {"front": "Peines planchers", "back": "Peines minimales obligatoires sauf décision motivée du juge. Instaurées en 2007 (Sarkozy), abrogées en 2014 (Hollande)."}
+      ],
+      "quiz": [
+        {"q": "Par combien de voix le Sénat a-t-il voté la fiscalisation intégrale des indemnités ALD ?", "choices": ["158 contre 182", "194 contre 146", "249 contre 19", "201 contre 124"], "answer": 1, "explain": "194 voix contre 146, sur un amendement de la rapporteure générale Christine Lavarde."},
+        {"q": "À combien passe la CSG sur les indemnités journalières de maladie en 2027 ?", "choices": ["6,2 %", "8,3 %", "9,2 %", "10 %"], "answer": 2, "explain": "De 6,2 % à 9,2 %, pour 540 millions d'euros au profit de la Sécurité sociale."},
+        {"q": "Où s'est établi le taux de l'OAT à 10 ans lundi ?", "choices": ["3,95 %", "4,78 %", "4,93 %", "5,13 %"], "answer": 1, "explain": "4,78 %, en baisse de 9 points de base après l'idée d'une règle d'or constitutionnelle."},
+        {"q": "Quel pourcentage des adhérents de Génération.s a voté pour soutenir Mélenchon ?", "choices": ["52 %", "66 %", "85 %", "97 %"], "answer": 2, "explain": "85 %. Le mouvement compte six députés."},
+        {"q": "Quels deux programmes représentent 41 % des 42,5 Md€ de Choose France ?", "choices": ["Airbus et L'Oréal", "ADP et RTE", "EDF et TotalEnergies", "Elyse Energy et Urgo"], "answer": 1, "explain": "ADP (9,5 Md€) et RTE (8 Md€), soit 17,5 Md€."}
+      ]
+    },
+    {
+      "id": "savoirs",
+      "name": "Savoirs",
+      "minutes": 10,
+      "lede": [
+        "Comment sept petites embarcations coulent-elles un navire de guerre de 2 200 tonnes ? Une affaire de pression de l'eau, de surface de brèche et de compartiments.",
+        "Fusion en actions, parité, prime, arbitrage : ce que reçoivent vraiment les actionnaires de Zscaler. Et pourquoi un seul homme peut valoir des centaines de milliards en Bourse.",
+        "Les PMI expliqués, puis deux anniversaires du 24 novembre : L'Origine des espèces de Darwin (1859) et la découverte de Lucy (1974)."
+      ],
+      "articles": [
+        {
+          "kicker": "Ingénierie · Mer",
+          "title": "Couler une corvette : la physique d'une brèche",
+          "minutes": 3,
+          "chapo": "Un navire flotte tant qu'il déplace un poids d'eau égal au sien. Une explosion sous la ligne de flottaison suffit à inverser l'équation, si l'eau entre plus vite qu'on ne la pompe.",
+          "body": [
+            "Le principe d'Archimède fixe la règle : le Merkury, 2 200 tonnes à pleine charge selon Wikipédia, flotte en déplaçant 2 200 tonnes d'eau de mer, soit environ 2 150 m³ (densité 1,025). Chaque mètre cube d'eau qui entre dans la coque est une tonne de plus à porter. Le navire s'enfonce, ce qui immerge davantage de coque et augmente encore l'arrivée d'eau.",
+            "Le débit dépend de la taille de la brèche et de sa profondeur. La formule de Torricelli donne la vitesse d'entrée de l'eau : v = √(2gh). À 2 m sous la surface, v ≈ √(2 × 9,81 × 2) ≈ 6,3 m/s. Avec un coefficient de contraction d'environ 0,6, une brèche de 1 m² laisse passer près de 3,8 m³ par seconde, soit plus de 13 000 tonnes par heure. Aucune pompe de bord ne suit : les pompes d'un navire de cette taille se comptent en dizaines ou centaines de m³ par heure.",
+            "La défense, c'est le compartimentage. Des cloisons étanches transversales divisent la coque : si un ou deux compartiments sont envahis, le navire reste à flot. Mais plusieurs charges qui frappent au même endroit, ou de part et d'autre, dépassent ce qu'un plan de compartimentage prévoit. S'ajoute la stabilité : l'eau qui entre d'un seul côté fait gîter le navire, l'eau libre qui se déplace dans un compartiment réduit sa stabilité (effet de carène liquide), et la coque peut chavirer avant même d'avoir coulé. C'est ce que montre l'image satellite de Benghazi : la corvette chavirée, l'avant seul visible.",
+            "Un drone de surface a un autre avantage sur un missile : il frappe au niveau de l'eau, là où les dégâts sont les plus graves, et un navire à quai, moteurs arrêtés et équipage réduit, ne peut ni manœuvrer ni lutter efficacement contre l'incendie. Le SBU dit avoir lancé ses sept drones depuis un navire-mère : c'est ce qui transforme un engin de portée limitée en arme capable d'agir à des milliers de kilomètres de sa base."
+          ],
+          "critique": "Les chiffres de débit sont des ordres de grandeur pour une brèche idéale : une vraie brèche est déchiquetée, et la profondeur réelle comme la taille des trous à Benghazi ne sont pas connues. On ignore aussi le type de charges utilisées. Le raisonnement montre surtout pourquoi les marines investissent dans les barrières flottantes et la surveillance des ports : la protection d'un navire à quai repose davantage sur ce qui l'entoure que sur sa coque.",
+          "sources": [
+            {"label": "Wikipédia (en), corvette Merkury", "url": "https://en.wikipedia.org/wiki/Russian_corvette_Merkury"},
+            {"label": "ABC News, le Merkury coulé par des drones navals", "url": "https://abcnews.com/International/ukrainian-naval-drones-sank-russias-merkury-warship-libya/story?id=138369738"}
+          ]
+        },
+        {
+          "kicker": "Finance · Fusions",
+          "title": "Parité, prime et écart d'arbitrage",
+          "minutes": 2,
+          "chapo": "Dans une fusion payée en actions, l'acheteur ne paie pas en dollars : il paie avec sa propre action. Ce qui change tout pour les deux camps.",
+          "body": [
+            "La parité d'échange fixe combien d'actions de l'acheteur reçoit chaque actionnaire de la cible : ici 1,135 action CrowdStrike par action Zscaler. Au cours de vendredi de CrowdStrike, cela valait environ 260 dollars par action Zscaler, selon Cybersecurity Dive, soit une prime de 34 % sur le dernier cours de Zscaler. La prime rémunère la perte de contrôle.",
+            "Mais la valeur bouge avec le cours de l'acheteur. Lundi, CrowdStrike a perdu 8,9 % : 1,135 action ne valait plus que 237,18 dollars à la clôture, selon StockTitan. Zscaler cotait 229,24 dollars, soit 3,3 % sous la valeur de l'offre. Cet écart d'arbitrage mesure le doute du marché : le risque que l'opération échoue (refus des autorités de la concurrence, vote des actionnaires) et le temps à attendre, puisque la clôture est prévue au second semestre de l'exercice 2028 de CrowdStrike, qui commence en février 2027.",
+            "Pour l'acheteur, payer en actions évite de s'endetter, mais dilue ses actionnaires : ils ne détiendront plus que 84,1 % du nouvel ensemble. Les marchés le sanctionnent souvent le jour de l'annonce, comme lundi. La justification tient alors aux synergies promises : 500 millions de dollars de coûts économisés sous 18 à 24 mois et 1 milliard de revenus supplémentaires en 30 mois. Une indemnité de rupture de 1,4 milliard serait due par Zscaler dans certains cas."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Cybersecurity Dive, CrowdStrike-Zscaler", "url": "https://www.cybersecuritydive.com/news/crowdstrike-acquire-zscaler-439-billion-turbulent-threat/875477/"},
+            {"label": "StockTitan, séance du 23 novembre", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-23-2026"}
+          ]
+        },
+        {
+          "kicker": "Économie · Statistique",
+          "title": "Comment se fabrique un PMI",
+          "minutes": 2,
+          "chapo": "46,2 pour la France, 55 pour l'Allemagne : ces chiffres ne sont pas des taux de croissance mais des soldes d'opinion.",
+          "body": [
+            "Un PMI (indice des directeurs d'achat) est construit à partir d'un questionnaire envoyé chaque mois à quelques centaines d'entreprises. On leur demande si leur production, leurs commandes, leurs effectifs ou leurs délais ont augmenté, stagné ou baissé par rapport au mois précédent. L'indice vaut le pourcentage de réponses « hausse », plus la moitié des réponses « stable ». Si tout le monde répond « stable », l'indice vaut 50.",
+            "D'où la règle de lecture : au-dessus de 50, davantage d'entreprises voient leur activité progresser que reculer ; en dessous, la contraction domine. Un indice à 46,2 ne dit pas que l'activité baisse de 3,8 % : il dit que les déclins sont nettement plus nombreux que les hausses, sans mesurer leur ampleur. La version « flash », publiée avant la fin du mois sur environ 85 % des réponses, peut être révisée, comme celle des services français d'octobre.",
+            "Son intérêt est la rapidité : le PMI flash sort avant même la fin du mois, quand le PIB n'est connu qu'environ un mois après la fin du trimestre. Sa limite : une enquête d'opinion peut se tromper de signe sur un trimestre, et un niveau de 50 ne correspond pas exactement à une croissance nulle selon les pays."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Zonebourse, PMI de novembre", "url": "https://www.zonebourse.com/actualite-bourse/l-europe-se-redresse-l-economie-francaise-s-enfonce-ce7851dad881f127"}
+          ]
+        },
+        {
+          "kicker": "Gouvernance",
+          "title": "Le risque homme-clé, chiffré par la Bourse",
+          "minutes": 2,
+          "chapo": "Une entreprise de plusieurs dizaines de milliers de salariés peut-elle dépendre d'une seule personne ? Le marché a répondu deux fois en deux semaines.",
+          "body": [
+            "En finance, le « risque homme-clé » désigne la dépendance d'une entreprise à un dirigeant ou un expert difficile à remplacer. Il est rarement visible dans les comptes, mais il se lit dans les cours. L'action Nvidia avait reculé après la démission de Jensen Huang le 12 novembre, puis de 14 % vendredi ; elle a regagné 31,5 % lundi, le jour de son retour.",
+            "Avec environ 24 milliards d'actions, chaque dollar de cours vaut environ 24 milliards de dollars de capitalisation. Le gain de lundi, environ 39,5 dollars par action, représente donc de l'ordre de 950 milliards de dollars. Ce chiffre n'est pas la valeur de Huang : la séance a aussi profité du rebond général des valeurs de l'IA (Micron +19 %, TSMC +14 %). Mais l'écart entre Nvidia et ses voisins donne une idée de la prime attachée à son fondateur.",
+            "Les conseils d'administration gèrent ce risque par des plans de succession, une équipe de direction étoffée et parfois une assurance « homme-clé ». Le cas Nvidia montre leur limite : le conseil avait un intérim, Colette Kress, mais pas de successeur crédible aux yeux du marché, et c'est l'absence de remplaçant qui a donné au pouvoir politique un levier."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "StockTitan, séance du 23 novembre", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-23-2026"},
+            {"label": "PBS / AP, le conseil réinstalle Jensen Huang", "url": "https://www.pbs.org/newshour/nation/nvidia-board-unanimously-reinstates-jensen-huang-as-ceo-and-chairman"}
+          ]
+        },
+        {
+          "kicker": "Éphéméride",
+          "title": "24 novembre : Darwin et Lucy",
+          "minutes": 1,
+          "chapo": "Deux dates qui ont changé notre idée des origines humaines, à 115 ans d'écart.",
+          "body": [
+            "Le 24 novembre 1859, Charles Darwin publie à Londres L'Origine des espèces. Le premier tirage, d'environ 1 250 exemplaires, est épuisé auprès des libraires dès le jour de sa sortie. Le livre expose la sélection naturelle : les variations héréditaires qui favorisent la survie et la reproduction se répandent au fil des générations.",
+            "Le 24 novembre 1974, à Hadar, dans la vallée de l'Awash en Éthiopie, Donald Johanson et Tom Gray découvrent un squelette d'australopithèque (Australopithecus afarensis) vieux d'environ 3,2 millions d'années, complet à environ 40 %. L'équipe le baptise Lucy, d'après la chanson des Beatles « Lucy in the Sky with Diamonds » qui passait au camp. Lucy marchait debout mais avait encore un petit cerveau, preuve que la bipédie a précédé le gros cerveau.",
+            "Le calendrier fête aujourd'hui sainte Flora."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Wikipédia (en), On the Origin of Species", "url": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species"},
+            {"label": "Wikipédia (en), Lucy (Australopithecus)", "url": "https://en.wikipedia.org/wiki/Lucy_(Australopithecus)"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Quel débit d'eau (en m³ par seconde) entre par une brèche de 1 m² située à 2 m sous la ligne de flottaison ?",
+        "min": 0,
+        "max": 20,
+        "step": 0.5,
+        "unit": "m³/s",
+        "answer": 4,
+        "explain": "Environ 3,8 m³/s : v = √(2gh) ≈ 6,3 m/s, multiplié par la surface et un coefficient de contraction d'environ 0,6. Plus de 13 000 tonnes par heure."
+      },
+      "flashcards": [
+        {"front": "Principe d'Archimède", "back": "Tout corps plongé dans un fluide subit une poussée verticale égale au poids du fluide déplacé. Un navire de 2 200 t déplace ~2 150 m³ d'eau de mer."},
+        {"front": "Formule de Torricelli", "back": "v = √(2gh) : vitesse d'écoulement d'un fluide par un orifice situé à la profondeur h. À 2 m, ~6,3 m/s."},
+        {"front": "Effet de carène liquide", "back": "Perte de stabilité d'un navire causée par un liquide libre qui se déplace dans un compartiment partiellement rempli."},
+        {"front": "Écart d'arbitrage (merger arbitrage)", "back": "Différence entre la valeur de l'offre et le cours de la cible. Mesure le risque d'échec et le délai. Zscaler : ~3,3 % le 23/11/2026."},
+        {"front": "Indice PMI", "back": "% de réponses « hausse » + moitié des « stable ». 50 = seuil entre expansion et contraction. Mesure la diffusion, pas l'ampleur."},
+        {"front": "Risque homme-clé", "back": "Dépendance d'une entreprise à une personne difficile à remplacer. Géré par plans de succession et assurances spécifiques."},
+        {"front": "Lucy", "back": "Australopithecus afarensis, ~3,2 Ma, découverte le 24/11/1974 à Hadar (Éthiopie) par Johanson et Gray. Bipède à petit cerveau."}
+      ],
+      "quiz": [
+        {"q": "Pourquoi un navire peut-il chavirer avant d'avoir coulé ?", "choices": ["Parce que l'eau de mer est plus légère", "Parce que l'eau entrée d'un côté et l'eau libre réduisent sa stabilité", "Parce que les moteurs s'arrêtent", "Parce que le lest se détache"], "answer": 1, "explain": "L'envahissement asymétrique fait gîter le navire et l'effet de carène liquide réduit sa stabilité."},
+        {"q": "Que mesure un écart d'arbitrage positif dans une fusion ?", "choices": ["Les synergies promises", "Le doute du marché sur la réalisation et le délai", "La dette de l'acheteur", "Les frais des banques"], "answer": 1, "explain": "Il rémunère le risque d'échec (autorités, vote) et le temps jusqu'à la clôture."},
+        {"q": "Un PMI de 46,2 signifie que…", "choices": ["L'activité a baissé de 3,8 %", "Les entreprises qui déclarent une baisse sont plus nombreuses que celles qui déclarent une hausse", "46,2 % des entreprises sont en faillite", "Le PIB a reculé de 46,2 milliards"], "answer": 1, "explain": "C'est un indice de diffusion : il mesure la proportion d'entreprises en hausse ou en baisse, pas l'ampleur."},
+        {"q": "Que paie un acheteur dans une fusion « tout en actions » ?", "choices": ["Uniquement des dollars", "Ses propres actions nouvellement émises", "Des obligations", "Rien, c'est une fusion entre égaux"], "answer": 1, "explain": "Il émet des actions remises aux actionnaires de la cible, ce qui dilue ses propres actionnaires."},
+        {"q": "Que montre Lucy sur l'évolution humaine ?", "choices": ["Le gros cerveau est apparu avant la bipédie", "La bipédie a précédé le gros cerveau", "Les australopithèques fabriquaient du feu", "L'humain descend directement du chimpanzé"], "answer": 1, "explain": "Lucy marchait debout avec un cerveau encore petit : la bipédie est venue d'abord."}
+      ]
+    }
+  ]
+}

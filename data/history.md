@@ -186,3 +186,18 @@ Format : date | chapitre | sujet | angle déjà traité
 2026-11-23 | savoirs | Effet de levier, liquidation 1/L, cascade | 
 2026-11-23 | savoirs | Article 89, Congrès 3/5 | 
 2026-11-23 | savoirs | Éphéméride : Doctor Who 23/11/1963 ; saint Clément | 
+2026-11-24 | monde | Nvidia : retour de Jensen Huang 23/11 (8 h 55, unanime) | Harvey C. Jones, Kress redevient DAF, Trump « I made the deal », Vance émissaire, Blanche/Alice Huang/Megaspeed, 3 commissions Chambre, Schumer, +31,5 % à 165,05 (record 239,24)
+2026-11-24 | monde | Marchés 23/11 : S&P 7 237 (+4,73 %, 33e hausse depuis 1957), Nasdaq 24 090 (+6,51 %), Dow 49 595 (+3,01 %), VIX 26,62 | CrowdStrike-Zscaler 43,9 Md$ (1,135, prime 34 %, 84,1 %), Micron/TSMC/CoreWeave, Anthropic −1,43 %, or +3,4 %, WTI 80,26
+2026-11-24 | monde | Ukraine : corvette Merkury coulée à Benghazi 22/11 | 7 drones navals + navire-mère, Ka-27, cargo Angara, ~2 400 km, gouvernement Est libyen plainte ONU, Peskov « tendance dangereuse », Medvedev nucléaire, ferries Oust-Louga 47 Md roubles, Orpo, Kryvyï Rih 11 morts
+2026-11-24 | monde | Iran / Ormuz | Baghaei art. 51 et conditions (blocus, sanctions, MoU juin), Araghchi, mines île de Ghanem (CGRI), UKMTO mer d'Oman, Trump record drones, sanctions Trésor NITC, Lewis Pugh, Brent 90,94 / 89,2
+2026-11-24 | monde | Brefs | Corée du Sud remaniement (Kang Kum-sil NIS), Hasina, Eisenkot « terrorisme juif », Hubbard bat Foxx (330 voix), satellite nucléaire russe (Reuters)
+2026-11-24 | france | PLF 2027 Sénat art. 2 | ALD fiscalisées 194-146 (Lavarde, 965 M€), CSG IJ 6,2→9,2 % (540 M€), indemnités de départ > 48 060 € (1,379 Md€, 380 M€, Amiel 95 %, 1/01/2027, Aeschlimann)
+2026-11-24 | france | Bourse 23/11 | CAC 8 044,84 (+1,48 %), STMicro, Forvia, Abivax/Scorpion, Eramet Indonésie, OAT 4,78 % (−9 pb, règle d'or), PMI France 46,2 / Allemagne 55 / zone euro 51,7 ; règle d'or 2011 lois-cadres
+2026-11-24 | france | Présidentielle | Génération.s 85 % pour Mélenchon, Lisnard/Knafo
+2026-11-24 | france | Niche LR 26/11 | peines planchers Hetzel, majorité pénale 16 ans Pauget, Le Fur, Ray
+2026-11-24 | france | Brefs | Choose France ADP 9,5 + RTE 8 = 41 %, 30 % soutien public ; Zecler policiers condamnés ; Beccuau circulaires ; pension alimentaire majoration
+2026-11-24 | savoirs | Couler un navire : Archimède, Torricelli, compartimentage, carène liquide | 
+2026-11-24 | savoirs | Fusion en actions : parité, prime, écart d'arbitrage, dilution | 
+2026-11-24 | savoirs | Construction d'un PMI (flash, seuil 50) | 
+2026-11-24 | savoirs | Risque homme-clé (Nvidia) | 
+2026-11-24 | savoirs | Éphéméride : Darwin 1859, Lucy 1974 ; sainte Flora | 
