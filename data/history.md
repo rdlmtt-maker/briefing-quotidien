@@ -201,3 +201,17 @@ Format : date | chapitre | sujet | angle déjà traité
 2026-11-24 | savoirs | Construction d'un PMI (flash, seuil 50) | 
 2026-11-24 | savoirs | Risque homme-clé (Nvidia) | 
 2026-11-24 | savoirs | Éphéméride : Darwin 1859, Lucy 1974 ; sainte Flora | 
+2026-11-25 | monde | Marchés 24/11 : Dow 50 018,70 (+0,85 %), S&P 7 201 (−0,50 %), Nasdaq 23 734 (−1,48 %), SOX −7,88 % | Nvidia −5,86 %, Anthropic 81,91 (< IPO 83), Micron, ADI, HPE marges, santé +2,88 %, Kohl's, Dollar Tree, Best Buy, Conference Board 103,3, PCE 25/11, Dell 54,94 Md$ / backlog 132,3 Md$, or −2,7 %, BTC < 60 000
+2026-11-25 | monde | Ormuz trafic −40 % (226 → 125 navires, MarineTraffic) | 28 navires/24 h 4,18 Mb, mines revendiquées (3 + 2 pétroliers), UKMTO Émirats, conditions iraniennes, Ghalibaf, 290 Md$, convoi démenti IRIB, Bessent sanctions banques de l'ombre, WSJ cyberattaques 50 navires, Qatar Rubio/Vance, inflation 88,7 %, camions 42 km
+2026-11-25 | monde | Libye : présence russe (Haftar, ~1 800 militaires, Africa Corps, plan B Syrie), ≥10 morts, Hammad ONU, Tripoli condamne, UNSMIL, AP base ouest ; Zaporijjia 2 morts 48 blessés ; Dymer 12e victime
+2026-11-25 | monde | Tech : Amazon-Decart 7,5 Md$, Trump grâce Huang « option », audition Sénat, comité Nvidia, Megaspeed liste noire, Huawei coupable 10/12, loi NY jouets IA, Microsoft code rouge, Tesla-SpaceX (FT)
+2026-11-25 | monde | Brefs | Rutte espace, Siemoniak, Rinkēvičs, Netanyahou/Eisenkot, avions russes ADIZ Corée du Sud
+2026-11-25 | france | Sanofi rachète Insmed 41 Md$ (175 $/action, prime 46 %, 37,6 Md€) | Brinsupri 1,09 Md$, Arikayce, TPIP, Barclays 14 Md$, Dupixent 15 Md€ / brevets 2030 / JPMorgan 17,3 Md€, Garijo, S1 2027 ; CAC ≈8 040 (−0,05 %), Clariane +35 %, STMicro/Soitec −10 %
+2026-11-25 | france | PLF Sénat : abattement 10 % retraités plafonné 1 000 € (175-161, Husson/Canévet), heures sup 7 500→10 000 € rejeté 22-21 (seconde délibération), Zucman/ISF écartés, donations 6 %/100 000 €, frais de scolarité, Limoges 75 % ; lettre Lecornu (5 thèmes, +6 Md€, « lettre au Père Noël » Sautarel, Marseille 49-3), fin 9/12
+2026-11-25 | france | Sondage Odoxa duels (Lisnard 32-27, Philippe 35-31, Le Pen 40-24 Mélenchon) ; Congrès des maires (Laurent vs Lisnard, 48 % maires sans parrainage), Retailleau, Tondelier 13/12, Bagayoko
+2026-11-25 | france | Brefs | présomption de légitime défense Sénat, règle d'or Husson/Larcher, 219 arrêtés préfecture de police
+2026-11-25 | savoirs | Brevets 20 ans / CCP 5 ans / 15 ans max / biosimilaires / evergreening | 
+2026-11-25 | savoirs | Mines marines (contact/influence, démagnétisation, 235 000 en 14-18, coût 0,5-10 %), voies Ormuz 2 nm | 
+2026-11-25 | savoirs | Qubits logiques, code de surface d², Willow, DeepMind 5 650→4 338 | 
+2026-11-25 | savoirs | Indice Conference Board (1985=100, 5 questions) | 
+2026-11-25 | savoirs | Éphéméride : équations d'Einstein 25/11/1915, GPS 38 µs ; catherinettes ; sœurs Mirabal | 

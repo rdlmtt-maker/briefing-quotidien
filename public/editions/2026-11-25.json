@@ -1,0 +1,393 @@
+{
+  "date": "2026-11-25",
+  "weekday": "mercredi",
+  "saint": "Catherine",
+  "headline": "Les puces rechutent pendant que le Dow franchit 50 000 points, le trafic pétrolier d'Ormuz fond de 40 %, et Sanofi s'offre Insmed pour 41 milliards de dollars.",
+  "chapters": [
+    {
+      "id": "monde",
+      "name": "Monde",
+      "minutes": 10,
+      "lede": [
+        "Au lendemain de l'euphorie Nvidia, Wall Street se coupe en deux : l'indice des semi-conducteurs chute de 7,9 %, le Nasdaq perd 1,5 %, mais le Dow Jones termine au-dessus de 50 000 points grâce à la santé et à la consommation. Anthropic repasse sous son prix d'introduction.",
+        "Dans le détroit d'Ormuz, le nombre de navires entrés ou sortis du Golfe a chuté de plus de 40 % en deux semaines. Téhéran affirme que des pétroliers ont sauté sur des mines, Washington sanctionne les banques de l'ombre iraniennes.",
+        "Après la corvette coulée à Benghazi, la Libye proteste des deux côtés de sa ligne de fracture et l'ONU réclame une enquête. Ce que Moscou fait en Libye, et pourquoi la guerre d'Ukraine déborde désormais en Méditerranée."
+      ],
+      "articles": [
+        {
+          "kicker": "Marchés · Wall Street",
+          "title": "Le Dow passe 50 000, les puces rendent la moitié de leurs gains",
+          "minutes": 3,
+          "chapo": "La séance de mardi a défait une partie du rallye de lundi. Les investisseurs ont vendu les semi-conducteurs et racheté la santé, la distribution et les valeurs défensives.",
+          "body": [
+            "Mardi 24 novembre, le Dow Jones a gagné 423,39 points (+0,85 %) pour clôturer à 50 018,70 points, au-dessus du seuil symbolique des 50 000. Le S&P 500 a reculé de 0,50 %, à 7 201,09 points, et le Nasdaq composite de 1,48 %, à 23 733,54 points, après avoir perdu jusqu'à 2,6 % en séance. Le Russell 2000 des petites capitalisations a progressé de 0,57 %. Malgré la baisse, le S&P 500 conserve un gain de 4,2 % sur la semaine et le Nasdaq de 4,9 %.",
+            "Le cœur de la baisse est l'indice des semi-conducteurs de Philadelphie (SOX), qui a perdu 7,88 % à 8 832,50 points, effaçant plus de la moitié de son bond de 14,03 % de la veille. Nvidia, qui avait gagné 31,5 % lundi avec le retour de Jensen Huang, a cédé 5,86 %. Micron a perdu 10,97 %, AMD, Intel et Applied Materials entre 7 et 9 %, l'ADR de SK Hynix 9,88 %, celui de TSMC 3,96 %. Analog Devices a chuté de plus de 17 % et Hewlett Packard Enterprise de 16,31 %, après avoir averti que ses marges dans le cloud et l'IA pourraient se réduire lors de l'exercice 2027.",
+            "Anthropic, introduite en Bourse la semaine dernière à 83 dollars, a clôturé à 81,91 dollars, en baisse de plus de 6 %, après un plus bas de 75,61 dollars en séance. Le titre passe ainsi sous son prix d'introduction, un seuil que les banques garantes surveillent de près.",
+            "À l'inverse, la santé a gagné 2,88 %, portée par le rachat d'Insmed par Sanofi (voir le chapitre France). Eli Lilly et Novo Nordisk ont pris plus de 3 %, Walmart, Johnson & Johnson et Merck entre 2 et 4 %. Kohl's a bondi de 19,5 % et Dollar Tree de 11,2 % après des résultats et des prévisions meilleurs que prévu. Best Buy a publié une hausse de 6,1 % de ses ventes à périmètre comparable, la plus forte en cinq ans.",
+            "Côté macroéconomie, l'indice de confiance des consommateurs du Conference Board a bondi de 11,4 points en novembre, à 103,3, contre 92,2 attendu par le consensus : c'est son plus haut niveau depuis janvier 2025. Les anticipations d'inflation à douze mois reculent à 5,7 %. L'indice des prix PCE, la mesure d'inflation suivie par la Réserve fédérale, est publié ce mercredi, veille de Thanksgiving. Wall Street sera fermée jeudi.",
+            "Après la clôture, Dell a publié un chiffre d'affaires trimestriel de 54,94 milliards de dollars, en hausse de 103 % sur un an, et un carnet de commandes de serveurs IA record de 132,3 milliards. Le groupe relève sa prévision annuelle à 202 milliards et autorise 25 milliards de rachats d'actions. Ailleurs, l'or a perdu environ 2,7 %, à 3 552 dollars l'once, le bitcoin est repassé sous 60 000 dollars et le taux américain à 10 ans s'est stabilisé autour de 4,90 %."
+          ],
+          "critique": "Lire cette séance comme une simple « prise de bénéfices » est confortable mais incomplet. Le SOX a fait +14 % puis −7,9 % en deux jours : ce sont des mouvements de crise, pas de marché calme. La rotation vers la santé et la consommation dit que les gérants doutent du rendement des centaines de milliards investis dans l'IA (l'avertissement de HPE va dans ce sens), alors même que Dell affiche un carnet de commandes record. Les deux lectures coexistent : la demande de serveurs est réelle, mais la question est de savoir qui, en bout de chaîne, rentabilisera ces dépenses. Enfin, le Dow à 50 000 est un chiffre rond, pas un signal : l'indice ne compte que 30 valeurs et pondère par le prix des actions.",
+          "sources": [
+            {"label": "Motley Fool / Yahoo Finance, séance du 24 novembre", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-24-221148355.html"},
+            {"label": "Vista Partners, Dow au-dessus de 50 000 et confiance des consommateurs", "url": "https://vistapglobal.com/stock-market-today-november-24-2026-dow-tops-50000-as-nasdaq-slides-consumer-confidence-surges-with-pce-due-on-thanksgiving-eve-ant-bby-dell-dks-dltr-eprx-gld-insm-kymr-modd-msft-n/"},
+            {"label": "BigGo Finance, le SOX chute de près de 8 %", "url": "https://finance.biggo.com/news/efa4550f-327b-4612-b151-77555e7d62dd"},
+            {"label": "AI Weekly, résultats de Dell (d'après CNBC)", "url": "https://aiweekly.co/ai-news-today"}
+          ]
+        },
+        {
+          "kicker": "Golfe · Énergie",
+          "title": "Ormuz : quatre navires sur dix ont disparu des écrans",
+          "minutes": 3,
+          "chapo": "Les données de suivi maritime montrent un effondrement du trafic dans le détroit. Téhéran revendique des pétroliers touchés par des mines et pose ses conditions, Washington resserre l'étau financier.",
+          "body": [
+            "Selon les données de MarineTraffic citées par Al Jazeera, 226 navires sont entrés dans le Golfe ou en sont sortis du 1er au 7 novembre, contre 125 seulement du 17 au 23 novembre : une baisse de plus de 40 % (environ 45 % en réalité). Sur les dernières 24 heures mesurées, 28 navires ont franchi le détroit, 12 vers le Golfe et 16 vers la sortie, transportant environ 4,18 millions de barils. Avant la guerre, 125 à 140 navires passaient chaque jour. Le jour le plus calme du mois, dimanche, n'a vu passer que trois bâtiments.",
+            "Ces chiffres reposent sur l'AIS, le système d'identification automatique des navires. Ils sous-estiment le trafic réel, car de nombreux pétroliers coupent leur transpondeur. Ils mesurent donc autant la peur des armateurs que la circulation effective.",
+            "La marine iranienne a affirmé lundi que trois pétroliers avaient heurté des mines dans le détroit, provoquant « des explosions et des incendies massifs », puis mardi matin que deux autres avaient pris feu à l'est du détroit, après avoir coupé leurs systèmes d'identification. L'agence britannique UKMTO a confirmé séparément l'attaque, lundi, d'un pétrolier au mouillage au large des Émirats, sans victime. Ni Reuters ni UKMTO n'ont confirmé les revendications iraniennes sur les mines, et plusieurs rapports maritimes parlent de « projectiles non identifiés ».",
+            "Téhéran fixe ses conditions. La marine affirme que le détroit « ne sera pas ouvert » tant que l'Iran n'aura pas obtenu la fin des hostilités, la levée du blocus et celle des sanctions. Le président du Parlement, Mohammad Bagher Ghalibaf, assure qu'il existe « des moyens militaires de briser le blocus » et qu'ils seront employés « dans un avenir proche ». Un responsable judiciaire réclame 290 milliards de dollars de dommages aux États-Unis. Des médias liés aux Gardiens de la révolution évoquent un convoi de pétroliers escorté vers la Chine, mais la télévision d'État a démenti lundi qu'un tel convoi ait pris la mer.",
+            "À Washington, le secrétaire au Trésor Scott Bessent a annoncé des sanctions contre une vingtaine de sociétés écrans et bureaux de change, basés surtout à Téhéran et Dubaï, qu'il présente comme la « dernière bouée financière » de l'Iran : ils permettent de vendre du pétrole et de régler des échanges en roubles et en yuans. « L'économie iranienne est sous l'eau et ses dirigeants paniquent », a-t-il déclaré. Selon le Wall Street Journal, les États-Unis enquêtent aussi sur des cyberattaques contre une cinquantaine de navires transportant du pétrole, des produits chimiques ou des explosifs ; l'Iran est le premier suspect, sans preuve établie à ce stade.",
+            "Côté diplomatie, le Qatar reste le médiateur principal. Son Premier ministre, Mohammed ben Abdelrahmane Al Thani, a rencontré lundi Marco Rubio puis JD Vance à Washington, et affirme que la région « ne peut pas supporter une nouvelle escalade ». En Iran, l'inflation atteignait 88,7 % sur un an en octobre, et environ 1 200 camions sont bloqués sur une file de 42 km aux frontières du Kazakhstan et de l'Ouzbékistan. Le Brent cotait autour de 88 dollars mardi, loin des 120 dollars atteints au plus fort de la crise."
+          ],
+          "critique": "Les deux camps produisent des chiffres invérifiables. Les « mines » iraniennes servent à dissuader les armateurs sans revendiquer d'attaque directe ; l'affirmation de Donald Trump selon laquelle tous les drones iraniens ont été abattus « sans dégâts » est démentie par les pétroliers en feu. Le paradoxe est que le Brent baisse alors que le trafic s'effondre : les marchés parient sur des stocks abondants, un excédent mondial et un passage protégé pour les pétroliers alliés. Ce pari peut se retourner vite si un grand terminal du Golfe est touché. Enfin, les sanctions sur les « banques de l'ombre » frappent l'Iran mais aussi Dubaï, place financière d'un allié américain.",
+          "sources": [
+            {"label": "Al Jazeera, le trafic pétrolier d'Ormuz en baisse de 40 %", "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working"},
+            {"label": "CBS News, fil en direct sur la guerre avec l'Iran", "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"},
+            {"label": "The National, l'Iran envisage-t-il un convoi ?", "url": "https://www.thenationalnews.com/news/gulf/2026/11/24/is-iran-weighing-tanker-convoy-to-break-us-blockade/"},
+            {"label": "AND Magazine, Morning Brief du 24 novembre", "url": "https://andmagazine.substack.com/p/morning-brief-24-november-2026"}
+          ]
+        },
+        {
+          "kicker": "Ukraine · Méditerranée",
+          "title": "Benghazi, ou la guerre d'Ukraine exportée en Libye",
+          "minutes": 2,
+          "chapo": "L'attaque contre la corvette Merkury révèle l'ampleur de la présence militaire russe en Libye. Tripoli comme Benghazi refusent de devenir un champ de bataille, l'ONU demande une enquête.",
+          "body": [
+            "La corvette Merkury, mise en service en 2023, était amarrée dans la partie civile du port de Benghazi, près d'une base navale, pour se ravitailler dans le cadre d'un accord entre Moscou et les autorités de l'Est libyen. Les images satellite publiées dimanche la montrent presque entièrement chavirée, seule la proue émergeant. Selon les autorités locales, au moins dix membres d'équipage, libyens et russes, ont été tués. Le service de sécurité ukrainien (SBU) qualifie les deux navires visés, la corvette et le cargo Angara, de « cibles militaires légitimes » parce qu'ils soutenaient directement les capacités militaires russes.",
+            "Pourquoi des navires russes en Libye ? Le pays est coupé en deux : un gouvernement reconnu par l'ONU à Tripoli, et une administration à l'Est, alliée de Moscou, adossée à l'Armée nationale libyenne du maréchal Khalifa Haftar. La Russie soutient Haftar depuis des années pour faire de l'Est libyen une plateforme logistique vers le Soudan et le Sahel. Après la chute de Bachar al-Assad en 2024, Moscou a cherché en Libye un « plan B » à ses bases syriennes. Al Jazeera estime à environ 1 800 le nombre de militaires russes présents en Libye, dont ceux de l'Africa Corps, successeur de Wagner.",
+            "Les réactions libyennes sont unanimes sur un point. Le gouvernement de l'Est, dirigé par Oussama Hammad, a saisi l'Assemblée générale et le Conseil de sécurité de l'ONU, en refusant que les ports libyens deviennent « une arène de règlements de comptes ». Le gouvernement de Tripoli a condamné l'attaque lundi et rappelé que la situation ne donne à aucun camp « le droit de mener des opérations militaires sur le territoire libyen ». La mission de l'ONU en Libye réclame une enquête « immédiate, indépendante et transparente ». Selon des sources de l'agence AP, les drones auraient été lancés depuis une base exploitée par l'Ukraine dans l'ouest du pays, ce que Tripoli n'a pas confirmé.",
+            "Sur le front, une frappe russe a touché Zaporijjia dans la nuit de lundi à mardi : deux morts et 48 blessés, dont quatre enfants, selon l'administration régionale, avec 18 immeubles touchés. Dans la région de Kyiv, une femme de 79 ans extraite des décombres de Dymer est morte à l'hôpital, douzième victime de la frappe du 22 novembre sur un immeuble de cinq étages."
+          ],
+          "critique": "Kyiv présente l'opération comme des « sanctions à longue portée ». Mais frapper dans le port d'un pays tiers, dans une zone civile, crée un précédent que Moscou pourra invoquer à son tour. Le silence de Tripoli sur la base d'où seraient partis les drones est révélateur : le gouvernement reconnu par l'ONU condamne en public une opération qui affaiblit son rival de l'Est. Pour les Européens, l'enjeu est direct : la Libye est à 300 km de Lampedusa, et une présence militaire russe durable sur la rive sud de la Méditerranée change la carte de la sécurité de l'Europe.",
+          "sources": [
+            {"label": "Al Jazeera, pourquoi des navires de guerre russes au large de la Libye", "url": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that"},
+            {"label": "Al Jazeera, navires russes touchés au large de la Libye", "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know"},
+            {"label": "Al Jazeera, direct Russie-Ukraine du 24 novembre", "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence"},
+            {"label": "Ukrainian Women's Guard, bilan du 24 novembre", "url": "https://uavarta.org/en/war-in-ukraine-today-latest-news-24-november-2026-photo"}
+          ]
+        },
+        {
+          "kicker": "Tech · IA",
+          "title": "IA : rachats, procès et un patron sous surveillance",
+          "minutes": 2,
+          "chapo": "Amazon met 7,5 milliards de dollars sur la table, Huawei est condamné, New York interdit les jouets à chatbot, et Donald Trump évoque une grâce pour Jensen Huang.",
+          "body": [
+            "Amazon a accepté d'acquérir la technologie d'optimisation des modèles d'IA de la start-up Decart et son équipe de recherche, pour un montant rapporté de 7,5 milliards de dollars, selon TechCrunch. Le logiciel doit permettre de faire tourner plus efficacement les modèles sur les puces Trainium d'Amazon, au moment où le groupe se prépare à vendre ces puces à des clients extérieurs, en concurrence directe avec Nvidia.",
+            "Nvidia reste sous pression politique. Donald Trump a déclaré mardi au New York Post qu'une grâce présidentielle pour Jensen Huang était « une option », tout en ajoutant : « Je ne pense pas que ce sera nécessaire. » Il l'a exhorté à « simplement dire la vérité » lors de son audition devant la commission bancaire du Sénat la semaine prochaine. Le conseil d'administration de Nvidia a créé un comité consacré à la sécurité nationale et au contrôle des exportations, et prévoit de recruter un directeur de la conformité. La société singapourienne Megaspeed a été inscrite sur la liste noire commerciale américaine pour de supposées exportations de puces Nvidia vers la Chine, ce qu'elle conteste.",
+            "Aux États-Unis, un jury fédéral a reconnu Huawei coupable de dix chefs d'accusation sur douze, dont l'association de malfaiteurs en vue de voler des secrets industriels et la fraude bancaire ; il l'a acquitté de racket et d'obstruction. Huawei fera appel. À New York, la gouverneure Kathy Hochul a signé une loi interdisant pendant cinq ans la fabrication et la vente de jouets équipés de chatbots d'IA pour les 3-12 ans, avec des amendes pouvant atteindre 15 000 dollars par jour et par infraction.",
+            "Selon des notes internes consultées par Reuters, Microsoft a déclaré un « code rouge » après la panne de Microsoft 365 des 12 et 13 novembre, qui a touché Outlook, Teams et Copilot ; la cause serait un défaut de montée en charge de Windows introduit en juillet et passé inaperçu. Enfin, le Financial Times rapporte des discussions sur une fusion en actions entre Tesla et SpaceX, valorisée autour de 3 200 à 3 500 milliards de dollars ; les parties ne seraient « pas encore proches » d'un accord."
+          ],
+          "critique": "Une grâce évoquée avant même toute inculpation, pour le patron d'une entreprise que le président dit avoir fait réintégrer : la frontière entre l'État et la première capitalisation technologique devient floue. Pour Huawei, la condamnation pèse surtout symboliquement : le groupe est déjà coupé des technologies américaines. Quant à la loi new-yorkaise, elle est la première à viser explicitement les jouets à IA, mais son efficacité dépendra de la définition juridique du « chatbot », que les fabricants chercheront à contourner. Les montants des opérations Decart et Tesla-SpaceX restent des informations de presse, non confirmées par les entreprises.",
+          "sources": [
+            {"label": "The Neuron, tout ce qui s'est passé en IA le 24 novembre", "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-24-2026/"},
+            {"label": "AI Weekly, actualité IA du jour", "url": "https://aiweekly.co/ai-news-today"},
+            {"label": "AI Weekly, Trump et la grâce de Jensen Huang", "url": "https://aiweekly.co/alerts/trump-says-jensen-huang-pardon-always-an-option-ahead-of-senate-banking"}
+          ]
+        },
+        {
+          "kicker": "En bref",
+          "title": "Le reste du monde",
+          "minutes": 1,
+          "chapo": "OTAN et espace, Baltes inquiets, Israël divisé sur la menace iranienne, avions russes près de la Corée.",
+          "body": [
+            "OTAN. Le secrétaire général Mark Rutte assure que l'Alliance se défendra aussi contre les menaces dans l'espace, en réponse aux informations selon lesquelles la Russie préparerait un satellite à arme nucléaire : « Nous défendrons toujours chaque centimètre du territoire de l'OTAN. » Le porte-parole du Kremlin, Dmitri Peskov, juge ces informations « à peine dignes d'être prises au sérieux ».",
+            "Europe de l'Est. Tomasz Siemoniak, chargé des services de renseignement polonais, estime qu'un accord de paix en Ukraine « ne mettrait pas fin » à la campagne de sabotage russe en Europe. Le président letton Edgars Rinkēvičs pense que la guerre pourrait atteindre l'an prochain un « point de bascule » menant à la défaite russe.",
+            "Israël. Benyamin Netanyahou, Premier ministre sortant, évoque des menaces « graves » ; Gadi Eisenkot, qui forme le prochain gouvernement, dit ne voir « aucune menace directe et immédiate » de l'Iran justifiant une action avant l'installation du nouveau cabinet.",
+            "Asie. L'état-major sud-coréen indique que plusieurs avions russes sont entrés dans sa zone d'identification de défense aérienne, au-dessus des eaux entre la péninsule et le Japon, en corrigeant des informations initiales qui parlaient de violation de l'espace aérien."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Just Security, Early Edition du 24 novembre", "url": "https://www.justsecurity.org/165763/early-edition-november-24-2026/"},
+            {"label": "CBS News, fil en direct sur la guerre avec l'Iran", "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"}
+          ]
+        }
+      ],
+      "board": [
+        {"label": "S&P 500", "value": "7 201", "change": -0.50},
+        {"label": "Nasdaq", "value": "23 734", "change": -1.48},
+        {"label": "Dow Jones", "value": "50 019", "change": 0.85},
+        {"label": "CAC 40", "value": "≈8 040", "change": -0.05},
+        {"label": "SOX (puces)", "value": "8 833", "change": -7.88},
+        {"label": "Nvidia", "value": "≈155,4 $", "change": -5.86},
+        {"label": "Anthropic (ANT)", "value": "81,91 $", "change": -6.5},
+        {"label": "VIX", "value": "26,36", "change": -0.98},
+        {"label": "Bitcoin", "value": "≈59 860 $", "change": -2.29},
+        {"label": "Or (once)", "value": "≈3 552 $", "change": -2.71},
+        {"label": "WTI (baril)", "value": "81,46 $", "change": 1.61}
+      ],
+      "boardNote": "Clôtures du mardi 24 novembre (Vista Partners, BigGo, Motley Fool). Cours de Nvidia calculé à partir de la variation. Anthropic : −6 à −6,5 % selon les sources. CAC 40 lu sur un widget BFM Bourse, non horodaté. Brent autour de 88 $ (Al Jazeera). Taux à 10 ans américain : 4,90-4,92 %. Wall Street fermée jeudi 26 (Thanksgiving).",
+      "estimate": {
+        "question": "Combien de navires ont franchi le détroit d'Ormuz entre le 17 et le 23 novembre, selon MarineTraffic ?",
+        "min": 0,
+        "max": 400,
+        "step": 5,
+        "unit": "navires",
+        "answer": 125,
+        "explain": "125 navires, contre 226 du 1er au 7 novembre, soit une baisse d'environ 45 %. Avant la guerre, il en passait 125 à 140… par jour."
+      },
+      "flashcards": [
+        {"front": "SOX", "back": "Indice des semi-conducteurs de Philadelphie : −7,88 % le 24/11/2026, après +14,03 % la veille."},
+        {"front": "Dow Jones à 50 000", "back": "Clôture à 50 018,70 points le 24/11/2026 (+0,85 %), portée par la santé et la consommation."},
+        {"front": "Conference Board, novembre 2026", "back": "Confiance des consommateurs : 103,3 (+11,4 points), plus haut depuis janvier 2025 ; consensus 92,2."},
+        {"front": "Ormuz, trafic", "back": "226 navires du 1er au 7/11 contre 125 du 17 au 23/11 (MarineTraffic, données AIS)."},
+        {"front": "Scott Bessent", "back": "Secrétaire au Trésor américain : sanctions sur une vingtaine de sociétés écrans iraniennes, la « dernière bouée financière » de l'Iran."},
+        {"front": "Corvette Merkury", "back": "Navire russe mis en service en 2023, chaviré dans le port de Benghazi ; au moins 10 morts selon les autorités locales."},
+        {"front": "Africa Corps", "back": "Successeur de Wagner ; environ 1 800 militaires russes en Libye selon Al Jazeera."}
+      ],
+      "quiz": [
+        {"q": "Quel indice a franchi un seuil symbolique le 24 novembre ?", "choices": ["Le Nasdaq, 25 000", "Le Dow Jones, 50 000", "Le S&P 500, 7 500", "Le CAC 40, 8 500"], "answer": 1, "explain": "Le Dow a clôturé à 50 018,70 points, pendant que le Nasdaq reculait de 1,48 %."},
+        {"q": "À combien Anthropic a-t-elle clôturé mardi, contre 83 $ à l'introduction ?", "choices": ["75,61 $", "81,91 $", "88,91 $", "95,20 $"], "answer": 1, "explain": "81,91 $, sous le prix d'introduction ; 75,61 $ était le plus bas de séance."},
+        {"q": "Quel pays assure la médiation principale entre Washington et Téhéran ?", "choices": ["Oman", "La Turquie", "Le Qatar", "L'Arabie saoudite"], "answer": 2, "explain": "Le Premier ministre qatari a rencontré Marco Rubio et JD Vance lundi à Washington."},
+        {"q": "Quel chef militaire libyen est l'allié de Moscou ?", "choices": ["Abdel Hamid Dbeibah", "Khalifa Haftar", "Fayez el-Sarraj", "Mohammed el-Menfi"], "answer": 1, "explain": "Le maréchal Haftar commande l'Armée nationale libyenne, basée dans l'Est."},
+        {"q": "Que vise la nouvelle loi signée par Kathy Hochul à New York ?", "choices": ["Les deepfakes électoraux", "Les jouets à chatbot pour les 3-12 ans", "Les data centers", "Les voitures autonomes"], "answer": 1, "explain": "Interdiction pendant cinq ans, amendes jusqu'à 15 000 $ par jour et par infraction."}
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "minutes": 10,
+      "lede": [
+        "Sanofi signe la plus grosse acquisition pharmaceutique depuis 2023 : 41 milliards de dollars pour l'américaine Insmed et son médicament contre la bronchectasie. L'action bondit de près de 10 %.",
+        "Au Sénat, la droite renonce à supprimer l'abattement de 10 % des retraités mais le plafonne à 1 000 euros, et le gouvernement est mis en minorité sur les heures supplémentaires. La lettre de Sébastien Lecornu appelant au « compromis » est accueillie avec ironie.",
+        "Un sondage Odoxa ne trouve que deux candidats préférés à Marine Le Pen au second tour : David Lisnard et Édouard Philippe. Au Congrès des maires, la double candidature de Lisnard fait débat."
+      ],
+      "articles": [
+        {
+          "kicker": "Entreprises · Santé",
+          "title": "Sanofi met 41 milliards de dollars sur l'après-Dupixent",
+          "minutes": 3,
+          "chapo": "Le laboratoire français rachète la biotech américaine Insmed, spécialiste des maladies respiratoires. C'est la première grande opération de sa nouvelle directrice générale, Belén Garijo.",
+          "body": [
+            "Sanofi a annoncé mardi 24 novembre l'acquisition d'Insmed pour 175 dollars par action en numéraire, soit 41 milliards de dollars, environ 37,6 milliards d'euros. La prime atteint 46 % par rapport au cours du 18 novembre, dernière séance avant que Bloomberg ne révèle l'intérêt de Sanofi. C'est la plus grosse opération du secteur pharmaceutique depuis le rachat de Seagen par Pfizer pour 43 milliards de dollars fin 2023, et la plus importante de l'histoire de Sanofi depuis la fusion avec Aventis.",
+            "Insmed, fondée en 1988 dans le New Jersey, vend le Brinsupri (brensocatib), premier traitement approuvé de la bronchectasie non liée à la mucoviscidose, une maladie chronique où les bronches dilatées s'infectent à répétition. Lancé en août 2025, il a déjà réalisé 1,09 milliard de dollars de ventes cumulées ; Insmed attend 1,35 à 1,4 milliard en 2026. S'y ajoutent l'Arikayce, antibiotique inhalé (460 à 470 millions attendus en 2026), et le tréprostinil palmitil inhalé, en phase III contre l'hypertension pulmonaire. Barclays estime le pic de ventes cumulé des trois molécules à plus de 14 milliards de dollars.",
+            "L'enjeu est la « falaise des brevets ». Le Dupixent, anticorps contre l'asthme et la dermatite atopique, a rapporté 15 milliards d'euros sur les neuf premiers mois de 2026 (+34,5 %) et pèse plus d'un tiers du chiffre d'affaires annuel du groupe, 43,6 milliards d'euros. Ses brevets expirent à partir du début des années 2030 ; JPMorgan chiffre le manque à gagner à 17,3 milliards d'euros entre 2030 et 2035. Le Brinsupri est, lui, protégé jusque dans les années 2040, selon Jefferies.",
+            "L'opération sera financée par un mélange de dette et de trésorerie. Sanofi affirme qu'il « restera fidèle à sa discipline financière », sans toucher au dividende ni à sa note de crédit, et vise une finalisation au premier semestre 2027, sous réserve des autorités de concurrence et du vote des actionnaires d'Insmed. Belén Garijo, ancienne patronne de Merck KGaA, nommée cette année pour remplacer Paul Hudson après plusieurs échecs en recherche, souligne qu'Insmed « s'appuie sur notre présence déjà solide dans les maladies respiratoires ».",
+            "La Bourse a applaudi : Sanofi a gagné jusqu'à près de 10 %, à environ 93,6 euros, son plus haut depuis plus d'un an. Barclays parle d'« une bouffée d'air frais », Jefferies estime que le groupe fait « d'une pierre plusieurs coups » avec un effet relutif sur le bénéfice par action dès fin 2028. Le CAC 40, lui, a fini quasi stable (−0,05 %, autour de 8 040 points) : Clariane s'est envolée de plus de 35 %, tandis que STMicroelectronics (−10 %) et Soitec (−10 %) ont suivi la rechute des semi-conducteurs américains."
+          ],
+          "critique": "Un chèque de 41 milliards achète du chiffre d'affaires, pas de la capacité d'innovation. Jefferies le dit : l'opération ne règle pas les problèmes de recherche de Sanofi, qui ont coûté son poste à Paul Hudson. Allinvest résume le risque : « le prix laisse peu de marge à une déception commerciale ». Le Brinsupri n'a qu'un peu plus d'un an de commercialisation. Autre angle mort : un fleuron français paie 46 % de prime pour un actif américain, alors que l'État multiplie les sommets « Choose France » pour attirer l'investissement inverse. La valeur créée profitera d'abord aux actionnaires d'Insmed.",
+          "sources": [
+            {"label": "BFM Bourse, pourquoi la Bourse applaudit le rachat d'Insmed", "url": "https://www.tradingsat.com/sanofi-FR0000120578/actualites/sanofi-le-groupe-fait-d-une-pierre-plusieurs-coups-pourquoi-la-bourse-applaudit-le-rachat-taille-xxl-par-sanofi-de-la-biotech-insmed-pour-pres-de-38-milliards-d-euros-1174329.html"},
+            {"label": "Presse-citron, Sanofi rachète Insmed pour 41 milliards de dollars", "url": "https://www.presse-citron.net/sanofi-rachete-insmed-pour-41-milliards-pourquoi-ce-deal-xxl-et-historique-est-crucial-pour-le-geant-francais/"},
+            {"label": "Vista Partners, Sanofi-Insmed à 175 $ par action", "url": "https://vistapglobal.com/stock-market-today-november-24-2026-dow-tops-50000-as-nasdaq-slides-consumer-confidence-surges-with-pce-due-on-thanksgiving-eve-ant-bby-dell-dks-dltr-eprx-gld-insm-kymr-modd-msft-n/"}
+          ]
+        },
+        {
+          "kicker": "Parlement · Budget 2027",
+          "title": "Retraités, heures sup : le Sénat bouscule le gouvernement",
+          "minutes": 3,
+          "chapo": "La majorité sénatoriale recule sur la suppression de l'abattement des retraités, mais le réduit fortement. Le gouvernement perd un vote à une voix près sur les heures supplémentaires.",
+          "body": [
+            "Mardi 24 novembre, l'amendement de la rapporteure générale Christine Lavarde (LR) qui supprimait totalement l'abattement fiscal de 10 % sur les pensions n'a pas été adopté. Il devait compenser l'indexation complète des retraites de base sur l'inflation, votée dans le budget de la Sécurité sociale. Le gouvernement prévoyait à l'origine de geler les pensions de base au-delà de 1 260 euros par mois et de plafonner l'abattement à 3 000 euros ; selon la commission des finances, chacune des deux options pèse environ 5,6 milliards d'euros.",
+            "Faute de suppression, le Sénat a adopté par 175 voix contre 161 un amendement de Jean-François Husson (LR) et Michel Canévet (UC) qui abaisse le plafond de l'abattement à 1 000 euros. Le ministre des Comptes publics, David Amiel, juge le dispositif « beaucoup plus progressif » qu'une désindexation. Olivier Cadic (UC) rappelle que les 10 % de foyers bénéficiaires les plus aisés concentrent près de 30 % du coût. À gauche, Florence Blatrix Contat (PS) dénonce des retraités devenus « la variable d'ajustement des finances publiques ». Jean-François Husson attribue les hésitations à « l'élection qui arrive au printemps prochain ».",
+            "La veille, le gouvernement avait été mis en minorité sur les heures supplémentaires. Son amendement relevant de 7 500 à 10 000 euros le plafond d'exonération d'impôt sur le revenu, promis par le Premier ministre lors de la conférence sociale du 9 novembre, a été rejeté à main levée par 22 voix contre 21, puis lors d'un vote « assis-debout ». Plusieurs sénateurs LR, dont Jean-François Husson et Sophie Primas, ont voté contre. Matignon demandera une seconde délibération d'ici la fin de l'examen de la partie recettes. Le dispositif coûte déjà « un peu plus de 2 milliards d'euros » par an.",
+            "Le Sénat a par ailleurs écarté de nouveau la taxe Zucman, un impôt plancher de 2 % sur les très grands patrimoines, et le rétablissement de l'ISF. Lundi soir, il avait abaissé à 6 % le taux d'imposition des donations familiales dans la limite de 100 000 euros pour toute l'année 2027, supprimé la réduction d'impôt pour frais de scolarité, et porté à 75 % la défiscalisation des dons pour reconstruire l'hôtel de ville de Limoges, incendié en marge de la mobilisation du 17 octobre.",
+            "En toile de fond, la lettre envoyée lundi soir par Sébastien Lecornu aux parlementaires. Le Premier ministre y appelle au « compromis » autour de cinq thèmes, dont l'agriculture, les bourses étudiantes indexées sur l'inflation, le pouvoir d'achat et le logement, avec une ligne rouge : un déficit qui ne dépasse pas 5 %. Il réclame six milliards d'économies supplémentaires, en plus des 43 milliards déjà prévus. Au Sénat, l'accueil est glacial. Stéphane Sautarel (LR) parle d'« une lettre au Père Noël », Christine Lavarde estime qu'elle « ne dit rien de nouveau », et Hervé Marseille, président du groupe centriste, y voit « un exercice de communication » préparant un 49-3. L'examen doit durer jusqu'au 9 décembre, avant une commission mixte paritaire."
+          ],
+          "critique": "Le débat sur l'abattement révèle une contradiction : la droite sénatoriale, qui refuse toute hausse d'impôt, vote un alourdissement ciblé sur les retraités aisés, tandis que la gauche, favorable à la taxation des hauts revenus, défend un avantage dont le dixième le plus riche capte 30 %. Chacun raisonne aussi en électeurs : les retraités votent beaucoup, et la présidentielle arrive. Sur le fond, ce budget sera très probablement adopté par 49-3 ou par ordonnances : les votes du Sénat dessinent une copie de négociation, pas la loi finale.",
+          "sources": [
+            {"label": "Public Sénat, le Sénat renonce à supprimer l'abattement de 10 %", "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-coup-de-theatre-le-senat-renonce-a-supprimer-labattement-de-10-des-retraites"},
+            {"label": "Sénat, scrutin public n° 163", "url": "https://www.senat.fr/scrutin-public/2026/scr2026-163.html"},
+            {"label": "Public Sénat, heures supplémentaires : le gouvernement mis en minorité", "url": "https://www.publicsenat.fr/actualites/politique/heures-supplementaires-defiscalisees-mis-en-minorite-au-senat-le-gouvernement-veut-un-nouveau-vote"},
+            {"label": "Public Sénat, la « lettre au Père Noël » de Sébastien Lecornu", "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-senateurs-etrillent-la-lettre-au-pere-noel-de-sebastien-lecornu-qui-appelle-les-parlementaires-au-compromis"},
+            {"label": "Public Sénat, taxe Zucman et ISF écartés", "url": "https://www.publicsenat.fr/actualites/economie/budget-2027-le-senat-ecarte-a-nouveau-la-taxe-zucman-et-le-retablissement-de-lisf"},
+            {"label": "Public Sénat, donations familiales", "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-le-senat-allege-la-fiscalite-des-donations-familiales"}
+          ]
+        },
+        {
+          "kicker": "Présidentielle 2027",
+          "title": "Deux candidats seulement devant Marine Le Pen",
+          "minutes": 2,
+          "chapo": "Le baromètre Odoxa-Mascaret teste sept duels de second tour. Le Pen domine la plupart d'entre eux, mais aucun candidat ne franchit 40 %.",
+          "body": [
+            "Le sondage Odoxa-Mascaret pour Public Sénat, la presse quotidienne régionale et Le Nouvel Obs a été réalisé en ligne les 18 et 19 novembre auprès de 1 005 personnes. Il ne mesure pas des intentions de vote, mais des préférences dans des duels de second tour. Seuls deux candidats sont préférés à Marine Le Pen : David Lisnard, par 32 % contre 27 %, et Édouard Philippe, par 35 % contre 31 %.",
+            "Marine Le Pen devance Teddy Riner de 5 points, Bruno Retailleau de 3 points, Gabriel Attal et Raphaël Glucksmann de 2 points. Face à Jean-Luc Mélenchon, l'écart est massif : 40 % contre 24 %. Dans chaque duel, entre 29 % et 42 % des sondés ne choisissent « ni l'un ni l'autre ».",
+            "Au 108e Congrès des maires, ouvert mardi porte de Versailles à Paris, la double candidature de David Lisnard, à la présidentielle et à sa propre succession à la tête de l'Association des maires de France, est contestée. Son concurrent, Philippe Laurent, maire UDI de Sceaux, lance : « L'AMF n'est pas un plan B qu'on reprend une fois qu'on n'a pas été élu à la présidentielle. » Il qualifie le budget de « catastrophique pour les communes ». Une enquête du Cevipof et de l'AMF publiée le 20 novembre indique que 48 % des maires ne souhaitent parrainer aucun candidat.",
+            "Devant les mêmes maires, Bruno Retailleau a fustigé « l'État profond » et la « bureaucratie ». À gauche, Marine Tondelier se dit prête à discuter avec La France insoumise mais reste candidate jusqu'au vote interne des Écologistes, attendu le 13 décembre. Le maire LFI de Saint-Denis, Bally Bagayoko, se dit sûr d'obtenir les 500 parrainages pour Jean-Luc Mélenchon : « Nous les aurons à date. »"
+          ],
+          "critique": "Un écart de 5 points avec 41 % d'indécis ne prédit pas un résultat : il mesure surtout la notoriété et le rejet. Lisnard bénéficie d'être peu connu, donc peu rejeté ; l'effet s'érode souvent pendant la campagne. Le sondage est par ailleurs commandé en partie par Public Sénat, média de l'institution que Lisnard connaît bien via les élus locaux. Enfin, le chiffre de 48 % de maires refusant de parrainer rappelle que la publicité des parrainages, instaurée en 2016, peut filtrer les candidatures avant même le vote.",
+          "sources": [
+            {"label": "Public Sénat, sondage Odoxa : seuls Lisnard et Philippe préférés à Le Pen", "url": "https://www.publicsenat.fr/actualites/politique/sondage-au-deuxieme-tour-seuls-david-lisnard-et-edouard-philippe-seraient-preferes-a-marine-le-pen"},
+            {"label": "Public Sénat, « L'AMF n'est pas un plan B »", "url": "https://www.publicsenat.fr/actualites/politique/congres-des-maires-lamf-nest-pas-un-plan-b-quon-reprend-une-fois-quon-na-pas-ete-elu-a-la-presidentielle-tacle-philippe-laurent-visan"},
+            {"label": "Public Sénat, Retailleau au Congrès des maires", "url": "https://www.publicsenat.fr/actualites/politique/fustigeant-letat-profond-et-la-bureaucratie-bruno-retailleau-veut-remettre-la-mairie-au-milieu-du-village"},
+            {"label": "Public Sénat, Marine Tondelier et LFI", "url": "https://www.publicsenat.fr/actualites/politique/main-tendue-des-ecologistes-a-melenchon-je-suis-candidate-aujourdhui-je-serai-candidate-demain-jusqua-ce-quon-en-decide-autrement-au-sein-du-mouvement"},
+            {"label": "Public Sénat, Bally Bagayoko et les parrainages", "url": "https://www.publicsenat.fr/actualites/politique/nous-les-aurons-a-date-bally-bagayoko-lfi-se-montre-confiant-sur-les-500-parrainages-pour-la-presidentielle"}
+          ]
+        },
+        {
+          "kicker": "En bref",
+          "title": "Le reste de l'actualité",
+          "minutes": 1,
+          "chapo": "Légitime défense des policiers, règle d'or, et maintien de l'ordre.",
+          "body": [
+            "Sécurité. Le Sénat a adopté le texte instaurant une présomption de légitime défense pour les forces de l'ordre.",
+            "Règle d'or. Après l'hypothèse d'un Congrès en janvier, le sénateur LR Jean-François Husson juge que c'est « se payer la tête du Parlement et des Français ». Selon son entourage, Gérard Larcher est « favorable sur le principe » mais s'interroge sur le calendrier ; une révision constitutionnelle exige les trois cinquièmes des suffrages exprimés au Congrès.",
+            "Manifestations. Selon le décompte de franceinfo, la préfecture de police de Paris a pris 219 arrêtés d'interdiction ou de restriction depuis le 1er octobre, en amont des mobilisations contre la vie chère."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Public Sénat, présomption de légitime défense", "url": "https://www.publicsenat.fr/emission/100-senat/presomption-de-legitime-defense-pour-les-forces-de-lordre-le-senat-adopte-le-texte-e45"},
+            {"label": "Public Sénat, la règle d'or laisse dubitatif", "url": "https://www.publicsenat.fr/actualites/politique/il-se-fout-de-la-gueule-du-monde-la-regle-dor-budgetaire-evoquee-par-emmanuel-macron-laisse-dubitatif"},
+            {"label": "franceinfo, comment les préfets multiplient les mesures administratives", "url": "https://www.franceinfo.fr/societe/manifestations/interdictions-de-manifestations-couvre-feux-parcours-hors-des-centres-villes-comment-les-prefets-multiplient-les-mesures-administratives-en-amont-des-mobilisations_8274263.html"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Quel prix par action Sanofi paie-t-il pour Insmed (en dollars) ?",
+        "min": 50,
+        "max": 300,
+        "step": 5,
+        "unit": "$",
+        "answer": 175,
+        "explain": "175 $ en numéraire, soit une prime de 46 % sur le cours du 18 novembre (environ 120 $). Total : 41 Md$, environ 37,6 Md€."
+      },
+      "flashcards": [
+        {"front": "Brinsupri (brensocatib)", "back": "Médicament d'Insmed contre la bronchectasie non liée à la mucoviscidose ; 1,09 Md$ de ventes depuis août 2025."},
+        {"front": "Belén Garijo", "back": "Directrice générale de Sanofi depuis 2026, ex-patronne de Merck KGaA ; signe le rachat d'Insmed (41 Md$)."},
+        {"front": "Abattement de 10 % des retraités", "back": "Plafonné à 1 000 € par le Sénat le 24/11/2026 (175 voix contre 161), au lieu d'être supprimé."},
+        {"front": "Heures supplémentaires", "back": "Le relèvement du plafond d'exonération de 7 500 à 10 000 € rejeté au Sénat par 22 voix contre 21."},
+        {"front": "Lettre de Lecornu", "back": "Appel au compromis sur 5 thèmes, 6 Md€ d'économies en plus des 43 Md€ ; « lettre au Père Noël » selon Stéphane Sautarel."},
+        {"front": "Odoxa, duels 2027", "back": "Lisnard 32-27 et Philippe 35-31 face à Le Pen ; Le Pen 40-24 face à Mélenchon."},
+        {"front": "Philippe Laurent", "back": "Maire UDI de Sceaux, candidat à la présidence de l'AMF contre David Lisnard."}
+      ],
+      "quiz": [
+        {"q": "Quelle était la plus grosse opération pharmaceutique avant Sanofi-Insmed ?", "choices": ["Bayer-Monsanto", "Pfizer-Seagen", "AbbVie-Allergan", "Merck-Prometheus"], "answer": 1, "explain": "Pfizer avait racheté Seagen pour 43 Md$ fin 2023."},
+        {"q": "Quel médicament de Sanofi perdra ses brevets au début des années 2030 ?", "choices": ["Doliprane", "Lantus", "Dupixent", "Beyfortus"], "answer": 2, "explain": "Le Dupixent pèse plus d'un tiers du chiffre d'affaires du groupe."},
+        {"q": "À quel montant le Sénat a-t-il plafonné l'abattement de 10 % des retraités ?", "choices": ["500 €", "1 000 €", "2 200 €", "3 000 €"], "answer": 1, "explain": "1 000 €, contre 3 000 € prévus par le gouvernement et 2 200 € proposés par le RDPI."},
+        {"q": "Quel impôt plancher de 2 % sur les grands patrimoines le Sénat a-t-il encore écarté ?", "choices": ["La taxe Tobin", "La taxe Zucman", "La CSG patrimoine", "L'IFI"], "answer": 1, "explain": "La taxe Zucman, comme le rétablissement de l'ISF."},
+        {"q": "Selon Odoxa, quelle part des sondés ne choisit aucun des deux candidats selon les duels ?", "choices": ["5 à 10 %", "15 à 20 %", "29 à 42 %", "50 à 60 %"], "answer": 2, "explain": "Entre 29 % et 42 % répondent « ni l'un ni l'autre »."}
+      ]
+    },
+    {
+      "id": "savoirs",
+      "name": "Savoirs",
+      "minutes": 10,
+      "lede": [
+        "Pourquoi Sanofi paie 41 milliards : la mécanique des brevets pharmaceutiques, de 20 ans à 15 ans de protection réelle, et la « falaise » qui menace tous les grands laboratoires.",
+        "Les mines marines, arme du pauvre qui coûte cent fois plus cher à retirer qu'à poser, et un détroit d'Ormuz dont les voies de navigation ne font que 3,7 km de large.",
+        "Comment Google DeepMind a réduit le coût d'algorithmes quantiques, ce que mesure la confiance des ménages, et le 25 novembre : Einstein, la relativité générale et les catherinettes."
+      ],
+      "articles": [
+        {
+          "kicker": "Économie · Pharmacie",
+          "title": "La falaise des brevets, ou pourquoi les labos achètent",
+          "minutes": 3,
+          "chapo": "Un brevet dure 20 ans, mais un médicament n'en profite que 10 à 15. Quand il tombe, les ventes s'effondrent. D'où les rachats géants.",
+          "body": [
+            "Un brevet européen dure 20 ans à compter de la date de dépôt (article 63 de la Convention sur le brevet européen). Mais un laboratoire dépose son brevet très tôt, dès la découverte de la molécule, puis passe une dizaine d'années en essais cliniques et en procédures d'autorisation. Quand le médicament arrive en pharmacie, il ne reste souvent que 8 à 12 ans de protection.",
+            "Pour compenser, l'Union européenne a créé en 1992 le certificat complémentaire de protection (CCP). Il prolonge la protection de 5 ans au maximum, et de 6 mois supplémentaires si le laboratoire a mené des études pédiatriques. Mais la protection effective, brevet et CCP cumulés, ne peut normalement pas dépasser 15 ans après la première autorisation de mise sur le marché (15,5 ans avec l'extension pédiatrique). Les États-Unis ont un mécanisme comparable depuis la loi Hatch-Waxman de 1984.",
+            "À l'expiration, les génériques (pour les petites molécules chimiques) ou les biosimilaires (pour les médicaments biologiques comme les anticorps) entrent sur le marché à prix réduit. Pour un générique chimique, les ventes du médicament d'origine peuvent chuter de plus de moitié en quelques mois. Les biosimilaires, plus coûteux à produire et à faire approuver, érodent les ventes plus lentement, mais sûrement.",
+            "C'est la situation de Sanofi. Le Dupixent est un anticorps monoclonal : 15 milliards d'euros de ventes en neuf mois, plus d'un tiers du chiffre d'affaires du groupe. JPMorgan estime à 17,3 milliards d'euros le manque à gagner entre 2030 et 2035. Sanofi doit donc acheter des médicaments déjà commercialisés et protégés plus longtemps, comme le Brinsupri d'Insmed, breveté jusque dans les années 2040.",
+            "Ordre de grandeur utile : développer un nouveau médicament coûte couramment plus d'un milliard de dollars en comptant les échecs, et environ 9 molécules sur 10 entrant en essais cliniques n'atteignent jamais le marché. Acheter une biotech qui a déjà franchi ces étapes revient à payer une prime pour éliminer ce risque."
+          ],
+          "critique": "La falaise des brevets est présentée comme une fatalité, mais c'est aussi le moment où la société récupère l'innovation à bas prix : c'est le contrat implicite du brevet. Les laboratoires multiplient les brevets secondaires (formulations, dosages, procédés) pour retarder les génériques, une pratique appelée « evergreening » que les autorités de concurrence surveillent. Les ordres de grandeur sur le coût de développement varient fortement selon les études et sont souvent produits ou financés par l'industrie elle-même.",
+          "sources": [
+            {"label": "Wikipédia, certificat complémentaire de protection", "url": "https://en.wikipedia.org/wiki/Supplementary_protection_certificate"},
+            {"label": "BFM Bourse, Dupixent et brevets de Sanofi", "url": "https://www.tradingsat.com/sanofi-FR0000120578/actualites/sanofi-le-groupe-fait-d-une-pierre-plusieurs-coups-pourquoi-la-bourse-applaudit-le-rachat-taille-xxl-par-sanofi-de-la-biotech-insmed-pour-pres-de-38-milliards-d-euros-1174329.html"}
+          ]
+        },
+        {
+          "kicker": "Défense · Ingénierie",
+          "title": "La mine marine, l'arme qui coûte cent fois plus à retirer",
+          "minutes": 2,
+          "chapo": "De la Chine médiévale au détroit d'Ormuz, la mine reste l'arme la plus rentable de la guerre navale. Le déminage, lui, reste lent et coûteux.",
+          "body": [
+            "Les premières mines marines sont décrites en Chine au XIVe siècle, dans le traité militaire Huolongjing. En Occident, le premier projet connu date de 1574. Au XIXe siècle apparaît la « corne de Hertz » : un tube de verre contenant un électrolyte, qui se brise au contact d'une coque, active une pile et déclenche la charge.",
+            "On distingue trois familles. Les mines de contact explosent quand un navire les heurte. Les mines télécommandées sont déclenchées depuis la côte. Les mines à influence réagissent à la signature d'un navire sans contact : son champ magnétique (une coque d'acier déforme le champ terrestre), le bruit de ses hélices ou la baisse de pression de l'eau sous sa coque. Pour s'en protéger, les navires sont « démagnétisés » : on fait passer du courant dans des câbles autour de la coque pour annuler leur signature.",
+            "Les ordres de grandeur sont saisissants. Pendant la Première Guerre mondiale, environ 235 000 mines ont été posées en mer ; en 1918, près de 70 000 l'ont été en cinq mois pour fermer la mer du Nord. Il a fallu ensuite 82 navires et cinq mois pour nettoyer ce barrage. En 1991, des mines irakiennes ont gravement endommagé les navires américains USS Tripoli et USS Princeton.",
+            "Le cœur de l'affaire est économique : produire et poser une mine coûte entre 0,5 % et 10 % du coût de son retrait, et déminer peut prendre jusqu'à 200 fois plus longtemps que miner. Certaines mines coûtent à peine 2 000 dollars. À Ormuz, large de 39 km à son point le plus étroit, le trafic emprunte deux voies de 2 milles nautiques (3,7 km) chacune, séparées par une bande de même largeur. Quelques mines suffisent à faire fuir les assureurs, même si elles ne touchent rien."
+          ],
+          "critique": "L'efficacité d'une mine tient moins aux navires coulés qu'à la peur qu'elle inspire. C'est pourquoi une simple annonce, même invérifiable, de pétroliers « touchés par des mines » produit un effet militaire réel : les primes d'assurance montent et les armateurs renoncent. Le droit international (convention de La Haye de 1907) impose de pouvoir neutraliser les mines et d'en signaler les zones, des règles rarement respectées en guerre.",
+          "sources": [
+            {"label": "Wikipédia, Naval mine", "url": "https://en.wikipedia.org/wiki/Naval_mine"},
+            {"label": "Wikipédia, Strait of Hormuz", "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz"}
+          ]
+        },
+        {
+          "kicker": "Informatique · Quantique",
+          "title": "Des agents IA qui allègent les algorithmes quantiques",
+          "minutes": 2,
+          "chapo": "Google DeepMind affirme que des équipes d'agents Gemini ont trouvé des versions moins coûteuses d'algorithmes quantiques. Pour comprendre l'enjeu, il faut parler de qubits « logiques ».",
+          "body": [
+            "Selon une publication de Google DeepMind du 23 novembre, des équipes d'agents Gemini 4, couplés à un système de vérification formelle (Lean), ont trouvé des variantes moins coûteuses de plusieurs algorithmes quantiques. Pour une simulation liée à la fusion nucléaire, le coût de calcul estimé est divisé par 11,8 et le besoin en mémoire passe de 5 650 à 4 338 qubits logiques. Une sous-routine arithmétique serait plus de 290 fois moins coûteuse.",
+            "Un qubit physique est un composant réel (circuit supraconducteur, ion piégé) dont l'état se dégrade en une fraction de seconde. Un qubit logique est un qubit fiable, fabriqué en regroupant de nombreux qubits physiques qui se surveillent mutuellement : c'est la correction d'erreurs quantiques.",
+            "Le schéma le plus étudié, le code de surface, dispose les qubits sur une grille. Un code de « distance » d utilise d² qubits de données, et à peu près autant de qubits de mesure, pour encoder un seul qubit logique. Avec d = 25, il faut donc de l'ordre de 1 000 à 1 250 qubits physiques par qubit logique. 4 338 qubits logiques représenteraient ainsi plusieurs millions de qubits physiques. En 2024, la puce Willow de Google a démontré un code de distance 7 dont les erreurs diminuent quand la taille augmente, un jalon appelé fonctionnement « sous le seuil ».",
+            "Gagner 23 % de mémoire et un facteur 12 en calcul ne rend pas la machine disponible demain, mais rapproche le jour où un ordinateur quantique tolérant aux fautes sera utile pour la chimie ou la physique des plasmas."
+          ],
+          "critique": "Ces résultats sont publiés par Google lui-même et portent sur des estimations de ressources, pas sur des calculs exécutés. La vérification formelle garantit la correction des algorithmes, pas leur intérêt pratique. Et le facteur limitant reste matériel : on ne dispose aujourd'hui que de quelques centaines à quelques milliers de qubits physiques par machine, loin des millions nécessaires.",
+          "sources": [
+            {"label": "The Neuron, DeepMind et les algorithmes quantiques", "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-24-2026/"},
+            {"label": "AI Weekly, détails des gains (d'après DeepMind)", "url": "https://aiweekly.co/ai-news-today"},
+            {"label": "Wikipédia, Surface code", "url": "https://en.wikipedia.org/wiki/Surface_code"}
+          ]
+        },
+        {
+          "kicker": "Économie · Indicateurs",
+          "title": "Mesurer le moral des ménages en cinq questions",
+          "minutes": 1,
+          "chapo": "L'indice du Conference Board a bondi à 103,3 en novembre. Comment il est construit, et pourquoi il faut le lire avec prudence.",
+          "body": [
+            "L'indice de confiance des consommateurs du Conference Board, un institut privé américain, est calculé chaque mois à partir d'un questionnaire envoyé aux ménages. Il est indexé sur une base 100 en 1985. Cinq questions le composent : la situation économique actuelle, celle dans six mois, la situation actuelle de l'emploi, celle dans six mois, et le revenu familial dans six mois. Chaque réponse est classée positive, négative ou neutre.",
+            "Les deux questions sur le présent forment l'indice de situation actuelle (132,8 en novembre, +13,7 points) ; les trois questions sur l'avenir forment l'indice d'anticipations (83,6, +9,9). La part des Américains qui jugent les emplois « abondants » passe de 26,2 % à 30,8 %.",
+            "En France, l'équivalent est l'enquête mensuelle de conjoncture auprès des ménages de l'Insee, dont l'indicateur synthétique a une moyenne de long terme fixée à 100."
+          ],
+          "critique": "Ces indices mesurent un sentiment, pas une dépense. Le moral peut bondir après un rebond boursier ou une baisse de l'essence sans que les achats suivent. Un saut de 11 points en un mois, alors que l'inflation attendue reste à 5,7 %, appelle donc une confirmation par les chiffres de consommation réels.",
+          "sources": [
+            {"label": "Wikipédia, Consumer confidence index", "url": "https://en.wikipedia.org/wiki/Consumer_confidence_index"},
+            {"label": "Vista Partners, détail de l'indice de novembre", "url": "https://vistapglobal.com/stock-market-today-november-24-2026-dow-tops-50000-as-nasdaq-slides-consumer-confidence-surges-with-pce-due-on-thanksgiving-eve-ant-bby-dell-dks-dltr-eprx-gld-insm-kymr-modd-msft-n/"}
+          ]
+        },
+        {
+          "kicker": "Éphéméride",
+          "title": "25 novembre : Einstein et les catherinettes",
+          "minutes": 2,
+          "chapo": "Le jour où la gravitation est devenue géométrie, et une vieille tradition des ateliers de couture parisiens.",
+          "body": [
+            "Le 25 novembre 1915, Albert Einstein présente à l'Académie prussienne des sciences de Berlin un court article de quatre pages, « Die Feldgleichungen der Gravitation » (« Les équations de champ de la gravitation »). C'est la forme définitive de la relativité générale : la gravitation n'y est plus une force, mais la courbure de l'espace-temps provoquée par la matière et l'énergie. En une phrase célèbre : la matière dit à l'espace-temps comment se courber, et l'espace-temps dit à la matière comment se mouvoir.",
+            "Cette théorie a des conséquences très concrètes. Les satellites GPS, en orbite à 20 000 km d'altitude, voient leurs horloges avancer d'environ 38 microsecondes par jour par rapport au sol, effets de relativité générale et restreinte combinés. Sans correction, l'erreur de positionnement s'accumulerait d'une dizaine de kilomètres par jour.",
+            "Le 25 novembre est aussi la Sainte-Catherine, fête de Catherine d'Alexandrie, patronne des jeunes filles. Les « catherinettes » sont les jeunes femmes de 25 ans ou plus encore célibataires, d'où l'expression « coiffer sainte Catherine ». Dans les maisons de couture parisiennes, on confectionne ce jour-là un chapeau, traditionnellement jaune et vert ; à partir des années 1920, les midinettes du Sentier décoraient la statue de la sainte, rue de Cléry.",
+            "C'est enfin, depuis 1999, la Journée internationale pour l'élimination de la violence à l'égard des femmes, choisie par l'ONU en mémoire des trois sœurs Mirabal, opposantes au dictateur dominicain Trujillo, assassinées le 25 novembre 1960."
+          ],
+          "critique": "",
+          "sources": [
+            {"label": "Wikipédia, Einstein field equations", "url": "https://en.wikipedia.org/wiki/Einstein_field_equations"},
+            {"label": "Wikipédia, Catherinette", "url": "https://fr.wikipedia.org/wiki/Catherinette"}
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Combien de mines marines ont été posées pendant la Première Guerre mondiale ?",
+        "min": 0,
+        "max": 500000,
+        "step": 5000,
+        "unit": "mines",
+        "answer": 235000,
+        "explain": "Environ 235 000, dont près de 70 000 en cinq mois en 1918 pour fermer la mer du Nord."
+      },
+      "flashcards": [
+        {"front": "Durée d'un brevet européen", "back": "20 ans à partir du dépôt (art. 63 CBE)."},
+        {"front": "Certificat complémentaire de protection", "back": "Jusqu'à 5 ans de plus (+6 mois pédiatrie) ; protection totale plafonnée à 15 ans après l'autorisation de mise sur le marché."},
+        {"front": "Biosimilaire", "back": "Copie d'un médicament biologique (anticorps…) après expiration du brevet ; équivalent du générique pour les petites molécules."},
+        {"front": "Mine à influence", "back": "Mine déclenchée sans contact par la signature magnétique, acoustique ou de pression d'un navire."},
+        {"front": "Qubit logique", "back": "Qubit fiable formé de nombreux qubits physiques (code de surface : environ 2d² pour une distance d)."},
+        {"front": "25 novembre 1915", "back": "Einstein présente les équations de champ de la relativité générale à l'Académie prussienne."},
+        {"front": "Catherinette", "back": "Jeune femme de 25 ans ou plus, célibataire, fêtée le 25 novembre ; chapeau jaune et vert."}
+      ],
+      "quiz": [
+        {"q": "Combien d'années de protection supplémentaire un CCP peut-il apporter au maximum, hors pédiatrie ?", "choices": ["2 ans", "5 ans", "10 ans", "20 ans"], "answer": 1, "explain": "5 ans au maximum, 5,5 ans avec l'extension pédiatrique."},
+        {"q": "Quel rapport de coût entre pose et retrait d'une mine ?", "choices": ["La pose coûte plus cher", "Coûts équivalents", "La pose coûte 0,5 à 10 % du retrait", "Le retrait est gratuit"], "answer": 2, "explain": "Et déminer peut prendre jusqu'à 200 fois plus longtemps que miner."},
+        {"q": "Quelle est la largeur de chaque voie de navigation d'Ormuz ?", "choices": ["500 m", "2 milles nautiques (3,7 km)", "10 km", "39 km"], "answer": 1, "explain": "Deux voies de 2 milles nautiques, séparées par une bande de même largeur ; 39 km est la largeur minimale du détroit."},
+        {"q": "Sur quelle base l'indice du Conference Board est-il calculé ?", "choices": ["2000 = 100", "1985 = 100", "1970 = 100", "Moyenne de long terme = 100"], "answer": 1, "explain": "Base 100 en 1985. La moyenne de long terme égale à 100 est la convention de l'Insee."},
+        {"q": "Pourquoi le 25 novembre est-il la journée contre les violences faites aux femmes ?", "choices": ["Naissance d'Olympe de Gouges", "Assassinat des sœurs Mirabal en 1960", "Loi Veil", "Création d'ONU Femmes"], "answer": 1, "explain": "Les trois sœurs Mirabal, opposantes à Trujillo, ont été assassinées le 25 novembre 1960."}
+      ]
+    }
+  ]
+}
