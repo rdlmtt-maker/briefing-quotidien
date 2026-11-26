@@ -1,0 +1,771 @@
+{
+  "date": "2026-11-26",
+  "weekday": "jeudi",
+  "saint": "Delphine",
+  "headline": "Wall Street plonge puis se reprend avant une hausse des taux attendue, les raffineries de Samara brûlent, et le Sénat reconduit la surtaxe des grandes entreprises.",
+  "chapters": [
+    {
+      "id": "monde",
+      "name": "Monde",
+      "minutes": 10,
+      "lede": [
+        "Wall Street a vécu mercredi une séance de montagnes russes : le Nasdaq a perdu jusqu'à 4,6 % et le Dow plus de 1 100 points avant de tout reprendre ou presque. En toile de fond, une inflation à 3,8 % qui rend quasi certaine une hausse des taux de la Fed en décembre.",
+        "L'Ukraine a frappé deux raffineries Rosneft de la région de Samara et cinq avions sur une base russe. La Pologne prépare une zone d'exclusion aérienne à sa frontière, tandis que Washington exclut tout soldat et toute base en Ukraine après la guerre.",
+        "Dans le Golfe, l'Iran revendique deux nouveaux pétroliers touchés par des mines, et les Houthis visent Ras Tanura, la plus grande raffinerie saoudienne. À l'ONU, Téhéran accuse les États-Unis d'avoir choisi leurs cibles avec l'aide de Claude et de Maven."
+      ],
+      "articles": [
+        {
+          "kicker": "Marchés · Wall Street",
+          "title": "Une séance à 1 100 points d'écart, et la Fed en ligne de mire",
+          "minutes": 3,
+          "chapo": "Inflation plus forte que prévu, croissance revue nettement à la hausse et doutes sur la dette de l'IA : mercredi, la veille de Thanksgiving, les indices ont plongé avant une remontée spectaculaire en fin de séance.",
+          "body": [
+            "Mercredi 25 novembre, le Dow Jones a clôturé à 50 182,95 points, en hausse de 164,25 points (+0,33 %), sa deuxième clôture consécutive au-dessus de 50 000. Il avait pourtant perdu plus de 1 100 points au plus bas de la séance. Le S&P 500 a fini en baisse de 0,25 %, à 7 182,78 points, après avoir cédé jusqu'à 3,2 %. Le Nasdaq composite a reculé de 0,62 %, à 23 585,80 points, après une chute de 4,6 % en séance ; le Nasdaq 100 a touché un instant le seuil de 20 % sous son pic d'octobre, la définition conventionnelle d'un marché baissier. Le Russell 2000 des petites capitalisations a gagné 0,71 %.",
+            "Le déclencheur macroéconomique est tombé à 8 h 30, heure de New York. L'indice des prix des dépenses de consommation (PCE), la mesure d'inflation privilégiée par la Réserve fédérale, a progressé de 3,8 % sur un an en octobre, contre 3,6 % en septembre. Hors alimentation et énergie, l'inflation « cœur » atteint 3,3 %, légèrement au-dessus du consensus. Dans le même temps, la deuxième estimation du PIB du troisième trimestre a été révisée de 3,4 % à 4,3 % en rythme annualisé, la croissance la plus rapide depuis trois ans. Les inscriptions hebdomadaires au chômage sont tombées à 189 000. Une économie qui accélère avec une inflation qui remonte : c'est le scénario qui pousse une banque centrale à resserrer. Les investisseurs anticipent désormais largement une hausse des taux lors de la réunion des 8 et 9 décembre.",
+            "À cela s'ajoute la deuxième journée de purge sur l'intelligence artificielle. Oracle a perdu 5,1 %, à 103,88 dollars, après un plus bas annuel à 99,34 dollars. Micron a cédé 4,5 %, Nvidia 3,9 % à 149,30 dollars après avoir perdu plus de 9 % en séance ; S&P Global Ratings a placé la note de crédit de Nvidia sous surveillance en invoquant des risques de gouvernance. L'inquiétude porte moins sur la demande que sur le financement : les obligations 2031 de CoreWeave offrent un rendement proche de 18 %, et le coût de l'assurance contre un défaut d'Oracle, d'Alphabet, de SpaceX et de CoreWeave a atteint des records. L'indice des semi-conducteurs, qui a chuté d'environ 7 % en séance à un plus bas de sept mois, n'a finalement terminé qu'en baisse de 0,6 % ; il reste plus de 43 % sous son record de juin.",
+            "Le retournement de l'après-midi n'a pas d'explication unique. Une piste citée est un article du Wall Street Journal selon lequel des responsables américains ont dit à des collaborateurs du Congrès n'avoir aucune preuve qu'un dirigeant chinois lié à l'affaire Jensen Huang ait été chargé par le renseignement chinois d'espionner le patron de Nvidia. Les achats se sont aussi portés sur IBM, Salesforce et Sherwin-Williams, ainsi que sur les matériaux, l'énergie et l'immobilier, en hausse de plus de 1 %. Environ trois actions du S&P 500 sur quatre ont progressé, mais le poids de la tech a maintenu l'indice dans le rouge.",
+            "Autre facteur de nervosité : le représentant américain au Commerce (USTR) a proposé des droits de douane au titre de la section 301 contre 14 économies, jusqu'à 35 % pour le Vietnam ; les taux évoqués pour l'Union européenne diffèrent selon les sources (15 % ou jusqu'à 20 %). Les commentaires sont attendus d'ici au 5 janvier 2027 : ce sont des propositions, pas des décisions.",
+            "Parmi les valeurs du jour, HP a bondi de 11,49 % après des résultats annuels en hausse de 9,5 %, Deere de 4,4 % grâce à un recul des bénéfices moins fort que prévu, Meta de 3,4 %. Ambarella s'est effondrée de 19,77 % : son patron attribue la baisse de ses prévisions à « la hausse sans précédent des prix de la mémoire ». Nutanix a perdu 15,19 % avec l'annonce du départ de son directeur général. SpaceX a gagné 1,3 % après l'autorisation par la FCC de lancer jusqu'à un million de centres de données orbitaux. Anthropic a clôturé à 82,79 dollars (+1,1 %), juste sous son prix d'introduction de 83 dollars, après un plus bas de 73,85 dollars.",
+            "Les marchés américains sont fermés ce jeudi pour Thanksgiving et rouvriront vendredi pour une demi-séance, jusqu'à 13 heures à New York."
+          ],
+          "critique": "Le rebond de fin de séance rassure en apparence mais ne règle rien : l'IA est désormais jugée sur sa dette, pas seulement sur ses ventes, et une hausse des taux de la Fed renchérit précisément ce financement. Attention aussi aux chiffres : faute d'accès aux agences de presse, les clôtures viennent d'agrégateurs (Motley Fool, GSM, StockTitan), qui divergent parfois d'un dixième de point. Enfin, la « preuve d'absence » d'espionnage rapportée par le WSJ reste une source anonyme : un marché qui remonte de 4 % sur ce type d'information montre surtout sa fébrilité.",
+          "sources": [
+            {
+              "label": "Motley Fool, le Dow efface une perte de 1 100 points",
+              "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
+            },
+            {
+              "label": "GSM Global News, clôture du 25 novembre",
+              "url": "https://gsmglobalnews.com/article/d20261125-mktclose1.html"
+            },
+            {
+              "label": "StockTitan, séance du 25 novembre en direct",
+              "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-25-2026"
+            },
+            {
+              "label": "Kotak Neo, Nvidia, Micron et Oracle reculent",
+              "url": "https://www.kotakneo.com/news/global-markets/nvidia-micron-oracle-shares-fall-as-ai-selloff-deepens-on-rising-infrastructure-costs-and-debt-concerns/"
+            }
+          ]
+        },
+        {
+          "kicker": "Ukraine · Énergie",
+          "title": "Samara en feu : la guerre des raffineries s'enfonce vers la Volga",
+          "minutes": 2,
+          "chapo": "Dans la nuit du 25 novembre, des drones ukrainiens ont touché les raffineries de Syzran et de Kouïbychev, à près de 1 000 km du front. Le même jour, Kiev revendique cinq avions russes touchés sur une base de la région de Nijni Novgorod.",
+          "body": [
+            "Les deux sites appartiennent à Rosneft depuis 2007 et font partie de son groupe de raffinage de Samara. Celui de Syzran a une capacité nominale d'environ 8,5 à 8,9 millions de tonnes de brut par an et produit essence, gazole et kérosène ; il est décrit comme un fournisseur important de l'armée russe. Celui de Kouïbychev traite 7 millions de tonnes par an et fabrique plus de vingt produits. Selon une analyse en sources ouvertes du site ukrainien Militarnyi, la frappe de Syzran a visé la zone des unités de distillation ELOU-AVT-6 et de craquage catalytique (voir le chapitre Savoirs). L'état-major ukrainien a confirmé l'opération et dit l'avoir menée en coordination avec « Tchernaïa Iskra », présenté comme un mouvement de résistance actif en Russie.",
+            "Ce n'est pas une première : Syzran avait été frappée le 15 septembre (unité de distillation AVT-6 et parc de réservoirs endommagés, traitement suspendu) et Kouïbychev le 22 septembre (trois réservoirs détruits). Le même jour, l'état-major ukrainien a affirmé avoir touché cinq avions sur un aérodrome de la région de Nijni Novgorod, selon les premiers éléments trois MiG-31 et deux Su-34.",
+            "Côté ukrainien, les attaques russes ont fait 9 morts et 59 blessés en 24 heures selon le Kyiv Independent, et arrêté la production d'une centrale thermique. Zaporijjia compte 2 morts et 31 blessés, dont 5 enfants. Energoatom indique que la centrale nucléaire de Zaporijjia a de nouveau perdu son alimentation électrique extérieure dans la nuit du 25 et fonctionne sur ses groupes diesel. L'état-major ukrainien recense 151 combats et 3 870 drones kamikazes russes sur la journée.",
+            "Kiev marque aussi des points technologiques et juridiques : un laser de combat ukrainien a intercepté pour la première fois un drone russe à réaction, et la Rada a voté par 293 voix l'entrée de l'Ukraine dans l'organe de direction du Tribunal spécial pour le crime d'agression. Kyrylo Boudanov, chef de l'administration présidentielle, prépare un échange de plus de 1 000 prisonniers en plusieurs étapes, fin novembre ou début décembre."
+          ],
+          "critique": "Les bilans des frappes viennent de sources ukrainiennes ou d'analyses d'images d'incendies : Moscou ne publie pas les dégâts, et une raffinerie « en feu » peut redémarrer en quelques semaines si les colonnes sont épargnées. La mention de « Tchernaïa Iskra » sert aussi la communication de Kiev, qui suggère une résistance intérieure russe difficile à vérifier. L'efficacité stratégique se mesurera aux prix de l'essence en Russie et aux exportations de produits raffinés, pas aux vidéos de flammes.",
+          "sources": [
+            {
+              "label": "Militarnyi, frappes sur Syzran et Kouïbychev",
+              "url": "https://militarnyi.com/en/news/ukrainian-drones-strike-syzran-and-kuibyshev-oil-refineries-in-russia-s-samara-region/"
+            },
+            {
+              "label": "Kyiv Independent, page d'accueil du 25 novembre",
+              "url": "https://kyivindependent.com/"
+            },
+            {
+              "label": "Ukrainian Women's Guard, la guerre au 25 novembre",
+              "url": "https://uavarta.org/en/war-in-ukraine-today-latest-news-25-november-2026-photo/"
+            }
+          ]
+        },
+        {
+          "kicker": "Europe · Sécurité",
+          "title": "Pas de soldats américains en Ukraine, et une Pologne qui veut tirer plus loin",
+          "minutes": 2,
+          "chapo": "Les garanties de sécurité promises par Washington pour l'après-guerre s'annoncent plus minces que ce qu'espérait Kiev. À la frontière, Varsovie prépare une zone d'exclusion aérienne et voudrait que l'OTAN abatte les missiles russes au-dessus de l'Ukraine.",
+          "body": [
+            "Selon une enquête exclusive du Kyiv Independent publiée le 25 novembre, les négociateurs américains ont exclu en privé l'envoi de troupes et l'installation de bases militaires en Ukraine après la guerre. Washington défend des garanties « inspirées de l'article 5 » de l'OTAN, sans préciser qui répondrait à une nouvelle agression, comment, ni si l'usage de la force serait obligatoire. Un responsable américain évoque un « soutien ou d'autres mesures ». Le 19 novembre à Berlin, Jared Kushner avait dit que Donald Trump était prêt à envisager un tel mécanisme.",
+            "Volodymyr Zelensky réclame des engagements écrits : « Il faut que ce soit sur papier. Jusqu'ici, je n'ai vu aucune démarche de ce type sur papier. » Il veut des garanties « pour plus de deux ans, de préférence pour toujours, ou au moins pour des décennies ». Moscou rejette toute présence militaire étrangère, qualifiée à Abou Dhabi de « cible légitime ». La « coalition des volontaires » menée par la France, l'Allemagne et le Royaume-Uni étudie toujours une force multinationale après un cessez-le-feu, mais son mandat reste flou. Le même jour, d'après le Kyiv Independent, les pays de l'UE voulaient aider l'Ukraine à quelques jours d'un sommet clé, sans s'accorder sur la manière.",
+            "En Pologne, le vice-ministre de la Défense Cezary Tomczyk a annoncé mercredi qu'il demanderait au gouvernement une zone d'exclusion aérienne le long de la frontière orientale, sur « une douzaine à quelques dizaines de kilomètres », en place fin décembre ou début janvier. Elle faciliterait la procédure permettant aux pilotes de tirer sur la base des radars, du renseignement allié, de l'altitude et de la vitesse, sans identification visuelle. Des missiles et drones russes sont entrés dans l'espace aérien polonais lors des attaques des 23 et 24 novembre, et l'OTAN a envoyé un avion radar AWACS.",
+            "Varsovie a aussi relancé, lors d'une réunion des ambassadeurs de l'OTAN le 23 novembre selon Bloomberg, l'idée d'intercepter les missiles russes au-dessus du territoire ukrainien. Le ministre des Affaires étrangères Radosław Sikorski estime qu'abattre un missile ou un drone qui approche, à la demande de l'Ukraine, relèverait de la légitime défense. Cezary Tomczyk reconnaît que « l'OTAN n'y est pas du tout favorable ». En 2024, Jens Stoltenberg avait écarté l'idée, de peur que l'Alliance devienne « partie au conflit ». L'opposition PiS juge la zone d'exclusion « cosmétique »."
+          ],
+          "critique": "Une garantie « type article 5 » sans troupes ni bases repose entièrement sur la crédibilité de la parole américaine, précisément ce que l'Ukraine a appris à ne pas croire depuis le mémorandum de Budapest de 1994. Le scoop du Kyiv Independent repose sur des sources anonymes et peut servir de ballon d'essai dans la négociation. Côté polonais, la zone d'exclusion répond à une pression intérieure réelle, mais l'interception au-dessus de l'Ukraine exigerait une décision unanime de l'OTAN qui n'existe pas.",
+          "sources": [
+            {
+              "label": "Kyiv Independent, les États-Unis excluent troupes et bases",
+              "url": "https://kyivindependent.com/exclusive-us-rules-out-troops-military-bases-in-ukraine-under-post-war-security-guarantees-falling-short-of-kyivs-expectations/"
+            },
+            {
+              "label": "Notes from Poland, la zone d'exclusion aérienne",
+              "url": "https://notesfrompoland.com/2026/11/25/poland-plans-no-fly-zone-on-eastern-border-to-aid-downing-of-russian-missiles/"
+            },
+            {
+              "label": "Kyiv Independent, la Pologne demande à l'OTAN d'intercepter",
+              "url": "https://kyivindependent.com/poland-plans-no-fly-zone-near-ukraine-border-asks-nato-to-intercept-russian-missiles-over-ukraine/"
+            }
+          ]
+        },
+        {
+          "kicker": "Golfe · Énergie",
+          "title": "Mines à Ormuz, drones sur Ras Tanura : le Golfe s'embrase par les deux rives",
+          "minutes": 2,
+          "chapo": "L'Iran revendique deux nouveaux pétroliers touchés par des mines et met des remorqueurs sur liste noire. Les Houthis visent la plus grande raffinerie saoudienne, Riyad frappe le port de Hodeïda.",
+          "body": [
+            "Selon un communiqué de la marine des Gardiens de la révolution relayé par l'agence IRNA, deux pétroliers ont explosé mercredi matin sur des mines navales en empruntant des routes non autorisées par Téhéran, au sud et à l'est du détroit, avec des incendies en salle des machines. L'Iran avait déjà revendiqué trois pétroliers en feu les 23 et 24 novembre. Son centre de contrôle du trafic a mis en garde les équipages naviguant transpondeurs éteints contre les « mensonges des responsables américains ». D'après des données Bloomberg, les attaques contre les pétroliers ont atteint en octobre leur plus haut niveau depuis le début de la guerre fin février et sont quasi quotidiennes en novembre.",
+            "L'Autorité du détroit du golfe Persique (PGSA), créée par Téhéran en mai, a inscrit 266 navires sur sa liste de non-conformité et y a ajouté 26 remorqueurs. Selon le cabinet Orbital Risk Intelligence, l'objectif est de priver les navires attaqués de remorquage, de lutte contre l'incendie et de sauvetage. Le trafic n'a pourtant pas cessé : il passe souvent par la route sud, le long de la côte omanaise.",
+            "Sur l'autre rive, les Houthis ont revendiqué mercredi une frappe « précise et directe » sur Ras Tanura, la plus grande raffinerie d'Arabie saoudite (550 000 barils par jour, environ 16 % de la capacité de raffinage du royaume), dont le terminal voisin peut charger 6,5 millions de barils par jour. La coalition menée par Riyad dit avoir intercepté quatre drones, sans victime selon une première évaluation ; une photo satellite montre un large panache de fumée. La veille, une tour du King Abdullah Financial District, siège du fonds souverain PIF et plus haut immeuble de Riyad, avait été touchée pour la deuxième fois en moins d'une semaine : 11 blessés.",
+            "En représailles, la coalition a frappé le port de Hodeïda, par lequel transitent 80 % de l'aide humanitaire et 70 % des importations commerciales du Yémen, ainsi que des cibles à Saada et Amran. L'analyste Mohammad Al Basha parle d'une « guerre des ports ». La guerre civile yéménite, gelée, a repris en juillet dans le sillage du conflit irano-américain.",
+            "À New York, l'ambassadeur iranien Gholamhossein Darzi a accusé mardi au Conseil de sécurité les forces américaines et israéliennes d'avoir utilisé l'IA, citant Maven de Palantir, Claude d'Anthropic et, selon Fox News, Grok, pour analyser le renseignement, hiérarchiser les cibles et fournir des coordonnées de frappe. Il réclame des poursuites pénales individuelles et des réparations. Aucune réponse américaine, de Palantir ou d'Anthropic n'avait été publiée mercredi."
+          ],
+          "critique": "Presque tout ici est revendiqué, rarement vérifié : les « mines » iraniennes, la frappe « précise » des Houthis, l'interception « sans dégâts » saoudienne. Chaque camp a intérêt à exagérer ou minimiser. Ce qui est solide, c'est la stratégie : Téhéran ne ferme pas Ormuz, il rend le passage coûteux et sélectif, en visant les services (remorquage, sauvetage) dont dépend l'assurance. Quant à l'accusation sur l'IA, elle mêle faits documentés (l'usage de Claude par le Pentagone, rapporté par CBS et le WSJ dès mars) et chiffres invérifiables sur les cibles.",
+          "sources": [
+            {
+              "label": "OilPrice, l'Iran signale de nouvelles explosions de pétroliers",
+              "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Reports-Fresh-Tanker-Explosions-as-Hormuz-Attacks-Intensify.html"
+            },
+            {
+              "label": "Insurance Journal (Bloomberg), remorqueurs sur liste noire",
+              "url": "https://www.insurancejournal.com/news/international/2026/11/25/893726.htm"
+            },
+            {
+              "label": "The National, les Houthis visent Ras Tanura",
+              "url": "https://www.thenationalnews.com/news/gulf/2026/11/25/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery/"
+            },
+            {
+              "label": "The National, frappes sur Hodeïda",
+              "url": "https://www.thenationalnews.com/news/mena/2026/11/25/saudi-led-coalition-strikes-hodeidah-port-after-riyadh-attack/"
+            },
+            {
+              "label": "CBS News, fil en direct sur la guerre avec l'Iran",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
+            },
+            {
+              "label": "Fox News, l'Iran accuse les États-Unis d'IA militarisée",
+              "url": "https://www.foxnews.com/live-news/ai-news-iran-war-economy-china-11-25-26"
+            }
+          ]
+        },
+        {
+          "kicker": "En bref",
+          "title": "Le reste du monde",
+          "minutes": 1,
+          "chapo": "Russie à l'AIEA, laser ukrainien, armes chimiques et serveurs chinois.",
+          "body": [
+            "Nucléaire civil. L'Ukraine et l'UE condamnent la nomination d'un Russe sous sanctions, Ferapontov, au poste de directeur général adjoint de l'Agence internationale de l'énergie atomique ; le ministre ukrainien Andriï Sybiha la juge « absurde ».",
+            "Israël-Iran. Le ministre israélien de la Défense, Israel Katz, affirme que l'Iran développe des armes chimiques et évoque une frappe préventive ; Téhéran dément, et Abbas Araghchi reproche aux États-Unis d'avoir cessé de financer l'OIAC.",
+            "Nvidia. Des sociétés liées à Alice Huang ont déclaré 270 millions de dollars de serveurs d'IA servant à financer des centres de données chinois, selon des documents cités par Reuters ; Megaspeed, ajoutée à la liste noire du Commerce, dément toute faute.",
+            "Pays baltes. L'Estonie a expulsé le 24 novembre un ressortissant russe, Anton Zouïev.",
+            "Mer Noire. Le blocus des ports ukrainiens pourrait coûter 9,8 milliards de dollars à l'Ukraine en 2027, soit 4,1 % de PIB, selon une étude du cabinet CFTS.",
+            "Jeu vidéo. EA Sports recrée par IA générative la voix du commentateur de la BBC John Motson, mort en 2023, pour FC 27 ; sa veuve et son fils ont été rémunérés."
+          ],
+          "sources": [
+            {
+              "label": "Kyiv Independent, page d'accueil",
+              "url": "https://kyivindependent.com/"
+            },
+            {
+              "label": "CBS News, fil en direct",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
+            },
+            {
+              "label": "Fox News, fil IA du 25 novembre",
+              "url": "https://www.foxnews.com/live-news/ai-news-iran-war-economy-china-11-25-26"
+            }
+          ]
+        }
+      ],
+      "board": [
+        {
+          "label": "S&P 500",
+          "value": "7 183",
+          "change": -0.25
+        },
+        {
+          "label": "Nasdaq",
+          "value": "23 586",
+          "change": -0.62
+        },
+        {
+          "label": "Dow Jones",
+          "value": "50 183",
+          "change": 0.33
+        },
+        {
+          "label": "Russell 2000",
+          "value": "2 704",
+          "change": 0.71
+        },
+        {
+          "label": "CAC 40",
+          "value": "7 981",
+          "change": -0.75
+        },
+        {
+          "label": "Nvidia",
+          "value": "149,30 $",
+          "change": -3.9
+        },
+        {
+          "label": "Oracle",
+          "value": "103,88 $",
+          "change": -5.1
+        },
+        {
+          "label": "Anthropic (ANT)",
+          "value": "82,79 $",
+          "change": 1.1
+        },
+        {
+          "label": "Pétrole NY (baril)",
+          "value": "83,68 $",
+          "change": 2.0
+        },
+        {
+          "label": "Or (once)",
+          "value": "≈3 572 $",
+          "change": 0.29
+        },
+        {
+          "label": "Bitcoin",
+          "value": "≈60 030 $",
+          "change": 0.2
+        }
+      ],
+      "boardNote": "Clôtures du mercredi 25 novembre (GSM Global News, Motley Fool, Idéal Investisseur pour le CAC 40). Bitcoin : cotation indicative d'un widget non horodaté. Taux à 10 ans américain : 4,85 % (GSM) à 4,91 % (Motley Fool). Brent et VIX non confirmés à la clôture. Wall Street fermée jeudi 26 (Thanksgiving), demi-séance vendredi.",
+      "estimate": {
+        "question": "De combien de points le Dow Jones est-il tombé au plus bas de la séance de mercredi, avant de finir en hausse ?",
+        "min": 0,
+        "max": 3000,
+        "step": 50,
+        "unit": "points",
+        "answer": 1100,
+        "explain": "Plus de 1 100 points, avant de clôturer à 50 182,95 points (+164,25). Le Nasdaq a perdu jusqu'à 4,6 % en séance."
+      },
+      "flashcards": [
+        {
+          "front": "PCE d'octobre 2026",
+          "back": "Inflation de 3,8 % sur un an (3,6 % en septembre) ; 3,3 % hors alimentation et énergie."
+        },
+        {
+          "front": "PIB américain T3 2026",
+          "back": "Révisé à 4,3 % en rythme annualisé (contre 3,4 %), la croissance la plus forte depuis trois ans."
+        },
+        {
+          "front": "Marché baissier",
+          "back": "Baisse d'au moins 20 % depuis un sommet ; le Nasdaq 100 l'a touché en séance le 25/11/2026."
+        },
+        {
+          "front": "Syzran et Kouïbychev",
+          "back": "Raffineries Rosneft de la région de Samara (8,5-8,9 et 7 Mt/an), frappées par des drones ukrainiens le 25/11/2026."
+        },
+        {
+          "front": "Cezary Tomczyk",
+          "back": "Vice-ministre polonais de la Défense : propose une zone d'exclusion aérienne à la frontière orientale."
+        },
+        {
+          "front": "Ras Tanura",
+          "back": "Plus grande raffinerie saoudienne (550 000 b/j) ; terminal capable de charger 6,5 Mb/j ; visée par les Houthis le 25/11."
+        },
+        {
+          "front": "PGSA",
+          "back": "Autorité iranienne du détroit du golfe Persique, créée en mai 2026 : 266 navires et 26 remorqueurs sur liste noire."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "Quelle mesure d'inflation la Fed privilégie-t-elle ?",
+          "choices": [
+            "L'IPC",
+            "Le PCE",
+            "L'indice des prix à la production",
+            "Le déflateur du PIB"
+          ],
+          "answer": 1,
+          "explain": "Le PCE, à 3,8 % en octobre, contre 3,6 % en septembre."
+        },
+        {
+          "q": "Quelle entreprise a bondi de 11,49 % mercredi ?",
+          "choices": [
+            "Dell",
+            "HP",
+            "Oracle",
+            "Nutanix"
+          ],
+          "answer": 1,
+          "explain": "HP, après des résultats annuels en hausse de 9,5 %. Oracle a perdu 5,1 % et Nutanix 15,19 %."
+        },
+        {
+          "q": "Quels avions l'Ukraine dit-elle avoir touchés dans la région de Nijni Novgorod ?",
+          "choices": [
+            "Des Tu-95",
+            "Des MiG-31 et Su-34",
+            "Des A-50",
+            "Des Il-76"
+          ],
+          "answer": 1,
+          "explain": "Trois MiG-31 et deux Su-34, selon les premiers éléments de l'état-major ukrainien."
+        },
+        {
+          "q": "Que veut faciliter la zone d'exclusion aérienne polonaise ?",
+          "choices": [
+            "Les vols commerciaux",
+            "Les tirs sans identification visuelle",
+            "Le survol de l'Ukraine",
+            "Les exercices de l'OTAN"
+          ],
+          "answer": 1,
+          "explain": "Les pilotes pourraient tirer sur la base des radars, de l'altitude et de la vitesse, sans voir l'appareil."
+        },
+        {
+          "q": "Quelle part de l'aide humanitaire yéménite passe par Hodeïda ?",
+          "choices": [
+            "20 %",
+            "50 %",
+            "80 %",
+            "100 %"
+          ],
+          "answer": 2,
+          "explain": "80 % de l'aide humanitaire et 70 % des importations commerciales, selon The National."
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "minutes": 10,
+      "lede": [
+        "Le Sénat reconduit pour une troisième année la surtaxe sur les grandes entreprises, ramenée de 7 à 5 milliards d'euros. La droite dénonce une « exception » devenue « règle », la gauche une reconduction « au rabais ».",
+        "Candidat à l'Élysée, David Lisnard est réélu à la tête de l'Association des maires de France avec 72 % des voix, dix points de mieux qu'en 2021. Son double rôle continue de faire débat.",
+        "Universités et lycées défilent ce jeudi de Bastille au Panthéon contre Parcoursup et le manque de places, pendant que des policiers se rassemblent devant les commissariats. À l'Assemblée, une résolution contre les « robots tueurs » est adoptée devant un hémicycle presque vide."
+      ],
+      "articles": [
+        {
+          "kicker": "Parlement · Budget 2027",
+          "title": "La surtaxe « exceptionnelle » des grandes entreprises entre dans sa troisième année",
+          "minutes": 3,
+          "chapo": "Mercredi soir, la majorité sénatoriale de droite et du centre a voté sans la modifier la contribution exceptionnelle sur les bénéfices des grands groupes. Son rendement attendu baisse de 2 milliards d'euros.",
+          "body": [
+            "Créée par le gouvernement Barnier pour le budget 2025, la surtaxe d'impôt sur les sociétés vise les entreprises dont le chiffre d'affaires dépasse 1,5 milliard d'euros. Le projet de loi de finances pour 2027 la reconduit pour la troisième année consécutive, mais allégée : son rendement attendu passe de 7 milliards d'euros en 2026 à 5 milliards en 2027. Le Sénat l'a adoptée dans la soirée du 25 novembre, dans la version du gouvernement.",
+            "Le ministre de l'Économie, Roland Lescure, a défendu un dispositif qui ne touche pas « 99 % des entreprises françaises » et dont la baisse « vise à réduire la douloureuse ». « On est dans une situation d'exception, qui demande à tous les acteurs de faire des efforts », a-t-il plaidé, en prévenant que « le débat va continuer » et s'exprimera « de manière assez forte dans l'élection à venir ».",
+            "Le paradoxe est que les opposants les plus vifs siègent dans la majorité sénatoriale elle-même. « C'est une contribution exceptionnelle qui devient permanente », a lancé le centriste Vincent Capo-Canellas. « Une fois, ça va. Trois fois, bonjour les dégâts », a résumé Olivier Cadic. Emmanuel Capus (Horizons) a rappelé que le taux légal d'imposition des bénéfices peut atteindre 36,1 %, un « record du monde » selon lui. Pour l'UDR, Gaëlle Frontoni a constaté que « l'exception devient donc une règle ». La rapporteure générale LR, Christine Lavarde, a tranché pour le maintien : « Il faut que tout le monde fasse un effort, sinon, on n'y arrivera jamais », renvoyant une suppression à plus tard, une fois les dépenses réduites.",
+            "À gauche, on voulait au contraire retrouver le barème initial ou pérenniser la taxe. Le socialiste Simon Uzenat a dénoncé « une reconduction au rabais, avec une division par deux de l'effort demandé ». L'écologiste Grégory Blanc juge que l'assiette « favorise les entreprises qui ont délocalisé », puisqu'elle porte sur les bénéfices déclarés en France.",
+            "Le reste de la semaine budgétaire a été tout aussi heurté. Après avoir voté le 23 novembre la fiscalisation intégrale des indemnités journalières des affections de longue durée, le groupe LR a annoncé le 25 qu'il demanderait une seconde délibération pour revenir sur ce vote. Le Sénat avait plafonné à 1 000 euros l'abattement de 10 % des retraités et supprimé la réduction d'impôt pour frais de scolarité. Sur les collectivités, le gouvernement demande un effort de 5,5 milliards d'euros : Yannick Jadot l'accuse de « massacrer » le bloc communal, Patrick Kanner dénonce « l'extrême ponction », et Sébastien Lecornu rappelle les baisses de dotations du quinquennat Hollande.",
+            "En toile de fond, le budget de fin de gestion pour 2026, adopté au Sénat le 19 novembre par 228 voix contre 109 après un rejet à l'Assemblée, acte un déficit public de 5,4 % du PIB cette année, contre 5 % visés. Les crédits supplémentaires couvrent la sécheresse, la guerre au Moyen-Orient, les aides aux transporteurs et aux pêcheurs face à la crise énergétique."
+          ],
+          "critique": "Le mot « exceptionnelle » ne décrit plus rien : une taxe reconduite trois fois devient une recette structurelle, et les entreprises la provisionnent comme telle. L'allègement de 2 milliards est présenté comme un geste pour la compétitivité, mais il intervient l'année où le déficit dérape à 5,4 %. Les 36,1 % de taux « record du monde » cités par Horizons sont un taux légal maximal ; le taux effectivement payé par les grands groupes, après crédits d'impôt et optimisation, est souvent bien plus bas, et aucun des intervenants ne l'a chiffré.",
+          "sources": [
+            {
+              "label": "Public Sénat, le Sénat reconduit la surtaxe sur les grandes entreprises",
+              "url": "https://www.publicsenat.fr/actualites/politique/budget-le-senat-reconduit-la-surtaxe-sur-les-grandes-entreprises-allegee-de-2-milliards-deuros"
+            },
+            {
+              "label": "Public Sénat, toute l'actualité",
+              "url": "https://www.publicsenat.fr/actualites"
+            },
+            {
+              "label": "Public Sénat, le budget de fin de gestion 2026 adopté",
+              "url": "https://www.publicsenat.fr/actualites/politique/budget-de-fin-de-gestion-pour-2026-le-senat-adopte-le-texte-qui-prevoit-des-credits-pour-les-agriculteurs-ou-pour-pallier-les-consequences-de-la-crise-au-moyen-orient"
+            }
+          ]
+        },
+        {
+          "kicker": "Collectivités · Présidentielle",
+          "title": "Lisnard réélu à l'AMF, un tremplin plutôt qu'un « plan B »",
+          "minutes": 2,
+          "chapo": "Le maire de Cannes, candidat déclaré à l'Élysée, remporte son troisième mandat à la tête de l'Association des maires de France avec 72,06 % des suffrages face à Philippe Laurent.",
+          "body": [
+            "Le résultat a été annoncé mercredi 25 novembre au Congrès des maires, à Paris : 9 505 voix pour David Lisnard (72,06 %), 3 686 pour Philippe Laurent, maire UDI de Sceaux (27,94 %). Environ 14 000 maires ont voté, soit 40 % des quelque 34 000 maires, la deuxième participation la plus forte de l'histoire de l'association. En 2021, le même duel avait donné 62 % contre 38 %. La liste unique et « transpartisane » menée avec le socialiste Jean-François Debat, maire de Bourg-en-Bresse, obtient plus de 86 % pour le bureau ; Jean-François Debat succède à André Laignel comme premier vice-président délégué.",
+            "Philippe Laurent avait fait campagne sur un slogan : « L'AMF n'est pas un plan B », promettant d'être « un président à 100 % ». David Lisnard voit dans sa victoire « la défaite des intrigues et des ingérences » et « la victoire d'une volonté de faire gagner les libertés locales ». À ceux qui lui demandent de démissionner, il oppose : « Est-ce que vous demandez à Raphaël Glucksmann de démissionner de son mandat de député européen ? » Il prévoit, si sa candidature est confirmée en février, « une forme de déport » et une « direction collégiale ».",
+            "Sur le fond, l'élu en rupture avec Les Républicains dit vouloir « apporter une autre voix » et « combattre ardemment l'extrême gauche et le RN ». Les sondages l'aident : avec Édouard Philippe, il est le seul à battre Marine Le Pen au second tour dans le baromètre Odoxa-Mascaret, et sa cote d'adhésion est passée de 16 % à 24 % en deux mois. Un sondage Toluna Harris Interactive publié le 23 novembre le place à 11 % au premier tour, devant Édouard Philippe (10 %).",
+            "Le Congrès a aussi montré la défiance des élus locaux : près d'un maire sur deux envisage de ne parrainer aucun candidat à la présidentielle de 2027, selon un reportage de Public Sénat. La résolution finale doit être lue jeudi par Jean-François Debat."
+          ],
+          "critique": "Présider l'association censée négocier avec l'État les dotations des communes tout en briguant la tête de cet État pose un conflit d'intérêts évident, que le « déport » promis pour février ne règle qu'en partie. Le score de 72 % mesure aussi le rejet de la ponction de 5,5 milliards sur les collectivités : Lisnard capte une colère des maires plus qu'une adhésion à son programme. Enfin, 40 % de participation signifie que 60 % des maires ne se sont pas exprimés.",
+          "sources": [
+            {
+              "label": "Public Sénat, David Lisnard largement réélu",
+              "url": "https://www.publicsenat.fr/actualites/politique/david-lisnard-largement-reelu-a-la-tete-de-lassociation-des-maires-de-france"
+            },
+            {
+              "label": "Banque des Territoires, David Lisnard réélu président de l'AMF",
+              "url": "https://www.banquedesterritoires.fr/congres-des-maires-david-lisnard-reelu-president-de-lamf"
+            }
+          ]
+        },
+        {
+          "kicker": "Social · Éducation",
+          "title": "Universités, lycées, policiers : un jeudi de colère publique",
+          "minutes": 2,
+          "chapo": "L'intersyndicale de l'enseignement supérieur appelle à défiler ce 26 novembre à Paris contre Parcoursup et le manque de places. Les policiers, privés du droit de grève, se rassemblent à midi devant leurs commissariats.",
+          "body": [
+            "Le cortège parisien part à 14 heures de la place de la Bastille pour rejoindre le Panthéon, par la rue de Lyon, le pont d'Austerlitz et le boulevard Saint-Michel. L'appel, lancé le 23 novembre, est signé par la FSU, l'Unsa, la CGT, SUD, FO, l'Unef, l'Union étudiante, la FSE, la Fage et Solidaires étudiants ; la Coordination nationale lycéenne se joint au mouvement. Des cortèges sont aussi prévus à Grenoble et à Bordeaux.",
+            "Les revendications sont chiffrées : 150 000 places supplémentaires à l'université, contre 20 000 annoncées par le gouvernement, l'abrogation de Parcoursup et l'abandon de Mon Master, un plan pluriannuel de recrutement et des hausses de salaires. Les syndicats estiment la perte de pouvoir d'achat des agents publics à plus de 16 % depuis 2017. Le gouvernement prévoit de faire évoluer Parcoursup dès 2027 puis de le remplacer en 2028, un calendrier jugé trop lent. Les lycées sont mobilisés depuis début octobre, avec blocages et manifestations sur le remplacement des professeurs absents, les rythmes scolaires et l'état des bâtiments.",
+            "Le ministre de l'Éducation nationale, Édouard Geffray, a annoncé mercredi devant la commission de la culture du Sénat une baisse du nombre d'élèves par classe à la rentrée prochaine, à tous les niveaux.",
+            "Côté police, quatre syndicats (Unsa police, Unité, Alternative police, Alliance) appellent les agents hors service ou en pause déjeuner à se rassembler à midi devant les commissariats. Ils réclament une hausse à 35 % de l'indemnité de sujétion spéciale de police (ISSP), la prime de risque ; Laurent Nuñez a proposé le 13 novembre 33,5 % étalés sur trois ans, jusqu'en 2029, avec une première hausse en avril 2027. Prochaines dates : manifestations contre les violences sexistes et sexuelles samedi 28 novembre, grève de la fonction publique mardi 1er décembre."
+          ],
+          "critique": "L'écart entre 150 000 et 20 000 places résume un dialogue de sourds, mais aucun des deux chiffres n'est accompagné d'un coût ni d'un calendrier vérifiable. Le gouvernement annonce des classes moins chargées sans dire avec quels postes, alors qu'il demande des économies à tous les ministères. Et la convergence des colères (étudiants, policiers, fonctionnaires) donne de la visibilité, mais aussi un prétexte pour ne répondre à aucune en particulier.",
+          "sources": [
+            {
+              "label": "Sortiraparis, la manifestation du 26 novembre",
+              "url": "https://www.sortiraparis.com/en/news/in-paris/articles/358466-student-protest-in-paris-on-november-26-what-do-we-know"
+            },
+            {
+              "label": "Public Sénat, toute l'actualité",
+              "url": "https://www.publicsenat.fr/actualites"
+            }
+          ]
+        },
+        {
+          "kicker": "Défense · Assemblée",
+          "title": "Robots tueurs : 25 députés pour, personne contre",
+          "minutes": 2,
+          "chapo": "L'Assemblée a adopté le 25 novembre une résolution européenne réclamant un traité contraignant sur les systèmes d'armes létaux autonomes, cinq jours après l'échec des négociations de Genève.",
+          "body": [
+            "Le texte, déposé le 5 mai par le socialiste Pierre Pribetich, a été adopté en lecture unique : 39 votants, 25 voix pour issues de huit groupes, aucune contre et 14 abstentions (12 députés RN et 2 UDR), selon le relevé du scrutin public cité par le cabinet Kohen Avocats. Il s'agit d'une résolution de l'article 88-4 de la Constitution : elle exprime la position de l'Assemblée mais n'oblige ni le gouvernement ni l'Union européenne.",
+            "Elle reprend la définition du groupe d'experts de la convention sur certaines armes classiques (CCAC) : des systèmes capables de « sélectionner et d'engager une cible sans intervention d'un utilisateur humain ». Elle demande un traité juridiquement contraignant, une position commune de l'UE, une initiative française au Conseil de sécurité et une clarification publique de la doctrine française.",
+            "Un amendement du rapporteur acte le contexte : la septième conférence d'examen de la convention, à Genève, s'est soldée le 20 novembre par un échec, une minorité d'États ayant bloqué l'ouverture de négociations voulue par 98 pays. Un autre amendement remplace donc la négociation dans le cadre de la convention par une conférence internationale d'États volontaires, sur le modèle des traités d'Ottawa contre les mines antipersonnel. Des amendements LFI ont ajouté une référence à l'usage documenté de drones armés autonomes en août 2026."
+          ],
+          "critique": "39 votants sur 577 : la portée politique est mince, et le vote unanime des présents masque l'absence de débat sur ce que fait réellement l'armée française. La France défend historiquement une définition très étroite des armes autonomes, ce qui lui permet de développer des systèmes à forte autonomie sans être concernée. Attention à la source : la seule page détaillant ce vote émane d'un cabinet d'avocats, qui précise lui-même que son texte est rédigé avec une IA et que le document officiel n'était pas encore publié.",
+          "sources": [
+            {
+              "label": "Kohen Avocats, la résolution sur les armes autonomes",
+              "url": "https://kohenavocats.com/robots-tueurs-armes-autonomes-resolution-assemblee-25-novembre-2026/"
+            }
+          ]
+        },
+        {
+          "kicker": "En bref",
+          "title": "Le reste de l'actualité",
+          "minutes": 1,
+          "chapo": "Bourse de Paris, Bureau Veritas et quotas sur les hybrides.",
+          "body": [
+            "Bourse. Le CAC 40 a cédé 0,75 % mercredi, à 7 980,57 points, entraîné par les semi-conducteurs et l'équipement électrique : STMicroelectronics −4,69 %, Schneider Electric −4,18 %, Legrand −3,27 %. Le DAX a perdu 1,26 %. La faible exposition de la cote parisienne à la tech a limité la casse.",
+            "Bureau Veritas. Le titre a gagné 6,60 %, à 31,80 euros, et touché un record à 33,31 euros sur des rumeurs de rachat par le fonds Advent ; le groupe a démenti à 15 heures toute discussion.",
+            "Automobile. Stellantis (+3,75 %) et Renault (+2,28 %) progressent avant l'entrée en vigueur, le 1er décembre, de quotas européens d'importation sur les véhicules hybrides.",
+            "Sanofi. L'action prend encore 4,89 %, à 98,16 euros, au lendemain de l'annonce du rachat d'Insmed pour 41 milliards de dollars.",
+            "Rémy Cointreau. Le cognaçais bondit de 13,13 % après des résultats semestriels et des objectifs 2026 relevés."
+          ],
+          "sources": [
+            {
+              "label": "Idéal Investisseur, le CAC 40 recule en clôture",
+              "url": "https://www.ideal-investisseur.fr/bourse-cryptos/le-cac-40-recule-en-cloture-plombe-par-les-semi-conducteurs-et-lelectrique-34079.html"
+            },
+            {
+              "label": "MoneyVox, les infos Bourse du 25 novembre",
+              "url": "https://www.moneyvox.fr/bourse/actualites/111425/le-nasdaq-plonge-le-cac-40-limite-la-casse-les-infos-bourse-du-mercredi-25-novembre-2026"
+            }
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Combien de places supplémentaires à l'université réclament les syndicats étudiants ?",
+        "min": 0,
+        "max": 300000,
+        "step": 5000,
+        "unit": "places",
+        "answer": 150000,
+        "explain": "150 000, contre 20 000 annoncées par le gouvernement."
+      },
+      "flashcards": [
+        {
+          "front": "Surtaxe sur les grandes entreprises",
+          "back": "Contribution sur l'IS des groupes de plus de 1,5 Md€ de chiffre d'affaires ; rendement 7 Md€ en 2026, 5 Md€ en 2027."
+        },
+        {
+          "front": "Roland Lescure",
+          "back": "Ministre de l'Économie : « 99 % des entreprises françaises ne paient pas cette surtaxe »."
+        },
+        {
+          "front": "AMF, novembre 2026",
+          "back": "David Lisnard réélu avec 72,06 % (9 505 voix) face à Philippe Laurent ; participation 40 %."
+        },
+        {
+          "front": "Jean-François Debat",
+          "back": "Maire PS de Bourg-en-Bresse, nouveau premier vice-président délégué de l'AMF, successeur d'André Laignel."
+        },
+        {
+          "front": "ISSP",
+          "back": "Indemnité de sujétion spéciale de police : les syndicats veulent 35 %, Laurent Nuñez propose 33,5 % d'ici 2029."
+        },
+        {
+          "front": "Résolution article 88-4",
+          "back": "Résolution européenne de l'Assemblée : exprime une position, sans valeur contraignante."
+        },
+        {
+          "front": "Déficit 2026",
+          "back": "5,4 % du PIB selon le budget de fin de gestion, contre 5 % visés."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "Quel gouvernement a créé la surtaxe sur les grandes entreprises ?",
+          "choices": [
+            "Attal",
+            "Barnier",
+            "Bayrou",
+            "Lecornu"
+          ],
+          "answer": 1,
+          "explain": "Le gouvernement Barnier, pour le budget 2025. Elle entre dans sa troisième année."
+        },
+        {
+          "q": "Quel score David Lisnard avait-il obtenu en 2021 face à Philippe Laurent ?",
+          "choices": [
+            "52 %",
+            "62 %",
+            "72 %",
+            "82 %"
+          ],
+          "answer": 1,
+          "explain": "62 % contre 38 % ; il fait dix points de mieux en 2026."
+        },
+        {
+          "q": "Où arrive le cortège étudiant parisien du 26 novembre ?",
+          "choices": [
+            "Place de la République",
+            "Place d'Italie",
+            "Le Panthéon",
+            "La Sorbonne"
+          ],
+          "answer": 2,
+          "explain": "Départ de Bastille à 14 heures, arrivée au Panthéon."
+        },
+        {
+          "q": "Combien de députés ont voté la résolution sur les robots tueurs ?",
+          "choices": [
+            "25 pour sur 39 votants",
+            "289 pour",
+            "Unanimité des 577",
+            "150 pour, 100 contre"
+          ],
+          "answer": 0,
+          "explain": "25 pour, 0 contre, 14 abstentions, sur 39 votants."
+        },
+        {
+          "q": "Quelle entreprise a démenti des discussions avec le fonds Advent ?",
+          "choices": [
+            "Sanofi",
+            "Bureau Veritas",
+            "Legrand",
+            "Safran"
+          ],
+          "answer": 1,
+          "explain": "Bureau Veritas, dont l'action a pris 6,60 % malgré le démenti."
+        }
+      ]
+    },
+    {
+      "id": "savoirs",
+      "name": "Savoirs",
+      "minutes": 10,
+      "lede": [
+        "Pourquoi les drones ukrainiens visent toujours les mêmes unités dans une raffinerie : du dessalage à 110 °C au craquage catalytique à 500 °C, l'anatomie d'une usine qui transforme un baril de brut en essence et en kérosène.",
+        "PCE ou indice des prix à la consommation : deux thermomètres de l'inflation qui ne pèsent pas le logement et la santé de la même façon. Et ce que l'on sait des « robots tueurs », de la Libye en 2020 aux impasses de Genève.",
+        "Euclid, télescope conçu pour cartographier la matière noire, découvre par hasard une comète. Et le 26 novembre 1922, Howard Carter entrait dans l'antichambre de Toutânkhamon."
+      ],
+      "articles": [
+        {
+          "kicker": "Énergie · Ingénierie",
+          "title": "Anatomie d'une raffinerie, ou pourquoi on frappe la colonne",
+          "minutes": 3,
+          "chapo": "Une raffinerie n'est pas un réservoir géant mais une chaîne d'opérations physiques et chimiques. Quelques équipements y sont irremplaçables, et ce sont eux que visent les drones.",
+          "body": [
+            "Le pétrole brut est un mélange de milliers d'hydrocarbures, des gaz légers aux bitumes. Raffiner, c'est d'abord séparer ces molécules selon leur température d'ébullition, puis transformer les fractions lourdes, peu demandées, en produits légers à forte valeur.",
+            "Première étape, le dessalage. Le brut est réchauffé vers 110 °C dans des échangeurs, puis lavé à l'eau douce sous un champ électrostatique pour retirer les sels qui corroderaient les installations. C'est le « ELOU » des sigles russes, comme dans l'unité ELOU-AVT-6 de Syzran : dessalage électrique, puis distillation atmosphérique et sous vide.",
+            "Deuxième étape, la distillation atmosphérique, cœur de l'usine. Le brut passe dans un four à environ 360 °C puis entre dans une colonne d'une quarantaine de plateaux (30 à 50), où la température décroît d'environ 350 °C en bas à 110 °C en haut. Chaque fraction se condense à sa hauteur : naphta (jusqu'à 150 ou 180 °C), kérosène (jusqu'à 225-250 °C), gazoles, et en bas le résidu atmosphérique, qui bout au-delà de 380 °C. Le kérosène d'aviation Jet A-1 doit rester liquide jusqu'à −47 °C.",
+            "Troisième étape, la distillation sous vide. Pour séparer le résidu sans le craquer par la chaleur, on abaisse la pression à environ 40 mm de mercure, contre 760 à l'air libre : les molécules bouillent alors à plus basse température. Le vide est produit par des éjecteurs à vapeur.",
+            "Vient ensuite la conversion. Le craquage catalytique en lit fluidisé (FCC) casse les distillats lourds en molécules plus petites à fort indice d'octane, vers 450-550 °C. Le catalyseur, d'abord une silice-alumine puis des tamis moléculaires enrichis en terres rares, se présente en grains d'environ 50 micromètres qui circulent comme un fluide entre le réacteur et un régénérateur où l'on brûle le coke déposé. Le reformage catalytique, vers 550 °C et sous moins de 10 bars, transforme le naphta en aromatiques à haut octane et produit de l'hydrogène, qui sert à son tour à l'hydrodésulfuration du gazole. L'hydrocraquage, lui, travaille entre 250 et 450 °C sous 50 à 150 bars d'hydrogène.",
+            "Les ordres de grandeur expliquent la vulnérabilité. Syzran traite 8,5 à 8,9 millions de tonnes par an, soit environ 175 000 barils par jour (une tonne de brut fait environ 7,3 barils). Ras Tanura, en Arabie saoudite, en traite 550 000. Tout le flux passe par une seule colonne de distillation atmosphérique : la toucher arrête l'usine entière, alors qu'un réservoir détruit n'enlève qu'un stock. Les colonnes, fours et réacteurs sont des équipements sur mesure, hauts de dizaines de mètres, dont les pièces sont longues à fabriquer, d'autant plus sous sanctions. C'est pourquoi les analyses de frappes ciblent les « unités » plutôt que les incendies spectaculaires des parcs de stockage."
+          ],
+          "critique": "Une raffinerie touchée n'est pas forcément détruite : si la colonne est épargnée, la production peut reprendre en quelques semaines, comme l'ont montré les frappes de septembre suivies de redémarrages. La Russie dispose aussi de capacités de raffinage supérieures à sa consommation intérieure, ce qui amortit les coups : l'effet porte d'abord sur les exportations de produits raffinés et les recettes de l'État.",
+          "sources": [
+            {
+              "label": "Wikipédia, Raffinage du pétrole",
+              "url": "https://fr.wikipedia.org/wiki/Raffinage_du_p%C3%A9trole"
+            },
+            {
+              "label": "Militarnyi, frappes sur Syzran et Kouïbychev",
+              "url": "https://militarnyi.com/en/news/ukrainian-drones-strike-syzran-and-kuibyshev-oil-refineries-in-russia-s-samara-region/"
+            },
+            {
+              "label": "The National, Ras Tanura",
+              "url": "https://www.thenationalnews.com/news/gulf/2026/11/25/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery/"
+            }
+          ]
+        },
+        {
+          "kicker": "Économie · Inflation",
+          "title": "PCE contre IPC : deux thermomètres pour une même fièvre",
+          "minutes": 2,
+          "chapo": "La Fed regarde l'indice PCE, pas l'indice des prix à la consommation que publient les journaux. La différence tient à ce que l'on compte et à la façon de pondérer.",
+          "body": [
+            "L'indice des prix des dépenses de consommation personnelle (PCE) est publié chaque mois par le Bureau of Economic Analysis, base 100 en 2017, avec des séries remontant à 1959. L'indice des prix à la consommation (IPC, ou CPI) est produit par le Bureau of Labor Statistics à partir d'enquêtes auprès des ménages. Le 17 février 2000, la Réserve fédérale a fait du PCE sa mesure principale de l'inflation.",
+            "Première différence, le périmètre. L'IPC ne compte que ce que les ménages paient de leur poche. Le PCE inclut aussi les dépenses faites pour leur compte, comme l'assurance santé payée par l'employeur ou les programmes publics Medicare et Medicaid. Résultat : la santé pèse environ 22 % du PCE contre 6 % de l'IPC, et le logement environ 27 % contre 42 %. Quand les loyers flambent, l'IPC grimpe plus vite ; quand les soins renchérissent, c'est le PCE.",
+            "Deuxième différence, la formule. L'IPC utilise une formule de Laspeyres modifiée, avec un panier fixe sur un an. Le PCE est un indice de Fisher chaîné, qui actualise les pondérations à chaque période : si le bœuf devient cher et que les ménages achètent du poulet, le PCE en tient compte immédiatement. Ce biais de substitution explique que le PCE affiche en général une inflation un peu plus faible que l'IPC, même si les deux convergent sur plusieurs années.",
+            "Le chiffre d'octobre, 3,8 % sur un an et 3,3 % hors alimentation et énergie, est donc d'autant plus préoccupant pour la Fed que son indice préféré est, par construction, le plus « doux ». Avec un objectif de 2 % et une croissance de 4,3 %, le raisonnement classique conduit à relever les taux pour freiner la demande."
+          ],
+          "critique": "L'inflation « cœur » exclut alimentation et énergie parce qu'elles sont volatiles, mais ce sont précisément les postes que les ménages ressentent le plus, surtout avec un pétrole poussé par la guerre du Golfe. Une hausse des taux ne fait rien contre un choc d'offre pétrolier : elle freine la demande, au prix de l'emploi.",
+          "sources": [
+            {
+              "label": "Wikipedia, Personal consumption expenditures price index",
+              "url": "https://en.wikipedia.org/wiki/Personal_consumption_expenditures_price_index"
+            },
+            {
+              "label": "GSM Global News, clôture du 25 novembre",
+              "url": "https://gsmglobalnews.com/article/d20261125-mktclose1.html"
+            }
+          ]
+        },
+        {
+          "kicker": "Droit · Défense",
+          "title": "Armes autonomes : dix ans de discussions, aucun traité",
+          "minutes": 2,
+          "chapo": "Ce qui distingue un drone téléguidé d'une arme autonome, pourquoi la France a longtemps défendu une définition étroite, et pourquoi Genève bloque.",
+          "body": [
+            "Il n'existe aucune définition internationale agréée. Le Pentagone (directive 3000.09) parle d'une arme qui, une fois activée, peut sélectionner et engager des cibles sans nouvelle intervention humaine. La France a défendu une définition restrictive : une arme pleinement autonome, « capable de modifier ses propres règles de fonctionnement », ce qui exclut l'essentiel des systèmes existants.",
+            "Les États parties à la convention sur certaines armes classiques de 1980 en discutent depuis 2014 et ont créé en 2016 un groupe d'experts gouvernementaux. Sa dernière session, en septembre 2026, a abouti à un consensus sur 23 points et des « éléments d'un instrument », sans en préjuger la nature. Le 22 décembre 2023, l'Assemblée générale de l'ONU avait adopté une résolution sur le sujet par 152 voix contre 4, avec 11 abstentions.",
+            "Le premier cas souvent cité remonte à 2020 : selon un rapport du groupe d'experts de l'ONU sur la Libye publié en mars 2021, un drone Kargu-2 aurait « traqué et attaqué » une cible humaine de manière autonome, peut-être une première.",
+            "Le blocage tient à la règle du consensus : à Genève, un seul État peut empêcher l'ouverture de négociations. En 2019, l'Australie, Israël, la Russie, le Royaume-Uni et les États-Unis s'opposaient à une interdiction. D'où l'idée, reprise par l'Assemblée nationale, de négocier hors de ce cadre entre États volontaires, comme pour les mines antipersonnel en 1997 ou les armes à sous-munitions en 2008."
+          ],
+          "critique": "Un traité entre volontaires engagerait surtout des pays qui n'ont pas l'intention de développer ces armes, comme l'ont montré les traités sur les mines, que ni les États-Unis, ni la Russie, ni la Chine n'ont ratifiés. Et la frontière technique est floue : l'IA d'aide au ciblage, que Téhéran reproche aux États-Unis, laisse formellement un humain dans la boucle tout en comprimant son temps de décision à quelques secondes.",
+          "sources": [
+            {
+              "label": "Wikipedia, Lethal autonomous weapon",
+              "url": "https://en.wikipedia.org/wiki/Lethal_autonomous_weapon"
+            },
+            {
+              "label": "Kohen Avocats, la résolution du 25 novembre",
+              "url": "https://kohenavocats.com/robots-tueurs-armes-autonomes-resolution-assemblee-25-novembre-2026/"
+            }
+          ]
+        },
+        {
+          "kicker": "Astronomie · Informatique",
+          "title": "Euclid cherchait la matière noire, il a trouvé une comète",
+          "minutes": 1,
+          "chapo": "Le télescope spatial de l'ESA, conçu pour photographier des milliards de galaxies, a découvert sa première comète, C/2026 S1 (Euclid).",
+          "body": [
+            "L'objet a été repéré dans des images prises du 16 au 24 septembre 2026 dans le « champ profond Nord » d'Euclid : cinq séries d'images, seize poses au total. Le Centre des planètes mineures de l'Union astronomique internationale a confirmé la découverte le 8 octobre. La comète se trouve à environ 1,3 milliard de kilomètres de la Terre, soit près de 9 fois la distance Terre-Soleil ; sa lumière met environ 72 minutes à nous parvenir, et son orbite dure des milliers d'années.",
+            "La découverte revient à Mikko Pöntinen, doctorant à l'université d'Helsinki, qui a écrit un logiciel de détection des objets en mouvement. Le défi est réel : Euclid évite volontairement le plan du Système solaire, où la poussière crée une lumière parasite, et applique une stratégie « step-and-stare », photographiant chaque zone du ciel une seule fois. Il faut donc repérer un point qui se déplace entre quelques poses prises à quelques minutes d'intervalle. Son relevé de six ans doit cartographier des galaxies jusqu'à environ 10 milliards d'années-lumière."
+          ],
+          "sources": [
+            {
+              "label": "ScienceDaily (ESA), Euclid découvre une comète",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
+            }
+          ]
+        },
+        {
+          "kicker": "Éphéméride",
+          "title": "26 novembre 1922 : « des choses merveilleuses »",
+          "minutes": 2,
+          "chapo": "Il y a 104 ans, l'archéologue Howard Carter atteignait l'antichambre de la tombe de Toutânkhamon, dans la Vallée des Rois.",
+          "body": [
+            "La découverte avait commencé le 4 novembre 1922 avec une seule marche, au sommet de l'escalier d'entrée de la tombe aujourd'hui numérotée KV62. Le 26 novembre, l'équipe menée par Howard Carter et financée par Lord Carnarvon atteignait l'antichambre, qui dépassait toutes les attentes. La formule restée célèbre, prêtée à Carter quand Carnarvon lui demanda s'il voyait quelque chose, est « Oui, des choses merveilleuses ».",
+            "Le chantier dura dix saisons de fouilles. L'inventaire compte 5 398 objets. Le cercueil le plus intérieur pèse 110,4 kg d'or massif. Lord Carnarvon mourut d'une infection en avril 1923, ce qui alimenta la légende d'une « malédiction du pharaon ». Le dégagement de la tombe fut achevé en novembre 1930, et la dernière cargaison partit pour Le Caire en février 1932.",
+            "Toutânkhamon, pharaon mineur de la XVIIIe dynastie mort jeune, doit sa célébrité à une exception : sa tombe est l'une des rares de la Vallée des Rois à avoir échappé presque intacte aux pillards.",
+            "Le 26 novembre, on fête les Delphine. Aux États-Unis, c'est ce jeudi Thanksgiving, et Wall Street est fermée."
+          ],
+          "sources": [
+            {
+              "label": "Wikipedia, KV62",
+              "url": "https://en.wikipedia.org/wiki/KV62"
+            }
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "À quelle température environ le brut est-il chauffé avant d'entrer dans la colonne de distillation atmosphérique ?",
+        "min": 0,
+        "max": 800,
+        "step": 10,
+        "unit": "°C",
+        "answer": 360,
+        "explain": "Environ 360 °C. Le bas de la colonne est vers 350 °C, le haut vers 110 °C."
+      },
+      "flashcards": [
+        {
+          "front": "ELOU-AVT",
+          "back": "Sigle russe : dessalage électrique (ELOU) puis distillation atmosphérique et sous vide (AVT)."
+        },
+        {
+          "front": "Craquage catalytique (FCC)",
+          "back": "Casse les distillats lourds en essence à fort octane vers 450-550 °C, catalyseur en grains de ~50 µm."
+        },
+        {
+          "front": "Distillation sous vide",
+          "back": "Environ 40 mm Hg (contre 760) pour séparer le résidu lourd sans le craquer thermiquement."
+        },
+        {
+          "front": "PCE vs IPC",
+          "back": "PCE : indice de Fisher chaîné, inclut santé payée par des tiers ; IPC : Laspeyres, dépenses directes des ménages."
+        },
+        {
+          "front": "Kargu-2",
+          "back": "Drone qui aurait attaqué une cible humaine de façon autonome en Libye en 2020 (rapport ONU, mars 2021)."
+        },
+        {
+          "front": "C/2026 S1 (Euclid)",
+          "back": "Première comète découverte par Euclid, confirmée le 8/10/2026, à ~1,3 Md km de la Terre."
+        },
+        {
+          "front": "KV62",
+          "back": "Tombe de Toutânkhamon : 5 398 objets, antichambre atteinte le 26/11/1922."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "Pourquoi frappe-t-on la colonne de distillation plutôt qu'un réservoir ?",
+          "choices": [
+            "Elle contient plus de pétrole",
+            "Tout le flux y passe, son arrêt stoppe l'usine",
+            "Elle est plus facile à atteindre",
+            "Elle explose plus fort"
+          ],
+          "answer": 1,
+          "explain": "Un réservoir n'est qu'un stock ; la colonne est un passage obligé et longue à remplacer."
+        },
+        {
+          "q": "Quelle part du PCE représente environ la santé ?",
+          "choices": [
+            "6 %",
+            "22 %",
+            "42 %",
+            "60 %"
+          ],
+          "answer": 1,
+          "explain": "Environ 22 %, contre 6 % dans l'IPC, car le PCE inclut l'assurance payée par l'employeur et Medicare."
+        },
+        {
+          "q": "Depuis quand la Fed privilégie-t-elle le PCE ?",
+          "choices": [
+            "1971",
+            "2000",
+            "2008",
+            "2020"
+          ],
+          "answer": 1,
+          "explain": "Depuis son rapport au Congrès du 17 février 2000."
+        },
+        {
+          "q": "Pourquoi Euclid repère-t-il difficilement les comètes ?",
+          "choices": [
+            "Il est en orbite basse",
+            "Il évite le plan du Système solaire et ne revisite pas les zones",
+            "Il ne voit que l'infrarouge lointain",
+            "Il est tourné vers le Soleil"
+          ],
+          "answer": 1,
+          "explain": "Il évite le plan de l'écliptique et photographie chaque zone une seule fois (« step-and-stare »)."
+        },
+        {
+          "q": "Combien pèse le cercueil intérieur de Toutânkhamon ?",
+          "choices": [
+            "11 kg",
+            "40 kg",
+            "110,4 kg",
+            "500 kg"
+          ],
+          "answer": 2,
+          "explain": "110,4 kg d'or massif."
+        }
+      ]
+    }
+  ]
+}

@@ -215,3 +215,18 @@ Format : date | chapitre | sujet | angle déjà traité
 2026-11-25 | savoirs | Qubits logiques, code de surface d², Willow, DeepMind 5 650→4 338 | 
 2026-11-25 | savoirs | Indice Conference Board (1985=100, 5 questions) | 
 2026-11-25 | savoirs | Éphéméride : équations d'Einstein 25/11/1915, GPS 38 µs ; catherinettes ; sœurs Mirabal | 
+2026-11-26 | monde | Marchés 25/11 : Dow 50 182,95 (+0,33 %, −1 100 pts en séance), S&P 7 182,78 (−0,25 %), Nasdaq 23 585,80 (−0,62 %, −4,6 % séance, N100 −20 %) | PCE 3,8 %/cœur 3,3 %, PIB T3 4,3 %, 189 000 inscriptions, hausse Fed 8-9/12 attendue, Oracle −5,1 %, CoreWeave 18 %, S&P watch Nvidia, rebond WSJ espionnage Huang, USTR 301 14 économies, HP +11,49 %, Ambarella −19,77 %, Nutanix, SpaceX FCC 1 million DC, Anthropic 82,79
+2026-11-26 | monde | Ukraine : raffineries Syzran (8,5-8,9 Mt) et Kouïbychev (7 Mt) 25/11, Tchernaïa Iskra, 5 avions Nijni Novgorod (MiG-31/Su-34), 9 morts 59 blessés, ZNPP diesel, laser anti-drone, Rada tribunal 293, échange 1 000 prisonniers
+2026-11-26 | monde | Garanties : US excluent troupes et bases (Kyiv Independent), Zelensky « sur papier » ; Pologne zone d'exclusion aérienne (Tomczyk, fin déc.), interception au-dessus de l'Ukraine (Sikorski), AWACS
+2026-11-26 | monde | Golfe : 2 pétroliers sur mines (CGRI), PGSA 266 navires + 26 remorqueurs, Houthis Ras Tanura (550 000 b/j), KAFD Riyad 11 blessés, Hodeïda frappée ; Darzi ONU accuse IA (Maven, Claude, Grok)
+2026-11-26 | monde | Brefs | Ferapontov AIEA, Katz armes chimiques, Alice Huang 270 M$, Estonie Zouïev, blocus 9,8 Md$, EA Motson
+2026-11-26 | france | Surtaxe grandes entreprises reconduite (7 → 5 Md€, CA > 1,5 Md€) | Lescure 99 %, Capo-Canellas, Cadic, Capus 36,1 %, Lavarde, Uzenat ; ALD seconde délibération LR ; collectivités 5,5 Md€ (Jadot, Kanner) ; PLFG déficit 5,4 % (228-109)
+2026-11-26 | france | Lisnard réélu AMF 72,06 % (9 505/3 686), participation 40 %, Debat 1er VP (Laignel), déport février, Toluna 11 % vs Philippe 10 %
+2026-11-26 | france | Mobilisation 26/11 ESR (150 000 places vs 20 000, Parcoursup 2027/2028), policiers ISSP 35 % vs 33,5 % Nuñez, Geffray classes, 28/11 et 1/12
+2026-11-26 | france | Résolution robots tueurs AN 25/11 (25-0-14, 39 votants, Pribetich, CCAC échec 20/11, 98 États)
+2026-11-26 | france | Brefs | CAC 7 980,57 (−0,75 %), Bureau Veritas/Advent, quotas hybrides 1/12, Sanofi +4,89 %, Rémy Cointreau +13 %
+2026-11-26 | savoirs | Raffinerie : dessalage 110 °C, distillation 360 °C/40 plateaux, sous vide 40 mmHg, FCC 450-550 °C, reformage, HDS ; t → barils 7,3 | 
+2026-11-26 | savoirs | PCE vs IPC (Fisher chaîné vs Laspeyres, santé 22/6 %, logement 27/42 %, Fed 2000) | 
+2026-11-26 | savoirs | Armes autonomes (3000.09, définition France, CCAC 2014/GGE 2016, AG ONU 152-4-11, Kargu-2) | 
+2026-11-26 | savoirs | Euclid comète C/2026 S1 (Pöntinen, step-and-stare) | 
+2026-11-26 | savoirs | Éphéméride : antichambre Toutânkhamon 26/11/1922 (KV62, 5 398 objets) ; Delphine ; Thanksgiving | 
