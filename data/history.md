@@ -230,3 +230,19 @@ Format : date | chapitre | sujet | angle déjà traité
 2026-11-26 | savoirs | Armes autonomes (3000.09, définition France, CCAC 2014/GGE 2016, AG ONU 152-4-11, Kargu-2) | 
 2026-11-26 | savoirs | Euclid comète C/2026 S1 (Pöntinen, step-and-stare) | 
 2026-11-26 | savoirs | Éphéméride : antichambre Toutânkhamon 26/11/1922 (KV62, 5 398 objets) ; Delphine ; Thanksgiving | 
+2026-11-27 | monde | Sommet UE 26/11 : CFP Costa 1 780 Md€ (−10 %, 204 Md€, 0,80→0,82 % RNB), 7 frugaux / 17 cohésion, Macron « je ne signerai pas » (31/12, 18/04/2027, PAC, représente Sánchez), prêt Ukraine 45 Md€ (20+25, Bulgarie, SK/HU/CZ, Merz), Hernández de Cos BCE (Lagarde 7/02/2027), 361/720 | 17-18/12
+2026-11-27 | monde | Marchés 26/11 Thanksgiving : Stoxx 600 +1,75 %, DAX 25 215 (+2,08 %), FTSE, Euro Stoxx 6 019, Nikkei 57 499 ; futures S&P +0,7 %, record 7 818,93 (6/10) ; Fed hausse 97-99 %, or 3 565 (−0,63 %), argent 41,42, WTI ≈85, BTC 60 500, Freddie Mac 7,21 %, NFP 4/12 90 000
+2026-11-27 | monde | Nvidia suspend serveurs IA Malaisie/Singapour/Thaïlande/Indonésie (FT), règle BIS 16/11 12 M TPP 90 jours, neoclouds 50 %, C4ADS RiCloud/Yuxing/Topmost ; loi NY jouets IA signée, Canada fonds calcul 1 Md$
+2026-11-27 | monde | Golfe : Jazan 400 000 b/j (ouvrier népalais, al-Maliki, Hodeïda), OMS Yémen 2 361 morts ; 2 Italiens tués Koweït ; grève routiers 18 villes, rial 2,8 M ; Bessent ; Netanyahou/Gofman offensive Iran, Eisenkot contre ; Katz 1 M Gazaouis, Kushner « paria »
+2026-11-27 | monde | Ukraine : balistiques Kyiv centre commercial Desnianskyi (7 blessés), 113 drones/87, 10 morts 58 blessés, Zaporijjia 812 frappes, Azot Nevinnomyssk
+2026-11-27 | monde | Brefs | Guinée-Bissau élections → nov. 2028, Arménie gardes-frontières russes, OTAN 430 véhicules BAE, Wang Fuk Court 1 an (168), Mahmoudian arrêté, parade Macy's reportée
+2026-11-27 | france | PLFSS : CMP échoue (1 h 15, Rapin « suspension de la suspension », Bazin, Le Houérou, Aeschlimann), délai 50 j expire 27/11 minuit → ordonnances, commission 30/11, séance 7/12 ; PLF Sénat 9/12, 17/12, loi spéciale 19/12
+2026-11-27 | france | Niche LR : 6 retirés, 2 adoptés (pharmacies rurales Corneloup : 19 990 officines, 245 fermées 2025, 110 communes ; résolution Brun), Ray, Hetzel, Pauget 150 amendements, Le Fur, ZAN, RSA ; Wauquiez « humiliez », Abomangoli « sexiste »
+2026-11-27 | france | Sénat PLF : abattement taxe YouTube supprimé (66→33 %, 60 M€), Vial 13 vs 3 Md€, porno 15→20 % (Robert) ; crédit d'impôt haies ; Larcher 2,5 Md€ collectivités
+2026-11-27 | france | Bourse 26/11 : CAC 8 108,74 (+1,61 %), Stellantis +8,9 %, Renault +5,7 %, STMicro, Soitec, EssilorLuxottica seule baisse, Eutelsat −1,6 % (Deutsche Bank vendre 1,30 €), OAT 4,74 %, revue S&P 27/11
+2026-11-27 | france | Brefs | Bardella écrits 2013 (Le Monde/Mediapart), Le Maire, Lisnard retrait AMF, OM-Levski, grève Eurostar
+2026-11-27 | savoirs | Migration API Anthropic Python → Rust (1 800×, −70 % CPU, −80 % mémoire, TTFT −20 %, shadowing, 700 tests 98 % vs 24 %, 2^20 = 12 jours) | 
+2026-11-27 | savoirs | Ordonnances budgétaires art. 47/47-1 (40/20/70, 20/15/50, jamais utilisées, douzièmes provisoires) | 
+2026-11-27 | savoirs | Budget UE ordres de grandeur (CFP 1 074,3 + 750, 1 % RNB, PAC 31 %, unanimité) ; présidence BCE 8 ans, 4 présidents | 
+2026-11-27 | savoirs | Shenzhou-24 : Muhammad Zeeshan Ali 1er étranger, Tang Hongbo 3e visite, Zhu Yangshu 1 an | 
+2026-11-27 | savoirs | Éphéméride : Clermont 27/11/1095 (300 clercs, Foulcher, Deus vult Robert le Moine) ; testament Nobel 27/11/1895 (94 %, 31 M SEK) ; Séverin | 
