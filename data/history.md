@@ -246,3 +246,18 @@ Format : date | chapitre | sujet | angle déjà traité
 2026-11-27 | savoirs | Budget UE ordres de grandeur (CFP 1 074,3 + 750, 1 % RNB, PAC 31 %, unanimité) ; présidence BCE 8 ans, 4 présidents | 
 2026-11-27 | savoirs | Shenzhou-24 : Muhammad Zeeshan Ali 1er étranger, Tang Hongbo 3e visite, Zhu Yangshu 1 an | 
 2026-11-27 | savoirs | Éphéméride : Clermont 27/11/1095 (300 clercs, Foulcher, Deus vult Robert le Moine) ; testament Nobel 27/11/1895 (94 %, 31 M SEK) ; Séverin | 
+2026-11-28 | monde | Marchés 27/11 Black Friday : Dow 50 774,94 (+1,18 %), S&P 7 297,49 (+1,60 %), Nasdaq 24 129,50 (+2,31 %) ; semaine +5,5/+5,6/+6,7 % (Dow meilleure depuis 2002), pire novembre depuis 2008, VIX 23,81, Micron, SanDisk, Anthropic 91,88, EWZ +9,81 %, Nikkei 58 711, Stoxx 643,84, DAX 25 441, Rheinmetall-DT, 10 ans 4,89 %
+2026-11-28 | monde | Golfe : Centcom neutralise navire mer d'Oman (26/11), pétrolier sur mine Al Ghanam, Irani « reprise » de 2 pétroliers, F-16, Trump « victoire quand je le voudrai », Koweït convoque Totonji, Araghchi enquête conjointe, Turbah 11 morts, coalition 50 cibles, pacte de La Mecque Islamabad (Asif), Etihad 31/12, OPEP+ dimanche
+2026-11-28 | monde | Ukraine : opération « Piège à ours » Kharkiv (200 km², 14 localités), usine caoutchouc Efremov (Iskander, Étincelle noire), Novochakhtinsk 20 réservoirs, plans WSJ ceinture de forteresses/OTAN, Merz, Starshield zones occupées, 9 enfants Melania Trump
+2026-11-28 | monde | OpenAI contre-attaque Apple (secrets, fournisseurs, « piéger ») ; Z.AI/Moonshot calcul, neoclouds, Huawei HBM, Moody's Nvidia stable, Tesla UE 15/12
+2026-11-28 | monde | Brefs | Vertex povetacicept 28/02/2027, Alvotech AVT05, Altria/Imperial Brands, Ero Copper Tucumã
+2026-11-28 | france | Récession technique : PIB T3 −0,2 % (révisé de −0,1), T2 léger recul, niveaux 665,7→662,6 Md€, exportations −1,6 %, investissement −0,9 %, conso +0,3 %, acquis 0,1 %, 1,4 % nécessaire (Leclair)
+2026-11-28 | france | S&P A+ perspective négative (27/11 soir), déficit 5,3 % 2027, Fitch A+/Moody's Aa3 négatives, Lescure, Amiel « paradoxe »
+2026-11-28 | france | Sénat : épargne en déshérence 35 % au lieu de 17 % (Lavarde, 2,9 Md€), fin 9/12, ordonnances après 17/12
+2026-11-28 | france | Le Pen contre « l'impunité » des journalistes (recel secret instruction 5 ans/375 000 €), Moutouh remplacé, Bardella « Staline », RSF Bruttin
+2026-11-28 | france | Bourse 27/11 : CAC 8 156,09 (+0,58 %, semaine +2,88 %), Thales-Lumibird 30,10 € (51,6 %, Le Flohic, prime 22,6 %, IPG 300 M€), Exosens 6 000 tubes Rheinmetall +6,37 %, STMicro, Soitec, Elior, Rémy, Air France
+2026-11-28 | savoirs | Notation souveraine (échelle, perspective vs CreditWatch, BCE, NBER, récession technique) | 
+2026-11-28 | savoirs | Propergol composite (AP 70/Al 15/liant 15, butalane 68/20/12 Vega, PBHT, r = aPⁿ, Isp 180-260 s) | 
+2026-11-28 | savoirs | Tubes intensificateurs (photocathode, galette de microcanaux, générations 0-3, GaAs) ; lasers Lumibird | 
+2026-11-28 | savoirs | Virus HK97 / encapsulines (Aguilar, Luque, Nature Communications, IMG/M, AlphaFold) | 
+2026-11-28 | savoirs | Éphéméride : Magellan entre dans le Pacifique 28/11/1520 (38 jours, 3 navires, 99 jours, Guam, Mactan, Elcano 1522) ; Jacques de la Marche | 

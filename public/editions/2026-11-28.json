@@ -1,0 +1,756 @@
+{
+  "date": "2026-11-28",
+  "weekday": "samedi",
+  "saint": "Jacques de la Marche",
+  "headline": "La France entre officiellement en récession et passe sous surveillance négative chez S&P, Wall Street signe sa meilleure semaine depuis des années, et l'Iran défie le blocus américain à Ormuz.",
+  "chapters": [
+    {
+      "id": "monde",
+      "name": "Monde",
+      "minutes": 10,
+      "lede": [
+        "Wall Street a clos vendredi, en demi-séance de Black Friday, sa meilleure semaine depuis des années : +5,6 % pour le S&P 500, +6,7 % pour le Nasdaq, +5,5 % pour le Dow Jones, du jamais-vu depuis 2002 pour ce dernier. Le rebond n'efface pas un mois de novembre parmi les pires depuis 2008, ni la perspective d'une hausse des taux de la Fed en décembre.",
+        "Dans le Golfe, l'Iran promet de briser le blocus américain de ses ports : un navire commercial a été mis hors d'état par l'armée américaine en mer d'Oman, un pétrolier a sauté sur une mine près d'Ormuz, et Donald Trump affirme tenir « la victoire » quand il le voudra.",
+        "En Ukraine, Kyiv revendique 200 km² repris dans la région de Kharkiv et une frappe sur une usine russe fabriquant un composant du carburant des missiles Iskander. Côté technologie, OpenAI contre-attaque Apple en justice pour vol de secrets industriels."
+      ],
+      "articles": [
+        {
+          "kicker": "Marchés · Wall Street",
+          "title": "Black Friday : la semaine du grand rebond, le mois du grand trou d'air",
+          "minutes": 3,
+          "chapo": "En quatre séances et demie, les indices américains ont regagné plus de 5 %. C'est la réponse mécanique à trois semaines de chute, et non la fin des inquiétudes : la Fed s'apprête à monter ses taux et la volatilité reste élevée.",
+          "body": [
+            "Vendredi 27 novembre, Wall Street fermait à 13 heures, heure de New York, comme chaque lendemain de Thanksgiving. En trois heures et demie de cotation, le Dow Jones a gagné 591,99 points (+1,18 %) à 50 774,94, sa quatrième hausse d'affilée. Le S&P 500 a pris 1,60 % à 7 297,49 et le Nasdaq Composite 2,31 % à 24 129,50. Le Nasdaq 100, l'indice des grandes valeurs technologiques, a bondi de 2,61 %. L'indice de volatilité VIX, le « baromètre de la peur », a reculé de 11,16 % à 23,81.",
+            "Sur la semaine, le bilan est spectaculaire : +5,5 % pour le Dow, sa meilleure semaine depuis octobre 2002 ; +5,6 % pour le S&P 500, du jamais-vu depuis avril 2025 ; +6,7 % pour le Nasdaq. Il faut toutefois rappeler d'où l'on vient. La semaine précédente, les trois indices avaient perdu entre 8 et 10 %, et le Nasdaq 100 avait frôlé une baisse de 20 % depuis son sommet d'octobre, seuil conventionnel d'un « marché baissier ». Les trois grands indices sont entrés en correction (−10 %) ce mois-ci, et le S&P 500 comme le Nasdaq restent en route pour leur pire mois de novembre depuis 2008.",
+            "Les semi-conducteurs ont mené la danse. Micron a gagné 7,60 % à 646,95 dollars, SanDisk 15,96 %, AMD 4,56 % et Broadcom 3,82 %. Nvidia, au cœur de la tempête depuis le départ puis le retour de Jensen Huang, n'a progressé que de 0,80 % à 150,49 dollars, 8,8 % sous sa clôture de lundi. Anthropic, entrée en Bourse le 19 novembre à 83 dollars et tombée sous ce prix mercredi (82,79), a rebondi de 10,98 % à 91,88 dollars. Tesla (+5,22 %), Palantir (+5,24 %) et Amazon (près de +4 %), porté par l'ouverture de la saison des achats, complètent le tableau.",
+            "La séance a aussi été celle du Brésil : le fonds indiciel EWZ, qui réplique la Bourse de São Paulo, a bondi de 9,81 % après des annonces concernant le ministre des Finances brésilien ; Bradesco a gagné 15,23 % et XP 18,07 %. En Asie, CNBC rapporte la plus forte hausse journalière jamais enregistrée par les valeurs chinoises des puces, après un rare compte rendu officiel d'une réunion gouvernementale. À Tokyo, le Nikkei a gagné 2,11 % à 58 711.",
+            "Le contexte macroéconomique n'a pourtant rien de rassurant. Avec un PIB du troisième trimestre révisé en hausse et une inflation qui accélère en octobre, l'hypothèse d'une hausse des taux de la Réserve fédérale lors de sa réunion des 8 et 9 décembre est devenue dominante. Le rendement du Trésor américain à dix ans évoluait vers 4,89 % en séance, celui à trente ans vers 5,29 %. Le prochain rendez-vous statistique est l'enquête JOLTS sur les offres d'emploi, mardi 1er décembre.",
+            "En Europe, le Stoxx 600 a gagné 1,08 % à 643,84, le DAX 0,90 % à 25 441, le FTSE 100 0,84 % à 10 699 et l'italien FTSE MIB 1,89 %. Rheinmetall a pris près de 5 % sur un projet de partenariat dans l'IA avec Deutsche Telekom, sans montant ni calendrier. Les rendements européens ont monté après la publication du compte rendu de la réunion d'octobre de la BCE, jugé restrictif."
+          ],
+          "critique": "Une demi-séance de Black Friday est l'une des plus creuses de l'année : 680 millions d'actions échangées à la Bourse de New York, moitié moins que la veille. Un mouvement de 1,6 % dans un marché aussi mince dit peu de la conviction des investisseurs. Par ailleurs, un rebond de 5 % après une chute de 10 % ne ramène pas au point de départ : il faut regagner 11 % pour effacer une baisse de 10 %. Enfin, les chiffres de clôture proviennent d'agrégateurs financiers en ligne et non des communiqués des Bourses ; ils sont cohérents entre eux, mais restent à confirmer.",
+          "sources": [
+            {
+              "label": "BigGo Finance, Dow +591 points, Nasdaq +6,7 % sur la semaine",
+              "url": "https://finance.biggo.com/news/94218d89-8592-4b2f-a61c-1e75d032506d"
+            },
+            {
+              "label": "StockTitan, Stocks close higher in a short Black Friday session",
+              "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-27-2026"
+            },
+            {
+              "label": "Eurasia Business News, Tech rebounds in shortened Black Friday session",
+              "url": "https://eurasiabusinessnews.com/2026/11/27/u-s-stock-market-today-november-27-2026-tech-rebounds-in-shortened-black-friday-session/"
+            },
+            {
+              "label": "Chip Dispatch, Stoxx 600 +1,08 %",
+              "url": "https://chipdispatch.com/articles/stoxx-600-adds-1-08-as-asml-infineon-and-miners-extend-rally"
+            }
+          ]
+        },
+        {
+          "kicker": "Golfe · Iran",
+          "title": "Ormuz : l'Iran défie le blocus, Washington tire, Trump promet « la victoire »",
+          "minutes": 3,
+          "chapo": "Deux cent soixante-deux jours après le début de la guerre, le blocus naval américain des ports iraniens devient le principal point de friction. Téhéran envoie ses pétroliers, l'armée américaine neutralise un navire, et les mines continuent de frapper le détroit.",
+          "body": [
+            "Le commandement central américain (Centcom) a annoncé avoir frappé et mis hors d'état, le 26 novembre en mer d'Oman, un navire commercial parti d'un port iranien qui tentait de franchir le blocus « malgré des avertissements répétés ». Selon Gulf News, l'Iran aurait envoyé des dizaines de pétroliers vers la ligne de blocus. Vendredi matin, la presse iranienne rapportait que Téhéran promettait de « briser » ce blocus, et le chef d'état-major des forces armées, Ali Abdollahi, annonçait une réponse « décisive, efficace et ferme ».",
+            "Dans le détroit d'Ormuz lui-même, la marine des Gardiens de la révolution affirme qu'un pétrolier « en infraction » a heurté des mines au nord de l'île d'Al Ghanam et pris feu, et qu'un second a fait demi-tour. Le commandant de la marine régulière, le contre-amiral Shahram Irani, a par ailleurs assuré que des commandos iraniens avaient repris deux pétroliers saisis par les États-Unis, sans en apporter la preuve ; le Centcom n'a pas commenté, et CBS note que Washington n'a annoncé aucune saisie liée à l'Iran depuis avril. Téhéran dit aussi avoir tiré des coups de semonce pour éloigner un F-16 américain.",
+            "Donald Trump, qui s'adressait aux troupes depuis Mar-a-Lago pour Thanksgiving, a affiché sa confiance : « Nous avons la victoire à portée de main, et elle arrivera quand je le voudrai. » Il dit laisser à l'Iran « toutes les chances » de conclure un accord, tout en doutant que Téhéran les saisisse, et maintient un délai jusqu'au Nouvel An. Il a minimisé le partage de renseignement de la Russie et de la Chine avec l'Iran.",
+            "L'attaque de drone qui a tué deux Italiens au Koweït continue de produire ses effets. Les deux victimes étaient des employés de Rheinmetall travaillant sur un système de défense aérienne. Le Koweït a convoqué l'ambassadeur iranien, Mohammad Totonji, et lui a remis une note de protestation. Le ministre iranien des Affaires étrangères, Abbas Araghchi, nie toute implication, évoque une possible « recette préparée pour la guerre » et propose une enquête conjointe avec le Koweït et l'Italie.",
+            "Sur le front yéménite, le ministère de la Santé tenu par les Houthis affirme qu'une frappe aérienne attribuée à l'Arabie saoudite a touché un cinéma à Turbah, dans la province de Taëz, tuant au moins onze personnes, dont des enfants ; l'agence AP n'a pas pu vérifier ce bilan. La coalition saoudienne revendique la destruction de 50 cibles à Sanaa, Hodeïda et Saada. Vendredi, à Islamabad, les délégations pakistanaise, turque et saoudienne de l'accord de défense dit de La Mecque, signé en août, se sont réunies : « Toute menace contre l'Arabie saoudite est une menace contre le Pakistan et la Turquie », a déclaré à l'AFP le ministre pakistanais de la Défense, Khawaja Asif.",
+            "Côté énergie, le Brent était en route pour rompre trois semaines de baisse. Les compagnies aériennes prolongent leurs annulations : Etihad ne desservira pas Riyad et Dammam avant le 31 décembre. L'OPEP+ doit se réunir dimanche et, selon Reuters, devrait maintenir ses objectifs de production au moins jusqu'au premier trimestre 2027."
+          ],
+          "critique": "Presque tout ce qui se passe en mer est invérifiable de façon indépendante : chaque camp communique ses succès et tait ses pertes. Les Gardiens de la révolution qualifient d'« en infraction » un navire civil frappé par leurs propres mines, et l'affirmation d'une reprise de pétroliers n'est étayée par rien. À l'inverse, Washington ne détaille ni l'état du navire neutralisé ni le sort de son équipage. Quant au « quand je le voudrai » de Donald Trump, il sert autant la négociation que l'opinion américaine : 262 jours de guerre et un coût évalué par le Pentagone à plus de 48 milliards de dollars rendent nécessaire un récit de victoire.",
+          "sources": [
+            {
+              "label": "CBS News, Iran war updates (27/11)",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
+            },
+            {
+              "label": "Gulf News, Trump signals victory as Iran offers Kuwait drone probe",
+              "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639"
+            },
+            {
+              "label": "AP via News4JAX, Houthis report 11 killed in an airstrike",
+              "url": "https://www.news4jax.com/news/world/2026/11/27/houthis-report-11-killed-including-children-in-an-airstrike-and-other-mideast-news/"
+            },
+            {
+              "label": "Khaleej Times, live du 27 novembre",
+              "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-27-2026"
+            },
+            {
+              "label": "Eurasia Business News (pétrole, OPEP+)",
+              "url": "https://eurasiabusinessnews.com/2026/11/27/u-s-stock-market-today-november-27-2026-tech-rebounds-in-shortened-black-friday-session/"
+            }
+          ]
+        },
+        {
+          "kicker": "Ukraine · Front",
+          "title": "« Piège à ours » à Kharkiv, et une usine d'Iskander dans le viseur",
+          "minutes": 2,
+          "chapo": "Kyiv met en avant une contre-offensive locale au nord-est et une frappe sur l'industrie des missiles russes, au moment où Washington pousse des plans de paix fondés sur des concessions territoriales.",
+          "body": [
+            "Lancée le 20 novembre dans le nord de la région de Kharkiv, l'opération « Piège à ours », la quatrième de l'année, aurait permis de libérer 200 km² et quatorze localités, selon l'état-major ukrainien cité par Al Jazeera. Un mois plus tôt, Moscou affirmait avoir encerclé environ 2 000 soldats ukrainiens près de Velykyï Bourlouk. Kyiv dit avoir déjoué un plan russe visant à saisir près de 500 km². Les forces russes tiennent encore au moins quatre villages frontaliers, dont Vovtchansk. La manœuvre aurait combiné une attaque de diversion sur Vilkhouvatka et le minage par drones des routes de ravitaillement russes.",
+            "Dans la nuit du 26 au 27 novembre, l'état-major ukrainien a confirmé une frappe, menée avec le mouvement de résistance « Étincelle noire », sur l'usine de caoutchouc synthétique d'Efremov, dans la région de Toula. Elle produit un composant du carburant solide des missiles Iskander : « Sans lui, l'Iskander n'est qu'un morceau de métal entreposé », résume l'état-major. Les dégâts sont en cours d'évaluation. La raffinerie de Novochakhtinsk (jusqu'à 7,5 millions de tonnes par an, région de Rostov) a également été touchée : 20 réservoirs horizontaux détruits, 32 autres endommagés. Selon Al Jazeera, les frappes ukrainiennes auraient amputé d'environ un tiers la capacité de raffinage russe.",
+            "Sur le plan diplomatique, les négociateurs américains ont présenté à Kyiv deux propositions rapportées par le Wall Street Journal, toutes deux fondées sur l'échange de territoires contre la paix. L'une prévoit la cession de la « ceinture de forteresses » du Donetsk contre une adhésion pleine à l'OTAN, une piste que Volodymyr Zelensky rejette ; il juge que Washington avance « dans la même direction que ce que veut Poutine ». Le chancelier Friedrich Merz a averti le Bundestag que « la Russie veut plus que l'Ukraine ».",
+            "Deux sources militaires ukrainiennes affirment au Kyiv Independent que les limitations de vitesse imposées depuis octobre au système satellitaire américain Starshield ne s'appliquent qu'au-dessus des territoires occupés, ce qui gêne les drones d'attaque ; l'une y voit « clairement une décision politique ». Enfin, Volodymyr Zelensky a annoncé le retour de neuf enfants obtenu par la médiation de Melania Trump."
+          ],
+          "critique": "Les chiffres de pertes russes (un record de 55 629 tués et blessés en novembre selon Kyiv) et de territoires repris émanent tous de l'armée ukrainienne et ne sont pas vérifiés indépendamment. 200 km², c'est environ 0,2 % des territoires occupés : l'enjeu est moins militaire que politique, au moment où Kyiv doit prouver à Washington qu'il n'est pas contraint de céder du terrain.",
+          "sources": [
+            {
+              "label": "Al Jazeera, « Bear trap »: Ukraine hails new operation",
+              "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory"
+            },
+            {
+              "label": "Kyiv Independent, Ukraine hits missile fuel production facility in Tula Oblast",
+              "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-hits-missile-fuel-production-facility-in-russias-tula-oblast-military-says/"
+            }
+          ]
+        },
+        {
+          "kicker": "Tech · IA",
+          "title": "OpenAI contre Apple : la guerre du matériel d'IA passe au tribunal",
+          "minutes": 2,
+          "chapo": "Accusée en juillet par Apple de lui avoir volé des secrets, OpenAI renverse l'accusation. En toile de fond : la course au premier appareil grand public pensé pour l'IA.",
+          "body": [
+            "Vendredi 27 novembre, OpenAI a déposé une demande reconventionnelle devant un tribunal fédéral de Californie. Selon Reuters, l'entreprise accuse Apple de lui avoir dérobé des secrets industriels et de l'avoir empêchée d'accéder à des fournisseurs de matériel. Elle reproche aussi au fabricant de l'iPhone des pratiques d'embauche conçues pour « piéger » ses salariés et les empêcher de travailler pour des concurrents. Ni les secrets visés, ni les fournisseurs, ni les montants ne sont précisés.",
+            "L'affaire a commencé en juillet 2026, quand Apple a poursuivi OpenAI et deux de ses anciens salariés pour détournement de secrets au profit du matériel grand public d'OpenAI, l'accusant de débaucher ses ingénieurs. OpenAI, qui nie, travaillerait selon les analystes à un téléphone ou à un autre appareil. Apple, désormais dirigé par John Ternus, successeur de Tim Cook depuis le 1er septembre, n'a pas répondu à Reuters.",
+            "Le même jour, la pénurie de puissance de calcul en Chine s'est confirmée. Selon Reuters, Z.AI a pris du retard sur son prochain modèle phare, et Moonshot AI estime que l'intervalle entre ses grandes versions pourrait passer de six mois à un an ou plus sans accès au calcul étranger. Nvidia aurait averti les « neoclouds », ces loueurs de GPU, qu'ils pourraient perdre leur accès s'ils servent des entreprises chinoises. Huawei a pour sa part présenté une mémoire à haute bande passante (HBM) de nouvelle génération pour concurrencer Samsung et SK Hynix.",
+            "Moody's a ramené la perspective de Nvidia de positive à stable. Et, selon un projet d'ordre du jour de la Commission européenne vu par Reuters, l'Union pourrait voter le 15 décembre sur l'autorisation du système d'aide à la conduite de Tesla."
+          ],
+          "critique": "Les procès en secrets industriels servent souvent à freiner la mobilité des ingénieurs plus qu'à obtenir réparation : dans la Silicon Valley, où les clauses de non-concurrence sont interdites, c'est l'un des rares leviers restants. La demande d'OpenAI est d'abord une riposte procédurale ; tant qu'aucun secret précis n'est nommé, il est impossible d'en juger le fond.",
+          "sources": [
+            {
+              "label": "Al Jazeera / Reuters, OpenAI countersues Apple",
+              "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up"
+            },
+            {
+              "label": "The Neuron, ce qui s'est passé dans l'IA le 27 novembre",
+              "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/"
+            }
+          ]
+        },
+        {
+          "kicker": "En bref",
+          "title": "Ailleurs dans le monde",
+          "minutes": 1,
+          "chapo": "Santé, tabac, mines : les autres mouvements notables de la journée.",
+          "body": [
+            "Vertex Pharmaceuticals a perdu 5,24 % : la FDA a repoussé au 28 février 2027 au plus tard, au lieu du 30 novembre, sa décision sur le povetacicept contre la néphropathie à IgA.",
+            "Alvotech a chuté de 12,35 % après qu'un tribunal américain a accordé à Janssen une injonction préliminaire contre AVT05, sa copie du Simponi ; le laboratoire islandais fera appel.",
+            "Altria étudie une possible offre en numéraire sur le britannique Imperial Brands (Davidoff, Gauloises) ; son titre a reculé d'environ 2,5 % avant l'ouverture.",
+            "Ero Copper a reculé d'environ 5 % : l'agence environnementale de l'État du Pará a suspendu l'extraction et le traitement dans sa mine de Tucumã, au Brésil, après des analyses d'eau."
+          ],
+          "critique": "Brèves fondées sur un seul agrégateur boursier : les motifs sont ceux annoncés par les entreprises ou les autorités, sans vérification complémentaire.",
+          "sources": [
+            {
+              "label": "StockTitan, Stock market today, 27 novembre",
+              "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-27-2026"
+            }
+          ]
+        }
+      ],
+      "board": [
+        {
+          "label": "S&P 500",
+          "value": "7 297",
+          "change": 1.6
+        },
+        {
+          "label": "Nasdaq",
+          "value": "24 130",
+          "change": 2.31
+        },
+        {
+          "label": "Dow Jones",
+          "value": "50 775",
+          "change": 1.18
+        },
+        {
+          "label": "CAC 40",
+          "value": "8 156",
+          "change": 0.58
+        },
+        {
+          "label": "DAX",
+          "value": "25 441",
+          "change": 0.9
+        },
+        {
+          "label": "Stoxx 600",
+          "value": "644",
+          "change": 1.08
+        },
+        {
+          "label": "FTSE 100",
+          "value": "10 699",
+          "change": 0.84
+        },
+        {
+          "label": "Nikkei 225",
+          "value": "58 711",
+          "change": 2.11
+        },
+        {
+          "label": "Or (once)",
+          "value": "≈3 650 $",
+          "change": 2.4
+        },
+        {
+          "label": "Argent (once)",
+          "value": "≈43,7 $",
+          "change": 5.4
+        },
+        {
+          "label": "Pétrole Brent",
+          "value": "90-97 $",
+          "change": 0.0
+        },
+        {
+          "label": "Bitcoin",
+          "value": "≈62 000 $",
+          "change": 2.0
+        }
+      ],
+      "boardNote": "Clôtures du vendredi 27 novembre (demi-séance à New York). Sources : BigGo Finance, StockTitan, Chip Dispatch, BFM Bourse. Or, argent et bitcoin : cotations en séance (Kitco, Reuters), pas des clôtures. Pétrole : les sources divergent fortement (Brent à 96,60 $ selon Reuters en milieu de journée, 89,95 $ en baisse de 1,9 % selon BFM Bourse), d'où l'absence de variation affichée. Taux à 10 ans : États-Unis ≈4,89 %. Euro : 1,0942 dollar. VIX : 23,81.",
+      "estimate": {
+        "question": "De combien de pour cent le S&P 500 a-t-il progressé sur la semaine du 23 au 27 novembre ?",
+        "min": 0,
+        "max": 15,
+        "step": 0.1,
+        "unit": "%",
+        "answer": 5.6,
+        "explain": "+5,6 %, sa meilleure semaine depuis avril 2025. Le Dow Jones (+5,5 %) a signé sa meilleure semaine depuis octobre 2002. Mais la semaine précédente, les indices avaient perdu 8 à 10 %."
+      },
+      "flashcards": [
+        {
+          "front": "Correction / marché baissier",
+          "back": "Convention de marché : une baisse de 10 % depuis un sommet est une correction, une baisse de 20 % un marché baissier (bear market)."
+        },
+        {
+          "front": "Asymétrie des pertes",
+          "back": "Après une baisse de 10 %, il faut une hausse de 11,1 % pour revenir au point de départ ; après −50 %, il faut +100 %."
+        },
+        {
+          "front": "VIX",
+          "back": "Indice de volatilité implicite du S&P 500 à 30 jours, calculé à partir des options. Vers 12-15 : calme ; au-dessus de 30 : stress. Il est à 23,81."
+        },
+        {
+          "front": "Black Friday en Bourse",
+          "back": "Le lendemain de Thanksgiving, Wall Street ferme à 13 h (heure de New York) : séance courte, volumes faibles."
+        },
+        {
+          "front": "Demande reconventionnelle",
+          "back": "Action en justice qu'un défendeur engage contre le demandeur dans la même procédure. OpenAI l'utilise contre Apple."
+        },
+        {
+          "front": "Iskander",
+          "back": "Missile balistique russe à courte portée, propulsé par un moteur à propergol solide."
+        },
+        {
+          "front": "Accord de défense de La Mecque",
+          "back": "Pacte signé en août 2026 par l'Arabie saoudite, le Pakistan et la Turquie ; réuni le 27 novembre à Islamabad."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "Quel indice américain a signé sa meilleure semaine depuis octobre 2002 ?",
+          "choices": [
+            "Le Nasdaq",
+            "Le Dow Jones",
+            "Le S&P 500",
+            "Le Russell 2000"
+          ],
+          "answer": 1,
+          "explain": "Le Dow Jones a gagné 5,5 % sur la semaine."
+        },
+        {
+          "q": "Où l'armée américaine a-t-elle neutralisé un navire commercial qui tentait de franchir le blocus ?",
+          "choices": [
+            "En mer Rouge",
+            "Dans le golfe d'Aden",
+            "En mer d'Oman",
+            "En Méditerranée"
+          ],
+          "answer": 2,
+          "explain": "Le Centcom a annoncé l'opération le 26 novembre en mer d'Oman."
+        },
+        {
+          "q": "Que fabrique l'usine d'Efremov frappée par l'Ukraine ?",
+          "choices": [
+            "Des drones Shahed",
+            "Du caoutchouc synthétique servant au carburant solide des Iskander",
+            "Des obus d'artillerie",
+            "Du kérosène"
+          ],
+          "answer": 1,
+          "explain": "L'état-major ukrainien la présente comme productrice d'un composant du propergol des Iskander."
+        },
+        {
+          "q": "Que reproche OpenAI à Apple dans sa demande du 27 novembre ?",
+          "choices": [
+            "Un abus de position sur l'App Store",
+            "Le vol de secrets et le blocage de l'accès à des fournisseurs",
+            "Une contrefaçon de brevet sur Siri",
+            "Une rupture de contrat avec ChatGPT"
+          ],
+          "answer": 1,
+          "explain": "OpenAI accuse aussi Apple de pratiques d'embauche destinées à « piéger » ses salariés."
+        },
+        {
+          "q": "Combien de km² l'Ukraine dit-elle avoir repris avec l'opération « Piège à ours » ?",
+          "choices": [
+            "20",
+            "200",
+            "2 000",
+            "20 000"
+          ],
+          "answer": 1,
+          "explain": "200 km² et 14 localités dans le nord de la région de Kharkiv, selon l'armée ukrainienne."
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "minutes": 10,
+      "lede": [
+        "C'est désormais officiel : l'Insee a révisé ses comptes et la France est en récession technique. Le PIB a reculé de 0,2 % au troisième trimestre, après un très léger recul au deuxième, et l'acquis de croissance pour 2026 n'est plus que de 0,1 %.",
+        "Le soir même, S&P Global a maintenu la note de la France à A+, mais a abaissé sa perspective à « négative » : une dégradation devient possible si le déficit ne baisse pas nettement d'ici deux ans. Le gouvernement en appelle au compromis budgétaire.",
+        "Au Sénat, la majorité de droite double le prélèvement sur l'épargne oubliée. À la Bourse de Paris, Thales lance le rachat du spécialiste breton des lasers Lumibird. Et Marine Le Pen promet de durcir les peines contre les journalistes qui publient des informations couvertes par le secret de l'instruction."
+      ],
+      "articles": [
+        {
+          "kicker": "Économie · Conjoncture",
+          "title": "La France est entrée en récession",
+          "minutes": 3,
+          "chapo": "Deux trimestres consécutifs de baisse du PIB : c'est la définition conventionnelle de la récession technique. La révision publiée par l'Insee le 27 novembre fait basculer la France dans cette catégorie, même si l'ampleur du recul reste faible.",
+          "body": [
+            "Dans sa deuxième estimation des comptes du troisième trimestre, l'Insee a revu en baisse le chiffre du PIB : −0,2 %, contre −0,1 % en première estimation. Surtout, le deuxième trimestre, d'abord estimé en stagnation, apparaît désormais en « très léger recul ». « Cela ne change quand même pas vraiment le tableau général que nous dressons de l'économie. Mais effectivement, on peut dire qu'on a une récession », a résumé Marie Leclair, cheffe du département des comptes nationaux de l'Insee.",
+            "En niveaux, le PIB en volume est passé de 665,7 milliards d'euros au quatrième trimestre 2025 à 664,4 milliards au premier trimestre 2026, puis 664,2 milliards au deuxième et 662,6 milliards au troisième. En neuf mois, l'économie française a donc perdu environ 3,1 milliards d'euros d'activité trimestrielle, soit un recul cumulé proche de 0,5 %.",
+            "Le détail du troisième trimestre montre d'où vient le choc. Les exportations ont chuté de 1,6 %, après une hausse de 2,9 % au trimestre précédent. L'investissement a reculé de 0,9 %, après −0,5 %. Seule la consommation des ménages résiste, en hausse de 0,3 % après +0,2 %. Au total, la demande intérieure hors stocks a été stable et n'a contribué en rien à la croissance.",
+            "Pour l'ensemble de 2026, l'acquis de croissance, c'est-à-dire la croissance annuelle obtenue si le PIB restait stable au quatrième trimestre, n'est plus que de 0,1 %. Pour atteindre l'objectif gouvernemental de 0,5 %, il faudrait, selon Marie Leclair, « 1,4 % de croissance au cours du dernier trimestre », un rythme que la France n'a pas connu hors rebond post-crise depuis des décennies. Les prévisions officielles (gouvernement 0,5 %, Insee 0,4 %, Banque de France « autour de 0,3 % », Commission européenne et FMI 0,4 %) sont donc toutes devenues caduques ou presque.",
+            "Le contexte international pèse : la guerre entre les États-Unis et l'Iran renchérit l'énergie, les nouveaux droits de douane américains ravivent les craintes commerciales, et l'incertitude politique, à cinq mois de la présidentielle et sans budget adopté pour 2027, décourage l'investissement des entreprises."
+          ],
+          "critique": "La « récession technique » est une convention, pas une mesure de gravité : un recul cumulé de 0,5 % n'a rien de commun avec les chutes de plusieurs points de PIB de 2009 ou de 2020. Elle dépend aussi des révisions : le deuxième trimestre est passé de 0,0 % à un recul arrondi à 0,0 %, ce qui suffit à changer l'étiquette. L'indicateur qui compte davantage est l'emploi, que les comptes trimestriels ne disent pas. Enfin, une consommation qui tient alors que l'investissement recule depuis deux trimestres annonce une économie qui prépare mal l'avenir.",
+          "sources": [
+            {
+              "label": "MoneyVox / AFP, « On peut dire qu'on a une récession »",
+              "url": "https://www.moneyvox.fr/votre-argent/actualites/111451/on-peut-dire-quon-a-une-recession-le-pib-recule-de-0-2-au-3eme-trimestre-2026"
+            },
+            {
+              "label": "Boursorama / AFP, S&P maintient la note de la France mais menace de la dégrader",
+              "url": "https://www.boursorama.com/bourse/actualites/dette-s-p-maintient-la-note-de-la-france-mais-menace-de-la-degrader-af56fb175f680c54051c9a57983e65f9"
+            }
+          ]
+        },
+        {
+          "kicker": "Dette · Notation",
+          "title": "S&P garde le A+, mais met la France sous surveillance",
+          "minutes": 2,
+          "chapo": "Vendredi soir, après la clôture des marchés, l'agence S&P Global a laissé inchangée la note souveraine de la France et abaissé sa perspective de « stable » à « négative ».",
+          "body": [
+            "S&P Global Ratings justifie sa décision par un déficit qui resterait sous pression, à 5,3 % du PIB en 2027 selon ses projections, faute de nouvelles mesures de consolidation et avec une croissance « toujours atone ». La dette publique continuerait d'augmenter. L'agence estime que la polarisation politique, y compris après la présidentielle de 2027, pourrait freiner la réduction du déficit. Une dégradation est possible si le déficit n'est pas réduit de façon significative d'ici deux ans, ou si la croissance faiblit trop.",
+            "La France est désormais sous perspective négative chez les trois grandes agences : Fitch la note A+ et Moody's Aa3, toutes deux avec une perspective négative. En octobre, Moody's s'était abstenu de toute action dans l'attente d'une clarification.",
+            "Le ministre de l'Économie, Roland Lescure, a « pris acte » de l'évaluation et réclame un budget ramenant le déficit à 5 % au plus. Sébastien Lecornu a soumis aux parlementaires cinq thèmes de compromis, à condition de respecter cette cible. Le ministre des Comptes publics, David Amiel, juge que l'absence de compromis en année présidentielle serait un « paradoxe ».",
+            "La décision tombe alors que la Sécurité sociale n'a toujours pas de budget voté pour 2027 et que le projet de loi de finances est encore en discussion au Sénat jusqu'au 9 décembre. Une perspective négative n'a pas d'effet mécanique immédiat sur les taux d'emprunt, mais elle prépare le terrain d'une dégradation d'ici 2028."
+          ],
+          "critique": "Les agences notent la capacité à rembourser, pas la politique : en pointant la « polarisation », S&P intervient pourtant dans le débat budgétaire, et le gouvernement s'en sert aussitôt comme argument pour faire voter son texte. Rappelons aussi que les marchés n'attendent pas les agences : l'OAT à 10 ans évoluait déjà à 4,74 % jeudi, au-dessus de nombreux pays notés plus bas. Enfin, les détails de la justification de S&P proviennent de la dépêche AFP, le rapport de l'agence n'ayant pas été consulté directement.",
+          "sources": [
+            {
+              "label": "Boursorama / AFP, Dette : S&P maintient la note de la France mais menace de la dégrader",
+              "url": "https://www.boursorama.com/bourse/actualites/dette-s-p-maintient-la-note-de-la-france-mais-menace-de-la-degrader-af56fb175f680c54051c9a57983e65f9"
+            },
+            {
+              "label": "BFM Bourse, en attendant la décision de S&P",
+              "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-en-attendant-la-decision-de-sp-sur-la-note-de-credit-de-la-france-le-cac-40-termine-en-hausse-ce-vendredi-et-reprend-pres-de-3-sur-la-semaine-1174568.html"
+            }
+          ]
+        },
+        {
+          "kicker": "Parlement · Budget",
+          "title": "Épargne oubliée : le Sénat double la mise",
+          "minutes": 1,
+          "chapo": "Les comptes bancaires et contrats d'assurance vie abandonnés deviennent une source de recettes. Le Sénat veut en prélever 35 % au lieu de 17 %.",
+          "body": [
+            "Le Sénat a adopté l'amendement de la rapporteure générale Christine Lavarde (LR), au nom de la commission des finances, qui porte à 35 % le prélèvement exceptionnel sur les avoirs en déshérence, contre 17 % dans le projet du gouvernement. Ces sommes, comptes inactifs et contrats d'assurance vie non réclamés, sont confiées à la Caisse des dépôts. L'exposé des motifs annonce « un rendement total de 2,9 milliards d'euros » à ce taux. Le gouvernement s'en est remis à la « sagesse du Sénat ».",
+            "Un mécanisme de remboursement est prévu : un titulaire ou héritier qui se manifesterait plus tard récupérerait ses fonds et les intérêts. Le vote n'est pas définitif. L'examen du budget au Sénat doit s'achever le 9 décembre, avant une commission mixte paritaire ; le gouvernement garde la possibilité du 49.3, et celle de recourir aux ordonnances après le 17 décembre."
+          ],
+          "critique": "Une recette « exceptionnelle » ne réduit pas le déficit structurel que critique S&P : elle l'améliore une fois. Et si l'argent doit être rendu à ses propriétaires, l'État s'endette en réalité auprès d'eux. C'est un exemple typique de mesure budgétaire indolore politiquement, faute d'électeurs pour la contester.",
+          "sources": [
+            {
+              "label": "MoneyVox, Épargne oubliée : le Sénat vote un prélèvement de 35 %",
+              "url": "https://www.moneyvox.fr/impot/actualites/111468/epargne-oubliee-le-senat-vote-un-prelevement-de-35-au-lieu-des-17-prevus-dans-le-budget-initial"
+            }
+          ]
+        },
+        {
+          "kicker": "Politique · RN",
+          "title": "Marine Le Pen veut punir plus durement la presse",
+          "minutes": 2,
+          "chapo": "Visée par des révélations sur des fuites au ministère de l'Intérieur et défendant Jordan Bardella, la présidente des députés RN contre-attaque contre les journalistes.",
+          "body": [
+            "Lors d'une conférence de presse au siège du Rassemblement national, vendredi, Marine Le Pen a promis, si elle est élue, de mettre fin à « l'impunité totale » des journalistes et d'aggraver les peines pour recel de violation du secret de l'instruction, aujourd'hui de cinq ans de prison et 375 000 euros d'amende. Elle assure ne pas remettre en cause la protection des sources.",
+            "Le contexte : de nouvelles révélations sur un possible informateur du RN au ministère de l'Intérieur. L'enquête sur ces fuites présumées a déjà conduit au remplacement du préfet Hugues Moutouh, après une perquisition au siège du parti. « Il n'y a aucune mise en cause du Rassemblement national » à ce stade, affirme Marine Le Pen.",
+            "Elle a renouvelé sa confiance à Jordan Bardella, à qui sont attribués de nouveaux écrits antisémites publiés jeudi par Le Monde et Mediapart, et qu'il nie avoir rédigés ; il reste son choix pour Matignon. Jordan Bardella dénonce des « méthodes proches de Staline » ; son avocat envisage un complément de plainte visant Le Monde. Reporters sans frontières, par la voix de Thibaut Bruttin, critique une volonté d'empêcher la publication d'informations d'intérêt général."
+          ],
+          "critique": "Le recel de violation du secret de l'instruction est précisément l'infraction que l'on oppose aux journalistes qui publient des pièces d'enquête : en durcir les peines revient, de fait, à dissuader les révélations, quelle que soit la protection affichée des sources. La Cour européenne des droits de l'homme a déjà condamné la France pour avoir sanctionné de telles publications lorsqu'elles relevaient de l'intérêt général.",
+          "sources": [
+            {
+              "label": "AFP via Orange Actu, Bardella, Moutouh : face aux révélations, Le Pen attaque la presse",
+              "url": "https://actu.orange.fr/france/bardella-moutouh-face-aux-revelations-le-pen-attaque-la-presse-CNT000002u5dMV.html"
+            }
+          ]
+        },
+        {
+          "kicker": "Bourse · Défense",
+          "title": "Thales s'offre Lumibird, le CAC 40 reprend près de 3 % sur la semaine",
+          "minutes": 2,
+          "chapo": "La Bourse de Paris a clôturé vendredi à 8 156,09 points (+0,58 %), portée par les puces et la défense, avant le verdict de S&P.",
+          "body": [
+            "Thales est entré en négociations exclusives pour racheter les 51,6 % du capital de Lumibird détenus par les sociétés de son fondateur et PDG, Marc Le Flohic, à 30,10 euros par action, dividende exceptionnel compris, avec un complément possible de 2,56 euros. Une offre publique au même prix suivrait sur le reste du capital, avec un possible retrait de la cote. La prime atteint 22,6 % sur la clôture de jeudi. Lumibird a bondi de 18,13 % à 29 euros.",
+            "Le groupe breton, basé à Lannion, fabrique des lasers et des composants photoniques pour la défense, le spatial et la détection quantique. Sa branche médicale, spécialisée en ophtalmologie, doit être cédée à l'américain IPG Photonics pour 300 millions d'euros. Thales est déjà client d'environ la moitié des ventes de cette photonique, valorisée environ 440 millions d'euros. L'opération doit être finalisée au plus tard au second semestre 2027.",
+            "Exosens, l'ex-Photonis, a été la meilleure valeur du SBF 120 (+6,37 % à 54,30 euros) grâce à une commande de 6 000 tubes de vision nocturne pour l'armée allemande, passée via Rheinmetall. Thales a gagné 2,1 %. Les semi-conducteurs ont rebondi avec le retour des investisseurs américains : STMicroelectronics +3,86 % à 37,15 euros, Soitec +5,01 %. En queue de peloton : Elior (−3,25 %), Rémy Cointreau (−2,87 %) et Air France-KLM (−2,67 %).",
+            "Sur la semaine, le CAC 40 a repris 2,88 %. L'euro a reculé de 0,25 % à 1,0942 dollar."
+          ],
+          "critique": "Le rachat de Lumibird illustre la logique de « souveraineté » qui domine la défense européenne : sécuriser un fournisseur critique plutôt que dépendre d'un marché ouvert. Pour les actionnaires minoritaires, une prime de 22,6 % sur un titre qui avait beaucoup baissé n'est pas forcément généreuse ; une valorisation de 23 fois le résultat opérationnel attendu pour 2027 suppose en outre une forte croissance des budgets militaires.",
+          "sources": [
+            {
+              "label": "MoneyVox, le journal de la Bourse du vendredi 27 novembre",
+              "url": "https://www.moneyvox.fr/bourse/actualites/111472/0-58-pour-le-cac-40-opa-ia-le-journal-de-la-bourse-du-vendredi-27-novembre-2026"
+            },
+            {
+              "label": "BFM Bourse, clôture du CAC 40",
+              "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-en-attendant-la-decision-de-sp-sur-la-note-de-credit-de-la-france-le-cac-40-termine-en-hausse-ce-vendredi-et-reprend-pres-de-3-sur-la-semaine-1174568.html"
+            },
+            {
+              "label": "XTB, Thales : offre à 30,10 € sur Lumibird",
+              "url": "https://www.xtb.com/fr/analyses-marches/action-thales-lumibird-offre-27-11-2026"
+            }
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Quel taux de croissance au quatrième trimestre faudrait-il pour que la France atteigne 0,5 % de croissance sur 2026 ?",
+        "min": 0,
+        "max": 5,
+        "step": 0.1,
+        "unit": "%",
+        "answer": 1.4,
+        "explain": "1,4 % en un seul trimestre, selon l'Insee, soit plus de 5 % en rythme annualisé. L'acquis de croissance n'est que de 0,1 % : l'objectif de 0,5 % est hors d'atteinte."
+      },
+      "flashcards": [
+        {
+          "front": "Récession technique",
+          "back": "Deux trimestres consécutifs de baisse du PIB. La France y est entrée : léger recul au T2, −0,2 % au T3 2026."
+        },
+        {
+          "front": "Acquis de croissance",
+          "back": "Croissance annuelle obtenue si le PIB restait, jusqu'à la fin de l'année, au niveau du dernier trimestre connu. Pour 2026 : 0,1 %."
+        },
+        {
+          "front": "Perspective négative (notation)",
+          "back": "Signal qu'une agence envisage de dégrader la note dans les 6 à 24 mois. S&P l'a attribuée à la France le 27 novembre 2026, note A+ maintenue."
+        },
+        {
+          "front": "Notes de la France",
+          "back": "S&P A+, Fitch A+, Moody's Aa3 : toutes trois sous perspective négative."
+        },
+        {
+          "front": "Avoirs en déshérence",
+          "back": "Comptes bancaires et contrats d'assurance vie non réclamés, transférés à la Caisse des dépôts. Le Sénat veut y prélever 35 % (2,9 Md€)."
+        },
+        {
+          "front": "Recel de violation du secret de l'instruction",
+          "back": "Infraction punie de 5 ans de prison et 375 000 € d'amende ; souvent opposée aux journalistes."
+        },
+        {
+          "front": "Lumibird",
+          "back": "Groupe de Lannion spécialisé dans les lasers et la photonique. Thales en rachète 51,6 % à 30,10 € par action."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "De combien le PIB français a-t-il reculé au troisième trimestre 2026 ?",
+          "choices": [
+            "0,1 %",
+            "0,2 %",
+            "0,5 %",
+            "1 %"
+          ],
+          "answer": 1,
+          "explain": "−0,2 % en deuxième estimation, contre −0,1 % en première."
+        },
+        {
+          "q": "Quelle composante a le plus chuté au troisième trimestre ?",
+          "choices": [
+            "La consommation des ménages",
+            "Les exportations",
+            "Les dépenses publiques",
+            "Les importations"
+          ],
+          "answer": 1,
+          "explain": "Les exportations ont reculé de 1,6 %, l'investissement de 0,9 %, tandis que la consommation progressait de 0,3 %."
+        },
+        {
+          "q": "Quelle décision S&P a-t-il prise le 27 novembre ?",
+          "choices": [
+            "Dégrader la France à A",
+            "Relever la note à AA-",
+            "Maintenir A+ avec une perspective négative",
+            "Suspendre la note"
+          ],
+          "answer": 2,
+          "explain": "La note reste A+, mais la perspective passe de stable à négative."
+        },
+        {
+          "q": "À quel taux le Sénat veut-il porter le prélèvement sur l'épargne oubliée ?",
+          "choices": [
+            "17 %",
+            "25 %",
+            "35 %",
+            "50 %"
+          ],
+          "answer": 2,
+          "explain": "35 %, contre 17 % dans le texte du gouvernement, pour 2,9 milliards d'euros de recettes annoncées."
+        },
+        {
+          "q": "Pour quel client Exosens a-t-il reçu une commande de 6 000 tubes de vision nocturne ?",
+          "choices": [
+            "L'armée française",
+            "L'armée allemande, via Rheinmetall",
+            "L'armée ukrainienne",
+            "L'OTAN"
+          ],
+          "answer": 1,
+          "explain": "La commande, passée via Rheinmetall, a fait bondir le titre de 6,37 %."
+        }
+      ]
+    },
+    {
+      "id": "savoirs",
+      "name": "Savoirs",
+      "minutes": 10,
+      "lede": [
+        "Une note souveraine, comment ça marche ? Le A+ de la France est le cinquième cran d'une échelle qui en compte une vingtaine, et une « perspective négative » est un avertissement codifié. Petit mode d'emploi, avec ce que la récession technique change, ou pas.",
+        "L'Ukraine a frappé une usine de caoutchouc synthétique pour toucher les missiles Iskander. Pourquoi du caoutchouc ? Parce qu'un propergol solide moderne est un composite : un oxydant et un métal noyés dans une matrice élastomère. Et puisque Thales rachète un spécialiste du laser et qu'Exosens vend 6 000 tubes de vision nocturne, voici comment on voit dans le noir.",
+        "Côté biologie, des virus découverts dans des milliards de séquences d'ADN brouillent la frontière entre virus et organites bactériens. Et il y a 506 ans jour pour jour, Magellan débouchait dans un océan qu'il allait baptiser Pacifique."
+      ],
+      "articles": [
+        {
+          "kicker": "Économie · Mode d'emploi",
+          "title": "A+, perspective négative, récession technique : ce que disent vraiment ces étiquettes",
+          "minutes": 3,
+          "chapo": "En une journée, la France a reçu deux étiquettes inquiétantes. Toutes deux sont des conventions, utiles mais trompeuses si on les lit sans leurs ordres de grandeur.",
+          "body": [
+            "Une note souveraine mesure l'opinion d'une agence sur la probabilité qu'un État rembourse sa dette à temps et en totalité. Chez S&P et Fitch, l'échelle de la « catégorie investissement » descend de AAA à BBB−, en passant par AA+, AA, AA−, A+, A, A−, BBB+, BBB. Moody's utilise une notation parallèle (Aaa, Aa1, Aa2, Aa3, A1…). Le A+ de S&P et Fitch, comme le Aa3 de Moody's, est donc le cinquième ou le quatrième cran de l'échelle : une note encore très solide, mais nettement moins bonne que celle de l'Allemagne ou des Pays-Bas, notés AAA.",
+            "La « perspective » est un deuxième étage du signal. Stable, positive ou négative, elle indique la direction probable de la note sur un horizon de six mois à deux ans. Une perspective négative ne signifie pas une dégradation certaine : c'est l'annonce que l'agence regardera de près certains critères, ici la trajectoire du déficit (5,3 % du PIB prévu en 2027 par S&P) et la croissance. Il existe aussi la « surveillance négative » (CreditWatch), plus urgente, qui annonce une décision sous trois mois.",
+            "Pourquoi s'en soucier ? Parce que de nombreux investisseurs institutionnels ont des règles internes fondées sur les notes, et que la Banque centrale européenne les utilise pour fixer la décote des titres qu'elle accepte en garantie. Mais l'effet direct sur les taux est souvent faible : les marchés anticipent. Le taux à 10 ans de la France, autour de 4,7 %, intègre déjà une prime de risque.",
+            "La récession technique, elle, est une règle empirique : deux trimestres consécutifs de baisse du PIB. Elle n'a pas de valeur officielle en France. Aux États-Unis, c'est un comité du NBER, un institut de recherche privé, qui date les récessions à partir d'un ensemble d'indicateurs (emploi, revenus, production industrielle, ventes). La règle des deux trimestres a deux défauts : elle peut basculer sur une révision infime, comme ici où le deuxième trimestre est passé d'une stagnation à un recul de quelques centaines de millions d'euros sur 664 milliards ; et elle ne dit rien de la profondeur.",
+            "Ordres de grandeur : le PIB trimestriel de la France est d'environ 663 milliards d'euros en volume. Un recul de 0,2 % représente environ 1,6 milliard d'euros de production sur un trimestre. Le plus parlant reste l'acquis de croissance : 0,1 % pour 2026, contre un objectif gouvernemental de 0,5 %, sur lequel reposaient les prévisions de recettes du budget."
+          ],
+          "critique": "Les agences de notation ont un conflit d'intérêts de structure : elles sont payées par les émetteurs qu'elles notent (pour les entreprises) et leurs erreurs passées, comme les AAA attribués aux produits titrisés avant 2008, rappellent qu'elles suivent souvent le marché plus qu'elles ne l'anticipent. La récession technique, de son côté, pèse surtout par son effet d'annonce : elle n'est qu'un seuil arbitraire posé sur des chiffres révisables.",
+          "sources": [
+            {
+              "label": "Boursorama / AFP, S&P maintient la note de la France mais menace de la dégrader",
+              "url": "https://www.boursorama.com/bourse/actualites/dette-s-p-maintient-la-note-de-la-france-mais-menace-de-la-degrader-af56fb175f680c54051c9a57983e65f9"
+            },
+            {
+              "label": "MoneyVox / AFP, le PIB recule de 0,2 % au 3e trimestre",
+              "url": "https://www.moneyvox.fr/votre-argent/actualites/111451/on-peut-dire-quon-a-une-recession-le-pib-recule-de-0-2-au-3eme-trimestre-2026"
+            }
+          ]
+        },
+        {
+          "kicker": "Ingénierie · Propulsion",
+          "title": "Pourquoi un missile a besoin de caoutchouc",
+          "minutes": 3,
+          "chapo": "L'usine d'Efremov frappée par l'Ukraine produit du caoutchouc synthétique. Dans un moteur à propergol solide, ce « caoutchouc » est à la fois la colle, la structure et le combustible.",
+          "body": [
+            "Un propergol, c'est le mélange d'un combustible et d'un oxydant qui brûle sans air extérieur. Dans les fusées à liquides, les deux sont stockés dans des réservoirs séparés. Dans un moteur à poudre moderne, ils sont pré-mélangés en un bloc solide, coulé directement dans l'enveloppe du moteur. C'est le choix des missiles militaires comme l'Iskander, parce qu'un propergol solide se stocke des années, prêt à tirer en quelques minutes, sans remplissage.",
+            "La formule la plus répandue est le propergol composite au perchlorate d'ammonium. En masse, pour les versions à hautes performances, on trouve environ 70 % de perchlorate d'ammonium (l'oxydant, en grains de 30 à 400 micromètres), 15 % d'aluminium en poudre (le combustible métallique, en grains de 2 à 50 micromètres) et 15 % de liant. Le premier étage du lanceur européen Vega utilise ainsi une « butalane 68/20/12 » : 68 % de perchlorate, 20 % d'aluminium, 12 % de polybutadiène.",
+            "Le liant est un élastomère, un caoutchouc synthétique : le plus souvent du polybutadiène à terminaisons hydroxyle (PBHT, ou HTPB en anglais) ou un polybutadiène-acrylonitrile (PBAN). Liquide au moment du mélange, il est réticulé par un agent de cuisson et durcit en un bloc élastique. Ce caractère « caoutchouteux » est vital : un bloc de propergol rigide se fissurerait sous les chocs ou les fortes accélérations, et toute fissure augmente brutalement la surface qui brûle, donc la pression, jusqu'à l'explosion du moteur. Le liant est aussi un combustible à part entière.",
+            "La combustion progresse couche par couche, perpendiculairement à la surface exposée. Sa vitesse suit la loi empirique de Saint-Robert (ou de Vieille) : r = a × Pⁿ, où P est la pression dans la chambre et n un exposant typiquement compris entre 0,3 et 0,5. Concrètement, le front recule de 1 à 3 mm par seconde à pression ambiante, et de 6 à 12 mm par seconde à 68 atmosphères. En dessinant la forme du canal central (étoile, cylindre, fentes), les ingénieurs règlent l'évolution de la surface qui brûle, donc la poussée au cours du vol.",
+            "Les performances se mesurent par l'impulsion spécifique, le temps pendant lequel un kilogramme de propergol peut fournir une poussée égale à son poids. Pour ce type de propergol, elle est d'environ 180 à 260 secondes selon la composition et la pression, contre quelque 450 secondes pour le couple hydrogène-oxygène liquides. L'optimum est obtenu vers 16 % d'aluminium. Les gaz d'échappement contiennent surtout de l'eau, du dioxyde de carbone, de l'acide chlorhydrique et de l'oxyde d'aluminium, d'où l'épaisse fumée blanche. Les propulseurs d'appoint de la navette spatiale américaine fonctionnaient sur ce principe."
+          ],
+          "critique": "L'état-major ukrainien présente l'usine comme indispensable, mais la Russie dispose d'autres sites chimiques, et un liant se stocke : l'effet réel sur la production d'Iskander dépendra des stocks et de la durée de la remise en état, ce que personne ne sait de l'extérieur. Les chiffres de composition ci-dessus sont génériques ; la formule exacte de l'Iskander est secrète.",
+          "sources": [
+            {
+              "label": "Wikipedia, Ammonium perchlorate composite propellant",
+              "url": "https://en.wikipedia.org/wiki/Ammonium_perchlorate_composite_propellant"
+            },
+            {
+              "label": "Techno-Science, Propergol composite",
+              "url": "https://www.techno-science.net/fr/definitions/propergol-composite"
+            },
+            {
+              "label": "Kyiv Independent, frappe sur l'usine d'Efremov",
+              "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-hits-missile-fuel-production-facility-in-russias-tula-oblast-military-says/"
+            }
+          ]
+        },
+        {
+          "kicker": "Physique · Optronique",
+          "title": "Voir dans le noir : du photon à l'électron, et retour",
+          "minutes": 2,
+          "chapo": "Exosens vend 6 000 tubes intensificateurs à l'armée allemande, Thales rachète Lumibird. Derrière ces deux affaires, une même discipline : la photonique de défense.",
+          "body": [
+            "Une lunette de vision nocturne ne « voit » pas la chaleur : c'est le rôle des caméras thermiques. Elle amplifie la très faible lumière résiduelle de la nuit, celle des étoiles ou du ciel nocturne. Le cœur de l'appareil est un tube intensificateur d'image, qui fonctionne en quatre étapes.",
+            "Un objectif focalise les rares photons sur une photocathode, une couche qui libère des électrons quand elle est frappée par la lumière : c'est l'effet photoélectrique. Ces électrons, accélérés par une haute tension, entrent dans une galette de microcanaux, un disque mince percé de millions de canaux microscopiques. Chaque électron qui heurte la paroi d'un canal en arrache plusieurs autres, et ainsi de suite, en cascade : à la sortie, chaque électron initial en a produit des milliers. Ils frappent enfin un écran de phosphore, qui les reconvertit en lumière visible, généralement verte, observée à travers un oculaire. L'image est « des milliers de fois » plus lumineuse que la scène.",
+            "Les générations se distinguent par la photocathode. La génération 0, issue de tubes de RCA des années 1930, exigeait un projecteur infrarouge. La génération 1 (années 1960) utilisait des tubes en série, sujets à l'éblouissement. La génération 2 a introduit, à la fin des années 1960, la galette de microcanaux. La génération 3, produite depuis les années 1980, emploie une photocathode en arséniure de gallium, beaucoup plus sensible, et dépasse 15 000 heures de durée de vie.",
+            "Le laser, spécialité de Lumibird, est l'autre versant : désignation de cibles pour les munitions guidées, télémétrie, lidar, et bientôt armes à énergie dirigée contre les drones. Thales réalise déjà environ la moitié des ventes de la photonique de Lumibird : le rachat vise d'abord à sécuriser un fournisseur."
+          ],
+          "critique": "Les fabricants communiquent peu de chiffres comparables (gain, résolution, rapport signal sur bruit), et les classements par « génération » sont en partie commerciaux. Par ailleurs, l'intensification de lumière a une limite physique : sans aucun photon, sous un couvert dense ou dans une pièce fermée, elle ne voit rien, d'où la complémentarité avec l'imagerie thermique.",
+          "sources": [
+            {
+              "label": "Photonics.com, How image intensifiers work",
+              "url": "https://photonics.com/Article.aspx?AID=25144"
+            },
+            {
+              "label": "MoneyVox, commande d'Exosens et rachat de Lumibird",
+              "url": "https://www.moneyvox.fr/bourse/actualites/111472/0-58-pour-le-cac-40-opa-ia-le-journal-de-la-bourse-du-vendredi-27-novembre-2026"
+            },
+            {
+              "label": "XTB, Thales : offre sur Lumibird",
+              "url": "https://www.xtb.com/fr/analyses-marches/action-thales-lumibird-offre-27-11-2026"
+            }
+          ]
+        },
+        {
+          "kicker": "Biologie · Évolution",
+          "title": "Des virus qui brouillent la frontière du vivant",
+          "minutes": 1,
+          "chapo": "Une équipe de l'université de Miami a identifié, sans jamais les cultiver, des virus qui ressemblent à des compartiments bactériens. L'évolution aurait fait des allers-retours entre les deux.",
+          "body": [
+            "Beaucoup de virus, dont ceux qui infectent les bactéries, emballent leur génome dans une coque bâtie sur un même repliement de protéine, dit « HK97 ». Or certaines bactéries fabriquent, avec une protéine du même type, de petites coques appelées encapsulines, dans lesquelles elles enferment des enzymes. On pensait jusqu'ici que les encapsulines descendaient de virus.",
+            "En fouillant des milliards de séquences d'ADN de la base IMG/M du Joint Genome Institute, l'équipe d'Abelardo Aguilar et d'Antoni Luque a trouvé un groupe de virus inconnus, aux génomes plus petits et plus simples, qui partagent des traits avec les deux familles. Selon leur article publié dans Nature Communications, virus et encapsulines auraient évolué l'un vers l'autre à plusieurs reprises, dans les deux sens, au cours de millions d'années. Les auteurs ont combiné bio-informatique, modèles de langage de protéines et AlphaFold : « La majorité des virus ne peuvent pas être cultivés en laboratoire », rappelle Antoni Luque."
+          ],
+          "critique": "Les conclusions reposent entièrement sur des prédictions informatiques de structures, sans observation directe des virus ; c'est désormais courant, mais cela reste une hypothèse à confirmer par l'expérience.",
+          "sources": [
+            {
+              "label": "ScienceDaily / Université de Miami, Mysterious new viruses reveal a missing link in evolution",
+              "url": "https://sciencedaily.com/releases/2026/11/261122060334.htm"
+            }
+          ]
+        },
+        {
+          "kicker": "Éphéméride",
+          "title": "28 novembre 1520 : Magellan entre dans le Pacifique",
+          "minutes": 1,
+          "chapo": "Après 38 jours dans un dédale de chenaux au sud de l'Amérique, trois navires débouchent sur un océan si calme qu'il en prendra le nom.",
+          "body": [
+            "Parti d'Espagne en septembre 1519 avec cinq navires et quelque 270 hommes, Fernand de Magellan, navigateur portugais au service de Charles Quint, cherche un passage vers les îles aux épices par l'ouest. Le Santiago a fait naufrage en reconnaissance, le San Antonio a déserté. Le 21 octobre 1520, les trois navires restants, Trinidad, Concepción et Victoria, s'engagent dans le détroit qui portera son nom ; le 28 novembre, ils débouchent dans ce que les Espagnols appelaient la « mer du Sud ». Ses eaux tranquilles lui valent le nom de Pacifique, du latin pacificus.",
+            "La traversée dure 99 jours, sans vivres frais : les équipages, frappés par le scorbut, en sont réduits à mâcher du cuir. Ils atteignent Guam le 6 mars 1521. Magellan est tué le 27 avril 1521 lors d'un combat sur l'île de Mactan, aux Philippines. Seule la Victoria, commandée par Juan Sebastián Elcano, rentre à Sanlúcar de Barrameda le 6 septembre 1522 : premier tour du monde. On fête aujourd'hui saint Jacques de la Marche."
+          ],
+          "critique": "Le récit héroïque du « premier tour du monde » efface souvent les autres : les mutins, les marins morts de scorbut, et les habitants des îles rencontrés, pour qui l'arrivée des Européens a ouvert la colonisation.",
+          "sources": [
+            {
+              "label": "History.com, Magellan reaches the Pacific",
+              "url": "https://www.history.com/this-day-in-history/november-28/magellan-reaches-the-pacific"
+            },
+            {
+              "label": "Britannica, Ferdinand Magellan : discovery of the strait",
+              "url": "https://www.britannica.com/biography/Ferdinand-Magellan/Discovery-of-the-Strait-of-Magellan"
+            }
+          ]
+        }
+      ],
+      "estimate": {
+        "question": "Quelle part de la masse d'un propergol composite à hautes performances représente le perchlorate d'ammonium (en %) ?",
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "unit": "%",
+        "answer": 70,
+        "explain": "Environ 70 %, avec 15 % d'aluminium et 15 % de liant élastomère. Le premier étage de Vega utilise une formule 68/20/12."
+      },
+      "flashcards": [
+        {
+          "front": "Échelle de notation S&P",
+          "back": "AAA, AA+, AA, AA−, A+, A, A−, BBB+, BBB, BBB− (catégorie investissement), puis catégorie spéculative à partir de BB+."
+        },
+        {
+          "front": "Perspective vs surveillance",
+          "back": "Perspective : direction probable de la note sur 6 à 24 mois. Surveillance (CreditWatch) : décision attendue sous environ 3 mois."
+        },
+        {
+          "front": "Propergol composite",
+          "back": "Oxydant (perchlorate d'ammonium ≈70 %), métal (aluminium ≈15 %) et liant élastomère (≈15 %, PBHT ou PBAN), coulés en un bloc."
+        },
+        {
+          "front": "Loi de Saint-Robert",
+          "back": "Vitesse de combustion r = a × Pⁿ, avec n ≈ 0,3 à 0,5 pour les propergols composites."
+        },
+        {
+          "front": "Impulsion spécifique",
+          "back": "Durée pendant laquelle 1 kg de propergol fournit une poussée égale à son poids. ≈180-260 s en solide composite, ≈450 s pour H2/O2."
+        },
+        {
+          "front": "Galette de microcanaux",
+          "back": "Disque percé de millions de canaux : chaque électron arrache d'autres électrons aux parois, d'où une amplification par milliers."
+        },
+        {
+          "front": "Encapsuline",
+          "back": "Petite coque de protéines bactérienne enfermant des enzymes, apparentée aux capsides des virus (repliement HK97)."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "Quel cran de l'échelle S&P représente la note A+ ?",
+          "choices": [
+            "Le 2e",
+            "Le 5e",
+            "Le 8e",
+            "Le 10e"
+          ],
+          "answer": 1,
+          "explain": "AAA, AA+, AA, AA−, puis A+."
+        },
+        {
+          "q": "Pourquoi le liant d'un propergol solide doit-il être élastique ?",
+          "choices": [
+            "Pour mieux conduire la chaleur",
+            "Pour éviter les fissures qui feraient exploser le moteur",
+            "Pour réduire la fumée",
+            "Pour accélérer la combustion"
+          ],
+          "answer": 1,
+          "explain": "Une fissure augmente la surface qui brûle, donc la pression, jusqu'à la rupture."
+        },
+        {
+          "q": "Quel matériau caractérise la photocathode des tubes de génération 3 ?",
+          "choices": [
+            "Le silicium",
+            "L'arséniure de gallium",
+            "Le germanium",
+            "L'oxyde d'argent"
+          ],
+          "answer": 1,
+          "explain": "La photocathode en arséniure de gallium (GaAs), beaucoup plus sensible."
+        },
+        {
+          "q": "Comment l'équipe de Miami a-t-elle trouvé ses nouveaux virus ?",
+          "choices": [
+            "En les cultivant en laboratoire",
+            "Par microscopie électronique",
+            "En analysant des milliards de séquences d'ADN",
+            "Dans des carottes de glace"
+          ],
+          "answer": 2,
+          "explain": "Bio-informatique, modèles de langage de protéines et AlphaFold, sans culture."
+        },
+        {
+          "q": "Combien de navires de Magellan ont débouché dans le Pacifique le 28 novembre 1520 ?",
+          "choices": [
+            "Un",
+            "Trois",
+            "Cinq",
+            "Sept"
+          ],
+          "answer": 1,
+          "explain": "Trinidad, Concepción et Victoria ; le Santiago avait fait naufrage et le San Antonio déserté."
+        }
+      ]
+    }
+  ]
+}
